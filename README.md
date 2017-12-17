@@ -1,4 +1,4 @@
-##Matheaware QA system
+## Matheaware QA system
 
 This system is able to answer mathematical questions asked in natural language by the user.
 
@@ -78,3 +78,25 @@ kaushal@kaushal:/workspace1/matheaware_Q-A_system/$ export FLASK_APP=calculation
 kaushal@kaushal:/workspace1/matheaware_Q-A_system/$ flask run
 ```
 Then you can see the the system in your browser by opening the localhost which is : http://127.0.0.1:5000/
+
+## run as wsgi module
+
+* Make sure that /var/www/nltk_data is writeable for www-data or in general the nltk_data folder of the home folder of the apache user
+* Make sure to set the correct permissions in the pywikibot folder i.e. sudo chown www-data user-config.py
+
+The apache 2 vhost config (adjust the paths)
+```
+<VirtualHost *:80>
+	ServerName 192.52.3.166
+	ServerAdmin admin@192.52.3.166
+	WSGIDaemonProcess flaskapp user=ubuntu group=ubuntu home=/home/ubuntu/Formual_Calculation/ threads=5
+	WSGIScriptAlias / /home/ubuntu/Formual_Calculation/application.wsgi
+	DocumentRoot /home/ubunutu/Formual_Calculation
+	<Directory "/">
+		Require all granted
+	</Directory>
+	ErrorLog ${APACHE_LOG_DIR}/error.log
+	LogLevel debug
+	CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+

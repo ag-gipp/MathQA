@@ -2,6 +2,7 @@ from flask import Flask, Response
 from flask import request
 from flask import render_template
 import json
+from flask_cors import CORS
 from process_latex import process_sympy
 from flask.json import jsonify
 from sympy.core.sympify import sympify
@@ -19,7 +20,8 @@ import latexformlaidentifiers
 
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0,parentdir)
-os.environ['PPP_QUESTIONPARSING_GRAMMATICAL_CONFIG'] = 'ppp_questionparsing_grammatical/nlp_classical_config.json'
+os.environ['PPP_QUESTIONPARSING_GRAMMATICAL_CONFIG'] = os.path.dirname(os.path.abspath(__file__)) + '/ppp_questionparsing_grammatical/nlp_classical_config.json'
+os.environ['PYWIKIBOT2_DIR'] = os.path.dirname(os.path.abspath(__file__)) + '/pywikibot'
 from ppp_datamodel.communication import Request
 from ppp_questionparsing_grammatical import RequestHandler
 from getformula import FormulaRequestHandler
@@ -64,8 +66,7 @@ def makeresponse(formul):
             for item in listidentifiers:
                 newlist.append(str(item))            
                 
-            newlist.append(dict(formula=formul))
-            
+            newlist.append(dict(formula=formul))            
             json_data=json.dumps(newlist)
             response=jsonify(newlist)            
             response.status_code = 200             
@@ -82,6 +83,8 @@ def makeresponse(formul):
     
 
 app = Flask(__name__)    
+CORS(app)
+
 @app.route('/')
 def my_form():
     return render_template("index.html")
@@ -131,7 +134,8 @@ def get_formula():
         formula=reques.answer() 
         
         global processedformula
-        processedformula=latexformlaidentifiers.prepformula(formula)              
+        processedformula=latexformlaidentifiers.prepformula(formula) 
+        print(processedformula)             
         if not (formula.startswith("System")): 
             return makeresponse(processedformula)             
         else:           
@@ -175,7 +179,8 @@ def get_hindiformula():
         global formula
         formula=reques.answer()
         global processedformula
-        processedformula=latexformlaidentifiers.prepformula(formula)            
+        processedformula=latexformlaidentifiers.prepformula(formula)    
+        print(processedformula)        
         if not (formula.startswith("System")): 
             return makeresponse(processedformula)             
         else:

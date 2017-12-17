@@ -30,15 +30,15 @@ function getResult() {
 			var data={'formula':enteredFormula};
 			var url = "";
 			
-			if (enteredFormula.match("^wh") || enteredFormula.match("^Wh") || lang == "hn") {
+			if (enteredFormula.indexOf("=") >= 0) {
+				url = "/getresponse";
+			} else if (lang == "hn" || lang == "en") {
 				statementQueFlag = true;
 				if(lang == "en") {
-					url = "http://127.0.0.1:5000/getengformula";
+					url = "/getengformula";
 				} else if(lang == "hn") {
-					url = "http://127.0.0.1:5000/gethindiformula";
+					url = "/gethindiformula";
 				}
-			} else {
-				url = "http://127.0.0.1:5000/getresponse";
 			}
 			
 			
@@ -57,6 +57,7 @@ function getResult() {
         				$('.submitBtn').hide();
     		        	$('.userinputPanel').show();
     		        	$('.userInputDiv').empty();
+    		        	$('.userInputDiv').hide();
     		        	$('#Loader1').hide();
     				}, 200);
 		    	} else {
@@ -66,6 +67,7 @@ function getResult() {
 				        $('.resultValue').text("");
 		          	  	$('.resultPanel').hide();
 				        $('.userInputDiv').empty();
+				        $('.userInputDiv').show();
 				        $('.InputErrorDiv').hide();
 			        	$('.submitBtn').show();
 				        if(resultString.length == 1) {
@@ -200,7 +202,7 @@ function getResultFromInputs() {
     
     var saveData = $.ajax({
         type: 'POST',
-        url: "http://127.0.0.1:5000/getfinalresult",
+        url: "/getfinalresult",
         data: JSON.stringify(formJSON),
         dataType: "json",
         contentType: "",
