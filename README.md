@@ -78,5 +78,3 @@ kaushal@kaushal:/workspace1/matheaware_Q-A_system/$ export FLASK_APP=calculation
 kaushal@kaushal:/workspace1/matheaware_Q-A_system/$ flask run
 ```
 Then you can see the the system in your browser by opening the localhost which is : http://127.0.0.1:5000/
-
-test
