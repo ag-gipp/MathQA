@@ -69,12 +69,12 @@ pip3 install Flask
 ## After installing all the libraries follow the steps to run the Matheaware QA system:
 1) run the CoreNLP Server
 ```
-kaushal@kaushal:/workspace1/matheaware_Q-A_system/CoreNLP# java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 &
+Mathaware-Q-A-System/CoreNLP$ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 &
 SERVER_PID=$!
 ```
 2) run the flask server
 ```
-kaushal@kaushal:/workspace1/matheaware_Q-A_system/$ export FLASK_APP=calculation.py
-kaushal@kaushal:/workspace1/matheaware_Q-A_system/$ flask run
+Mathaware-Q-A-System$ export FLASK_APP=calculation.py
+Mathaware-Q-A-System$ flask run
 ```
 Then you can see the the system in your browser by opening the localhost which is : http://127.0.0.1:5000/
