@@ -17,7 +17,6 @@ import requests
 from ppp_datamodel import Sentence, Request, Response
 import latexformlaidentifiers
 
-
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0,parentdir)
 os.environ['PPP_QUESTIONPARSING_GRAMMATICAL_CONFIG'] = os.path.dirname(os.path.abspath(__file__)) + '/ppp_questionparsing_grammatical/nlp_classical_config.json'
@@ -28,6 +27,11 @@ from getformula import FormulaRequestHandler
 from getformula import HindiRequestHandler 
 from latexformlaidentifiers import Formulacalculation, prepformula
 
+#from identifier_properties import retrieve_identifier_name
+#from identifier_properties import retrieve_identifier_value
+from identifier_properties import retrieve_identifiers
+
+import traceback
 
 def getlhsrhs(formula,ext):
     """
@@ -50,21 +54,27 @@ def makeidentifier(symbol,values):
                   
     return symvalue
 
-def makeresponse(formul):
+def makeresponse(formul,req):
     """
         Make response for the API
     """
     try:
-        reques=Formulacalculation(formul)                         
+        subject = req.request._attributes['subject']['value']
+        reques=Formulacalculation(formul)
         global identifiers
         identifiers=reques.answer()
-        
+
+        # todo: build identifier value output
         if identifiers:
             listidentifiers=list(identifiers)
-            
-            newlist= []
+
+            newlist = []
             for item in listidentifiers:
-                newlist.append(str(item))            
+                try:
+                    name = " (" + retrieve_identifiers(subject)[str(item)]['name'] + ")"
+                except:
+                    name = ""
+                newlist.append(str(item) + name)
                 
             newlist.append(dict(formula=formul))            
             json_data=json.dumps(newlist)
@@ -80,7 +90,8 @@ def makeresponse(formul):
         response= jsonify("System is not able to find the result.")
         response.status_code = 202
         return response
-    
+
+# OUT: response
 
 app = Flask(__name__)    
 CORS(app)
@@ -103,13 +114,16 @@ def my_form_post():
             processedformula=latexformlaidentifiers.prepformula(formula)  
                  
             if formula is not None: 
-                return makeresponse(processedformula)            
+                return makeresponse(processedformula)
                 
                 
-    except:
-        response= jsonify("System is not able to find the result.")
-        response.status_code = 202
-        return response
+    # except:
+    #     response= jsonify("System is not able to find the result.")
+    #     response.status_code = 202
+    #     return response
+
+    except Exception as ex:
+        print(''.join(traceback.format_exception(etype=type(ex), value=ex, tb=ex.__traceback__)))
         
             
 
@@ -123,32 +137,36 @@ def get_formula():
     """ 
        
     try:
-        question=request.form['formula']    
+        question=request.form['formula']
             
         meas = {'accuracy': 0.5, 'relevance': 0.5}
         q = RequestHandler(Request(language="en",id=1,tree=Sentence(question),measures=meas))
-        query = q.answer()   
+        query = q.answer()
                         
         reques= FormulaRequestHandler(query)         
         global formula        
-        formula=reques.answer() 
+        formula=reques.answer()
         
         global processedformula
         processedformula=latexformlaidentifiers.prepformula(formula) 
         print(processedformula)             
         if not (formula.startswith("System")): 
-            return makeresponse(processedformula)             
+            return makeresponse(processedformula,reques)
         else:           
              
             response= jsonify(formula)           
             response.status_code = 202
             print(response)
             return response
-    except Exception : 
-            response= jsonify("System is not able to find the result.")
-            response.status_code = 202
-            return response
-            #return ("System is not able to find the result.") 
+
+    # except Exception :
+    #         response= jsonify("System is not able to find the result.")
+    #         response.status_code = 202
+    #         return response
+    #         #return ("System is not able to find the result.")
+
+    except Exception as ex:
+        print(''.join(traceback.format_exception(etype=type(ex), value=ex, tb=ex.__traceback__)))
     
 @app.route('/gethindiformula', methods=['POST'])
 def get_hindiformula():
@@ -182,7 +200,7 @@ def get_hindiformula():
         processedformula=latexformlaidentifiers.prepformula(formula)    
         print(processedformula)        
         if not (formula.startswith("System")): 
-            return makeresponse(processedformula)             
+            return makeresponse(processedformula,reques)
         else:
             response= jsonify(formula)
             response.status_code = 202
@@ -202,7 +220,7 @@ def my_form_json():
     
        
     try:   
-        identifiers1 = request.data.decode('utf-8')    
+        identifiers1 = request.data.decode('utf-8')
         json1=json.loads(identifiers1)                      
         seprator= getidentifiers.formuladivision(formula)
         if seprator is not None:               
