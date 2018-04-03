@@ -6,13 +6,13 @@ import json
 #PYWIKIBOT
 #---------
 
-def retrieve_identifiers(formulaName)
+def retrieve_identifiers(FormulaName):
 
     #retrieve Wikidata page item
     identifiers = dict()
     try:
         site = pywikibot.Site("en", "wikipedia")
-        page = pywikibot.Page(site, formulaName)
+        page = pywikibot.Page(site, FormulaName)
         item = pywikibot.ItemPage.fromPage(page)
         #formulaQID = str(item).replace("[[wikidata:", '').replace("]]", '')
         #formula_string = item.claims['P2534'][0].getTarget()
