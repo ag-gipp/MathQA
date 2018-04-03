@@ -44,6 +44,7 @@ function getResult() {
 			
 			$.post(url, data)
 		    .done(function (response, statusText,xhr) {
+		        // IN response
 		    	$('.userInputDiv').empty();
 		    	var status=xhr.status;
 		    	
@@ -62,7 +63,9 @@ function getResult() {
     				}, 200);
 		    	} else {
 		    		if(status == 200) {
-				        var resultString = response;				        
+		    		    // OUT response
+		    		    // todo: resultList
+				        var resultList = response;
 				        $('.userinputPanel').hide();
 				        $('.resultValue').text("");
 		          	  	$('.resultPanel').hide();
@@ -70,8 +73,8 @@ function getResult() {
 				        $('.userInputDiv').show();
 				        $('.InputErrorDiv').hide();
 			        	$('.submitBtn').show();
-				        if(resultString.length == 1) {
-				        	var result = resultString;
+				        if(resultList.length == 1) {
+				        	var result = resultList;
 				        	
 				        	if(result != '') {
 
@@ -112,11 +115,15 @@ function getResult() {
 				          	  	$('.resultPanel').show();
 				        	}
 				        } else {
-				        	$.each(resultString, function(i, data) {
+				        	$.each(resultList, function(i, data) {
 					        	
-					        	var result = data;		        	
+					            var result = data;
+//					            var formula = data[0];
+//					        	var identifier = data[1];
+//					        	var name = data[2];
+//					        	var value = data[3]
 					        		
-					        		if (i == (resultString.length - 1)) {		        			
+					        		if (i == (resultList.length - 1)) {
 					        			
 					        			$('.formula').html(data.formula);
 					        			setTimeout(function(){
@@ -137,22 +144,19 @@ function getResult() {
 						        		                   '1.38064852e-23','5.670367e-08','5.670367e-08','0.0028977729','10973731.568508',
 						        		                   '9.10938356e-31','9.10938356e-31','1.672621898e-27','1.672621898e-27','1.672621898e-27','1.672621898e-27','5.24411510858423962092','1.2566370614359173e-06'];
 						        		var string = '';
-						        		if(jQuery.inArray($.trim(result), constantArray) !== -1) {
-						        			var index = jQuery.inArray($.trim(result), constantArray);
-						        			string = '<div class="form-group col-sm-6">'+
-													    '<label for="exampleInputEmail1"><span style="font-weight:500;font-size: 25px;">'+$.trim(result)+'</span></label>'+
-													    '<input type="text" class="form-control" placeholder="Enter Value" name="'+$.trim(result)+'" value="'+constantVal[index]+'">'+
-													'</div>';
-						        			// string = '<input type="hidden" class="form-control" name="'+$.trim(result)+'" value="'+constantVal[index]+'">';
-						        		} else {
-						        			string = '<div class="form-group col-sm-6">'+
-											    '<label for="exampleInputEmail1"><span style="font-weight:500;font-size: 25px;">'+$.trim(result)+'</span></label>'+
-											    '<input type="text" class="form-control" placeholder="Enter Value" name="'+$.trim(result)+'">'+
-											'</div>';
-						        		}
-						        		
-						        		
-							        	
+						        		// Search constants and get index
+						        		var index = jQuery.inArray($.trim(result), constantArray);
+						        		// if constant was found take value or else ask for value input later on
+						        		var displayValue = (index !== -1) ? constantVal[index] : "Enter Value";
+
+						        		var displayText = $.trim(result) // TODO identifier + "(" + name + ")";
+						        		// build display for a single identifier
+                                        string = '<div class="form-group col-sm-6">'+
+                                                    '<label for="exampleInputEmail1"><span style="font-weight:500;font-size: 25px;">'+displayText+'</span></label>'+
+                                                    '<input type="text" class="form-control" placeholder="Enter Value" name="'+$.trim(result)+'" value="'+displayValue+'">'+
+                                                '</div>';
+                                        // string = '<input type="hidden" class="form-control" name="'+$.trim(result)+'" value="'+constantVal[index]+'">';
+
 							        	$('.userInputDiv').append(string);
 					        		}
 					        		
