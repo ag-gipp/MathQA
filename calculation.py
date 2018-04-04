@@ -69,17 +69,26 @@ def makeresponse(formul,req):
             listidentifiers=list(identifiers)
 
             newlist = []
+            valuelist = []
             for item in listidentifiers:
                 try:
                     name = " (" + retrieve_identifiers(subject)[str(item)]['name'] + ")"
                 except:
                     name = ""
+                try:
+                    valuelist.append(retrieve_identifiers(subject)[str(item)]['value'])
+                except:
+                    valuelist.append("Enter value")
+
+                #newlist.append(str(item))
                 newlist.append(str(item) + name)
                 
-            newlist.append(dict(formula=formul))            
+            newlist.append(dict(formula=formul))
+            #newlist.append(dict(valuelist))
             json_data=json.dumps(newlist)
             response=jsonify(newlist)            
-            response.status_code = 200             
+            response.values = jsonify(valuelist).data
+            response.status_code = 200
             return response   
         else:
             response = jsonify(formul)
@@ -221,7 +230,20 @@ def my_form_json():
        
     try:   
         identifiers1 = request.data.decode('utf-8')
-        json1=json.loads(identifiers1)                      
+
+        json1=json.loads(identifiers1)
+
+        # slice of identifier names for calculation
+        try:
+            for identifier in json1:
+                #old key
+                s = identifier
+                #new key
+                r = s.split(" (")[0]
+                json1[r] = json1.pop(s)
+        except:
+            pass
+
         seprator= getidentifiers.formuladivision(formula)
         if seprator is not None:               
             lhsrhs= getlhsrhs(processedformula,seprator)            
