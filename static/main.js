@@ -26,10 +26,10 @@ function getResult() {
 		$('.userinputPanel').hide();
 		$('#Loader1').hide();
 	} else {
-		
+
 			var data={'formula':enteredFormula};
 			var url = "";
-			
+
 			if (enteredFormula.indexOf("=") >= 0) {
 				url = "/getresponse";
 			} else if (lang == "hn" || lang == "en") {
@@ -40,15 +40,15 @@ function getResult() {
 					url = "/gethindiformula";
 				}
 			}
-			
-			
+
+
 			$.post(url, data)
 		    .done(function (response, statusText,xhr) {
 		        // IN response
 		    	$('.userInputDiv').empty();
 		    	var status=xhr.status;
-		    	
-		    	
+
+
 		    	if(status == 206) {
 		    		var formulaText = response.replace(/\\\\/g,'\\');
         			$('.formula').html(response);
@@ -65,7 +65,9 @@ function getResult() {
 		    		if(status == 200) {
 		    		    // OUT response
 		    		    // todo: resultList
+				        var valueList = response[response.length-1]['values'];
 				        var resultList = response;
+				        resultList.length -= 1;
 				        $('.userinputPanel').hide();
 				        $('.resultValue').text("");
 		          	  	$('.resultPanel').hide();
@@ -75,7 +77,7 @@ function getResult() {
 			        	$('.submitBtn').show();
 				        if(resultList.length == 1) {
 				        	var result = resultList;
-				        	
+
 				        	if(result != '') {
 
 				        		var constantArray = ['pi','golden','golden_ratio','c','speed_of_light','mu_0','epsilon_0','Planck','hbar','G',
@@ -94,8 +96,12 @@ function getResult() {
 				        			var index = jQuery.inArray($.trim(result), constantArray);
 				        			string = '<div class="form-group col-sm-6">'+
 											    '<label for="exampleInputEmail1"><span style="font-weight:500;font-size: 25px;">'+$.trim(result)+'</span></label>'+
-											    '<input type="text" class="form-control" placeholder="Enter Value" name="'+$.trim(result)+'" value="'+constantVal[index]+'">'+
+											    '<input type="text" class="form-control" placeholder="Enter Value" name="'+$.trim(result)+'" value="'+valueList[i]+'">'+
 											'</div>';
+									// string = '<div class="form-group col-sm-6">'+
+											    //'<label for="exampleInputEmail1"><span style="font-weight:500;font-size: 25px;">'+$.trim(result)+'</span></label>'+
+											    //'<input type="text" class="form-control" placeholder="Enter Value" name="'+$.trim(result)+'" value="'+constantVal[index]+'">'+
+											//'</div>';
 				        			// string = '<input type="hidden" class="form-control" name="'+$.trim(result)+'" value="'+constantVal[index]+'">';
 				        		} else {
 				        			string = '<div class="form-group col-sm-6">'+
@@ -103,34 +109,30 @@ function getResult() {
 									    '<input type="text" class="form-control" placeholder="Enter Value" name="'+$.trim(result)+'">'+
 									'</div>';
 				        		}
-				        		
-				        		
-					        	
+
+
+
 					        	$('.userInputDiv').append(string);
 					        	$('.userinputPanel').show();
-			        		
-				        		
+
+
 				        	} else {
 				        		$('.resultValue').text(enteredFormula);
 				          	  	$('.resultPanel').show();
 				        	}
 				        } else {
 				        	$.each(resultList, function(i, data) {
-					        	
+
 					            var result = data;
-//					            var formula = data[0];
-//					        	var identifier = data[1];
-//					        	var name = data[2];
-//					        	var value = data[3]
-					        		
+
 					        		if (i == (resultList.length - 1)) {
-					        			
+
 					        			$('.formula').html(data.formula);
 					        			setTimeout(function(){
 					        				$(".latex").latex();
 					        				$('.formulaText').show();
 				        				}, 200);
-					        			
+
 					        		} else {
 					        			var constantArray = ['pi','golden','golden_ratio','c','speed_of_light','mu_0','epsilon_0','Planck','hbar','G',
 						        		                     'gravitational_constant','g','e','elementary_charge','gas_constant',
@@ -153,17 +155,22 @@ function getResult() {
 						        		// build display for a single identifier
                                         string = '<div class="form-group col-sm-6">'+
                                                     '<label for="exampleInputEmail1"><span style="font-weight:500;font-size: 25px;">'+displayText+'</span></label>'+
-                                                    '<input type="text" class="form-control" placeholder="Enter Value" name="'+$.trim(result)+'" value="'+displayValue+'">'+
+                                                    '<input type="text" class="form-control" placeholder="Enter Value" name="'+$.trim(result)+'" value="'+valueList[i]+'">'+
                                                 '</div>';
+                                        // string = '<div class="form-group col-sm-6">'+
+                                                    //'<label for="exampleInputEmail1"><span style="font-weight:500;font-size: 25px;">'+displayText+'</span></label>'+
+                                                    //'<input type="text" class="form-control" placeholder="Enter Value" name="'+$.trim(result)+'" value="'+displayValue+'">'+
+                                                //'</div>';
                                         // string = '<input type="hidden" class="form-control" name="'+$.trim(result)+'" value="'+constantVal[index]+'">';
 
 							        	$('.userInputDiv').append(string);
 					        		}
-					        		
-					        		
-					        	
+
+
+
 					        });
 				        	$('.userinputPanel').show();
+
 				        }
 				        //$('.userInputDiv').append('<input type="hidden" class="form-control" name="formula" value="'+$('#formula').val()+'">');
 			        } else {
@@ -175,15 +182,15 @@ function getResult() {
 			        }
 			        $('#Loader1').hide();
 		    	}
-		        
-		        
+
+
 		    })
 		    .fail(function () {
 		    	$('#Loader1').hide();
 		    });
-			
+
 		// }
-		
+
 	}
 }
 
@@ -191,7 +198,7 @@ function getResult() {
 function getResultFromInputs() {
 	$('#Loader2').show();
 	var formDataArray = $('.userInputForm').serializeArray();
-	
+
 	var formJSON = {};
     $.each(formDataArray, function () {
         if (formJSON[this.name]) {
@@ -203,24 +210,24 @@ function getResultFromInputs() {
         	formJSON[this.name] = parseFloat(this.value, 10) || '';
         }
     });
-    
+
     var saveData = $.ajax({
         type: 'POST',
         url: "/getfinalresult",
         data: JSON.stringify(formJSON),
         dataType: "json",
         contentType: "",
-        success: function(resultData) { 
+        success: function(resultData) {
         	$('#Loader2').hide();
         	console.log(resultData);
         	$('.resultValue').text(resultData);
         	$('.resultPanel').show();}
 	});
-    
-	saveData.error(function(response) { 
+
+	saveData.error(function(response) {
 			$('#Loader2').hide();
 	  	    $('.resultValue').text(response.responseText);
-	  	    $('.resultPanel').show(); 
+	  	    $('.resultPanel').show();
 	});
 
 }
@@ -232,20 +239,18 @@ function languagechange() {
 	$('.userinputPanel').hide();
     $('.resultValue').text("");
 	$('.resultPanel').hide();
-	
+
 	if(lang == "en") {
 		$('.titleText').html("Mathaware Q&A System");
 		$('.langText').html("Language");
 		$('.searchBtnText').html("Search");
 		$('.submitBtnText').html("Submit");
-		
+
 	} else if(lang =="hn"){
 		$('.titleText').html("Mathaware Q&A System");
 		$('.langText').html("भाषा");
 		$('.searchBtnText').html("खोज");
 		$('.submitBtnText').html("जमा करें");
-		
+
 	}
 }
-
-

@@ -54,7 +54,7 @@ def makeidentifier(symbol,values):
                   
     return symvalue
 
-def makeresponse(formul,req):
+def makeresponse(formul, req):
     """
         Make response for the API
     """
@@ -84,12 +84,13 @@ def makeresponse(formul,req):
                 newlist.append(str(item) + name)
                 
             newlist.append(dict(formula=formul))
-            #newlist.append(dict(valuelist))
+            newlist.append(dict(values=valuelist))
             json_data=json.dumps(newlist)
             response=jsonify(newlist)            
-            response.values = jsonify(valuelist).data
+            #json_data2 = json.dumps(valuelist)
+            #response.values = jsonify(valuelist)
             response.status_code = 200
-            return response   
+            return response
         else:
             response = jsonify(formul)
             response.status_code = 206  
@@ -142,7 +143,7 @@ def get_formula():
     """
         Get English question from the user parse it to Questionparsing module to get Triple
         Parse Triple (Subject, predicate, ?) to FormulaRequestHandler to get Formula from Wikidata
-        Return response 
+        Return response
     """ 
        
     try:
@@ -158,7 +159,7 @@ def get_formula():
         
         global processedformula
         processedformula=latexformlaidentifiers.prepformula(formula) 
-        print(processedformula)             
+        #print(processedformula)
         if not (formula.startswith("System")): 
             return makeresponse(processedformula,reques)
         else:           
@@ -233,7 +234,7 @@ def my_form_json():
 
         json1=json.loads(identifiers1)
 
-        # slice of identifier names for calculation
+        # slice off identifier names for calculation
         try:
             for identifier in json1:
                 #old key
