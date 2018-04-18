@@ -1,7 +1,7 @@
-git+https://github.com/ag-gipp/sympy#4d96a55b938f08fbc23f06eaa0839914e7d3f85a
-git+https://github.com/ag-gipp/PPP-datamodel-Python.git#0c7958fb4df75468fd3137240a5065925c239776
-git+https://github.com/ag-gipp/PPP-libmodule-Python.git#8098ec3e3ac62f471ff93fb8ce29e36833a8d492
-git+https://github.com/ag-gipp/PPP-QuestionParsing-Grammatical.git#4c488f1bf57a0a4e29131a8e7a65ff94f192a5f5certifi==2018.4.16
+-e git+https://github.com/ag-gipp/sympy#4d96a55b938f08fbc23f06eaa0839914e7d3f85a
+-e git+https://github.com/ag-gipp/PPP-datamodel-Python.git#0c7958fb4df75468fd3137240a5065925c239776
+-e git+https://github.com/ag-gipp/PPP-libmodule-Python.git#8098ec3e3ac62f471ff93fb8ce29e36833a8d492
+-e git+https://github.com/ag-gipp/PPP-QuestionParsing-Grammatical.git#4c488f1bf57a0a4e29131a8e7a65ff94f192a5f5certifi==2018.4.16
 certifi==2018.4.16
 chardet==3.0.4
 click==6.7
@@ -15,9 +15,6 @@ jsonrpclib-pelix==0.3.1
 MarkupSafe==1.0
 mpmath==1.0.0
 nltk==3.2.5
-ppp-datamodel==0.6.12.1
-ppp-libmodule==0.7.7
-ppp-questionparsing-grammatical==0.6.5
 pyparsing==2.2.0
 python3-memcached==1.51
 pywikibot==3.0.dev0
@@ -25,7 +22,6 @@ rdflib==4.2.2
 requests==2.18.4
 six==1.11.0
 SPARQLWrapper==1.8.1
-sympy==1.1.2.dev0
 urllib3==1.22
 Werkzeug==0.14.1
 xmltodict==0.11.0
