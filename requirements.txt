@@ -14,7 +14,7 @@ nltk==3.2.5
 git+https://github.com/ag-gipp/sympy#4d96a55b938f08fbc23f06eaa0839914e7d3f85a
 git+https://github.com/ag-gipp/PPP-datamodel-Python.git#0c7958fb4df75468fd3137240a5065925c239776
 git+https://github.com/ag-gipp/PPP-libmodule-Python.git#8098ec3e3ac62f471ff93fb8ce29e36833a8d492
-ppp-questionparsing-grammatical==0.6.5
+git+https://github.com/ag-gipp/PPP-QuestionParsing-Grammatical.git#4c488f1bf57a0a4e29131a8e7a65ff94f192a5f5
 pyparsing==2.2.0
 python3-memcached==1.51
 rdflib==4.2.2
