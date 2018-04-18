@@ -1,7 +1,7 @@
 import ast
 import parser
 import re 
-from process_latex import process_sympy
+from sympy.parsing.latex import parse_latex
 from sympy.core.sympify import sympify
 from sympy import Number, NumberSymbol, Symbol
 #import scipy.constants
@@ -42,7 +42,7 @@ def replace_all(text, dic):
     
 def getlatexformula(formula):
     pformula=prepformula(formula)
-    f=process_sympy(pformula)
+    f=parse_latex(pformula)
     global latexformula
     latexformula=sympify(f)
     return latexformula 
