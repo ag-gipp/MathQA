@@ -1,4 +1,4 @@
-## Matheaware QA system
+## Math-aware QA system
 
 This system is able to answer mathematical questions asked in natural language by the user.
 
