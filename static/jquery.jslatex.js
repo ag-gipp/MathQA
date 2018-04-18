@@ -64,6 +64,6 @@
 
     $.fn.latex.defaults = {
         format: 'gif',
-        url: 'http://latex.codecogs.com/{f}.latex?{e}'
+        url: 'https://latex.codecogs.com/{f}.latex?{e}'
     };
 }(jQuery));
