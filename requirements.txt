@@ -1,7 +1,6 @@
 -e git+https://github.com/ag-gipp/sympy.git@4d96a55b938f08fbc23f06eaa0839914e7d3f85a#egg=sympy
--e git+https://github.com/ag-gipp/PPP-datamodel-Python.git@4d96a55b938f08fbc23f06eaa0839914e7d3f85a#egg=PPP-datamodel-Python
--e git+https://github.com/ag-gipp/PPP-datamodel-Python.git@0c7958fb4df75468fd3137240a5065925c239776#egg=PPP-datamodel-Python
--e git+https://github.com/ag-gipp/PPP-libmodule-Python.git@8098ec3e3ac62f471ff93fb8ce29e36833a8d492#egg=PPP-libmodule-Python
+-e git+https://github.com/ag-gipp/PPP-datamodel-Python.git@0c7958fb4df75468fd3137240a5065925c239776#egg=ppp-datamodel
+-e git+https://github.com/ag-gipp/PPP-libmodule-Python.git@8098ec3e3ac62f471ff93fb8ce29e36833a8d492#egg=ppp-libmodule
 -e git+https://github.com/ag-gipp/PPP-QuestionParsing-Grammatical.git@4c488f1bf57a0a4e29131a8e7a65ff94f192a5f5#egg=PPP-QuestionParsing-Grammatical
 certifi==2018.4.16
 chardet==3.0.4
