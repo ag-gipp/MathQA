@@ -75,7 +75,7 @@ pip3 install xmltodict
 ```
 pip3 install Flask
 ```
-## After installing all the libraries follow the steps to run the Matheaware QA system:
+## After installing all the libraries follow the steps to run the Math-aware QA system:
 1) run the CoreNLP Server
 ```
 Mathaware-Q-A-System/CoreNLP$ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 &
