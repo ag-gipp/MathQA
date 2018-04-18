@@ -1,13 +1,13 @@
-##Matheaware QA system
+## Matheaware QA system
 
 This system is able to answer mathematical questions asked in natural language by the user.
 
 
-##System setup
+## System setup
 
 sudo apt-get install python3
 
-##CoreNlp
+## CoreNlp
 
 CoreNlp is resposible for extraction Triple (subject, predicate, object) from the questions.
 
@@ -34,11 +34,11 @@ unzip stanford-postagger-full-2015-12-09.zip
 
 wget http://nlp.stanford.edu/software/stanford-english-corenlp-2016-01-10-models.jar
 
-##Pywikiwot
+## Pywikiwot
 Pywikibot is used to extract the formula from Wikidata
 https://tools.wmflabs.org/pywikibot/
 
-##latex2sympy-master
+## latex2sympy-master
 Used to convert variant of latex formula to sympy equivalent form
 
 
@@ -49,10 +49,10 @@ For latex2sympy download from
 
 https://github.com/augustt198/latex2sympy
 
-##sympy
+## sympy
 apt-get install python3-sympy
 
-##ppp_modules
+## ppp_modules
 
 pip3 install --user ppp_questionparsing_grammatical
 
@@ -60,10 +60,10 @@ pip3 install git+https://github.com/ProjetPP/PPP-datamodel-Python.git
 
 pip3 install git+https://github.com/ProjetPP/PPP-libmodule-Python.git
 
-##xmltodic
+## xmltodic
 pip3 install xmltodict
 
-##flask
+## flask
 pip3 install Flask
 
 ## After installing all the libraries follow the steps to run the Matheaware QA system:
