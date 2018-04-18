@@ -60,7 +60,8 @@ def makeresponse(formul, req):
         Make response for the API
     """
     try:
-        subject = req.request._attributes['subject']['value']
+        #TODO: unbreak for english
+        subject = req.subject
         reques=Formulacalculation(formul)
         global identifiers
         identifiers=reques.answer()
@@ -154,8 +155,8 @@ def get_formula():
         q = RequestHandler(Request(language="en",id=1,tree=Sentence(question),measures=meas))
         query = q.answer()
                         
-        reques= FormulaRequestHandler(query)         
-        global formula        
+        reques= FormulaRequestHandler(query)
+        global formula
         formula=reques.answer()
         
         global processedformula
@@ -178,7 +179,7 @@ def get_formula():
 
     except Exception as ex:
         print(''.join(traceback.format_exception(etype=type(ex), value=ex, tb=ex.__traceback__)))
-    
+
 @app.route('/gethindiformula', methods=['POST'])
 def get_hindiformula():
     """
@@ -216,7 +217,7 @@ def get_hindiformula():
             response= jsonify(formula)
             response.status_code = 202
             return response
-    except Exception : 
+    except Exception :
             response= jsonify("System is not able to find the result.")
             response.status_code = 202
             return response
