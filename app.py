@@ -19,8 +19,9 @@ import latexformlaidentifiers
 
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0,parentdir)
-os.environ['PPP_QUESTIONPARSING_GRAMMATICAL_CONFIG'] = os.path.dirname(os.path.abspath(__file__)) + '/ppp_questionparsing_grammatical/nlp_classical_config.json'
-os.environ['PYWIKIBOT2_DIR'] = os.path.dirname(os.path.abspath(__file__)) + '/pywikibot'
+os.environ['PPP_QUESTIONPARSING_GRAMMATICAL_CONFIG'] = os.path.dirname(os.path.abspath(__file__)) + '/example_config.json'
+os.environ['PYWIKIBOT2_NO_USER_CONFIG'] = '1'
+# os.environ['PYWIKIBOT2_DIR'] = os.path.dirname(os.path.abspath(__file__)) + '/pywikibot'
 from ppp_datamodel.communication import Request
 from ppp_questionparsing_grammatical import RequestHandler
 from getformula import FormulaRequestHandler
