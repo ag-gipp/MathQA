@@ -31,13 +31,13 @@ function getResult() {
 			var url = "";
 
 			if (enteredFormula.indexOf("=") >= 0) {
-				url = "/getresponse";
+				url = "getresponse";
 			} else if (lang == "hn" || lang == "en") {
 				statementQueFlag = true;
 				if(lang == "en") {
-					url = "/getengformula";
+					url = "getengformula";
 				} else if(lang == "hn") {
-					url = "/gethindiformula";
+					url = "gethindiformula";
 				}
 			}
 
@@ -213,7 +213,7 @@ function getResultFromInputs() {
 
     var saveData = $.ajax({
         type: 'POST',
-        url: "/getfinalresult",
+        url: "getfinalresult",
         data: JSON.stringify(formJSON),
         dataType: "json",
         contentType: "",
