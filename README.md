@@ -6,6 +6,11 @@ This system is able to answer mathematical questions asked in natural language b
 ## System setup
 ```
 sudo apt-get install python3
+virtualenv -p python3 venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+python app.py
 ```
 
 ## CoreNLP
