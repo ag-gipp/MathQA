@@ -3,7 +3,7 @@ from flask import request
 from flask import render_template
 import json
 from flask_cors import CORS
-from process_latex import process_sympy
+from sympy.parsing.latex import parse_latex
 from flask.json import jsonify
 from sympy.core.sympify import sympify
 from sympy import Number, NumberSymbol, Symbol

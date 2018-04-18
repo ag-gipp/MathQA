@@ -78,7 +78,7 @@ SERVER_PID=$!
 ```
 2) run the flask server
 ```
-Mathaware-Q-A-System$ export FLASK_APP=calculation.py
+Mathaware-Q-A-System$ export FLASK_APP=app.py
 Mathaware-Q-A-System$ flask run
 ```
 Then you can see the the system in your browser by opening the localhost which is : http://127.0.0.1:5000/
