@@ -42,7 +42,7 @@ cd ..
 wget http://nlp.stanford.edu/software/stanford-english-corenlp-2016-01-10-models.jar
 ```
 
-## Pywikiwot
+## Pywikibot
 Pywikibot is used to extract the formula from Wikidata
 https://tools.wmflabs.org/pywikibot/
 
