@@ -171,8 +171,10 @@ class FormulaRequestHandler:
         self.request = request
 
     def answer(self):
-        request = self.request
-        formula = predicate(request.predicate.value, request.subject.value)
+        #request = self.request
+        request = self.request[0]._attributes['tree']._attributes
+        #formula = predicate(request.predicate.value, request.subject.value)
+        formula = predicate(request['predicate'].value, request['subject'].value)
         return formula
 
 

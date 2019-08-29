@@ -64,7 +64,8 @@ def makeresponse(formul, req):
     """
     try:
         # TODO: unbreak for english
-        subject = req.subject
+        #subject = req.subject
+        subject = req.request[0]._attributes['tree']._attributes['subject']._attributes['value']
         reques = Formulacalculation(formul)
         global identifiers
         identifiers = reques.answer()
