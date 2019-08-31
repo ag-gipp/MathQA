@@ -12,9 +12,11 @@ from sympy import Symbol
 from sympy.core.sympify import sympify
 from sympy.parsing.latex import parse_latex
 
-
 import getidentifiers
 import latexformlaidentifiers
+
+from semanticsearch.NTCIR_arXiv_astro_ph_RE import search_formulae_by_identifier_names,search_formulae_by_identifier_symbols,get_identifier_semantics_catalog
+#from semanticsearch.NTCIR_Wikipedia_RE import search_formulae_by_identifier_names,search_formulae_by_identifier_symbols,get_identifier_semantics_catalog
 
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, parentdir)
@@ -58,14 +60,13 @@ def makeidentifier(symbol, values):
     return symvalue
 
 
-def makeresponse(formul, req):
+def makeresponse(formul,subject,relationship_question):
     """
         Make response for the API
     """
     try:
         # TODO: unbreak for english
         #subject = req.subject
-        subject = req.request[0]._attributes['tree']._attributes['subject']._attributes['value']
         reques = Formulacalculation(formul)
         global identifiers
         identifiers = reques.answer()
@@ -76,9 +77,20 @@ def makeresponse(formul, req):
 
             newlist = []
             valuelist = []
+            # item = identifier
             for item in listidentifiers:
                 try:
-                    name = " (" + retrieve_identifiers(subject)[str(item)]['name'] + ")"
+                    if relationship_question:
+                        # single identifier name
+                        #inv_sem_idx = get_identifier_semantics_catalog(inverse=False,multiple=False)
+                        #name = " (" + inv_sem_idx[str(item)[0]] + ")"
+                        # multiple identifier names
+                        inv_sem_idx = get_identifier_semantics_catalog(inverse=False, multiple=True)
+                        name = " (" + str(inv_sem_idx[str(item)]) + ")"
+                        # only the first symbol is the identifier (the others may be sub- oder superscripts)
+                    else:
+                        name = " (" + retrieve_identifiers(subject)[str(item)]['name'] + ")"
+
                 except:
                     name = ""
                 try:
@@ -91,7 +103,7 @@ def makeresponse(formul, req):
 
             newlist.append(dict(formula=formul))
             newlist.append(dict(values=valuelist))
-            json_data = json.dumps(newlist)
+            #json_data = json.dumps(newlist)
             response = jsonify(newlist)
             # json_data2 = json.dumps(valuelist)
             # response.values = jsonify(valuelist)
@@ -102,6 +114,7 @@ def makeresponse(formul, req):
             response.status_code = 206
             print(response)
             return response
+
     except:
         response = jsonify("System is not able to find the result.")
         response.status_code = 202
@@ -159,18 +172,39 @@ def get_formula():
         meas = {'accuracy': 0.5, 'relevance': 0.5}
         q = RequestHandler(Request(language="en", id=1, tree=Sentence(question), measures=meas))
         query = q.answer()
-
         reques = FormulaRequestHandler(query)
+
         global formula
-        formula = reques.answer()
+
+        # relationship question (semantic search)
+        if "relationship" in question:
+
+            exclude = ["what","is","the","relationship","between","and","?"]
+            identifier_names = []
+            candidates = question.split()
+            for word in candidates:
+                if "?" in word:
+                    word = word.strip("?")
+                if not word in exclude:
+                    identifier_names.append(word)
+
+            results = search_formulae_by_identifier_names(identifier_names)
+            formula = list(results.items())[0][0].split(" (")[0]
+            relationship_question = True
+        else:
+            formula = reques.answer()
+            relationship_question = False
 
         global processedformula
         processedformula = latexformlaidentifiers.prepformula(formula)
         # print(processedformula)
         if not (formula.startswith("System")):
-            return makeresponse(processedformula, reques)
+            if relationship_question:
+                subject = ""#identifier_names[0]
+            else:
+                subject = reques.request[0]._attributes['tree']._attributes['subject']._attributes['value']
+            return makeresponse(processedformula,subject,relationship_question)
         else:
-
             response = jsonify(formula)
             response.status_code = 202
             print(response)
