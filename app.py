@@ -15,8 +15,7 @@ from sympy.parsing.latex import parse_latex
 import getidentifiers
 import latexformlaidentifiers
 
-from semanticsearch.NTCIR_arXiv_astro_ph_RE import search_formulae_by_identifier_names,search_formulae_by_identifier_symbols,get_identifier_semantics_catalog
-#from semanticsearch.NTCIR_Wikipedia_RE import search_formulae_by_identifier_names,search_formulae_by_identifier_symbols,get_identifier_semantics_catalog
+from semanticsearch.SemanticSearch_arXivWikipedia import get_identifier_semantics_catalog,search_formulae_by_identifiers_mathqa
 
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, parentdir)
@@ -35,6 +34,18 @@ from latexformlaidentifiers import Formulacalculation
 from identifier_properties import retrieve_identifiers
 
 import traceback
+
+# OPTION HERE!
+# query mode number
+mode_number = 1
+# wikip,symbs,single if mode_number == 1
+# wikip,names,single if mode_number == 2
+# wikip,symbs,multiple if mode_number == 3
+# wikip,names,multiple if mode_number == 4
+# arxiv,symbs,single if mode_number == 5
+# arxiv,names,single if mode_number == 6
+# arxiv,symbs,multiple if mode_number == 7
+# arxiv,names,multiple if mode_number == 8
 
 
 def getlhsrhs(formula, ext):
@@ -81,13 +92,16 @@ def makeresponse(formul,subject,relationship_question):
             for item in listidentifiers:
                 try:
                     if relationship_question:
+
                         # single identifier name
-                        #inv_sem_idx = get_identifier_semantics_catalog(inverse=False,multiple=False)
-                        #name = " (" + inv_sem_idx[str(item)[0]] + ")"
+                        inv_sem_idx = get_identifier_semantics_catalog(inverse=False,multiple=False)
+                        name = " (" + inv_sem_idx[str(item)[0]] + ")"
+
                         # multiple identifier names
-                        inv_sem_idx = get_identifier_semantics_catalog(inverse=False, multiple=True)
-                        name = " (" + str(inv_sem_idx[str(item)]) + ")"
+                        #inv_sem_idx = get_identifier_semantics_catalog(inverse=False, multiple=True)
+                        #name = " (" + str(inv_sem_idx[str(item)]) + ")"
                         # only the first symbol is the identifier (the others may be sub- oder superscripts)
+
                     else:
                         name = " (" + retrieve_identifiers(subject)[str(item)]['name'] + ")"
 
@@ -180,15 +194,32 @@ def get_formula():
         if "relationship" in question:
 
             exclude = ["what","is","the","relationship","between","and","?"]
-            identifier_names = []
+            input = []
             candidates = question.split()
             for word in candidates:
                 if "?" in word:
                     word = word.strip("?")
                 if not word in exclude:
-                    identifier_names.append(word)
+                    input.append(word)
 
-            results = search_formulae_by_identifier_names(identifier_names)
+            # check if input is identifier names or symbols
+            # symbols if all characters
+            symbols = True
+            for element in input:
+                if len(element) > 1:
+                    symbols = False
+            # names if at least one is word
+            if symbols:
+                mode_number = 1
+            else:
+                mode_number = 2
+
+            # results = search_formulae_by_identifier_names\
+            #     (identifier_names=identifier_names,catalog="NTCIR-12_arXiv_astro-ph"\
+            #      ,inverse=True,multiple=False)
+            results = search_formulae_by_identifiers_mathqa(input=input,
+                                                            mode_number=mode_number)
+
             formula = list(results.items())[0][0].split(" (")[0]
             relationship_question = True
         else:
@@ -210,14 +241,14 @@ def get_formula():
             print(response)
             return response
 
-    # except Exception :
-    #         response= jsonify("System is not able to find the result.")
-    #         response.status_code = 202
-    #         return response
-    #         #return ("System is not able to find the result.")
+    except Exception :
+            response= jsonify("System is not able to find the result.")
+            response.status_code = 202
+            return response
+            #return ("System is not able to find the result.")
 
-    except Exception as ex:
-        print(''.join(traceback.format_exception(etype=type(ex), value=ex, tb=ex.__traceback__)))
+    # except Exception as ex:
+    #     print(''.join(traceback.format_exception(etype=type(ex), value=ex, tb=ex.__traceback__)))
 
 
 @app.route('/gethindiformula', methods=['POST'])
