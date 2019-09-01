@@ -47,6 +47,7 @@ mode_number = 1
 # arxiv,symbs,multiple if mode_number == 7
 # arxiv,names,multiple if mode_number == 8
 
+show_single_identifier_names = True
 
 def getlhsrhs(formula, ext):
     """
@@ -93,14 +94,16 @@ def makeresponse(formul,subject,relationship_question):
                 try:
                     if relationship_question:
 
-                        # single identifier name
-                        inv_sem_idx = get_identifier_semantics_catalog(inverse=False,multiple=False)
-                        name = " (" + inv_sem_idx[str(item)[0]] + ")"
+                        if show_single_identifier_names:
+                            # single identifier name
+                            inv_sem_idx = get_identifier_semantics_catalog(inverse=False,multiple=False)
+                            name = " (" + inv_sem_idx[str(item)[0]] + ")"
 
-                        # multiple identifier names
-                        #inv_sem_idx = get_identifier_semantics_catalog(inverse=False, multiple=True)
-                        #name = " (" + str(inv_sem_idx[str(item)]) + ")"
-                        # only the first symbol is the identifier (the others may be sub- oder superscripts)
+                        if not show_single_identifier_names:
+                            # multiple identifier names
+                            inv_sem_idx = get_identifier_semantics_catalog(inverse=False, multiple=True)
+                            name = " (" + str(inv_sem_idx[str(item)[0]]) + ")"
+                            # only the first symbol is the identifier (the others may be sub- oder superscripts)
 
                     else:
                         name = " (" + retrieve_identifiers(subject)[str(item)]['name'] + ")"
