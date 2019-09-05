@@ -10,8 +10,8 @@ RUN wget http://nlp.stanford.edu/software/stanford-english-corenlp-2016-01-10-mo
 RUN unzip stanford-postagger-full-2015-12-09.zip
 RUN git clone https://github.com/stanfordnlp/CoreNLP.git
 WORKDIR /CoreNLP
-RUN ant compile
-RUN ant jar
+#RUN ant compile
+#RUN ant jar
 RUN java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 & SERVER_PID=$!
 WORKDIR ./MathQA
 RUN python3 app.py
