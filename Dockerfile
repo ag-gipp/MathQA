@@ -12,6 +12,6 @@ RUN git clone https://github.com/stanfordnlp/CoreNLP.git
 WORKDIR /CoreNLP
 RUN java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 & SERVER_PID=$!
 WORKDIR /
-RUN python3 app.py
+#RUN python3 app.py
 EXPOSE 8000
 CMD ["python3", "app.py", "0.0.0.0:8000"]
