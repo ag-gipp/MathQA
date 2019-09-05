@@ -15,7 +15,7 @@ from sympy.parsing.latex import parse_latex
 import getidentifiers
 import latexformlaidentifiers
 
-from semanticsearch.SemanticSearch_arXivWikipedia import get_identifier_semantics_catalog,search_formulae_by_identifiers_mathqa
+from semanticsearch.SemanticSearch_arXivWikipedia_mathqa import get_identifier_semantics_catalog,search_formulae_by_identifiers
 
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, parentdir)
@@ -37,7 +37,7 @@ import traceback
 
 # OPTION HERE!
 # query mode number
-mode_number = 1
+#mode_number = 1
 # wikip,symbs,single if mode_number == 1
 # wikip,names,single if mode_number == 2
 # wikip,symbs,multiple if mode_number == 3
@@ -215,12 +215,12 @@ def get_formula():
             if symbols:
                 mode_number = 1
             else:
-                mode_number = 2
+                mode_number = 6
 
             # results = search_formulae_by_identifier_names\
             #     (identifier_names=identifier_names,catalog="NTCIR-12_arXiv_astro-ph"\
             #      ,inverse=True,multiple=False)
-            results = search_formulae_by_identifiers_mathqa(input=input,
+            results = search_formulae_by_identifiers(input=input,
                                                             mode_number=mode_number)
 
             formula = list(results.items())[0][0].split(" (")[0]
