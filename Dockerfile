@@ -11,7 +11,7 @@ RUN unzip stanford-postagger-full-2015-12-09.zip
 RUN git clone https://github.com/stanfordnlp/CoreNLP.git
 WORKDIR /CoreNLP
 RUN java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 & SERVER_PID=$!
-WORKDIR /
+WORKDIR /MathQA
 EXPOSE 8000
-#CMD ["python3", "app.py", "0.0.0.0:8000"]
-ENTRYPOINT ["python3","app.py"]
+CMD ["python3", "app.py", "0.0.0.0:8000"]
+#ENTRYPOINT ["python3","app.py"]
