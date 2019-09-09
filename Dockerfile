@@ -13,4 +13,5 @@ WORKDIR /CoreNLP
 RUN java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 & SERVER_PID=$!
 WORKDIR /
 EXPOSE 8000
-CMD ["python3", "app.py", "0.0.0.0:8000"]
+#CMD ["python3", "app.py", "0.0.0.0:8000"]
+ENTRYPOINT ["python3","app.py"]
