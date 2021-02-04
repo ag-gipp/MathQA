@@ -15,7 +15,10 @@ from sympy.parsing.latex import parse_latex
 import getidentifiers
 import latexformlaidentifiers
 
+# semantic search using arXiv or Wikipedia index
 from semanticsearch.SemanticSearch_arXivWikipedia_mathqa import get_identifier_semantics_catalog,search_formulae_by_identifiers
+# semantic search using Wikidata SPARQL query
+from semanticsearch.SemanticSearch_Wikidata_mathqa import search_formulae_by_identifiers_Wikidata
 
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, parentdir)
@@ -220,8 +223,9 @@ def get_formula():
             # results = search_formulae_by_identifier_names\
             #     (identifier_names=identifier_names,catalog="NTCIR-12_arXiv_astro-ph"\
             #      ,inverse=True,multiple=False)
-            results = search_formulae_by_identifiers(input=input,
-                                                            mode_number=mode_number)
+            #results = search_formulae_by_identifiers(input=input,
+            #                                                mode_number=mode_number)
+            results = search_formulae_by_identifiers_Wikidata(identifier_names=input)
 
             formula = list(results.items())[0][0].split(" (")[0]
             relationship_question = True

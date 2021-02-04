@@ -8,7 +8,7 @@ import pickle
 # OPTIONS HERE!
 
 #root_path = "E:\\MathQa/semanticsearch/"
-root_path = "../"
+root_path = "semanticsearch/"
 subject = "astro-ph"
 #subject = ""
 
@@ -34,7 +34,7 @@ def append_to_dict_list(dict,key,item,unique):
 # OPEN CATALOGS
 def get_formula_catalog(catalog):
     # open formula catalog
-    catalog_filename = catalog + "-Formula_Catalog.pkl"
+    catalog_filename = "modes7-12/" + catalog + "-Formula_Catalog.pkl"
 
     with open(root_path + catalog_filename, "rb") as f:
         Formula_Catalog = pickle.load(f)
@@ -51,7 +51,8 @@ def get_identifier_semantics_catalog(inverse,multiple):
     else:
         mode2 = "_single"
 
-    file_path = root_path + "Wikipedia-" + mode1 + "Identifier_Semantics_Catalog" + mode2 + ".pkl"
+    file_path = root_path + "modes7-12/" + "Wikipedia-"\
+                + mode1 + "Identifier_Semantics_Catalog" + mode2 + ".pkl"
 
     with open(file_path, "rb") as f:
         Identifier_Semantics_Catalog = pickle.load(f)
