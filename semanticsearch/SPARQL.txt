@@ -1,0 +1,132 @@
+#find items containing "energy" and "speed of light"
+SELECT ?item ?itemLabel WHERE {
+   ?item wdt:P527 wd:Q11379.
+   ?item wdt:P527 wd:Q2111
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "en" .
+   }
+}
+
+#find items with defining formula containing identifiers 'E', 'm', 'c'
+SELECT ?item ?itemLabel ?formula WHERE {
+  ?item wdt:P2534 ?formula.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  FILTER(CONTAINS(STR(?formula), '<mi>E</mi>') && CONTAINS(STR(?formula), '<mi>m</mi>') && CONTAINS(STR(?formula), '<mi>c</mi>'))
+}
+
+#find has part properties with formula 'c'
+        SELECT ?itemLabel ?formula ?value WHERE {
+          wd:Q35875 wdt:P527 ?item.
+          ?item wdt:P416 ?formula.
+          ?item wdt:P1181 ?value.
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+          FILTER(STR(?formula) = 'c')
+        }
+
+#find has part properties with formula 'r'
+SELECT ?item ?itemLabel ?formula WHERE {
+  wd:Q12507 wdt:P527 ?item.
+  ?item wdt:P416 ?formula.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  FILTER(STR(?formula) = 'r')
+}
+
+#find items with quantity symbol 'r'
+SELECT ?item ?itemLabel ?formula WHERE {
+  ?item wdt:P416 ?formula.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  FILTER(STR(?formula) = 'r')
+}
+
+#find has part properties with formula 'R'
+SELECT ?identifierLabel ?symbol ?value WHERE {
+  wd:Q11432 wdt:P527 ?identifier.
+  ?identifier wdt:P416 ?symbol.
+  ?identifier wdt:P1181 ?value.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  FILTER(STR(?symbol) = 'R')
+}
+
+---
+
+#find identifiers with symbol 'R'
+SELECT ?identifierLabel ?symbol ?symbolLabel WHERE {
+  wd:Q11432 p:P527 ?statement. #p: points to statement node
+  ?statement ps:P527 ?identifier. #ps: property statement
+  ?statement pq:P2534 ?symbol. #ps: property qualifier
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  FILTER(CONTAINS(STR(?symbol), '<mi>R</mi>'))
+}
+
+#find values of identifiers with symbol 'R'
+SELECT ?identifierLabel ?symbol ?value WHERE {
+  wd:Q11432 wdt:P527 ?identifier.
+  ?identifier wdt:P416 ?symbol.
+  ?identifier wdt:P1181 ?value.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  FILTER(STR(?symbol) = 'R')
+}
+
+---
+
+#find identifier labels with symbol 'R'
+SELECT ?identifierLabel WHERE {
+  wd:Q11432 p:P527 ?statement. #p: points to statement node
+  ?statement ps:P527 ?identifier. #ps: property statement
+  ?statement pq:P2534 ?symbol. #ps: property qualifier
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  FILTER(CONTAINS(STR(?symbol), '<mi>R</mi>'))
+}
+
+#find identifiers values with symbol 'R'
+SELECT ?value WHERE {
+  wd:Q11432 wdt:P527 ?identifier.
+  ?identifier wdt:P416 ?symbol.
+  ?identifier wdt:P1181 ?value.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  FILTER(STR(?symbol) = 'R')
+}
+
+---
+
+#retrieve defining formula
+SELECT ?formula WHERE {
+  wd:Q11432 wdt:P2534 ?formula.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+
+#find all items with defining formula
+SELECT ?formula WHERE {
+  ?item wdt:P2534 ?formula.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+
+---
+
+#find items with identifier labels with symbol 'R'
+SELECT ?itemLabel ?identifierLabel WHERE {
+  ?item p:P527 ?statement. #p: points to statement node
+  ?statement ps:P527 ?identifier. #ps: property statement
+  ?statement pq:P2534 ?symbol. #ps: property qualifier
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  FILTER(CONTAINS(STR(?symbol), '<mi>R</mi>'))
+}
+
+---
+
+# find all items with name containing string "city"
+SELECT ?item ?itemLabel
+WHERE { 
+  ?item rdfs:label ?itemLabel. 
+  FILTER(CONTAINS(LCASE(?itemLabel), "city"@en)). 
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+} limit 10
+
+# find all items with name containing string "Einstein"
+SELECT distinct ?item ?itemLabel ?itemDescription WHERE{  
+  ?item ?label "Einstein"@en.  
+  ?article schema:about ?item .
+  ?article schema:inLanguage "en" .
+  ?article schema:isPartOf <https://en.wikipedia.org/>. 
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }    
+}

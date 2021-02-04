@@ -1,0 +1,1542 @@
+[
+  {
+    "GoldID": "310",
+    "formula_name": "acceleration",
+    "formula_tex": "\\mathbf{a} = \\frac{\\mathrm{d} \\mathbf{v}}{\\mathrm{d} t}",
+    "semantic_tex": "\\w{Q11376}{\\mathbf{a}} = \\deriv{\\w{Q11465}{\\mathbf{v}}}{\\w{Q2199864}{t}}",
+    "identifier_symbols": [
+      "a",
+      "v",
+      "t"
+    ],
+    "identifier_names": [
+      "acceleration",
+      "velocity",
+      "duration"
+    ],
+    "identifier_qids": [
+      "Q11376",
+      "Q11465",
+      "Q2199864"
+    ]
+  },
+  {
+    "GoldID": "311",
+    "formula_name": "angular acceleration",
+    "formula_tex": "\\boldsymbol{\\alpha} = \\frac{\\mathrm{d} \\boldsymbol{\\omega}}{\\mathrm{d} t}",
+    "semantic_tex": "\\w{Q186300}{\\boldsymbol{\\alpha}} = \\deriv{\\w{Q161635}{\\boldsymbol{\\omega}}}{\\w{Q2199864}{t}}",
+    "identifier_symbols": [
+      "\\alpha",
+      "\\omega",
+      "t"
+    ],
+    "identifier_names": [
+      "angular acceleration",
+      "angular velocity",
+      "duration"
+    ],
+    "identifier_qids": [
+      "Q186300",
+      "Q161635",
+      "Q2199864"
+    ]
+  },
+  {
+    "GoldID": "312",
+    "formula_name": "angular frequency",
+    "formula_tex": "\\omega = 2 \\pi f",
+    "semantic_tex": "\\w{Q834020}{\\omega} = 2 \\w{Q167}{\\pi} \\w{Q11652}{{f}",
+    "identifier_symbols": [
+      "\\omega",
+      "\\pi",
+      "f"
+    ],
+    "identifier_names": [
+      "angular frequency",
+      "\\pi",
+      "frequency"
+    ],
+    "identifier_qids": [
+      "Q834020",
+      "Q167",
+      "Q11652"
+    ]
+  },
+  {
+    "GoldID": "313",
+    "formula_name": "angular momentum",
+    "formula_tex": "\\mathbf{L} = \\mathbf{r} \\times \\mathbf{p}",
+    "semantic_tex": "\\w{Q161254}{\\mathbf{L}} = \\w{Q192388}{\\mathbf{r}} \\w{Q178192}{\\times} \\w{Q41273}{\\mathbf{p}}",
+    "identifier_symbols": [
+      "L",
+      "r",
+      "\\times",
+      "p"
+    ],
+    "identifier_names": [
+      "angular momentum",
+      "position vector",
+      "cross product",
+      "momentum"
+    ],
+    "identifier_qids": [
+      "Q161254",
+      "Q192388",
+      "Q178192",
+      "Q41273"
+    ]
+  },
+  {
+    "GoldID": "314",
+    "formula_name": "angular velocity",
+    "formula_tex": "\\boldsymbol{\\omega} = \\frac{\\mathrm{d} \\varphi}{\\mathrm{d} t} \\boldsymbol{u}",
+    "semantic_tex": "\\w{Q161635}{\\boldsymbol{\\omega}} = \\deriv{\\w{Q3305038}{\\varphi}}{\\w{Q2199864}{t}} \\w{Q36255}{\\boldsymbol{u}}",
+    "identifier_symbols": [
+      "\\omega",
+      "\\varphi",
+      "t",
+      "u"
+    ],
+    "identifier_names": [
+      "angular velocity",
+      "angular displacement",
+      "duration",
+      "unit vector"
+    ],
+    "identifier_qids": [
+      "Q161635",
+      "Q3305038",
+      "Q2199864",
+      "Q36255"
+    ]
+  },
+  {
+    "GoldID": "315",
+    "formula_name": "center of mass",
+    "formula_tex": "\\sum_{i=1}^n m_i(\\mathbf{r}_i - \\mathbf{R}) = 0",
+    "semantic_tex": "\\sum_{\\w{Q2004972}{i}=1}^n \\w{Q11423}{m}_i(\\w{Q192388}{\\mathbf{r}_i} - \\w{Q2945123}{\\mathbf{R}}) = 0",
+    "identifier_symbols": [
+      "i",
+      "m",
+      "r",
+      "R"
+    ],
+    "identifier_names": [
+      "nominal number",
+      "mass",
+      "position vector",
+      "center of mass"
+    ],
+    "identifier_qids": [
+      "Q2004972",
+      "Q11423",
+      "Q192388",
+      "Q2945123"
+    ]
+  },
+  {
+    "GoldID": "316",
+    "formula_name": "centripetal acceleration",
+    "formula_tex": "a_c = \\frac {v^2} {r}",
+    "semantic_tex": "\\w{Q2248131}{a_c} = \\frac {\\w{Q11465}{v}^2} {\\w{Q1136069}{r}}",
+    "identifier_symbols": [
+      "a",
+      "v",
+      "r"
+    ],
+    "identifier_names": [
+      "centripetal acceleration",
+      "velocity",
+      "radius of curvature"
+    ],
+    "identifier_qids": [
+      "Q2248131",
+      "Q11465",
+      "Q1136069"
+    ]
+  },
+  {
+    "GoldID": "317",
+    "formula_name": "centripetal force",
+    "formula_tex": "\\vec{F} = - \\frac{mv^2 \\hat{r}}{r}",
+    "semantic_tex": "\\w{Q11402}{\\vec{F}} = -\\frac{\\w{Q11423}{m} \\w{Q11465}{v}^{2} \\w{Q36255}{\\hat{r}} }{\\w{Q173817}{r}}",
+    "identifier_symbols": [
+      "F",
+      "m",
+      "v",
+      "r",
+      "r"
+    ],
+    "identifier_names": [
+      "force",
+      "mass",
+      "velocity",
+      "unit vector",
+      "radius"
+    ],
+    "identifier_qids": [
+      "Q11402",
+      "Q11423",
+      "Q11465",
+      "Q36255",
+      "Q173817"
+    ]
+  },
+  {
+    "GoldID": "318",
+    "formula_name": "circumference",
+    "formula_tex": "C=\\pi\\cdot{d}=2\\pi\\cdot{r}",
+    "semantic_tex": "\\w{Q843905}{C}=\\w{Q167}{\\pi}\\cdot{\\w{Q37221}{d}}=2\\w{Q167}{\\pi}\\cdot{\\w{Q173817}{r}}",
+    "identifier_symbols": [
+      "C",
+      "\\pi",
+      "d",
+      "r"
+    ],
+    "identifier_names": [
+      "circumference",
+      "pi",
+      "diameter",
+      "radius"
+    ],
+    "identifier_qids": [
+      "Q843905",
+      "Q167",
+      "Q37221",
+      "Q173817"
+    ]
+  },
+  {
+    "GoldID": "319",
+    "formula_name": "conservation of energy",
+    "formula_tex": "E_{tot,1} = E_{tot,2}",
+    "semantic_tex": "\\w{Q11379}{E}_{tot,1} = \\w{Q11379}{E}_{tot,2}",
+    "identifier_symbols": [
+      "E"
+    ],
+    "identifier_names": [
+      "energy"
+    ],
+    "identifier_qids": [
+      "Q11379"
+    ]
+  },
+  {
+    "GoldID": "320",
+    "formula_name": "conservation of momentum",
+    "formula_tex": "p_{tot,1} = p_{tot,2}",
+    "semantic_tex": "\\w{Q41273}{p}_{tot,1} = \\w{Q41273}{p}_{tot,2}",
+    "identifier_symbols": [
+      "p"
+    ],
+    "identifier_names": [
+      "momentum"
+    ],
+    "identifier_qids": [
+      "Q41273"
+    ]
+  },
+  {
+    "GoldID": "321",
+    "formula_name": "damping",
+    "formula_tex": "\\zeta = \\frac{c}{2\\sqrt{mk}}",
+    "semantic_tex": "\\w{Q1127660}{\\zeta} = \\frac{\\w{Q188248}{c}}{2\\sqrt{\\w{Q11423}{m}\\w{Q338261}{k}}}",
+    "identifier_symbols": [
+      "\\zeta",
+      "c",
+      "m",
+      "k"
+    ],
+    "identifier_names": [
+      "damping",
+      "constant",
+      "mass",
+      "spring constant"
+    ],
+    "identifier_qids": [
+      "Q1127660",
+      "Q188248",
+      "Q11423",
+      "Q338261"
+    ]
+  },
+  {
+    "GoldID": "322",
+    "formula_name": "dirac equation",
+    "formula_tex": "i\\hbar\\frac{\\partial \\Psi}{\\partial t} = (c\\hat \\boldsymbol \\alpha \\cdot \\hat \\boldsymbol p + mc^2\\hat \\beta)\\Psi",
+    "semantic_tex": "\\w{Q193796}{i}\\w{Q2115969}{\\hbar}\\frac{\\w{Q2920327}{\\partial} \\w{Q2362761}{\\Psi}}{\\w{Q2920327}{\\partial} \\w{Q2199864}{t}} = (\\w{Q2111}{c}\\w{}{\\hat \\boldsymbol \\alpha} \\cdot \\w{Q41273}{\\hat \\boldsymbol p} + \\w{Q11423}{m}\\w{Q2111}{c}^{2}\\w{}{\\hat \\beta})\\w{Q2362761}{\\Psi}",
+    "identifier_symbols": [
+      "i",
+      "\\hbar",
+      "\\partial",
+      "\\Psi",
+      "t",
+      "c",
+      "p",
+      "m"
+    ],
+    "identifier_names": [
+      "imaginary unit",
+      "reduced Planck constant",
+      "partial derivative symbol",
+      "wave function",
+      "duration",
+      "speed of light",
+      "momentum",
+      "mass"
+    ],
+    "identifier_qids": [
+      "Q193796",
+      "Q2115969",
+      "Q2920327",
+      "Q2362761",
+      "Q2199864",
+      "Q2111",
+      "Q41273",
+      "Q11423"
+    ]
+  },
+  {
+    "GoldID": "323",
+    "formula_name": "dirac equation in curved spacetime",
+    "formula_tex": "i\\gamma^a e_a^\\mu D_\\mu \\Psi - m \\Psi = 0",
+    "semantic_tex": "\\w{Q193796}{i}\\w{Q599404}{\\gamma}^a \\w{Q7706302}{e}_a^\\mu \\w{Q1058681}{D}_\\mu \\w{Q2362761}{\\Psi} - \\w{Q11423}{m} \\w{Q2362761}{\\Psi} = 0",
+    "identifier_symbols": [
+      "i",
+      "\\gamma",
+      "e",
+      "D",
+      "\\Psi",
+      "m"
+    ],
+    "identifier_names": [
+      "imaginary unit",
+      "Lorentz factor",
+      "tetrad formalism",
+      "differential operator",
+      "wave function",
+      "mass"
+    ],
+    "identifier_qids": [
+      "Q193796",
+      "Q599404",
+      "Q7706302",
+      "Q1058681",
+      "Q2362761",
+      "Q11423"
+    ]
+  },
+  {
+    "GoldID": "324",
+    "formula_name": "elastic energy",
+    "formula_tex": "U = \\frac{1}{2}k \\Delta x^2",
+    "semantic_tex": "\\w{Q891408}{U} = \\frac{1}{2}\\w{Q338261}{k} \\Delta {\\w{Q1990546}{x}}^{2}",
+    "identifier_symbols": [
+      "U",
+      "k",
+      "x"
+    ],
+    "identifier_names": [
+      "elastic energy",
+      "spring constant",
+      "linear strain"
+    ],
+    "identifier_qids": [
+      "Q891408",
+      "Q338261",
+      "Q1990546"
+    ]
+  },
+  {
+    "GoldID": "325",
+    "formula_name": "electromagnetic force",
+    "formula_tex": "\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B})",
+    "semantic_tex": "\\w{Q172137}{\\vec{F}} = \\w{Q1111}{q}(\\w{Q46221}{\\vec{E}} + \\w{Q11465}{\\vec{v}} \\times \\w{Q11408}{\\vec{B}})",
+    "identifier_symbols": [
+      "F",
+      "q",
+      "E",
+      "v",
+      "B"
+    ],
+    "identifier_names": [
+      "Lorentz force",
+      "electric charge",
+      "electric field",
+      "velocity",
+      "magnetic field"
+    ],
+    "identifier_qids": [
+      "Q172137",
+      "Q1111",
+      "Q46221",
+      "Q11465",
+      "Q11408"
+    ]
+  },
+  {
+    "GoldID": "326",
+    "formula_name": "electrostatic force",
+    "formula_tex": "\\vec{F}_e = \\frac{q_1 q_2}{4 \\pi \\epsilon_{0} r^2} \\hat{r}",
+    "semantic_tex": "\\w{Q11402}{\\vec{F}}_e = \\frac{\\w{Q1111}{q}_1 \\w{Q1111}{q}_2}{4 \\w{Q167}{\\pi} \\w{Q6158}{\\epsilon}_{0} \\w{Q126017}{r}^2} \\w{Q36255}{\\hat{r}}",
+    "identifier_symbols": [
+      "F",
+      "q",
+      "pi",
+      "\\epsilon",
+      "r",
+      "r"
+    ],
+    "identifier_names": [
+      "force",
+      "electric charge",
+      "pi",
+      "vacuum permittivity",
+      "distance",
+      "unit vector"
+    ],
+    "identifier_qids": [
+      "Q11402",
+      "Q1111",
+      "Q167",
+      "Q6158",
+      "Q126017",
+      "Q36255"
+    ]
+  },
+  {
+    "GoldID": "327",
+    "formula_name": "energy-momentum relation",
+    "formula_tex": "E^2 = p^2c^2 + m^2c^4",
+    "semantic_tex": "\\w{Q11379}{E}^2 = \\w{Q41273}{p}^2\\w{Q2111}{c}^2 + \\w{Q11423}{m}^2 \\w{Q2111}{c}^4",
+    "identifier_symbols": [
+      "E",
+      "p",
+      "c",
+      "m"
+    ],
+    "identifier_names": [
+      "energy",
+      "momentum",
+      "speed of light",
+      "mass"
+    ],
+    "identifier_qids": [
+      "Q11379",
+      "Q41273",
+      "Q2111",
+      "Q11423"
+    ]
+  },
+  {
+    "GoldID": "328",
+    "formula_name": "escape velocity",
+    "formula_tex": "v_{\\text{e}} = \\sqrt{\\frac{2GM}{r}} = \\sqrt{2gr}",
+    "semantic_tex": "\\w{Q166530}{v}_{\\text{e}} = \\sqrt{\\frac{2\\w{Q18373}{G}\\w{Q1076402}{M}}{\\w{Q126017}{r}}} = \\sqrt{2\\w{Q30006}{g}\\w{Q126017}{r}}",
+    "identifier_symbols": [
+      "v",
+      "e",
+      "G",
+      "M",
+      "r",
+      "g"
+    ],
+    "identifier_names": [
+      "escape velocity",
+      "gravitational constant",
+      "gravitational mass",
+      "distance",
+      "gravitational acceleration"
+    ],
+    "identifier_qids": [
+      "Q166530",
+      "Q18373",
+      "Q1076402",
+      "Q126017",
+      "Q30006"
+    ]
+  },
+  {
+    "GoldID": "329",
+    "formula_name": "euler-lagrange equation",
+    "formula_tex": "\\frac{\\mathrm{d}}{\\mathrm{d} t}\\left(\\frac{\\partial L}{\\partial \\dot{q}_{j}}\\right)=\\frac{\\partial L}{\\partial q_{j}}",
+    "semantic_tex": "\\deriv{}{\\w{Q2199864}{t}}\\left(\\frac{\\w{Q2920327}{\\partial} \\w{Q505735}{L}}{\\w{Q2920327}{\\partial} \\w{Q74317892}{\\dot{q}_{j}}}\\right)=\\frac{\\w{}{\\partial} \\w{Q505735}{L}}{\\w{Q2920327}{\\partial} \\w{Q1057607}{q_{j}}}",
+    "identifier_symbols": [
+      "t",
+      "\\partial",
+      "L",
+      "q",
+      "q"
+    ],
+    "identifier_names": [
+      "duration",
+      "partial derivative symbol",
+      "Lagrangian",
+      "generalized velocity",
+      "generalized coordinate"
+    ],
+    "identifier_qids": [
+      "Q2199864",
+      "Q2920327",
+      "Q505735",
+      "Q74317892",
+      "Q1057607"
+    ]
+  },
+  {
+    "GoldID": "330",
+    "formula_name": "force",
+    "formula_tex": "\\mathbf{F} = \\frac{\\mathrm{d} \\mathbf{p}}{\\mathrm{d} t}",
+    "semantic_tex": "\\w{Q11402}{\\mathbf{F}} = \\deriv{\\w{Q41273}{\\mathbf{p}}}{\\w{Q2199864}{t}}",
+    "identifier_symbols": [
+      "F",
+      "p",
+      "t"
+    ],
+    "identifier_names": [
+      "force",
+      "momentum",
+      "duration"
+    ],
+    "identifier_qids": [
+      "Q11402",
+      "Q41273",
+      "Q2199864"
+    ]
+  },
+  {
+    "GoldID": "331",
+    "formula_name": "four-momentum",
+    "formula_tex": "p^\\mu=\\begin{matrix}p_0 \\\\ p_1 \\\\ p_2 \\\\ p_3 \\end{matrix} = \\begin{matrix}E/c \\\\ p_x \\\\ p_y \\\\ p_z \\end{matrix} = \\begin{matrix}E/c \\\\ \\vec p \\end{matrix}",
+    "semantic_tex": "\\w{Q41273}{p}^\\mu=\\begin{matrix}\\w{Q41273}{p}_0 \\\\ \\w{Q41273}{p}_1 \\\\ \\w{Q41273}{p}_2 \\\\ \\w{Q41273}{p}_3 \\end{matrix} = \\begin{matrix}\\w{Q11379}{E}/\\w{Q2111}{c} \\\\ \\w{Q41273}{p}_x \\\\ \\w{Q41273}{p}_y \\\\ \\w{Q41273}{p}_z \\end{matrix} = \\begin{matrix}\\w{Q11379}{E}/\\w{Q2111}{c} \\\\ \\w{Q41273}{\\vec p} \\end{matrix}",
+    "identifier_symbols": [
+      "p",
+      "E",
+      "c"
+    ],
+    "identifier_names": [
+      "momentum",
+      "energy",
+      "speed of light"
+    ],
+    "identifier_qids": [
+      "Q41273",
+      "Q11379",
+      "Q2111"
+    ]
+  },
+  {
+    "GoldID": "332",
+    "formula_name": "four-velocity",
+    "formula_tex": "\\mathbf{U} \\equiv \\frac{d \\mathbf{R}}{d \\tau}",
+    "semantic_tex": "\\w{Q11465}{\\mathbf{U}} \\equiv \\deriv{\\w{Q17334923}{\\mathbf{R}}}{\\w{Q1056595}{\\tau}}",
+    "identifier_symbols": [
+      "U",
+      "R",
+      "\\tau"
+    ],
+    "identifier_names": [
+      "velocity",
+      "location",
+      "proper time"
+    ],
+    "identifier_qids": [
+      "Q11465",
+      "Q17334923",
+      "Q1056595"
+    ]
+  },
+  {
+    "GoldID": "333",
+    "formula_name": "free fall",
+    "formula_tex": "v(t)=-gt+v_{0}",
+    "semantic_tex": "\\w{Q11465}{v}(t) = -{\\w{Q30006}{g}\\w{Q2199864}{t}}+\\w{Q11465}{v}_{0}",
+    "identifier_symbols": [
+      "v",
+      "g",
+      "t"
+    ],
+    "identifier_names": [
+      "velocity",
+      "gravitational acceleration",
+      "duration"
+    ],
+    "identifier_qids": [
+      "Q11465",
+      "Q30006",
+      "Q2199864"
+    ]
+  },
+  {
+    "GoldID": "334",
+    "formula_name": "frequency",
+    "formula_tex": "f = \\frac{1}{T}",
+    "semantic_tex": "\\w{Q11652}{f} = \\frac{1}{\\w{Q2642727}{T}}",
+    "identifier_symbols": [
+      "f",
+      "T"
+    ],
+    "identifier_names": [
+      "frequency",
+      "period"
+    ],
+    "identifier_qids": [
+      "Q11652",
+      "Q2642727"
+    ]
+  },
+  {
+    "GoldID": "335",
+    "formula_name": "friction",
+    "formula_tex": "F_{\\mathrm{kf}} = \\mu_{\\mathrm{kf}} F_\\mathrm{N}",
+    "semantic_tex": "\\w{Q82580}{F}_{\\mathrm{kf}} = \\w{Q1932524}{\\mu}_{\\mathrm{kf}} \\w{Q541008}{F}_\\mathrm{N}",
+    "identifier_symbols": [
+      "F",
+      "\\mu",
+      "F"
+    ],
+    "identifier_names": [
+      "friction",
+      "coefficient of friction",
+      "normal force"
+    ],
+    "identifier_qids": [
+      "Q82580",
+      "Q1932524",
+      "Q541008"
+    ]
+  },
+  {
+    "GoldID": "336",
+    "formula_name": "galilean transformation",
+    "formula_tex": "(t,\\mathbf x) \\mapsto (t+s,\\mathsf R\\mathbf x + \\mathbf vt + \\mathbf y)",
+    "semantic_tex": "(\\w{Q2199864}{t},\\w{Q17334923}{\\mathbf x}) \\mapsto (\\w{Q2199864}{t}+\\w{Q21075709}{s},\\w{Q1256564}{\\mathsf R}\\w{Q17334923}{\\mathbf x} + \\w{Q11465}{\\mathbf v}\\w{Q2199864}{t} + \\w{Q190291}{\\mathbf y})",
+    "identifier_symbols": [
+      "t",
+      "x",
+      "s",
+      "R",
+      "v",
+      "y"
+    ],
+    "identifier_names": [
+      "duration",
+      "location",
+      "delay",
+      "rotation matrix",
+      "velocity",
+      "displacement"
+    ],
+    "identifier_qids": [
+      "Q2199864",
+      "Q17334923",
+      "Q21075709",
+      "Q11465",
+      "Q2199864",
+      "Q190291"
+    ]
+  },
+  {
+    "GoldID": "337",
+    "formula_name": "generalized momentum",
+    "formula_tex": "p_i = \\frac{\\partial L}{\\partial \\dot{q}_i}",
+    "semantic_tex": "\\w{Q6806305}{p_i} = \\frac{\\w{Q2920327}{\\partial} \\w{Q74318512}{L}}{\\w{Q2920327}{\\partial} \\w{Q74317892}{\\dot{q}_i}}",
+    "identifier_symbols": [
+      "p",
+      "\\partial",
+      "L",
+      "q"
+    ],
+    "identifier_names": [
+      "generalized momentum",
+      "partial derivative symbol",
+      "Lagrange function",
+      "generalized velocity"
+    ],
+    "identifier_qids": [
+      "Q6806305",
+      "Q2920327",
+      "Q74318512",
+      "Q74317892"
+    ]
+  },
+  {
+    "GoldID": "338",
+    "formula_name": "gravitational acceleration",
+    "formula_tex": "\\vec{g}=-\\frac{Gm_\\oplus}{{R_\\oplus}^2} \\hat{r}",
+    "semantic_tex": "\\w{Q30006}{\\vec{g}}=-\\frac{\\w{Q18373}{G} \\w{Q11423}{M}}{{\\w{Q173817}{R}}^2} \\w{Q192388}{\\vec{r}}",
+    "identifier_symbols": [
+      "g",
+      "G",
+      "M",
+      "R",
+      "r"
+    ],
+    "identifier_names": [
+      "gravitational acceleration",
+      "gravitational constant",
+      "mass",
+      "radius",
+      "position vector"
+    ],
+    "identifier_qids": [
+      "Q30006",
+      "Q18373",
+      "Q11423",
+      "Q173817",
+      "Q192388"
+    ]
+  },
+  {
+    "GoldID": "339",
+    "formula_name": "gravitational force",
+    "formula_tex": "\\vec{F}_g = - \\frac{G m_1 m_2}{r^2} \\hat{r}",
+    "semantic_tex": "\\w{Q11402}{\\vec{F}_g} = - \\frac{\\w{Q18373}{G} \\w{Q11423}{m}_1 \\w{Q11423}{m}_2}{\\w{Q126017}{r}^{2}} \\hat{\\w{Q36255}{r}}",
+    "identifier_symbols": [
+      "F",
+      "G",
+      "m",
+      "r"
+    ],
+    "identifier_names": [
+      "force",
+      "gravitational constant",
+      "mass",
+      "distance"
+    ],
+    "identifier_qids": [
+      "Q11402",
+      "Q18373",
+      "Q11423",
+      "Q126017"
+    ]
+  },
+  {
+    "GoldID": "340",
+    "formula_name": "gravitational potential",
+    "formula_tex": "U=-\\frac{GMm}{r}",
+    "semantic_tex": "\\w{Q67540341}{U}=-\\frac{\\w{Q18373}{G}\\w{Q11423}{M}\\w{Q11423}{m}}{\\w{Q126017}{r}}",
+    "identifier_symbols": [
+      "U",
+      "G",
+      "M",
+      "m",
+      "r"
+    ],
+    "identifier_names": [
+      "potential",
+      "gravitational constant",
+      "mass",
+      "mass",
+      "distance"
+    ],
+    "identifier_qids": [
+      "Q67540341",
+      "Q18373",
+      "Q11423",
+      "Q11423",
+      "Q126017"
+    ]
+  },
+  {
+    "GoldID": "341",
+    "formula_name": "hamiltonian operator",
+    "formula_tex": "\\mathcal{H}\\left(\\mathbf{q},\\mathbf{p},t\\right) = \\mathbf{p}\\cdot\\dot{\\mathbf{q}} - \\mathcal{L}\\left(\\mathbf{q},\\dot{\\mathbf{q}},t\\right)",
+    "semantic_tex": "\\w{Q660488}{\\mathcal{H}}\\left(\\w{Q1057607}{\\mathbf{q}},\\w{Q6806305}{\\mathbf{p}},\\w{Q2199864}{t}\\right) = \\w{Q6806305}{\\mathbf{p}}\\cdot\\w{Q74317892}{\\dot{\\mathbf{q}}} - \\w{Q74318512}{\\mathcal{L}}\\left(\\w{Q1057607}{\\mathbf{q}},\\w{Q74317892}{\\dot{\\mathbf{q}}},\\w{Q2199864}{t}\\right)",
+    "identifier_symbols": [
+      "H",
+      "q",
+      "p",
+      "t",
+      "L",
+      "q"
+    ],
+    "identifier_names": [
+      "Hamiltonian operator",
+      "generalized coordinate",
+      "generalized momentum",
+      "duration",
+      "Lagrange function",
+      "generalized velocity"
+    ],
+    "identifier_qids": [
+      "Q660488",
+      "Q1057607",
+      "Q6806305",
+      "Q2199864",
+      "Q74318512",
+      "Q74317892"
+    ]
+  },
+  {
+    "GoldID": "342",
+    "formula_name": "hamilton-jacobi equation",
+    "formula_tex": "\\frac{\\partial S}{\\partial t}=-H",
+    "semantic_tex": "\\frac{\\w{Q2920327}{\\partial} \\w{Q846785}{S}}{\\w{Q2920327}{\\partial} \\w{Q2199864}{t}}=-\\w{Q360356}{H}",
+    "identifier_symbols": [
+      "\\partial",
+      "S",
+      "t",
+      "H"
+    ],
+    "identifier_names": [
+      "partial derivative symbol",
+      "action",
+      "duration",
+      "Hamiltonian function"
+    ],
+    "identifier_qids": [
+      "Q2920327",
+      "Q846785",
+      "Q2199864",
+      "Q360356"
+    ]
+  },
+  {
+    "GoldID": "343",
+    "formula_name": "hooke's law",
+    "formula_tex": "F= k X",
+    "semantic_tex": "\\w{Q11402}{F}= \\w{Q338261}{k} \\w{Q1990546}{X}",
+    "identifier_symbols": [
+      "F",
+      "k",
+      "X"
+    ],
+    "identifier_names": [
+      "force",
+      "spring constant",
+      "linear strain"
+    ],
+    "identifier_qids": [
+      "Q11402",
+      "Q338261",
+      "Q1990546"
+    ]
+  },
+  {
+    "GoldID": "344",
+    "formula_name": "jerk",
+    "formula_tex": "\\vec \\zeta(t) = \\frac {\\mathrm {d}}{\\mathrm {d}t}\\vec{\\alpha}(t)=\\dot{\\vec\\alpha}(t)",
+    "semantic_tex": "\\w{Q497332}{\\vec{\\zeta}}(t) = \\deriv{\\w{Q11376}{\\vec{\\alpha}}(t)}{\\w{Q2199864}{t}}=\\w{Q497332}{\\dot{\\vec\\alpha}(t)}",
+    "identifier_symbols": [
+      "\\zeta",
+      "\\alpha",
+      "t"
+    ],
+    "identifier_names": [
+      "jerk",
+      "acceleration",
+      "duration"
+    ],
+    "identifier_qids": [
+      "Q497332",
+      "Q11376",
+      "Q2199864"
+    ]
+  },
+  {
+    "GoldID": "345",
+    "formula_name": "kinetic energy",
+    "formula_tex": "T = \\frac{1}{2} m v^2",
+    "semantic_tex": "\\w{Q46276}{T} = \\frac{1}{2} \\w{Q11423}{m} \\w{Q3711325}{v}^2",
+    "identifier_symbols": [
+      "T",
+      "m",
+      "v"
+    ],
+    "identifier_names": [
+      "kinetic energy",
+      "mass",
+      "speed"
+    ],
+    "identifier_qids": [
+      "Q46276",
+      "Q11423",
+      "Q3711325"
+    ]
+  },
+  {
+    "GoldID": "346",
+    "formula_name": "lagrangian operator",
+    "formula_tex": "\\mathcal{L}  = T-V",
+    "semantic_tex": "\\w{Q103687426}{\\mathcal{L}}  = \\w{Q46276}{T}-\\w{Q155640}{V}",
+    "identifier_symbols": [
+      "L",
+      "T",
+      "V"
+    ],
+    "identifier_names": [
+      "Lagrangian operator",
+      "kinetic energy",
+      "potential energy"
+    ],
+    "identifier_qids": [
+      "Q103687426",
+      "Q46276",
+      "Q155640"
+    ]
+  },
+  {
+    "GoldID": "347",
+    "formula_name": "lorentz factor",
+    "formula_tex": "\\gamma = \\frac{1}{\\sqrt{1 - v^2/c^2}}",
+    "semantic_tex": "\\w{Q599404}{\\gamma} = \\frac{1}{\\sqrt{1 - \\w{Q11465}{v}^2/\\w{Q2111}{c}^2}}",
+    "identifier_symbols": [
+      "\\gamma",
+      "v",
+      "c"
+    ],
+    "identifier_names": [
+      "Lorentz factor",
+      "velocity",
+      "speed of light"
+    ],
+    "identifier_qids": [
+      "Q599404",
+      "Q11465",
+      "Q2111"
+    ]
+  },
+  {
+    "GoldID": "348",
+    "formula_name": "lorentz force",
+    "formula_tex": "\\mathbf{F} = q(\\mathbf{E} + \\mathbf{v} \\times \\mathbf{B})",
+    "semantic_tex": "\\w{Q172137}{\\mathbf{F}} = \\w{Q1111}{q}(\\w{Q46221}{\\mathbf{E}} + \\w{Q11465}{\\mathbf{v}} \\times \\w{Q11408}{\\mathbf{B}})",
+    "identifier_symbols": [
+      "F",
+      "q",
+      "E",
+      "v",
+      "B"
+    ],
+    "identifier_names": [
+      "Lorentz force",
+      "electric charge",
+      "electric field",
+      "velocity",
+      "magnetic field"
+    ],
+    "identifier_qids": [
+      "Q172137",
+      "Q1111",
+      "Q46221",
+      "Q11465",
+      "Q11408"
+    ]
+  },
+  {
+    "GoldID": "349",
+    "formula_name": "lorentz transformation",
+    "formula_tex": "t' = \\gamma \\left( t - \\frac{v x}{c^2} \\right)  x' = \\gamma \\left( x - v t \\right)",
+    "semantic_tex": "\\w{Q11471}{t'} = \\w{Q599404}{\\gamma} \\left( \\w{Q11471}{t} - \\frac{\\w{Q11465}{v} \\w{Q17334923}{x}}{\\w{Q2111}{c}^2} \\right),  \\w{Q17334923}{x}' = \\w{Q599404}{\\gamma} \\left( \\w{Q17334923}{x} - \\w{Q11465}{v} \\w{Q11471}{t} \\right)",
+    "identifier_symbols": [
+      "t'",
+      "\\gamma",
+      "v",
+      "x",
+      "c"
+    ],
+    "identifier_names": [
+      "time",
+      "Lorentz factor",
+      "velocity",
+      "location",
+      "speed of light"
+    ],
+    "identifier_qids": [
+      "Q11471",
+      "Q599404",
+      "Q11465",
+      "Q17334923",
+      "Q2111"
+    ]
+  },
+  {
+    "GoldID": "350",
+    "formula_name": "mass-energy equivalence",
+    "formula_tex": "E = m c^2",
+    "semantic_tex": "\\w{Q11379}{E} = \\w{Q11423}{m} \\w{Q2111}{c}^2",
+    "identifier_symbols": [
+      "E",
+      "m",
+      "c"
+    ],
+    "identifier_names": [
+      "energy",
+      "mass",
+      "speed of light"
+    ],
+    "identifier_qids": [
+      "Q11379",
+      "Q11423",
+      "Q2111"
+    ]
+  },
+  {
+    "GoldID": "351",
+    "formula_name": "mechanical impedance",
+    "formula_tex": "Z_{\\mathrm{m}} = Z_{\\mathrm{a}} A^2",
+    "semantic_tex": "\\w{Q6421317}{Z}_{\\mathrm{m}} = \\w{Q975684}{Z}_{\\mathrm{a}} \\w{Q11500}{A}^2",
+    "identifier_symbols": [
+      "Z",
+      "Z",
+      "A"
+    ],
+    "identifier_names": [
+      "mechanical impedance",
+      "acoustic impedance",
+      "area"
+    ],
+    "identifier_qids": [
+      "Q6421317",
+      "Q975684",
+      "Q11500"
+    ]
+  },
+  {
+    "GoldID": "352",
+    "formula_name": "moment of inertia",
+    "formula_tex": "J_{\\mathrm{Q}} = \\int r_{\\mathrm{Q}}^{2} \\mathrm{d} m",
+    "semantic_tex": "\\w{Q165618}{J}_{\\mathrm{Q}} = \\int \\w{Q1578234}{r}_{\\mathrm{Q}}^{2} \\mathrm{d} \\w{Q11423}{m}",
+    "identifier_symbols": [
+      "J",
+      "r",
+      "m"
+    ],
+    "identifier_names": [
+      "moment of inertia",
+      "radial distance",
+      "mass"
+    ],
+    "identifier_qids": [
+      "Q165618",
+      "Q1578234",
+      "Q11423"
+    ]
+  },
+  {
+    "GoldID": "353",
+    "formula_name": "momentum",
+    "formula_tex": "\\mathbf{p} = m \\mathbf{v}",
+    "semantic_tex": "\\w{Q41273}{\\boldsymbol{p}} = \\w{Q11423}{m} \\w{Q11465}{\\boldsymbol{v}}",
+    "identifier_symbols": [
+      "p",
+      "m",
+      "v"
+    ],
+    "identifier_names": [
+      "momentum",
+      "mass",
+      "velocity"
+    ],
+    "identifier_qids": [
+      "Q41273",
+      "Q11423",
+      "Q11465"
+    ]
+  },
+  {
+    "GoldID": "354",
+    "formula_name": "newton's second law of motion",
+    "formula_tex": "\\vec{F} = m \\cdot \\vec{a}",
+    "semantic_tex": "\\w{Q11402}{\\vec{F}} = \\w{Q11423}{m} \\cdot \\w{Q11376}{\\vec{a}}",
+    "identifier_symbols": [
+      "F",
+      "m",
+      "a"
+    ],
+    "identifier_names": [
+      "force",
+      "mass",
+      "acceleration"
+    ],
+    "identifier_qids": [
+      "Q11402",
+      "Q11423",
+      "Q11376"
+    ]
+  },
+  {
+    "GoldID": "355",
+    "formula_name": "newton's third law of motion",
+    "formula_tex": "\\mathbf{F}_{12}=-\\mathbf{F}_{21}",
+    "semantic_tex": "\\w{Q11402}{\\mathbf{F}}_{12}=-\\w{Q11402}{\\mathbf{F}}_{21}",
+    "identifier_symbols": [
+      "F"
+    ],
+    "identifier_names": [
+      "force"
+    ],
+    "identifier_qids": [
+      "Q11402"
+    ]
+  },
+  {
+    "GoldID": "356",
+    "formula_name": "oscillation",
+    "formula_tex": "z(t) = A \\mathrm{e}^{-\\zeta \\omega_0 t} \\sin \\left( \\sqrt{1 - \\zeta^2} \\omega_0 t + \\varphi \\right)",
+    "semantic_tex": "\\w{Q1990546}{z}(t) = \\w{Q159190}{A} \\mathrm{e}^{-\\w{Q31975}{\\zeta} \\w{Q161635}{\\omega}_{0} \\w{Q2199864}{t}} \\sin \\left( \\sqrt{1 - \\w{Q31975}{\\zeta}^2} \\w{Q161635}{\\omega}_{0} \\w{Q2199864}{t} + \\w{Q185553}{\\varphi} \\right)",
+    "identifier_symbols": [
+      "z",
+      "A",
+      "\\zeta",
+      "\\omega",
+      "t",
+      "\\varphi"
+    ],
+    "identifier_names": [
+      "linear strain",
+      "amplitude",
+      "damping ratio",
+      "angular velocity",
+      "duration",
+      "phase"
+    ],
+    "identifier_qids": [
+      "Q1990546",
+      "Q159190",
+      "Q31975",
+      "Q161635",
+      "Q2199864",
+      "Q185553"
+    ]
+  },
+  {
+    "GoldID": "357",
+    "formula_name": "pendulum",
+    "formula_tex": "\\frac{\\mathrm{d}^2\\theta}{\\mathrm{d}t^2} + \\frac{g}{l}\\sin\\theta = 0",
+    "semantic_tex": "\\frac{d^2\\w{Q3305038}{\\theta}}{d\\w{Q2199864}{t}^{2}} + \\frac{\\w{Q30006}{g}}{\\w{Q36253}{l}}\\sin\\w{Q3305038}{\\theta} = \\w{Q204}{0}",
+    "identifier_symbols": [
+      "\\theta",
+      "t",
+      "g",
+      "l"
+    ],
+    "identifier_names": [
+      "angular displacement",
+      "duration",
+      "gravitational acceleration",
+      "length"
+    ],
+    "identifier_qids": [
+      "Q3305038",
+      "Q2199864",
+      "Q30006",
+      "Q36253"
+    ]
+  },
+  {
+    "GoldID": "358",
+    "formula_name": "power",
+    "formula_tex": "P = \\frac{\\mathrm{d} E}{\\mathrm{d} t}",
+    "semantic_tex": "\\w{Q25342}{P} = \\deriv{\\w{Q11379}{E}}{\\w{Q2199864}{t}}",
+    "identifier_symbols": [
+      "P",
+      "E",
+      "t"
+    ],
+    "identifier_names": [
+      "power",
+      "energy",
+      "duration"
+    ],
+    "identifier_qids": [
+      "Q25342",
+      "Q11379",
+      "Q2199864"
+    ]
+  },
+  {
+    "GoldID": "359",
+    "formula_name": "radial velocity",
+    "formula_tex": "\\omega = \\frac{d\\phi}{dt} = \\frac{v_\\perp}{r}",
+    "semantic_tex": "\\w{Q240105}{\\omega} = \\deriv{\\w{Q11352}{\\phi}}{\\w{Q2199864}{t}} = \\frac{\\w{Q11465}{v}_\\perp}{\\w{Q173817}{r}}",
+    "identifier_symbols": [
+      "\\omega",
+      "\\phi",
+      "t",
+      "v",
+      "r"
+    ],
+    "identifier_names": [
+      "radial velocity",
+      "angle",
+      "duration",
+      "velocity",
+      "radius"
+    ],
+    "identifier_qids": [
+      "Q240105",
+      "Q11352",
+      "Q2199864",
+      "Q11465",
+      "Q173817"
+    ]
+  },
+  {
+    "GoldID": "360",
+    "formula_name": "rest energy",
+    "formula_tex": "E_0 = m_0 c_0^2",
+    "semantic_tex": "\\w{Q11663629}{E}_0 = \\w{Q96941619}{m}_0 \\w{Q2111}{c}_0^2",
+    "identifier_symbols": [
+      "E",
+      "m",
+      "c"
+    ],
+    "identifier_names": [
+      "rest energy",
+      "rest mass",
+      "speed of light"
+    ],
+    "identifier_qids": [
+      "Q11663629",
+      "Q96941619",
+      "Q2111"
+    ]
+  },
+  {
+    "GoldID": "361",
+    "formula_name": "rest mass",
+    "formula_tex": "(m_\\mathrm{rest})c^2=\\sqrt{E_\\mathrm{total}^2-(|\\mathbf{p}|c)^2}",
+    "semantic_tex": "(\\w{Q11423}{m}_\\mathrm{rest})\\w{Q2111}{c}^{2}=\\sqrt{\\w{Q11379}{E}_\\mathrm{total}^2-(|{\\w{Q41273}{\\mathbf{p}}|\\w{Q2111}{c})^{2}}",
+    "identifier_symbols": [
+      "m",
+      "c",
+      "E",
+      "p"
+    ],
+    "identifier_names": [
+      "mass",
+      "speed of light",
+      "energy",
+      "momentum"
+    ],
+    "identifier_qids": [
+      "Q11423",
+      "Q2111",
+      "Q11379",
+      "Q41273"
+    ]
+  },
+  {
+    "GoldID": "362",
+    "formula_name": "rossby number",
+    "formula_tex": "\\mathit{Ro} = \\frac{v}{2 l \\omega_{\\mathrm{E}} \\sin{\\varphi}}",
+    "semantic_tex": "\\w{Q676622}{\\mathit{Ro}} = \\frac{\\w{Q3711325}{v}}{2 \\w{Q1062974}{l} \\w{Q102245394}{\\omega_{\\mathrm{E}}} \\w{Q152415}{\\sin}{\\w{Q34027}{\\varphi}}}",
+    "identifier_symbols": [
+      "R",
+      "v",
+      "l",
+      "E",
+      "\\sin",
+      "\\varphi"
+    ],
+    "identifier_names": [
+      "Rossby number",
+      "speed",
+      "characteristic length",
+      "Earth's angular frequency",
+      "sine",
+      "latitude"
+    ],
+    "identifier_qids": [
+      "Q676622",
+      "Q3711325",
+      "Q1062974",
+      "Q102245394",
+      "Q152415",
+      "Q34027"
+    ]
+  },
+  {
+    "GoldID": "363",
+    "formula_name": "speed",
+    "formula_tex": "v = s / t",
+    "semantic_tex": "\\w{Q3711325}{v} = \\w{Q126017}{s} / \\w{Q2199864}{t}",
+    "identifier_symbols": [
+      "v",
+      "s",
+      "t"
+    ],
+    "identifier_names": [
+      "speed",
+      "distance",
+      "duration"
+    ],
+    "identifier_qids": [
+      "Q3711325",
+      "Q126017",
+      "Q2199864"
+    ]
+  },
+  {
+    "GoldID": "364",
+    "formula_name": "speed of light",
+    "formula_tex": "c=f\\lambda",
+    "semantic_tex": "\\w{Q2111}{c}=\\w{Q11652}{f}\\w{Q41364}{\\lambda}",
+    "identifier_symbols": [
+      "c",
+      "f",
+      "\\lambda"
+    ],
+    "identifier_names": [
+      "speed of light",
+      "frequency",
+      "wavelength"
+    ],
+    "identifier_qids": [
+      "Q2111",
+      "Q11652",
+      "Q41364"
+    ]
+  },
+  {
+    "GoldID": "365",
+    "formula_name": "sphere",
+    "formula_tex": "x^2+y^2+z^2=r^2",
+    "semantic_tex": "\\w{Q3250736}{x}^2+\\w{Q3250736}{y}^2+\\w{Q3250736}{z}^2=\\w{Q173817}{r}^2",
+    "identifier_symbols": [
+      "x",
+      "y",
+      "z",
+      "r"
+    ],
+    "identifier_names": [
+      "coordinate",
+      "coordinate",
+      "coordinate",
+      "radius"
+    ],
+    "identifier_qids": [
+      "Q3250736",
+      "Q3250736",
+      "Q3250736",
+      "Q173817"
+    ]
+  },
+  {
+    "GoldID": "366",
+    "formula_name": "spherical pendulum",
+    "formula_tex": "\\psi(x,t) = A \\cos (k x - \\omega t+\\varphi)",
+    "semantic_tex": "\\w{Q1990546}{\\psi}(x,t) = \\w{Q159190}{A} \\cos (\\w{Q192510}{k} \\w{Q17334923}{x} - \\w{Q161635}{\\omega} \\w{Q2199864}{t}+\\w{Q185553}{\\varphi})",
+    "identifier_symbols": [
+      "\\psi",
+      "A",
+      "k",
+      "x",
+      "\\omega",
+      "t",
+      "\\varphi"
+    ],
+    "identifier_names": [
+      "linear strain",
+      "amplitude",
+      "wavenumber",
+      "location",
+      "angular velocity",
+      "duration",
+      "phase"
+    ],
+    "identifier_qids": [
+      "Q1990546",
+      "Q159190",
+      "Q192510",
+      "Q17334923",
+      "Q161635",
+      "Q2199864",
+      "Q185553"
+    ]
+  },
+  {
+    "GoldID": "367",
+    "formula_name": "stokes' law",
+    "formula_tex": "F_d = 6\\pi\\,\\mu\\,R\\,V",
+    "semantic_tex": "\\w{Q212126}{F_d} = 6\\w{Q167}{\\pi}\\,\\w{Q15152757}{\\mu}\\,\\w{Q173817}{R}\\,\\w{Q5462119}{V}",
+    "identifier_symbols": [
+      "F",
+      "\\pi",
+      "\\mu",
+      "R",
+      "V"
+    ],
+    "identifier_names": [
+      "fictitious force",
+      "pi",
+      "dynamic viscosity",
+      "radius",
+      "flow velocity"
+    ],
+    "identifier_qids": [
+      "Q212126",
+      "Q167",
+      "Q15152757",
+      "Q173817",
+      "Q5462119"
+    ]
+  },
+  {
+    "GoldID": "368",
+    "formula_name": "stress",
+    "formula_tex": "\\sigma = \\frac{F}{A}",
+    "semantic_tex": "\\w{Q206175}{\\sigma} = \\deriv{\\w{Q11402}{F}}{\\w{Q11500}{A}}",
+    "identifier_symbols": [
+      "\\sigma",
+      "F",
+      "A"
+    ],
+    "identifier_names": [
+      "stress",
+      "force",
+      "area"
+    ],
+    "identifier_qids": [
+      "Q206175",
+      "Q11402",
+      "Q11500"
+    ]
+  },
+  {
+    "GoldID": "369",
+    "formula_name": "tangential acceleration",
+    "formula_tex": "\\alpha = \\frac{dv_{\\perp}}{dt}",
+    "semantic_tex": "\\w{Q186300}{\\alpha} = \\deriv{\\w{Q11465}{v_{\\perp}}}{\\w{Q2199864}{t}}",
+    "identifier_symbols": [
+      "\\alpha",
+      "v",
+      "t"
+    ],
+    "identifier_names": [
+      "angular acceleration",
+      "velocity",
+      "duration"
+    ],
+    "identifier_qids": [
+      "Q186300",
+      "Q11465",
+      "Q2199864"
+    ]
+  },
+  {
+    "GoldID": "370",
+    "formula_name": "tangential velocity",
+    "formula_tex": "v = \\omega r",
+    "semantic_tex": "\\w{Q11465}{v} = \\w{Q161635}{\\omega} \\w{Q173817}{r}",
+    "identifier_symbols": [
+      "v",
+      "\\omega",
+      "r"
+    ],
+    "identifier_names": [
+      "velocity",
+      "angular velocity",
+      "radius"
+    ],
+    "identifier_qids": [
+      "Q11465",
+      "Q161635",
+      "Q173817"
+    ]
+  },
+  {
+    "GoldID": "371",
+    "formula_name": "torque",
+    "formula_tex": "T = \\mathbf{M} \\cdot \\mathbf{e}_{\\mathrm{Q}}",
+    "semantic_tex": "\\w{Q48103}{T} = \\w{Q17232562}{\\boldsymbol{M}} \\cdot \\w{Q36255}{\\boldsymbol{e}_{\\mathrm{Q}}}",
+    "identifier_symbols": [
+      "T",
+      "M",
+      "e"
+    ],
+    "identifier_names": [
+      "torque",
+      "moment of force",
+      "unit vector"
+    ],
+    "identifier_qids": [
+      "Q48103",
+      "Q17232562",
+      "Q36255"
+    ]
+  },
+  {
+    "GoldID": "372",
+    "formula_name": "uniform motion",
+    "formula_tex": "\\mathbf{s} = \\mathbf{v}t",
+    "semantic_tex": "\\w{Q190291}{\\mathbf{s}} = \\w{Q11465}{\\mathbf{v}}\\w{Q2199864}{t}",
+    "identifier_symbols": [
+      "s",
+      "v",
+      "t"
+    ],
+    "identifier_names": [
+      "displacement",
+      "velocity",
+      "duration"
+    ],
+    "identifier_qids": [
+      "Q190291",
+      "Q11465",
+      "Q2199864"
+    ]
+  },
+  {
+    "GoldID": "373",
+    "formula_name": "velocity",
+    "formula_tex": "\\mathbf{v} = \\frac{\\mathrm{d} \\mathbf{r}}{\\mathrm{d} t}",
+    "semantic_tex": "\\w{Q11465}{\\boldsymbol{v}} = \\deriv{\\w{Q192388}{\\boldsymbol{r}}}{\\w{Q2199864}{t}}",
+    "identifier_symbols": [
+      "v",
+      "r",
+      "t"
+    ],
+    "identifier_names": [
+      "velocity",
+      "position vector",
+      "duration"
+    ],
+    "identifier_qids": [
+      "Q11465",
+      "Q192388",
+      "Q2199864"
+    ]
+  },
+  {
+    "GoldID": "374",
+    "formula_name": "wavenumber",
+    "formula_tex": "\\sigma = 1/\\lambda",
+    "semantic_tex": "\\w{Q192510}{\\sigma} = 1/\\w{Q41364}{\\lambda}",
+    "identifier_symbols": [
+      "\\sigma",
+      "\\lambda"
+    ],
+    "identifier_names": [
+      "wavenumber",
+      "wavelength"
+    ],
+    "identifier_qids": [
+      "Q192510",
+      "Q41364"
+    ]
+  },
+  {
+    "GoldID": "375",
+    "formula_name": "work",
+    "formula_tex": "A = \\int_{\\Gamma} \\mathbf{F} \\cdot \\mathrm{d} \\mathbf{r}",
+    "semantic_tex": "\\w{Q42213}{A} = \\int_{\\Gamma} \\w{Q11402}{\\boldsymbol{F}} \\cdot \\mathrm{d} \\w{Q192388}{\\boldsymbol{r}}",
+    "identifier_symbols": [
+      "A",
+      "F",
+      "r"
+    ],
+    "identifier_names": [
+      "work",
+      "force",
+      "position vector"
+    ],
+    "identifier_qids": [
+      "Q42213",
+      "Q11402",
+      "Q192388"
+    ]
+  }
+]

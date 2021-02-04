@@ -1,0 +1,17 @@
+{
+  "definitions": {},
+  "constraints": [],
+  "math_inputtex": "c=f\\lambda",
+  "math_inputtex_semantic": "\\w{Q2111}{c}=\\w{Q11652}{f}\\w{Q41364}{\\lambda}",
+  "correct_tex": "c=f\\lambda",
+  "correct_mml": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"\n      xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n      alttext=\"c=f\\lambda\"\n      class=\"ltx_Math\"\n      display=\"inline\"\n      id=\"p1.1.m1.1\">\n   <semantics id=\"p1.1.m1.1a\">\n      <mrow id=\"p1.1.m1.1.5\" xref=\"p1.1.m1.1.5.cmml\">\n         <mi id=\"p1.1.m1.1.1\" xref=\"p1.1.m1.1.1.cmml\">c</mi>\n         <mo id=\"p1.1.m1.1.2\" xref=\"p1.1.m1.1.2.cmml\">=</mo>\n         <mrow id=\"p1.1.m1.1.5.1\" xref=\"p1.1.m1.1.5.1.cmml\">\n            <mi id=\"p1.1.m1.1.3\" xref=\"p1.1.m1.1.3.cmml\">f</mi>\n            <mo id=\"p1.1.m1.1.5.1.1\" xref=\"p1.1.m1.1.5.1.1.cmml\">⁢</mo>\n            <mi id=\"p1.1.m1.1.4\" xref=\"p1.1.m1.1.4.cmml\">λ</mi>\n         </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\" id=\"p1.1.m1.1b\">\n         <apply id=\"p1.1.m1.1.5.cmml\" xref=\"p1.1.m1.1.5\">\n            <eq id=\"p1.1.m1.1.2.cmml\" xref=\"p1.1.m1.1.2\"/>\n            <csymbol cd=\"wikidata\" id=\"p1.1.m1.1.1.cmml\" xref=\"p1.1.m1.1.1\">Q2111</csymbol>\n            <apply id=\"p1.1.m1.1.5.1.cmml\" xref=\"p1.1.m1.1.5.1\">\n               <times id=\"p1.1.m1.1.5.1.1.cmml\" xref=\"p1.1.m1.1.5.1.1\"/>\n               <csymbol cd=\"wikidata\" id=\"p1.1.m1.1.3.cmml\" xref=\"p1.1.m1.1.3\">Q11652</csymbol>\n               <csymbol cd=\"wikidata\" id=\"p1.1.m1.1.4.cmml\" xref=\"p1.1.m1.1.4\">Q41364</csymbol>\n            </apply>\n         </apply>\n      </annotation-xml>\n      <annotation encoding=\"application/x-tex\" id=\"p1.1.m1.1c\">c=f\\lambda</annotation>\n   </semantics>\n</math>\n",
+  "uri": "https://www.wikidata.org/wiki/Q2111",
+  "title": "speed of light",
+  "comment": "Imported from AnnoMathTeX seeding.",
+  "type": "definition",
+  "check": {
+    "tree": true,
+    "qid": true
+  },
+  "qID": 364
+}

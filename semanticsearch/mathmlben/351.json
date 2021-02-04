@@ -1,0 +1,16 @@
+{
+  "definitions": {},
+  "constraints": [],
+  "math_inputtex": "Z_{\\mathrm{m}} = Z_{\\mathrm{a}} A^2",
+  "math_inputtex_semantic": "\\w{Q6421317}{Z}_{\\mathrm{m}} = \\w{Q975684}{Z}_{\\mathrm{a}} \\w{Q11500}{A}^2",
+  "correct_tex": "Z_{\\mathrm{m}} = Z_{\\mathrm{a}} A^2",
+  "correct_mml": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" id=\"p1.1.m1.1\" class=\"ltx_Math\" alttext=\"Z_{\\mathrm{m}}=Z_{\\mathrm{a}}A^{2}\" display=\"inline\">\n  <semantics id=\"p1.1.m1.1a\">\n    <mrow id=\"p1.1.m1.1.8\" xref=\"p1.1.m1.1.8.cmml\">\n      <msub id=\"p1.1.m1.1.8.1\" xref=\"p1.1.m1.1.8.1.cmml\">\n        <mi id=\"p1.1.m1.1.1\" xref=\"p1.1.m1.1.1.cmml\">Z</mi>\n        <mi mathvariant=\"normal\" id=\"p1.1.m1.1.2.1\" xref=\"p1.1.m1.1.2.1.cmml\">m</mi>\n      </msub>\n      <mo id=\"p1.1.m1.1.3\" xref=\"p1.1.m1.1.3.cmml\">=</mo>\n      <mrow id=\"p1.1.m1.1.8.2\" xref=\"p1.1.m1.1.8.2.cmml\">\n        <msub id=\"p1.1.m1.1.8.2.2\" xref=\"p1.1.m1.1.8.2.2.cmml\">\n          <mi id=\"p1.1.m1.1.4\" xref=\"p1.1.m1.1.4.cmml\">Z</mi>\n          <mi mathvariant=\"normal\" id=\"p1.1.m1.1.5.1\" xref=\"p1.1.m1.1.5.1.cmml\">a</mi>\n        </msub>\n        <mo id=\"p1.1.m1.1.8.2.1\" xref=\"p1.1.m1.1.8.2.1.cmml\">⁢</mo>\n        <msup id=\"p1.1.m1.1.8.2.3\" xref=\"p1.1.m1.1.8.2.3.cmml\">\n          <mi id=\"p1.1.m1.1.6\" xref=\"p1.1.m1.1.6.cmml\">A</mi>\n          <mn id=\"p1.1.m1.1.7.1\" xref=\"p1.1.m1.1.7.1.cmml\">2</mn>\n        </msup>\n      </mrow>\n    </mrow>\n    <annotation-xml encoding=\"MathML-Content\" id=\"p1.1.m1.1b\">\n      <apply id=\"p1.1.m1.1.8.cmml\" xref=\"p1.1.m1.1.8\">\n        <eq id=\"p1.1.m1.1.3.cmml\" xref=\"p1.1.m1.1.3\"/>\n        <apply id=\"p1.1.m1.1.8.1.cmml\" xref=\"p1.1.m1.1.8.1\">\n          <csymbol cd=\"ambiguous\" id=\"p1.1.m1.1.8.1.1.cmml\" xref=\"p1.1.m1.1.8.1\">subscript</csymbol>\n          <csymbol cd=\"latexml\" id=\"p1.1.m1.1.1.cmml\" xref=\"p1.1.m1.1.1\">Q975684</csymbol>\n          <ci id=\"p1.1.m1.1.2.1.cmml\" xref=\"p1.1.m1.1.2.1\">m</ci>\n        </apply>\n        <apply id=\"p1.1.m1.1.8.2.cmml\" xref=\"p1.1.m1.1.8.2\">\n          <times id=\"p1.1.m1.1.8.2.1.cmml\" xref=\"p1.1.m1.1.8.2.1\"/>\n          <apply id=\"p1.1.m1.1.8.2.2.cmml\" xref=\"p1.1.m1.1.8.2.2\">\n            <csymbol cd=\"ambiguous\" id=\"p1.1.m1.1.8.2.2.1.cmml\" xref=\"p1.1.m1.1.8.2.2\">subscript</csymbol>\n            <csymbol cd=\"latexml\" id=\"p1.1.m1.1.4.cmml\" xref=\"p1.1.m1.1.4\">Q975684</csymbol>\n            <ci id=\"p1.1.m1.1.5.1.cmml\" xref=\"p1.1.m1.1.5.1\">a</ci>\n          </apply>\n          <apply id=\"p1.1.m1.1.8.2.3.cmml\" xref=\"p1.1.m1.1.8.2.3\">\n            <power xmlns:m=\"http://www.w3.org/1998/Math/MathML\" xref=\"p1.1.m1.1.8.2.3\"/>\n            <csymbol cd=\"latexml\" id=\"p1.1.m1.1.6.cmml\" xref=\"p1.1.m1.1.6\">Q11500</csymbol>\n            <cn type=\"integer\" id=\"p1.1.m1.1.7.1.cmml\" xref=\"p1.1.m1.1.7.1\">2</cn>\n          </apply>\n        </apply>\n      </apply>\n    </annotation-xml>\n    <annotation encoding=\"application/x-tex\" id=\"p1.1.m1.1c\">Z_{\\mathrm{m}}=Z_{\\mathrm{a}}A^{2}</annotation>\n  </semantics>\n</math>",
+  "uri": "https://www.wikidata.org/wiki/Q6421317",
+  "title": "mechanical impedance",
+  "comment": "Imported from AnnoMathTeX seeding.",
+  "type": "definition",
+  "check": {
+    "tree": true,
+    "qid": false
+  }
+}

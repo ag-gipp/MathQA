@@ -1,0 +1,16 @@
+{
+  "definitions": {},
+  "constraints": [],
+  "math_inputtex": "F= k X",
+  "math_inputtex_semantic": "\\w{Q11402}{F}= \\w{Q338261}{k} \\w{Q1990546}{X}",
+  "correct_tex": "F= k X",
+  "correct_mml": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"\n      xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n      alttext=\"F=kX\"\n      class=\"ltx_Math\"\n      display=\"inline\"\n      id=\"p1.1.m1.1\">\n   <semantics id=\"p1.1.m1.1a\">\n      <mrow id=\"p1.1.m1.1.5\" xref=\"p1.1.m1.1.5.cmml\">\n         <mi id=\"p1.1.m1.1.1\" xref=\"p1.1.m1.1.1.cmml\">F</mi>\n         <mo id=\"p1.1.m1.1.2\" xref=\"p1.1.m1.1.2.cmml\">=</mo>\n         <mrow id=\"p1.1.m1.1.5.1\" xref=\"p1.1.m1.1.5.1.cmml\">\n            <mi id=\"p1.1.m1.1.3\" xref=\"p1.1.m1.1.3.cmml\">k</mi>\n            <mo id=\"p1.1.m1.1.5.1.1\" xref=\"p1.1.m1.1.5.1.1.cmml\">⁢</mo>\n            <mi id=\"p1.1.m1.1.4\" xref=\"p1.1.m1.1.4.cmml\">X</mi>\n         </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\" id=\"p1.1.m1.1b\">\n         <apply id=\"p1.1.m1.1.5.cmml\" xref=\"p1.1.m1.1.5\">\n            <eq id=\"p1.1.m1.1.2.cmml\" xref=\"p1.1.m1.1.2\"/>\n            <csymbol cd=\"wikidata\" id=\"p1.1.m1.1.1.cmml\" xref=\"p1.1.m1.1.1\">Q11402</csymbol>\n            <apply id=\"p1.1.m1.1.5.1.cmml\" xref=\"p1.1.m1.1.5.1\">\n               <times id=\"p1.1.m1.1.5.1.1.cmml\" xref=\"p1.1.m1.1.5.1.1\"/>\n               <csymbol cd=\"wikidata\" id=\"p1.1.m1.1.3.cmml\" xref=\"p1.1.m1.1.3\">Q338261</csymbol>\n               <csymbol cd=\"wikidata\" id=\"p1.1.m1.1.4.cmml\" xref=\"p1.1.m1.1.4\">Q1990546</csymbol>\n            </apply>\n         </apply>\n      </annotation-xml>\n      <annotation encoding=\"application/x-tex\" id=\"p1.1.m1.1c\">F=kX</annotation>\n   </semantics>\n</math>\n",
+  "uri": "https://www.wikidata.org/wiki/Q170282",
+  "title": "hooke's law",
+  "comment": "Imported from AnnoMathTeX seeding.",
+  "type": "general formula",
+  "check": {
+    "tree": true,
+    "qid": true
+  }
+}

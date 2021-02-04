@@ -1,0 +1,16 @@
+{
+  "definitions": {},
+  "constraints": [],
+  "math_inputtex": "\\mathbf{F}_{12}=-\\mathbf{F}_{21}",
+  "math_inputtex_semantic": "\\w{Q11402}{\\mathbf{F}}_{12}=-\\w{Q11402}{\\mathbf{F}}_{21}",
+  "correct_tex": "\\mathbf{F}_{12}=-\\mathbf{F}_{21}",
+  "correct_mml": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"\n      xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n      alttext=\"\\mathbf{F}_{12}=-\\mathbf{F}_{21}\"\n      class=\"ltx_Math\"\n      display=\"inline\"\n      id=\"p1.1.m1.1\">\n   <semantics id=\"p1.1.m1.1a\">\n      <mrow id=\"p1.1.m1.1.7\" xref=\"p1.1.m1.1.7.cmml\">\n         <msub id=\"p1.1.m1.1.7.1\" xref=\"p1.1.m1.1.7.1.cmml\">\n            <mi id=\"p1.1.m1.1.1\" xref=\"p1.1.m1.1.1.cmml\">𝐅</mi>\n            <mn id=\"p1.1.m1.1.2.1\" xref=\"p1.1.m1.1.2.1.cmml\">12</mn>\n         </msub>\n         <mo id=\"p1.1.m1.1.3\" xref=\"p1.1.m1.1.3.cmml\">=</mo>\n         <mrow id=\"p1.1.m1.1.7.2\" xref=\"p1.1.m1.1.7.2.cmml\">\n            <mo id=\"p1.1.m1.1.4\" xref=\"p1.1.m1.1.4.cmml\">-</mo>\n            <msub id=\"p1.1.m1.1.7.2.1\" xref=\"p1.1.m1.1.7.2.1.cmml\">\n               <mi id=\"p1.1.m1.1.5\" xref=\"p1.1.m1.1.5.cmml\">𝐅</mi>\n               <mn id=\"p1.1.m1.1.6.1\" xref=\"p1.1.m1.1.6.1.cmml\">21</mn>\n            </msub>\n         </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\" id=\"p1.1.m1.1b\">\n         <apply id=\"p1.1.m1.1.7.cmml\" xref=\"p1.1.m1.1.7\">\n            <eq id=\"p1.1.m1.1.3.cmml\" xref=\"p1.1.m1.1.3\"/>\n            <apply id=\"p1.1.m1.1.7.1.cmml\" xref=\"p1.1.m1.1.7.1\">\n               <csymbol cd=\"ambiguous\" id=\"p1.1.m1.1.7.1.1.cmml\" xref=\"p1.1.m1.1.7.1\">subscript</csymbol>\n               <csymbol cd=\"wikidata\" id=\"p1.1.m1.1.1.cmml\" xref=\"p1.1.m1.1.1\">Q11402</csymbol>\n               <cn id=\"p1.1.m1.1.2.1.cmml\" type=\"integer\" xref=\"p1.1.m1.1.2.1\">12</cn>\n            </apply>\n            <apply id=\"p1.1.m1.1.7.2.cmml\" xref=\"p1.1.m1.1.7.2\">\n               <minus id=\"p1.1.m1.1.4.cmml\" xref=\"p1.1.m1.1.4\"/>\n               <apply id=\"p1.1.m1.1.7.2.1.cmml\" xref=\"p1.1.m1.1.7.2.1\">\n                  <csymbol cd=\"ambiguous\" id=\"p1.1.m1.1.7.2.1.1.cmml\" xref=\"p1.1.m1.1.7.2.1\">subscript</csymbol>\n                  <csymbol cd=\"wikidata\" id=\"p1.1.m1.1.5.cmml\" xref=\"p1.1.m1.1.5\">Q11402</csymbol>\n                  <cn id=\"p1.1.m1.1.6.1.cmml\" type=\"integer\" xref=\"p1.1.m1.1.6.1\">21</cn>\n               </apply>\n            </apply>\n         </apply>\n      </annotation-xml>\n      <annotation encoding=\"application/x-tex\" id=\"p1.1.m1.1c\">\\mathbf{F}_{12}=-\\mathbf{F}_{21}</annotation>\n   </semantics>\n</math>\n",
+  "uri": "https://www.wikidata.org/wiki/Q3235565",
+  "title": "newton's third law of motion",
+  "comment": "Imported from AnnoMathTeX seeding.",
+  "type": "definition",
+  "check": {
+    "tree": true,
+    "qid": false
+  }
+}

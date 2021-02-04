@@ -215,7 +215,7 @@ def get_formula():
             if symbols:
                 mode_number = 1
             else:
-                mode_number = 6
+                mode_number = 2
 
             # results = search_formulae_by_identifier_names\
             #     (identifier_names=identifier_names,catalog="NTCIR-12_arXiv_astro-ph"\
@@ -343,5 +343,5 @@ def my_form_json():
 
 
 if __name__ == '__main__':
-    app.run(debug=True,host='0.0.0.0')
+    app.run(debug=True)
     # get_formula()

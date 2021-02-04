@@ -1,0 +1,16 @@
+{
+  "definitions": {},
+  "constraints": [],
+  "math_inputtex": "\\mathcal{L}  = T-V",
+  "math_inputtex_semantic": "\\w{Q103687426}{\\mathcal{L}}  = \\w{Q46276}{T}-\\w{Q155640}{V}",
+  "correct_tex": "\\mathcal{L}  = T-V",
+  "correct_mml": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"\n      xmlns:xlink=\"http://www.w3.org/1999/xlink\"\n      alttext=\"\\mathcal{L}=T-V\"\n      class=\"ltx_Math\"\n      display=\"inline\"\n      id=\"p1.1.m1.1\">\n   <semantics id=\"p1.1.m1.1a\">\n      <mrow id=\"p1.1.m1.1.6\" xref=\"p1.1.m1.1.6.cmml\">\n         <mi class=\"ltx_font_mathcaligraphic\"\n             id=\"p1.1.m1.1.1\"\n             xref=\"p1.1.m1.1.1.cmml\">ℒ</mi>\n         <mo id=\"p1.1.m1.1.2\" xref=\"p1.1.m1.1.2.cmml\">=</mo>\n         <mrow id=\"p1.1.m1.1.6.1\" xref=\"p1.1.m1.1.6.1.cmml\">\n            <mi id=\"p1.1.m1.1.3\" xref=\"p1.1.m1.1.3.cmml\">T</mi>\n            <mo id=\"p1.1.m1.1.4\" xref=\"p1.1.m1.1.4.cmml\">-</mo>\n            <mi id=\"p1.1.m1.1.5\" xref=\"p1.1.m1.1.5.cmml\">V</mi>\n         </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\" id=\"p1.1.m1.1b\">\n         <apply id=\"p1.1.m1.1.6.cmml\" xref=\"p1.1.m1.1.6\">\n            <eq id=\"p1.1.m1.1.2.cmml\" xref=\"p1.1.m1.1.2\"/>\n            <csymbol cd=\"wikidata\" id=\"p1.1.m1.1.1.cmml\" xref=\"p1.1.m1.1.1\">Q103687426</csymbol>\n            <apply id=\"p1.1.m1.1.6.1.cmml\" xref=\"p1.1.m1.1.6.1\">\n               <minus id=\"p1.1.m1.1.4.cmml\" xref=\"p1.1.m1.1.4\"/>\n               <csymbol cd=\"wikidata\" id=\"p1.1.m1.1.3.cmml\" xref=\"p1.1.m1.1.3\">Q46276</csymbol>\n               <csymbol cd=\"wikidata\" id=\"p1.1.m1.1.5.cmml\" xref=\"p1.1.m1.1.5\">Q155640</csymbol>\n            </apply>\n         </apply>\n      </annotation-xml>\n      <annotation encoding=\"application/x-tex\" id=\"p1.1.m1.1c\">\\mathcal{L}=T-V</annotation>\n   </semantics>\n</math>\n",
+  "uri": "https://www.wikidata.org/wiki/Q103687426",
+  "title": "lagrangian operator",
+  "comment": "Imported from AnnoMathTeX seeding.",
+  "type": "definition",
+  "check": {
+    "tree": true,
+    "qid": true
+  }
+}
