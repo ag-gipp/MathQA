@@ -4,7 +4,7 @@ import math
 
 path = r"C:\Users\phili\Dropbox\PhD\Paper\upcoming\SemanticFormulaSearch\5d6b8d07b6030d2987d20b7b\evaluation\FormulaIdentifierRelationships(Modes1-6)"
 
-arXiv_file = "EvaluationIdentifierNamesToSymbolsOrSymbolsToNames_arXiv.csv"
+arXiv_file = "EvaluationIdentifierNamesToSymbolsOrSymbolsToNames_arXiv(DD).csv"
 Wikipedia_file = "EvaluationIdentifierNamesToSymbolsOrSymbolsToNames_Wikipedia.csv"
 
 def get_score(file_path):
@@ -25,7 +25,10 @@ def get_score(file_path):
         if row != '-' and str(row) != 'nan':
             score_ranks = row.split(", ")
             for score_rank in score_ranks:
-                score, rank = make_tuple(score_rank)
+                try:
+                    score, rank = make_tuple(score_rank)
+                except:
+                    pass
                 # rank cutoff
                 if rank <= 10:
                     query = query_col.at[idx]

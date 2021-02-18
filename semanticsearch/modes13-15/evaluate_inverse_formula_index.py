@@ -1,13 +1,15 @@
 import json
 
 # Set file paths
-#basePath = 'D:\\NTCIR-12_MathIR_arXiv_Corpus\\'
-#inputPath = basePath + "output_FeatAna\\"
-basePath = 'D:\\NTCIR-12_MathIR_Wikipedia_Corpus\\'
-inputPath = basePath + "output_RE\\"
+basePath = 'D:\\NTCIR-12_MathIR_arXiv_Corpus\\'
+inputPath = basePath + "output_FeatAna\\"
+index_file = 'inverse_semantic_index_formula_catalog(physics_all).json'
+#basePath = 'D:\\NTCIR-12_MathIR_Wikipedia_Corpus\\'
+#inputPath = basePath + "output_RE\\"
+#index_file = 'inverse_semantic_index_formula_catalog(Wikipedia).json'
 
 # Load inverse index
-with open(inputPath + 'inverse_semantic_index_formula_catalog(Wikipedia).json','r',encoding='utf8') as f:
+with open(inputPath + index_file,'r',encoding='utf8') as f:
     formula_index = json.load(f)
 
 # Load example queries
