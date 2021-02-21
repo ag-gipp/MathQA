@@ -1,0 +1,13 @@
+Mode;Query;Top1 Acc.;mean(DCG)
+7;identifier names.,arXiv;0.06;0.23
+8;identifier names, Wikipedia;0.03;0.24
+9;identifier names, Wikidata;0.85;0.98
+10;identifier symbols, arXiv;0;0
+11;identifier symbols, Wikipedia;0.24;0.98
+12;identifier symbols, Wikidata;0.48;0.46
+;;;
+;mean(names);0.313333333333333;0.483333333333333
+;mean(symbols);0.24;0.48
+;mean(arXiv);0.03;0.115
+;mean(Wikipedia);0.135;0.61
+;mean(Wikidata);0.665;0.72

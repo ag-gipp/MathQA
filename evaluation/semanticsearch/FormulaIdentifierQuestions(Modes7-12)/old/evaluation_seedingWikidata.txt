@@ -1,0 +1,14 @@
+Question types:
+-`What is the name of [formula string]'?
+-`What is the formula for [formula name]'?
+-`What is the relationship between [identifier name 1] and [identifier name 2] and ...?'
+-`What is the relationship between [identifier symbol 1] and [identifier symbol 2] and ...?'
+
+Use Wikidata SPARQL queries
+Maybe also surrounding text index of Wikipedia articles
+
+Dataset: `https://github.com/ag-gipp/dataAnnoMathTex/tree/master/evaluation
+
+Goldstandard connecting AnnoMathTeX, Mathmlben, and MathQA
+
+%MathQA should also return Wikipedia article link (maybe with passage)

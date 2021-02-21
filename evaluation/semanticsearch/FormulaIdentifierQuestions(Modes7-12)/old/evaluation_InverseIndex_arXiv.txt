@@ -1,0 +1,21 @@
+MathQA-2
+
+test-parameter:
+-search identifier names or symbols
+-search formulae by using single/multiple identifier annotations
+-display identifier by using single/multiple identifier annotations
+-formula catalog (arxiv_astro or wikipedia_mathir)
+-identifier semantics list (arxiv,wikipedia)
+
+-test-set:
+-formula catalog (arxiv_astro or wikipedia_mathir)
+
+test-selection:
+-mathmlben,formula concepts,mathqa,?
+
+test-example:
+-E = m c^2, F = m a, F = k x, s = v t, E_kin, E_pot, ...
+
+explain evalution classification
+relevant={concise,extended,related},irrelevant
+describing examples (e.g., hydrogen atom, etc.)

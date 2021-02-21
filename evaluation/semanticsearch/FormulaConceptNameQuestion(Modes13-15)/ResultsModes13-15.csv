@@ -1,0 +1,6 @@
+Mode;Query;Top1 Acc.;mean(DCG)
+13;formula names, arXiv;0.0
+14;formula names, Wikipedia;0.17;0.98
+15;formula names, Wikdata;0.52;1.03
+;;;
+;mean;0.23;0.67

@@ -1,0 +1,1238 @@
+Name 	 Score 	 Formula 																											
+acceleration 	2	 {\displaystyle \omega ={\frac {d\phi }{dt}}={\frac {v_{\perp }}{r}}} 																											
+acceleration 	0	 {\displaystyle {\frac {\lambda }{1+\lambda }}\nabla \cdot (\mathbf {\Sigma } _{i}\nabla v)=\chi (C_{m}{\frac {\partial v}{\partial t}}+I_{\text{ion}})} 																											
+acceleration 	0	 {\displaystyle \%{\mbox{ difference}}=\left({\frac {r_{solute}-r_{solvent}}{r_{solvent}}}\right)\times 100\%\leq 15\%} 																											
+acceleration 	0	 {\displaystyle RI={\frac {v_{systole}-v_{diastole}}{v_{systole}}}} 																											
+acceleration 	0	 {\displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})} 																											
+acceleration 	0	 {\displaystyle \rho _{0}{\frac {\partial ^{2}\mathbf {u} }{\partial t^{2}}}=\left(\lambda +\mu \right)\mathbf {grad} \left(\mathrm {div} \	\mathbf {u} \right)+\mu \Delta \mathbf {u} +\mathbf {f} _{v}} 																										
+acceleration 	0	 {\displaystyle v={V/\Delta t \over {A}}} 																											
+acceleration 	1	 {\displaystyle \alpha ={\frac {dv_{\perp }}{dt}}} 																											
+acceleration 	0	 {\displaystyle {\frac {\partial c}{\partial t}}=\nabla \cdot (D\nabla c)-\nabla \cdot ({\vec {v}}c)+R} 																											
+acceleration 	0	 {\displaystyle X=\{X_{1},\ldots ,X_{n}\}isasetofvariables} 																											
+acceleration 	0	 {\displaystyle r'(t)=r(t)-vt} 																											
+acceleration 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+acceleration 	0	 {\displaystyle v_{i}={\operatorname {d} [M\cdot ]/\operatorname {d} t}=2k_{d}f[I]} 																											
+acceleration 	0	 {\displaystyle \mathbf {v} =v{\hat {\mathbf {u} }}_{t}} 																											
+acceleration 	0	 {\displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)} 																											
+acceleration 	0	 {\displaystyle kvitjul} 																											
+acceleration 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+acceleration 	0	 {\displaystyle k_{t}={\frac {t_{v}}{T_{N}}}={\frac {t_{N}-t_{NV}}{T_{N}}}} 																											
+acceleration 	0	 {\displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},} 																											
+acceleration 	0	 {\displaystyle W_{v}(s+1)=W_{v}(s)+\theta (u,v,s)\cdot \alpha (s)\cdot (D(t)-W_{v}(s))} 																											
+acceleration 	0	 {\displaystyle {\vec {x}}={\vec {p}}+s{\vec {u}}+t{\vec {v}}} 																											
+acceleration 	0	 {\displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t} 																											
+acceleration 	0	 {\displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}} 																											
+acceleration 	0	 {\displaystyle {\begin{array}{l}v_{n+1}=v_{n}+g\left(t_{n},x_{n}\right)\Delta t\\x_{n+1}=x_{n}+f\left(t_{n},v_{n+1}\right)\Delta t\end{array}}} 																											
+acceleration 	0	 {\displaystyle TRevPAR=TotalRevenue/RoomsAvailable} 																											
+acceleration 	0	 {\displaystyle v={\frac {s}{t}}} 																											
+acceleration 	0	 {\displaystyle E={\frac {1}{2}}\rho Av^{3}t} 																											
+acceleration 	0	 {\displaystyle \sum _{n=0}^{\infty }\phi _{n}(\alpha ,\beta )t^{n}=\exp \left[\sum _{n=1}^{\infty }{\frac {t^{n}}{n}}\left(u_{n}(\alpha )+v_{n}(\beta )-1\right)\right]} 																											
+acceleration 	0	 {\displaystyle {\vec {s}}={\frac {d\,{\vec {\jmath }}}{dt}}={\frac {d^{2}{\vec {a}}}{dt^{2}}}={\frac {d^{3}{\vec {v}}}{dt^{3}}}={\frac {d^{4}{\vec {r}}}{dt^{4}}}} 																											
+acceleration 	0	 {\displaystyle \mathrm {EG} ={\frac {w_{A}-w_{B}}{v_{tot}}}} 																											
+acceleration 	0	 {\displaystyle v=s/t} 																											
+acceleration 	0	 {\displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}} 																											
+acceleration 	0	 {\displaystyle v(t)=-gt+v_{0}} 																											
+acceleration 	0	 {\displaystyle t'=\gamma \left(t-{\frac {vx}{c^{2}}}\right),x'=\gamma \left(x-vt\right)} 																											
+acceleration 	0	 {\displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.} 																											
+acceleration 	0	 {\displaystyle {\frac {\partial (\rho Y_{i})}{\partial t}}+\nabla \cdot (\rho {\vec {v}}Y_{i})=-\nabla \cdot {\vec {J}}_{i}+R_{i}+S_{i}} 																											
+acceleration 	0	 {\displaystyle \mathrm {D} ={\frac {\partial }{\partial t}}+\nabla _{v}} 																											
+acceleration 	0	 {\displaystyle {\bar {\boldsymbol {v}}}(x,y,z,t)=v_{x}(x,y,z,t){\hat {\boldsymbol {i}}}+v_{y}(x,y,z,t){\hat {\boldsymbol {j}}}} 																											
+acceleration 	0	 {\displaystyle T(p)=\Box pforany[[propositionalvariable]]p} 																											
+acceleration 	0	 {\displaystyle t={\frac {\lambda }{c-v}}={\frac {c}{(c-v)f_{s}}}={\frac {1}{(1-\beta )f_{s}}}} 																											
+acceleration 	0	 {\displaystyle \operatorname {ec} (G)=t_{w}(G)\prod _{v\in V}{\bigl (}\deg(v)-1{\bigr )}} 																											
+center of mass 	0	 {\displaystyle \ \Phi (\mathbf {r} )=R_{l}(r)Y_{lm}(\theta ,\phi )} 																											
+center of mass 	0	 {\displaystyle \forall r,s\in R,m,n\in M} 																											
+center of mass 	0	 {\displaystyle {\vec {g}}=-{\frac {Gm_{\oplus }}{{R_{\oplus }}^{2}}}{\vec {r}}} 																											
+center of mass 	0	 {\displaystyle {\begin{aligned}m+n&amp	#NAME?	&amp	(m,n\in M)\\(m+n)+p&amp	#NAME?	&amp	(m,n,p\in M)\\m+0_{M}&amp	#NAME?	&amp	(m\in M)\\(-m)+m&amp	Fehler:539	&amp	(m\in M)\\r(sm)&amp	Fehler:509	&amp	(m\in M,\	r,s\in R)\\1_{R}m&amp	#NAME?	&amp	(m\in M)\\r(m+n)&amp	#NAME?	&amp	(m,n\in M,\	r\in R)\\(r+s)m&amp	#NAME?	&amp	(m\in M,\	r,s\in R)\end{aligned}}} 
+center of mass 	0	 {\displaystyle R\geq 1-(1-r)m} 																											
+center of mass 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+center of mass 	0	 {\displaystyle RfD(mg/kg/day)={NOEL(mg/kg/day) \over Uf_{inter}*Uf_{intra}*Uf_{other}}} 																											
+center of mass 	0	 {\displaystyle {\begin{aligned}R_{\ell }^{m}(\mathbf {r} )&amp	\equiv {\sqrt {\frac {4\pi }{2\ell +1}}}\	r^{\ell }Y_{\ell }^{m}(\theta ,\varphi )\\I_{\ell }^{m}(\mathbf {r} )&amp	\equiv {\sqrt {\frac {4\pi }{2\ell +1}}}\	{\frac {Y_{\ell }^{m}(\theta ,\varphi )}{r^{\ell +1}}}\end{aligned}}} 																							
+center of mass 	0	 {\displaystyle -{\frac {\hbar ^{2}}{2m}}{\frac {d^{2}R(r)}{dr^{2}}}+[E-V_{\textrm {eff}}(r)]R(r)=0} 																											
+center of mass 	0	 {\displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}} 																											
+center of mass 	0	 {\displaystyle {\begin{aligned}R^{-1}&amp	Fehler:533	Fehler:539																									
+centripetal acceleration 	1	 {\displaystyle \omega ={\frac {d\phi }{dt}}={\frac {v_{\perp }}{r}}} 																											
+centripetal acceleration 	0	 {\displaystyle e_{v}=m_{v}g_{v}r\ln \left({S \over r}\right)} 																											
+centripetal acceleration 	0	 {\displaystyle \%{\mbox{ difference}}=\left({\frac {r_{solute}-r_{solvent}}{r_{solvent}}}\right)\times 100\%\leq 15\%} 																											
+centripetal acceleration 	0	 {\displaystyle v=r_{A}\omega _{A}=r_{B}\omega _{B}} 																											
+centripetal acceleration 	0	 {\displaystyle \theta =\pi -2b\int _{r_{\mathrm {min} }}^{\infty }{\frac {dr}{r^{2}{\sqrt {1-(b/r)^{2}-2U/mv_{\infty }^{2}}}}}} 																											
+centripetal acceleration 	0	 {\displaystyle \Gamma ={\frac {V_{rev}}{V_{fwd}}}} 																											
+centripetal acceleration 	0	 {\displaystyle {\mathit {Go}}={\frac {vl_{\mathrm {b} }}{\nu }}{\sqrt {\frac {l_{\mathrm {b} }}{r_{\mathrm {c} }}}}} 																											
+centripetal acceleration 	0	 {\displaystyle r'(t)=r(t)-vt} 																											
+centripetal acceleration 	0	 {\displaystyle T(v_{1},v_{2},\ldots ,v_{r})=T(v_{\sigma 1},v_{\sigma 2},\ldots ,v_{\sigma r})} 																											
+centripetal acceleration 	0	 {\displaystyle x(u,v)=\left(R+r\cos {v}\right)\cos {u}} 																											
+centripetal acceleration 	1	 {\displaystyle {\vec {F}}=-{\frac {mv^{2}{\hat {r}}}{r}}} 																											
+centripetal acceleration 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+centripetal acceleration 	0	 {\displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)} 																											
+centripetal acceleration 	0	 {\displaystyle X=\{X_{1},\ldots ,X_{n}\}isasetofvariables} 																											
+centripetal acceleration 	0	 {\displaystyle {\vec {s}}={\frac {d\,{\vec {\jmath }}}{dt}}={\frac {d^{2}{\vec {a}}}{dt^{2}}}={\frac {d^{3}{\vec {v}}}{dt^{3}}}={\frac {d^{4}{\vec {r}}}{dt^{4}}}} 																											
+centripetal acceleration 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+centripetal acceleration 	0	 {\displaystyle {\mathit {Dn}}={\frac {2vr}{\nu }}{\sqrt {\frac {r}{R}}}} 																											
+centripetal acceleration 	0	 {\displaystyle F_{\mathrm {R} }=6\pi \cdot r\cdot \eta \cdot v} 																											
+centripetal acceleration 	0	 {\displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t} 																											
+centripetal acceleration 	0	 {\displaystyle POF={\frac {\max _{D\in Divisions}{(welfare(D))}}{\max _{D\in FairDivisions}{(welfare(D))}}}} 																											
+centripetal acceleration 	0	 {\displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}} 																											
+centripetal acceleration 	0	 {\displaystyle v=r+\gamma Pv} 																											
+centripetal acceleration 	0	 {\displaystyle r(G)=1+\min _{v\in V}r(G-v)} 																											
+centripetal acceleration 	0	 {\displaystyle T(p)=\Box pforany[[propositionalvariable]]p} 																											
+centripetal acceleration 	0	 {\displaystyle a_{c}={\frac {v^{2}}{r}}} 																											
+centripetal acceleration 	0	 {\displaystyle v=\omega r} 																											
+centripetal acceleration 	0	 {\displaystyle v_{\text{e}}={\sqrt {\frac {2GM}{r}}}={\sqrt {2gr}}} 																											
+centripetal force 	0	 {\displaystyle \theta =\pi -2b\int _{r_{\mathrm {min} }}^{\infty }{\frac {dr}{r^{2}{\sqrt {1-(b/r)^{2}-2U/mv_{\infty }^{2}}}}}} 																											
+centripetal force 	0	 {\displaystyle e_{v}=m_{v}g_{v}r\ln \left({S \over r}\right)} 																											
+centripetal force 	2	 {\displaystyle {\vec {F}}=-{\frac {mv^{2}{\hat {r}}}{r}}} 																											
+centripetal force 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+damping 	0	 {\displaystyle P(i,j,k,m)\equiv d(c_{i},c_{j})\leq {\frac {m}{k+1}}} 																											
+damping 	0	 {\displaystyle c_{ij}=\sum _{k=1}^{m}a_{ik}b_{kj}} 																											
+damping 	0	 {\displaystyle \Delta f_{\text{FWHM}}={\sqrt {\frac {8kT\ln 2}{mc^{2}}}}f_{0}} 																											
+damping 	2	 {\displaystyle \zeta ={\frac {c}{2{\sqrt {mk}}}}} 																											
+damping 	0	 {\displaystyle \sigma _{f}={\sqrt {\frac {kT}{mc^{2}}}}f_{0}} 																											
+elastic energy 	0	 {\displaystyle \prod _{n=1}^{\infty }\left(1-x^{n}\right)=\sum _{k=-\infty }^{\infty }\left(-1\right)^{k}x^{k\left(3k-1\right)/2}=1+\sum _{k=1}^{\infty }(-1)^{k}\left(x^{k(3k+1)/2}+x^{k(3k-1)/2}\right)} 																											
+elastic energy 	0	 {\displaystyle f(x)=\sum _{k=0}^{\infty }{\frac {\phi (k)}{k!}}(-x)^{k}\!} 																											
+elastic energy 	0	 {\displaystyle P(x,y)=\sum a_{ik}x^{i}y^{k}=0} 																											
+elastic energy 	0	 {\displaystyle \ln x=\log _{e}x=\sum _{k=1}^{\infty }{z^{k} \over k}=z+{z^{2} \over 2}+{z^{3} \over 3}+\cdots } 																											
+elastic energy 	0	 {\displaystyle f_{X}(x	n)={\frac {1}{2(n-1)!}}\sum _{k=0}^{n}(-1)^{k}{n \choose k}(x-k)^{n-1}\operatorname {sgn}(x-k)} 																										
+elastic energy 	0	 {\displaystyle \alpha _{T}={\frac {k_{T}}{x_{\mathrm {A} }x_{\mathrm {B} }}}} 																											
+elastic energy 	0	 {\displaystyle f(x)={\frac {a_{0}}{2}}+\sum _{k=1}^{n}(a_{k}\cos(kx)+b_{k}\sin(kx))} 																											
+elastic energy 	0	 {\displaystyle f(x)=\sum _{k=1}^{n}a_{k}{\mathbf {1} }_{A_{k}}(x)} 																											
+elastic energy 	0	 {\displaystyle \sum _{k=1}^{\infty }\left\vert \left\langle x,e_{k}\right\rangle \right\vert ^{2}\leq \left\Vert x\right\Vert ^{2}} 																											
+elastic energy 	0	 {\displaystyle R_{xx}(k)=\alpha _{k}} 																											
+elastic energy 	0	 {\displaystyle f(x	\lambda ,k)={\begin{cases}{\frac {k}{\lambda }}({\frac {x}{\lambda }})^{k-1}e^{-(x/\lambda )^{k}}&amp	x\geq 0,\\0&amp	x&lt	0,\end{cases}}} 																							
+elastic energy 	0	 {\displaystyle X_{k}=\sum _{n=0}^{N-1}x_{n}e^{-{\frac {2\pi i}{N}}nk}} 																											
+elastic energy 	0	 {\displaystyle (x+y)^{r}=\sum _{k=0}^{\infty }{r \choose k}x^{k}y^{r-k}} 																											
+elastic energy 	0	 {\displaystyle f_{X}(x	n)={\frac {n}{2(n-1)!}}\sum _{k=0}^{n}(-1)^{k}{n \choose k}(nx-k)^{n-1}\operatorname {sgn}(nx-k)} 																										
+elastic energy 	0	 {\displaystyle I(k)=\int g(x)e^{ikf(x)}\,dx} 																											
+elastic energy 	0	 {\displaystyle \sum _{i,j=1}^{m}g^{ij}\left({\frac {\partial ^{2}\phi ^{\gamma }}{\partial x_{i}\partial x_{j}}}-\sum _{k=1}^{m}{\hat {\Gamma }}_{ij}^{k}{\frac {\partial \phi ^{\gamma }}{\partial x_{k}}}+\sum _{\alpha ,\beta =1}^{n}\Gamma _{\alpha \beta }^{\gamma }\circ \phi {\frac {\partial \phi ^{\alpha }}{\partial x_{i}}}{\frac {\partial \phi ^{\beta }}{\partial x_{j}}}\right)=0} 																											
+elastic energy 	0	 {\displaystyle (x_{1}+x_{2}+\cdots +x_{m})^{n}=\sum _{k_{1}+k_{2}+\cdots +k_{m}=n}{n \choose k_{1},k_{2},\ldots ,k_{m}}\prod _{t=1}^{m}x_{t}^{k_{t}}\,,} 																											
+elastic energy 	0	 {\displaystyle \omega (x,f)=\bigcap _{n\in \mathbb {N} }{\overline {\{f^{k}(x)k&gt	n\}}}} 																										
+elastic energy 	0	 {\displaystyle [{\mathcal {T}}_{n}(f)](x)=ne^{-nx}\sum _{k=0}^{\infty }{{\frac {(nx)^{k}}{k!}}\int _{k/n}^{(k+1)/n}f(t)\,dt}} 																											
+elastic energy 	0	 {\displaystyle Q=\{x\in k^{n}\mid x^{T}Ax+2b^{T}x+c=0\}} 																											
+elastic energy 	0	 {\displaystyle h_{n}(x	q)=\sum _{k=0}^{n}{\frac {(q	q)_{n}}{(q	q)_{k}(q	q)_{n-k}}}x^{k}} 																							
+elastic energy 	0	 {\displaystyle u'+x'i+y'j+z'k=(a+bi+cj+dk)(u+xi+yj+zk)(p+qi+rj+sk),} 																											
+elastic energy 	0	 {\displaystyle p_{k}(x_{1},\ldots ,x_{n})=\sum \nolimits _{i=1}^{n}x_{i}^{k}=x_{1}^{k}+\cdots +x_{n}^{k}} 																											
+elastic energy 	0	 {\displaystyle \{kxk\in K\}} 																											
+elastic energy 	0	 {\displaystyle S(x)=\sum _{k=0}^{n}a_{k}\phi _{k}(x)} 																											
+elastic energy 	0	 {\displaystyle M_{n}(x,\beta ,\gamma )=\sum _{k=0}^{n}(-1)^{k}{n \choose k}{x \choose k}k!(x+\beta )_{n-k}\gamma ^{-k}} 																											
+elastic energy 	0	 {\displaystyle F(k)=|F(k)|e^{i\psi (k)}=\int _{-\infty }^{\infty }f(x)\ e^{-2\pi ik\cdot x}\,dx} 																											
+elastic energy 	0	 {\displaystyle x(u)=a\operatorname {sn} (u,k)+(a/k){\big (}(1-k^{2})u-E(u,k){\big )}} 																											
+elastic energy 	0	 {\displaystyle ds^{2}=dt^{2}-a^{2}(t)d\chi ^{2}=dt^{2}-a^{2}(t)\left(dx^{2}+k{\frac {(xdx)^{2}}{1-kx^{2}}}\right)} 																											
+elastic energy 	0	 {\displaystyle V={\dfrac {1}{2}}kx^{2}} 																											
+elastic energy 	0	 {\displaystyle x_{k+1}=x_{k}-{\frac {2f(x_{k})}{w\pm {\sqrt {\left(f[x_{k},x_{k-1}]+f[x_{k},x_{k-2}]-f[x_{k-1},x_{k-2}]\right)^{2}-4f(x_{k})f[x_{k},x_{k-1},x_{k-2}]}}}}.} 																											
+elastic energy 	0	 {\displaystyle x_{k+1}=x_{k}-{\frac {f^{'}\left(x_{k}\right)}{f''\left(x_{k}\right)}}} 																											
+elastic energy 	0	 {\displaystyle P(x)=\sum _{k=0}^{n}a_{k}x^{k}} 																											
+elastic energy 	0	 {\displaystyle H(m)\,\equiv \,xr+sk{\pmod {p-1}}} 																											
+elastic energy 	0	 {\displaystyle p_{n}(x+y)=\sum _{k=0}^{n}{n \choose k}\,p_{k}(x)\,p_{n-k}(y)} 																											
+elastic energy 	0	 {\displaystyle \mathbf {grad} \,x_{\mathrm {B} }=-{\frac {k_{T}}{T}}\mathbf {grad} \,T} 																											
+elastic energy 	0	 {\displaystyle f(x_{k}+s_{k})=f(x_{k})+\nabla f(x_{k})^{T}s_{k}+{\frac {1}{2}}s_{k}^{T}{B}s_{k}} 																											
+elastic energy 	0	 {\displaystyle \operatorname {aff} (S)=\left\{\sum _{i=1}^{k}\alpha _{i}x_{i}\,{\Bigg |}\,k&gt	0,\,x_{i}\in S,\,\alpha _{i}\in \mathbb {R} ,\,\sum _{i=1}^{k}\alpha _{i}=1\right\}} 																										
+elastic energy 	0	 {\displaystyle {\begin{cases}x(t)=k(\cos {t}+t\,\sin {t})\\y(t)=k(\sin {t}-t\,\cos {t})\end{cases}}} 																											
+elastic energy 	0	 {\displaystyle [{\mathcal {F}}_{n}(f)](x)={\frac {1}{\sqrt {n\pi }}}\sum _{k=-\infty }^{\infty }{\exp {\left({-n{\left({{\frac {k}{n}}-x}\right)}^{2}}\right)}f\left({\frac {k}{n}}\right)}} 																											
+elastic energy 	0	 {\displaystyle f(x)={\frac {L}{1+\mathrm {e} ^{-k(x-x_{0})}}}} 																											
+elastic energy 	0	 {\displaystyle {\frac {\partial u}{\partial t}}-{\frac {\partial ^{2}u}{\partial x^{2}}}={\frac {\alpha }{k}}u(1-u^{q})} 																											
+elastic energy 	0	 {\displaystyle \int _{a}^{b}h(x)\	\mathrm {d} x\approx \sum _{k=1}^{n}w_{k}h(x_{k})} 																										
+elastic energy 	0	 {\displaystyle X_{\mu }^{k}(\sigma ,\theta )=x_{\mu }^{k}+O(\sigma ,\theta )} 																											
+elastic energy 	0	 {\displaystyle U={\frac {1}{2}}k\Delta x^{2}} 																											
+elastic energy 	0	 {\displaystyle x_{k}(\zeta )=\Re \left\{\int _{0}^{\zeta }\varphi _{k}(z)\,dz\right\}+c_{k},\qquad k=1,2,3} 																											
+elastic energy 	0	 {\displaystyle M(x_{1},\ldots ,x_{n})=\varphi ^{-1}\left({\frac {1}{n}}\sum _{k=1}^{n}\varphi (x_{k})\right)=\varphi ^{-1}\left({\frac {\varphi (x_{1})+\ldots +\varphi (x_{n})}{n}}\right)} 																											
+elastic energy 	0	 {\displaystyle \varphi =g\mathrm {d} x^{I}=g\mathrm {d} x^{i_{1}}\wedge \mathrm {d} x^{i_{2}}\wedge \cdots \wedge \mathrm {d} x^{i_{k}}} 																											
+elastic energy 	0	 {\displaystyle \sum \limits _{a\leqslant k&lt	b}f(k)=\int \limits _{a}^{b}f(x)dx+\left.\sum \limits _{k=1}^{m}{\frac {B_{k}}{k!}}f^{(k-1)}(x)\right|_{a}^{b}+R_{m},R_{m}=(-1)^{m+1}\int \limits _{a}^{b}{\frac {B_{m}(\{x\})}{m!}}f^{(m)}(x)dx} 																										
+elastic energy 	0	 {\displaystyle \prod _{k=1}^{n}(x_{k}+y_{k})^{1/n}\geq \prod _{k=1}^{n}x_{k}^{1/n}+\prod _{k=1}^{n}y_{k}^{1/n}} 																											
+elastic energy 	0	 {\displaystyle B_{m}(x)=\sum _{n=0}^{m}{\frac {1}{n+1}}\sum _{k=0}^{n}(-1)^{k}{n \choose k}(x+k)^{m}} 																											
+elastic energy 	0	 {\displaystyle x(t)=f(t)+\sum _{i=m}^{n}k(t,s,x(s))} 																											
+elastic energy 	0	 {\displaystyle \sum _{k=0}^{n}{\frac {x}{x+kz}}{x+kz \choose k}{\frac {y}{y+(n-k)z}}{y+(n-k)z \choose n-k}={\frac {x+y}{x+y+nz}}{x+y+nz \choose n}} 																											
+elastic energy 	0	 {\displaystyle e_{k}(x_{1},\dotsc ,x_{n})=\sum _{1\leq i_{1}&lt	i_{2}&lt	\dotsb &lt	i_{k}\leq n}x_{i_{1}}x_{i_{2}}\dotsm x_{i_{k}}} 																								
+elastic energy 	0	 {\displaystyle (x+y)^{n}=\sum _{k=0}^{n}{n \choose k}x^{n-k}y^{k}} 																											
+elastic energy 	0	 {\displaystyle ax+by=1\implies axc+byc=c\implies axc+aky=c\implies a(cx+ky)=c} 																											
+elastic energy 	0	 {\displaystyle {\frac {x}{m}}=kP^{\frac {1}{n}}} 																											
+elastic energy 	0	 {\displaystyle \sum _{k=0}^{n-1}\left\lfloor x+{\frac {k}{n}}\right\rfloor =\lfloor nx\rfloor } 																											
+elastic energy 	0	 {\displaystyle \int _{\Omega }\int _{\Omega }|k(x,y)|^{2}\,dx\,dy&lt	\infty } 																										
+elastic energy 	0	 {\displaystyle {\frac {dL}{dx}}=L_{0}{\frac {\frac {dE}{dx}}{1+kB{\frac {dE}{dx}}}}} 																											
+elastic energy 	0	 {\displaystyle [{\mathcal {L}}_{n}(f)](x)=\sum _{k=0}^{\infty }{(-1)^{k}{\frac {x^{k}}{k!}}\phi _{n}^{(k)}(x)f\left({\frac {k}{n}}\right)}} 																											
+elastic energy 	0	 {\displaystyle f=f(x)=\sum _{k=0}^{\infty }a_{k}x^{k}=a_{0}+a_{1}x^{1}+a_{2}x^{2}+a_{3}x^{3}+\cdots } 																											
+elastic energy 	0	 {\displaystyle \rho _{e}=e{(c^{+}-c^{-})}=c_{0}e\cdot \left[e^{\frac {-e\psi (x,y,z)}{k_{B}T}}-e^{\frac {e\psi (x,y,z)}{k_{B}T}}\right]} 																											
+elastic energy 	0	 {\displaystyle \psi (x,t)=A\cos(kx-\omega t+\varphi )} 																											
+elastic energy 	0	 {\displaystyle (1+x)^{\alpha }=\sum _{k=0}^{\infty }\	{\alpha  \choose k}\	x^{k}=1+\alpha x+{\frac {\alpha (\alpha -1)}{2!}}x^{2}+\cdots } 																									
+elastic energy 	0	 {\displaystyle k\langle x,y\rangle /(yx-qxy)} 																											
+elastic energy 	0	 {\displaystyle {\mathcal {K}}_{k}(x	n,q)={\mathcal {K}}_{k}(x)=\sum _{j=0}^{k}(-1)^{j}(q-1)^{k-j}{\binom {x}{j}}{\binom {n-x}{k-j}},\quad k=0,1,\ldots ,n} 																										
+elastic energy 	0	 {\displaystyle \operatorname {E} [X]=x_{1}p_{1}+x_{2}p_{2}+\cdots +x_{k}p_{k}\	} 																										
+elastic energy 	0	 {\displaystyle P(x_{k},m|Z_{0:k},U_{0:k},x_{0})} 																											
+elastic energy 	0	 {\displaystyle {\begin{aligned}x(t)&amp	Fehler:509	Fehler:539																									
+elastic energy 	0	 {\displaystyle \displaystyle \ell _{n}(x,\lambda )=e^{-n\lambda }\sum _{k}(1-e^{\lambda })^{k}{\binom {n}{k}}{\binom {x}{k}}=e^{-n\lambda }{}_{2}F_{1}(-n,-x	1	1-e^{\lambda })} 																									
+elastic energy 	0	 {\displaystyle \max _{-1\leq x\leq 1}|P^{(k)}(x)|\leq {\frac {n^{2}(n^{2}-1^{2})(n^{2}-2^{2})\cdots (n^{2}-(k-1)^{2})}{1\cdot 3\cdot 5\cdots (2k-1)}}\max _{-1\leq x\leq 1}|P(x)|} 																											
+elastic energy 	0	 {\displaystyle \left[{\mathcal {S}}_{n}(f)\right](x)&lt	/math&gt	Fehler:510	math&gt	e^{-nx}\sum _{k=0}^{\infty }{{\frac {(nx)^{k}}{k!}}f\left({\frac {k}{n}}\right)}} 																							
+elastic energy 	0	 {\displaystyle \xi =A_{x}f_{x}(z)e^{i(\omega t-kx)}\quad \quad (1)} 																											
+electromagnetic force 	2	 {\displaystyle {\vec {F}}=q({\vec {E}}+{\vec {v}}\times {\vec {B}})} 																											
+energy-momentum relation 	0	 {\displaystyle OB\%={\frac {-1600}{Mol.wt.ofcompound}}\times (2X+(Y/2)+M-Z)} 																											
+energy-momentum relation 	0	 {\displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})} 																											
+energy-momentum relation 	2	 {\displaystyle E^{2}-|{\vec {p}}\,|^{2}c^{2}=m^{2}c^{4}} 																											
+energy-momentum relation 	0	 {\displaystyle e(c)=n\prod _{i=1}^{m}p_{i}(c_{i})} 																											
+energy-momentum relation 	2	 {\displaystyle m_{0}=c^{-1}{\sqrt {E^{2}/c^{2}-p^{2}}}} 																											
+energy-momentum relation 	0	 {\displaystyle {\frac {1}{v\left[\left({p_{0}}/{p}\right)-1\right]}}={\frac {c-1}{v_{\mathrm {m} }c}}\left({\frac {p}{p_{0}}}\right)+{\frac {1}{v_{m}c}},\qquad (1)} 																											
+energy-momentum relation 	0	 {\displaystyle \sigma _{total}={{\bigl (}\sigma _{sample}^{2}+\sigma _{calib}^{2}{\bigr )}}^{\frac {1}{2}}} 																											
+energy-momentum relation 	0	 {\displaystyle V_{i}isthemembranepotentialofithcompartment} 																											
+energy-momentum relation 	0	 {\displaystyle Compliance={\frac {\Delta V}{\Delta P}}} 																											
+energy-momentum relation 	0	 {\displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess} 																											
+energy-momentum relation 	0	 {\displaystyle E^{2}=p^{2}c^{2}+m^{2}c^{4}} 																											
+energy-momentum relation 	0	 {\displaystyle Z_{1}\,\!theimpedanceofthegenerator} 																											
+energy-momentum relation 	0	 {\displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}} 																											
+energy-momentum relation 	0	 {\displaystyle f(A\mid m)=\prod _{p}\phi \left(A_{p}\mid A_{\text{base}}+r\sum _{c}C_{cp},\nu ^{-1}\right)} 																											
+force 	0	 {\displaystyle \epsilon H=p(t)(q(t+\epsilon )-q(t))-\epsilon L} 																											
+force 	0	 {\displaystyle {\vec {x}}={\vec {p}}+s({\vec {q}}-{\vec {p}})+t({\vec {r}}-{\vec {p}})} 																											
+force 	0	 {\displaystyle r=-{\frac {1}{a}}{\frac {d[\mathrm {A} ]}{dt}}=-{\frac {1}{b}}{\frac {d[\mathrm {B} ]}{dt}}={\frac {1}{p}}{\frac {d[\mathrm {P} ]}{dt}}={\frac {1}{q}}{\frac {d[\mathrm {Q} ]}{dt}}} 																											
+force 	0	 {\displaystyle W_{\mathrm {SWU} }=P\cdot V\left(x_{p}\right)+T\cdot V(x_{t})-F\cdot V(x_{f})} 																											
+force 	0	 {\displaystyle \rho (p)=const} 																											
+force 	0	 {\displaystyle OB\%={\frac {-1600}{Mol.wt.ofcompound}}\times (2X+(Y/2)+M-Z)} 																											
+force 	0	 {\displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})} 																											
+force 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+force 	0	 {\displaystyle net.assets\div net.premium.written} 																											
+force 	0	 {\displaystyle \mathbf {W} isthefull-loadcopperloss} 																											
+force 	0	 {\displaystyle W=\int \limits _{t_{1}}^{t_{2}}p\,\mathrm {d} t} 																											
+force 	0	 {\displaystyle u(t)representstheinputsignal} 																											
+force 	0	 {\displaystyle {d^{2}h^{ij} \over dt^{2}}=\left({1 \over m^{i}}+{1 \over m^{j}}\right)p^{ij}+\sum _{k\neq j}C(ij,ik)\psi (\alpha _{ij,ik}){1 \over m^{i}}p^{ik}+\sum _{l\neq i}C(ij,jl)\psi (\alpha _{ij,jl}){1 \over m^{j}}p^{jl}} 																											
+force 	0	 {\displaystyle P={\frac {1}{T}}\int \limits _{0}^{T}p\,\mathrm {d} t} 																											
+force 	0	 {\displaystyle f^{put}\left(S_{T},k\right)=\left(k-S_{T}\right)^{+}} 																											
+force 	0	 {\displaystyle \sigma _{total}={{\bigl (}\sigma _{sample}^{2}+\sigma _{calib}^{2}{\bigr )}}^{\frac {1}{2}}} 																											
+force 	0	 {\displaystyle RF=\sum _{n=1}^{100}Abs_{i}\cdot F_{i}/(pathlength\cdot density)} 																											
+force 	0	 {\displaystyle \mathrm {Pr} _{t}\,={\frac {c_{p}\eta _{t}}{\varkappa _{t}}}} 																											
+force 	0	 {\displaystyle VP_{n}=C_{c}+C_{f}+V+S=GrossOutput} 																											
+force 	0	 {\displaystyle p(x)=\prod \limits _{t\in K}(x-t)} 																											
+force 	0	 {\displaystyle H_{p}={\frac {(273.15+T)}{1000}}\cdot (C+\log(t))} 																											
+force 	0	 {\displaystyle -\sum _{t}\chi (t)\phi \left({\frac {t}{\pi }}\right)^{(p-1)/m}} 																											
+force 	0	 {\displaystyle p_{ij}\approx \sum _{t}^{T}p_{t}\,p_{it}\,p_{jt}} 																											
+force 	0	 {\displaystyle {\frac {\mathrm {d} \rho }{\mathrm {d} t}}={\frac {\partial \rho }{\partial t}}+\sum _{i=1}^{n}\left({\frac {\partial \rho }{\partial q_{i}}}{\dot {q}}_{i}+{\frac {\partial \rho }{\partial p_{i}}}{\dot {p}}_{i}\right)=0} 																											
+force 	0	 {\displaystyle J(V)={J_{t}}(V)+{J_{e}}(V)-{J_{p}}} 																											
+force 	0	 {\displaystyle Sp_{2}(\mathbb {F} _{q})=\left\{g\in GL_{2n}(\mathbb {F} _{q})\mid ^{t}gJg=J\right\}} 																											
+force 	0	 {\displaystyle i{\frac {\partial }{\partial t}}\rho (x,p)={\hat {L}}\rho (x,p)} 																											
+force 	0	 {\displaystyle p_{tot,1}=p_{tot,2}} 																											
+force 	0	 {\displaystyle Z_{1}\,\!theimpedanceofthegenerator} 																											
+force 	0	 {\displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},} 																											
+force 	0	 {\displaystyle V_{i}isthemembranepotentialofithcompartment} 																											
+force 	0	 {\displaystyle {\vec {x}}={\vec {p}}+s{\vec {u}}+t{\vec {v}}} 																											
+force 	0	 {\displaystyle {\vec {F}}={\frac {\mathrm {d} {\vec {p}}}{\mathrm {d} t}}} 																											
+force 	0	 {\displaystyle E=\int _{t_{1}}^{t_{2}}p^{2}\mathrm {d} t} 																											
+force 	0	 {\displaystyle T(p)=\Box pforany[[propositionalvariable]]p} 																											
+force 	0	 {\displaystyle {\frac {\partial \mathbf {v} }{\partial t}}+(\mathbf {v} \cdot \nabla )\mathbf {v} =\mathbf {g} -{\frac {1}{\rho }}\nabla p} 																											
+force 	0	 {\displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}} 																											
+force 	0	 {\displaystyle t\mapsto f(t)+(p-r(t)){f'(t) \over r'(t)}} 																											
+force 	0	 {\displaystyle p_{1}r_{1}+p_{2}r_{2}=const} 																											
+force 	0	 {\displaystyle p_{t+1}({\hat {x}})=\sum _{x}p(x)p_{t}({\hat {x}}|x)} 																											
+force 	0	 {\displaystyle q_{n}(x)=\int _{\mathbb {R} }\!{\frac {p_{n}(t)-p_{n}(x)}{t-x}}\rho (t)\,dt} 																											
+force 	0	 {\displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.} 																											
+force 	0	 {\displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess} 																											
+force 	0	 {\displaystyle out=(i\times s+o)^{p}} 																											
+force 	0	 {\displaystyle {\hat {H}}={\frac {1}{2}}\left[{\hat {p}}^{2}+\Omega ^{2}(t){\hat {q}}^{2}\right]} 																											
+force 	0	 {\displaystyle JaroWinklerSim(s_{1},s_{2})=\left\{{\begin{array}{l l}JaroSim(s_{1},s_{2})+l\cdot p\cdot \left(1-JaroSim(s_{1},s_{2})\right)&amp	{\text{if }}JaroSim(s_{1},s_{2})&gt	b_{t}\\JaroSim(s_{1},s_{2})&amp	{\text{otherwise}}\end{array}}\right.} 																								
+four-momentum 	0	 {\displaystyle E_{\text{B}}=-{\dfrac {Rhc}{n^{2}}}} 																											
+four-momentum 	0	 {\displaystyle E=mc^{2}} 																											
+four-momentum 	1	 {\displaystyle E^{2}-|{\vec {p}}\,|^{2}c^{2}=m^{2}c^{4}} 																											
+four-momentum 	2	 {\displaystyle p^{\mu }={\begin{matrix}p_{0}\\p_{1}\\p_{2}\\p_{3}\end{matrix}}={\begin{matrix}E/c\\p_{x}\\p_{y}\\p_{z}\end{matrix}}={\begin{matrix}E/c\\{\vec {p}}\end{matrix}}} 																											
+four-momentum 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+four-momentum 	1	 {\displaystyle m_{0}=c^{-1}{\sqrt {E^{2}/c^{2}-p^{2}}}} 																											
+four-momentum 	0	 {\displaystyle E=K'+{\frac {RT}{nF}}\ln(c)} 																											
+four-momentum 	0	 {\displaystyle E=\varepsilon cd} 																											
+four-momentum 	0	 {\displaystyle {\displaystyle W=\Delta E_{c}=E_{c_{2}}-E_{c_{1}}\,}} 																											
+four-momentum 	0	 {\displaystyle (A^{2}+B^{2}+C^{2}+D^{2}+E^{2}+F^{2}+G^{2}+H^{2})(a^{2}+b^{2}+c^{2}+d^{2}+e^{2}+f^{2}+g^{2}+h^{2})=(Aa-Bb-Cc-Dd-Ee-Ff-Gg-Hh)^{2}+(Ab+Ba+Cd-Dc+Ef-Fe-Gh+Hg)^{2}+(Ac-Bd+Ca+Db+Eg+Fh-Ge-Hf)^{2}+(Ad+Bc-Cb+Da+Eh-Fg+Gf-He)^{2}+(Ae-Bf-Cg-Dh+Ea+Fb+Gc+Hd)^{2}+(Af+Be-Ch+Dg-Eb+Fa-Gd+Hc)^{2}+(Ag+Bh+Ce-Df-Ec+Fd+Ga-Hb)^{2}+(Ah-Bg+Cf+De-Ed-Fc+Gb+Ha)^{2}} 																											
+four-momentum 	0	 {\displaystyle s_{q}(x)={\begin{cases}0,&amp	x&lt	-\nu \\{\frac {1}{c(q)}}E_{q^{2}}^{\frac {-q^{2}x^{2}}{[2]_{q}}},&amp	-\nu \leq x\leq \nu \\0,&amp	{\mbox{if }}x&gt	\nu .\end{cases}}} 																						
+four-momentum 	0	 {\displaystyle {\displaystyle \Delta U=W-\Delta E_{c}\,}} 																											
+four-momentum 	0	 {\displaystyle E^{2}=p^{2}c^{2}+m^{2}c^{4}} 																											
+four-momentum 	0	 {\displaystyle E_{0}=m_{0}c_{0}^{2}} 																											
+four-momentum 	0	 {\displaystyle I={\frac {2E}{2Z_{oc}}}} 																											
+four-momentum 	0	 {\displaystyle \sum \limits _{l'm'}{{M_{lm,l'm'}}\left({E,{\bf {k}}}\right){c_{l'm'}}\left(E,{\bf {k}}\right)=0}} 																											
+four-momentum 	0	 {\displaystyle (m_{\mathrm {rest} })c^{2}={\sqrt {E_{\mathrm {total} }^{2}-(|\mathbf {p} |c)^{2}}}} 																											
+four-momentum 	0	 {\displaystyle E_{\text{P}}={\sqrt {\frac {\hbar c^{5}}{G}}}} 																											
+four-momentum 	0	 {\displaystyle {\frac {Energy\ consumed}{Built\ area}}} 																											
+free fall 	0	 {\displaystyle {\frac {d^{2}\theta }{dt^{2}}}+{\frac {g}{l}}\sin \theta =0} 																											
+free fall 	0	 {\displaystyle ds^{2}=\left(1-{r_{g} \over r}\right)dt^{2}-{dr^{2} \over 1-{r_{g} \over r}}-r^{2}\left(d\theta ^{2}+\sin ^{2}\theta d\phi ^{2}\right)} 																											
+free fall 	0	 {\displaystyle F(t)=n\int _{-\infty }^{\infty }g(x)[G(x+t)-G(x)]^{n-1}{\text{d}}x} 																											
+free fall 	0	 {\displaystyle \nabla \left(\kappa \nabla T\right)+g=\rho C{\frac {\partial T}{\partial t}}} 																											
+free fall 	0	 {\displaystyle \mathrm {CI} ={\frac {mass}{height^{3}}}} 																											
+free fall 	0	 {\displaystyle |G|\cdot M(t)=\sum _{g\in G}{\frac {1}{\det(I-tg)}}} 																											
+free fall 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+free fall 	0	 {\displaystyle \mathbb {E} [f(X_{t+s}-X_{t})g(J_{t+s})|{\mathcal {F}}_{t}]=\mathbb {E} _{J_{t},0}[f(X_{s})g(J_{s})]} 																											
+free fall 	0	 {\displaystyle \land =[[logicalconjunction|AND]](logicalconjunction)} 																											
+free fall 	0	 {\displaystyle {\frac {d\epsilon }{dt}}={\frac {\sigma }{d^{3}}}D_{gb}e^{-Q_{Coble}/RT}} 																											
+free fall 	0	 {\displaystyle \displaystyle (1+t)^{z}(1-t)^{-z}=\sum _{n}g_{n}(z)t^{n}} 																											
+free fall 	0	 {\displaystyle \Delta Weight_{front}=a{\frac {h}{w}}m} 																											
+free fall 	0	 {\displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess} 																											
+free fall 	0	 {\displaystyle ABSI={WC \over {BMI^{2 \over 3}\times Height^{1 \over 2}}}} 																											
+free fall 	0	 {\displaystyle u(t)representstheinputsignal} 																											
+free fall 	0	 {\displaystyle \%R={high_{Ndays}-close_{today} \over high_{Ndays}-low_{Ndays}}\times -100} 																											
+free fall 	0	 {\displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},} 																											
+free fall 	0	 {\displaystyle {\begin{array}{l}v_{n+1}=v_{n}+g\left(t_{n},x_{n}\right)\Delta t\\x_{n+1}=x_{n}+f\left(t_{n},v_{n+1}\right)\Delta t\end{array}}} 																											
+free fall 	0	 {\displaystyle u_{tt}-c^{2}u_{xx}=0,\,u(x,0)=g(x),\,u_{t}(x,0)=h(x),} 																											
+free fall 	0	 {\displaystyle \displaystyle \sum g_{n}(x)t^{n}/n!=\exp(x(1+t-e^{t}))} 																											
+free fall 	0	 {\displaystyle RfD(mg/kg/day)={NOEL(mg/kg/day) \over Uf_{inter}*Uf_{intra}*Uf_{other}}} 																											
+free fall 	0	 {\displaystyle Y_{t}=g_{t}+C_{t}+I_{t}	} 																										
+free fall 	0	 {\displaystyle (f*g)(t){\stackrel {\mathrm {def} }{=}}\int _{-\infty }^{\infty }f(\tau )g(t-\tau )d\tau =\int _{-\infty }^{\infty }f(t-\tau )g(\tau )d\tau } 																											
+free fall 	0	 {\displaystyle Z_{1}\,\!theimpedanceofthegenerator} 																											
+free fall 	0	 {\displaystyle g(x,y	t)={\frac {1}{2\pi t}}e^{-(x^{2}+y^{2})/2t}} 																										
+free fall 	0	 {\displaystyle RF=\sum _{n=1}^{100}Abs_{i}\cdot F_{i}/(pathlength\cdot density)} 																											
+free fall 	0	 {\displaystyle f(x)=\int _{a}^{x}g(t)\,dt} 																											
+free fall 	0	 {\displaystyle {d^{2}\theta  \over dt^{2}}+{g \over \ell }\sin \theta =0} 																											
+free fall 	0	 {\displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}} 																											
+free fall 	0	 {\displaystyle {\frac {1}{N}}\sum _{t}\mathbf {1} _{sign(A_{t}-A_{t-1})==sign(F_{t}-F_{t-1})}} 																											
+free fall 	0	 {\displaystyle P={gmh \over t}} 																											
+free fall 	0	 {\displaystyle \mathbf {v} ={\frac {d\mathbf {x} }{dt}}=g(t)} 																											
+free fall 	0	 {\displaystyle {d^{2}x \over dt^{2}}+f(x){dx \over dt}+g(x)=0} 																											
+free fall 	0	 {\displaystyle Sp_{2}(\mathbb {F} _{q})=\left\{g\in GL_{2n}(\mathbb {F} _{q})\mid ^{t}gJg=J\right\}} 																											
+free fall 	0	 {\displaystyle t={\rm {atan2}}(\phi _{g},\theta _{g})+0.000003\times \cos(3000\theta _{g})} 																											
+free fall 	0	 {\displaystyle k_{O}Segregationcoefficient} 																											
+free fall 	0	 {\displaystyle \Box =\partial ^{\mu }\partial _{\mu }=g^{\mu \nu }\partial _{\mu }\partial _{\nu }={\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}-{\frac {\partial ^{2}}{\partial x^{2}}}-{\frac {\partial ^{2}}{\partial y^{2}}}-{\frac {\partial ^{2}}{\partial z^{2}}}} 																											
+free fall 	0	 {\displaystyle u_{tt}-c^{2}u_{xx}=0,\,u(x,0)=g(x),\,u_{t}(x,0)=h(x)} 																											
+free fall 	0	 {\displaystyle {\frac {dK(t)}{dt}}=I^{g}(t)-D(t)=I^{n}(t)} 																											
+free fall 	0	 {\displaystyle H(t,x(t),u(t),\lambda (t),t)=f(t,x(t),u(t))+\lambda (t)\cdot g(t,x(t),u(t))} 																											
+free fall 	0	 {\displaystyle v(t)=-gt+v_{0}} 																											
+free fall 	0	 {\displaystyle {\frac {Energy\ consumed}{Built\ area}}} 																											
+free fall 	0	 {\displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.} 																											
+frequency 	0	 {\displaystyle W_{\mathrm {SWU} }=P\cdot V\left(x_{p}\right)+T\cdot V(x_{t})-F\cdot V(x_{f})} 																											
+frequency 	0	 {\displaystyle \operatorname {W} ^{s,p}(M)=\left\{f\in \operatorname {L} ^{p}(M)\colon \sum _{\mu _{1},\dots ,\mu _{k}}T^{\mu _{1},\dots ,\mu _{k}}\partial _{\mu _{1}}\cdots \partial _{\mu _{k}}f\in \operatorname {L} ^{p}(M	\mathbb {K} )\qquad \forall T\in \Gamma ^{\infty }(\mathrm {T} M^{\otimes k}),\,\|T\|\leq 1,\,k\leq s\right\}} 																										
+frequency 	0	 {\displaystyle G=G_{\infty }\left({\frac {T}{T+1}}\right)+G_{0}\left({\frac {1}{T+1}}\right)} 																											
+frequency 	0	 {\displaystyle T_{A}=3.468F{{\lambda }^{2}}10^{G/10}} 																											
+frequency 	0	 {\displaystyle T_{g}={\frac {H_{d}}{S_{d}+R\ln({\frac {1-f_{c}}{f_{c}}})}}} 																											
+frequency 	0	 {\displaystyle gT_{p}M\times T_{p}M\to \mathbb {R} } 																											
+frequency 	0	 {\displaystyle \{F_{t}t\in T\}} 																											
+frequency 	0	 {\displaystyle {\text{Diagnostic odds ratio, DOR}}={\frac {TP/FP}{FN/TN}}} 																											
+frequency 	0	 {\displaystyle T(\alpha \mathbf {x} +\beta \mathbf {y} )=\alpha T(\mathbf {x} )+\beta T(\mathbf {y} ),\quad \forall \alpha ,\beta \in \mathbb {R} ,\forall \mathbf {x} ,\mathbf {y} \in \operatorname {dom} (T)} 																											
+frequency 	0	 {\displaystyle \Lambda _{m}^{0}={\frac {F^{2}}{RT}}\left(\nu _{+}z_{+}^{2}D_{+}+\nu _{-}z_{-}^{2}D_{-}\right)} 																											
+frequency 	0	 {\displaystyle M=\left\lfloor 1+{\frac {\tau }{T-\delta }}\right\rfloor } 																											
+frequency 	0	 {\displaystyle q=h(T_{w}-T_{f})} 																											
+frequency 	0	 {\displaystyle T\subseteq {\mathcal {P}}(S)=\{A\mid A\subseteq X\}} 																											
+frequency 	0	 {\displaystyle n_{e}(\phi _{2})=n_{e}(\phi _{1})e^{e(\phi _{2}-\phi _{1})/k_{B}T_{e}}} 																											
+frequency 	0	 {\displaystyle \alpha _{T}={\frac {k_{T}}{x_{\mathrm {A} }x_{\mathrm {B} }}}} 																											
+frequency 	0	 {\displaystyle \chi _{\rho }^{\lambda }=\sum _{T}(-1)^{ht(T)}} 																											
+frequency 	0	 {\displaystyle {\mathit {Ste}}={\frac {c_{p}\Delta T}{Q}}} 																											
+frequency 	0	 {\displaystyle S=\int {\frac {\delta Q}{T}}} 																											
+frequency 	0	 {\displaystyle q=\sum _{r}{\exp {\frac {-\varepsilon _{r}}{kT}}}} 																											
+frequency 	0	 {\displaystyle c=S_{0}e^{-r_{f}T}{\mathcal {N}}(d_{1})-Ke^{-r_{d}T}{\mathcal {N}}(d_{2})} 																											
+frequency 	0	 {\displaystyle {\frac {P}{T}}=k} 																											
+frequency 	0	 {\displaystyle P(t,T)=e^{-\int _{t}^{T}f(t,s)ds}} 																											
+frequency 	0	 {\displaystyle T_{raise}={\frac {Fd_{m}}{2}}\left({\frac {l+\pi \mu d_{m}}{\pi d_{m}-\mu l}}\right)={\frac {Fd_{m}}{2}}\tan {\left(\phi +\lambda \right)}} 																											
+frequency 	0	 {\displaystyle {\mathit {Ca}}={\frac {T_{2}-T_{1}}{T_{2}}}} 																											
+frequency 	0	 {\displaystyle Y=S+C+B^{\prime }+T+B} 																											
+frequency 	0	 {\displaystyle \sum _{j}q_{j}x_{j}=\sum _{j}(x_{j}+t_{j}(x_{j}))=wL-T(wL)\	,} 																										
+frequency 	0	 {\displaystyle T_{\Lambda }M=E^{s}\oplus E^{u}} 																											
+frequency 	0	 {\displaystyle \operatorname {supp} (\mu ):=\{x\in X\mid x\in N_{x}\in T\implies \mu (N_{x})&gt	0\}} 																										
+frequency 	0	 {\displaystyle \nabla _{(i}T_{j)k_{1}\dotso k_{p}}=0} 																											
+frequency 	0	 {\displaystyle [T_{i},T_{j}]=if^{ijk}T^{k}} 																											
+frequency 	0	 {\displaystyle \mathrm {STC} ={\tfrac {1}{n_{s}-1}}\sum _{i=1}^{T}y_{i}(\mathbf {x_{i}} -STA)(\mathbf {x_{i}} -STA)^{T}} 																											
+frequency 	0	 {\displaystyle FMV\,=\,{VBAB*TAB_{factor}}} 																											
+frequency 	0	 {\displaystyle N(T)={\frac {T}{2\pi }}\log {\frac {T}{2\pi }}-{\frac {T}{2\pi }}+O(\log {T})} 																											
+frequency 	0	 {\displaystyle \mu (S)&gt	0\land \forall T\subseteq S\colon T\in \Sigma \implies \mu (T)\not \in (0,\mu (S))} 																										
+frequency 	0	 {\displaystyle W_{T}=\sum _{i=1}^{n}W_{i}} 																											
+frequency 	0	 {\displaystyle {\frac {T_{\text{f}}}{T_{\text{i}}}}=\left({\frac {p_{\text{f}}}{p_{\text{i}}}}\right)^{\frac {\gamma -1}{\gamma }}} 																											
+frequency 	0	 {\displaystyle \nabla \left(\kappa \nabla T\right)+g=\rho C{\frac {\partial T}{\partial t}}} 																											
+frequency 	0	 {\displaystyle V_{R}^{\circ }={\frac {j}{m}}F(t_{R}-t_{o}){\frac {T}{273.15}}} 																											
+frequency 	0	 {\displaystyle {\mathit {Lo}}={\frac {\sigma \left(\Delta U\right)^{2}}{\lambda \Delta T}}} 																											
+frequency 	0	 {\displaystyle \lambda _{\mathrm {X} }=\exp {\frac {\mu _{\mathrm {X} }}{RT}}} 																											
+frequency 	0	 {\displaystyle T_{F}=50+\left({\frac {N_{60}-40}{4}}\right)} 																											
+frequency 	0	 {\displaystyle T=\left({\frac {\partial U}{\partial S}}\right)_{V,N}} 																											
+frequency 	0	 {\displaystyle v_{\mathrm {rms} }={\sqrt {{3RT} \over {M_{m}}}}} 																											
+frequency 	0	 {\displaystyle T_{1}=\left\{f(x_{1},\dots ,x_{n})|f(1,\dots ,1)=1\right\}} 																											
+frequency 	0	 {\displaystyle Q(\mathbf {x} )=\mathbf {x} ^{T}A\mathbf {x} } 																											
+frequency 	0	 {\displaystyle Y_{1}=c_{0}+c_{1}\left(Y-T\right)+I+G} 																											
+frequency 	0	 {\displaystyle Bo_{I}={\frac {g\	\beta \	\Delta T\	L_{c}^{3}}{\alpha ^{2}}}=Ra\	Pr=Gr\	Pr^{2}} 																						
+frequency 	0	 {\displaystyle \alpha _{p}={\frac {1}{p}}\left({\frac {\partial p}{\partial T}}\right)_{V}} 																											
+frequency 	0	 {\displaystyle RT=\left(P+{\frac {a}{V_{\text{m}}^{2}}}\right)(V_{\text{m}}-b)} 																											
+frequency 	0	 {\displaystyle \Phi \colon H^{k}(B	\mathbf {Z} _{2})\to {\tilde {H}}^{k+n}(T(E)	\mathbf {Z} _{2})} 																									
+frequency 	0	 {\displaystyle dU=T\,dS-P\,dV+\mu \,dM} 																											
+frequency 	0	 {\displaystyle \|T\|\leq 1} 																											
+frequency 	0	 {\displaystyle \mu (T)\,=\,\mu _{0}\exp(-bT)} 																											
+frequency 	0	 {\displaystyle \gamma V^{2/3}=k(T_{c}-T)} 																											
+frequency 	0	 {\displaystyle \sigma _{T}={\sigma _{T_{cal}}[1+\alpha (T-T_{cal})]}} 																											
+frequency 	0	 {\displaystyle f_{T}=S_{T}-S_{0}-\left(S_{T}-K\right)^{+}+C=K-S_{0}-\left(K-S_{T}\right)^{+}+C} 																											
+frequency 	0	 {\displaystyle P={\frac {1}{T}}\int \limits _{0}^{T}p\,\mathrm {d} t} 																											
+frequency 	0	 {\displaystyle ChR=100(1-{\frac {T_{o}}{T_{s}}})=100{\frac {T_{a}}{T_{s}}}} 																											
+frequency 	0	 {\displaystyle \mathrm {HI} =c_{1}+c_{2}T+c_{3}R+c_{4}TR+c_{5}T^{2}+c_{6}R^{2}+c_{7}T^{2}R+c_{8}TR^{2}+c_{9}T^{2}R^{2}} 																											
+frequency 	0	 {\displaystyle T={\frac {1}{2}}{\dot {q}}^{\mathrm {T} }M{\dot {q}}} 																											
+frequency 	0	 {\displaystyle TMDL=WLA+LA+MOS} 																											
+frequency 	0	 {\displaystyle f_{T}=S_{T}-S_{0}+\left(K-S_{T}\right)^{+}-D=K-S_{0}+\left(S_{T}-K\right)^{+}-D} 																											
+frequency 	0	 {\displaystyle \eta _{\mathrm {max} }=1-{\frac {T_{\mathrm {c} }}{T_{\mathrm {h} }}}} 																											
+frequency 	0	 {\displaystyle BRN={\frac {(g/T_{v})\Delta \theta _{v}\Delta z}{(\Delta U)^{2}+(\Delta V)^{2}}}} 																											
+frequency 	0	 {\displaystyle \mathbf {q} =-\lambda \operatorname {grad} (T)} 																											
+frequency 	0	 {\displaystyle f^{*}=\sup _{N\geq 1}{\frac {1}{N}}\sum _{i=0}^{N-1}f\circ T^{i}} 																											
+frequency 	0	 {\displaystyle b_{ij}=\sum _{\lambda =1}^{10}G^{(\lambda )}T_{ij}^{(\lambda )}} 																											
+frequency 	0	 {\displaystyle \langle u,v\rangle =\langle Tu,Tv\rangle } 																											
+frequency 	0	 {\displaystyle h(nT_{s})={\begin{cases}1	&amp	n=0\\0	&amp	n\neq 0\end{cases}}} 																							
+frequency 	0	 {\displaystyle {\begin{aligned}J&amp	Fehler:539	Fehler:539																									
+frequency 	0	 {\displaystyle T_{a}+{\frac {T_{m}-T_{a}}{3}}} 																											
+frequency 	0	 {\displaystyle \Delta P=\	C\,a\	h\	{\bigg (}{\frac {1}{T_{o}}}-{\frac {1}{T_{i}}}{\bigg )}} 																								
+frequency 	0	 {\displaystyle {\dot {V}}=V_{T}\times f} 																											
+frequency 	0	 {\displaystyle f_{T}=S_{0}-S_{T}-\left(K-S_{T}\right)^{+}+C=S_{0}-K-\left(S_{T}-K\right)^{+}+C} 																											
+frequency 	0	 {\displaystyle \lambda _{\text{max}}={\frac {b}{T}}} 																											
+frequency 	0	 {\displaystyle {\frac {\partial T}{\partial t}}=\nabla \cdot (\alpha _{1}\nabla T)+Q} 																											
+frequency 	0	 {\displaystyle [i]=T^{q^{i}}-T,} 																											
+frequency 	0	 {\displaystyle \eta \,=\,1-{\frac {T_{c}}{T_{h}}}} 																											
+frequency 	0	 {\displaystyle \sum _{i}n_{i}\mathrm {d} \mu _{i}=-S\mathrm {d} T+V\mathrm {d} p} 																											
+frequency 	0	 {\displaystyle H={\frac {kT}{Mg}}} 																											
+frequency 	0	 {\displaystyle \nabla _{(i}T_{jk)}=0} 																											
+frequency 	0	 {\displaystyle \eta _{\text{max}}=\eta _{\text{Carnot}}=1-{\frac {T_{\mathrm {C} }}{T_{\mathrm {H} }}}} 																											
+frequency 	0	 {\displaystyle \mu _{\mathrm {X} }=\left({\frac {\partial G}{\partial n_{\mathrm {X} }}}\right)_{T,p}} 																											
+frequency 	0	 {\displaystyle a_{i}=e^{\frac {\mu _{i}-\mu _{i}^{\ominus }}{RT}}} 																											
+frequency 	0	 {\displaystyle S_{r}={\frac {dQ/dT}{Q}}} 																											
+frequency 	0	 {\displaystyle Y_{t}(u)=T+Y_{c}(u)} 																											
+frequency 	0	 {\displaystyle \sigma \propto gT^{3}} 																											
+frequency 	0	 {\displaystyle T(n)=S(n)+T(n(1-p))} 																											
+frequency 	0	 {\displaystyle T_{n}=\{d\in \mathbb {N} :d\mid n\}} 																											
+frequency 	0	 {\displaystyle n_{\rm {Q}}=\left({\frac {MkT}{2\pi \hbar ^{2}}}\right)^{3/2}} 																											
+frequency 	0	 {\displaystyle D={\mu \,k_{B}T}} 																											
+frequency 	0	 {\displaystyle E=K'+{\frac {RT}{nF}}\ln(c)} 																											
+frequency 	0	 {\displaystyle TD=MD-{\frac {1}{N}}} 																											
+frequency 	0	 {\displaystyle K_{C}={\frac {VT}{L}}} 																											
+frequency 	0	 {\displaystyle \left|\sum _{i=0}^{q-1}\phi f^{i}(x)-q\int _{T}\phi \,d\mu \right|\leqslant \operatorname {Var} (\phi )} 																											
+frequency 	0	 {\displaystyle \sum _{k=0}^{\infty }T^{k}} 																											
+frequency 	0	 {\displaystyle M{\ddot {X}}=-\nabla U(X)-\gamma {\dot {X}}+{\sqrt {2\gamma k_{B}T}}R(t)\,} 																											
+frequency 	0	 {\displaystyle E_{D}={\frac {1}{4\pi \epsilon _{0}^{2}}}{\frac {ne^{3}\ln \Lambda }{m_{e}v_{Te}^{2}}}} 																											
+frequency 	0	 {\displaystyle \forall y(R(x,y)\rightarrow ST_{y}(\Box p))} 																											
+frequency 	0	 {\displaystyle I_{\nu }={\frac {2h\nu ^{3}}{c^{2}}}{\frac {1}{e^{\frac {h\nu }{kT}}-1}}} 																											
+frequency 	0	 {\displaystyle \alpha _{l}={\frac {1}{l}}{\frac {\mathrm {d} l}{\mathrm {d} T}}} 																											
+frequency 	0	 {\displaystyle p={\frac {RT}{V-b}}\exp \left(-{\frac {a}{RTV}}\right)} 																											
+frequency 	0	 {\displaystyle \Delta T=P\cdot R_{th}} 																											
+frequency 	0	 {\displaystyle T_{C}=10+\left({\frac {N-40}{7}}\right)} 																											
+frequency 	0	 {\displaystyle f^{put}\left(S_{T},k\right)=\left(k-S_{T}\right)^{+}} 																											
+frequency 	0	 {\displaystyle Jo={\frac {2\rho c_{p}\Delta T}{\mu _{\mathrm {e} }H^{2}}}} 																											
+frequency 	0	 {\displaystyle \alpha A+\beta B\rightleftharpoons \sigma A+\tau T} 																											
+frequency 	0	 {\displaystyle T_{t}(af+bh)=aT_{t}f+bT_{t}h} 																											
+frequency 	0	 {\displaystyle f:(X,T_{1})\to (Y,T_{2})\quad \land \quad \forall \,U\in T_{2}:\quad f^{-1}(U)\in T_{1}} 																											
+frequency 	0	 {\displaystyle \tau _{A}(\omega ):=\inf\{t\in T|X_{t}(\omega )\in A\}} 																											
+frequency 	0	 {\displaystyle \Delta T=T-T_{\mathrm {r} }} 																											
+frequency 	0	 {\displaystyle E_{eq,K^{+}}={\frac {RT}{zF}}\ln {\frac {[K^{+}]_{o}}{[K^{+}]_{i}}}} 																											
+frequency 	0	 {\displaystyle Q_{10}=\left({\frac {k_{2}}{k_{1}}}\right)^{\frac {10\,\mathrm {K} }{T_{2}-T_{1}}}\approx 2.5} 																											
+frequency 	0	 {\displaystyle k=Ae^{-E_{a}/(RT)}} 																											
+frequency 	0	 {\displaystyle T(v_{1},v_{2},\ldots ,v_{r})=T(v_{\sigma 1},v_{\sigma 2},\ldots ,v_{\sigma r})} 																											
+frequency 	0	 {\displaystyle W=\{u\in L^{p}([0,T]	X_{0})|{\dot {u}}\in L^{q}([0,T]	X_{1})\}.} 																									
+frequency 	0	 {\displaystyle F=\sigma T^{4}({\tfrac {R}{D}})^{2}} 																											
+frequency 	0	 {\displaystyle C={\frac {\mathrm {d} Q}{\mathrm {d} T}}} 																											
+frequency 	0	 {\displaystyle T_{\text{A}}={\frac {1}{4\pi }}\int _{0}^{2\pi }\int _{0}^{\pi }G(\theta ,\varphi )T_{\text{S}}(\theta ,\varphi )\sin(\theta )\	d\theta d\varphi &lt	ref&gt	[1]&lt	/ref&gt	} 																						
+frequency 	0	 {\displaystyle {P}\propto {T}} 																											
+frequency 	0	 {\displaystyle H=T+V+V_{\text{bias}}} 																											
+frequency 	0	 {\displaystyle \nabla _{\mu }T^{\mu \nu }=0} 																											
+frequency 	0	 {\displaystyle T=2\pi {\sqrt {\frac {a^{3}}{\mu }}}} 																											
+frequency 	0	 {\displaystyle T_{A}=0:\csc ^{2}{\left(B/2\right)}:\csc ^{2}{\left(C/2\right)}	T_{B}=\csc ^{2}{\left(A/2\right)}:0:\csc ^{2}{\left(C/2\right)}	T_{C}=\csc ^{2}{\left(A/2\right)}:\csc ^{2}{\left(B/2\right)}:0} 																									
+frequency 	0	 {\displaystyle {\mathit {Gr}}^{*}=-{\frac {l^{3}g\Delta x}{\rho \nu ^{2}}}\left({\frac {\partial \rho }{\partial x}}\right)_{T,p}} 																											
+frequency 	0	 {\displaystyle \omega =-\log _{10}(p_{r}^{\rm {sat}})-1,{\rm {\ at\ }}T_{r}=0.7} 																											
+frequency 	0	 {\displaystyle {\color {Blue}BCT}=5.876\times {\color {Red}ECT}\times {\sqrt {U\times d}}} 																											
+frequency 	0	 {\displaystyle {{\frac {dQ}{dt}}=h\cdot A\cdot (T(t)-T_{\text{env}})=h\cdot A\Delta T(t)\quad }} 																											
+frequency 	0	 {\displaystyle \langle T\rangle =-{\frac {1}{2}}\sum _{i}\langle {\vec {F}}_{i}\cdot {\vec {r}}_{i}\rangle } 																											
+frequency 	0	 {\displaystyle {\mathit {Po}}={\frac {Q_{\mathrm {m} }l^{2}}{\lambda \Delta T}}} 																											
+frequency 	0	 {\displaystyle PV=nRT} 																											
+frequency 	0	 {\displaystyle T_{\mathrm {H} }={\frac {1}{8\pi M}}} 																											
+frequency 	0	 {\displaystyle RT_{60}={\frac {24\ln 10^{1}}{c_{20}}}{\frac {V}{Sa}}\approx 0.1611\,\mathrm {s} \mathrm {m} ^{-1}{\frac {V}{Sa}}} 																											
+frequency 	0	 {\displaystyle l\colon TS\to ST} 																											
+frequency 	0	 {\displaystyle I=I_{\mathrm {S} }\left(e^{qV_{\mathrm {D} } \over nkT}-1\right)} 																											
+frequency 	0	 {\displaystyle ZFW+FOB=TOW} 																											
+frequency 	0	 {\displaystyle q=hA(T_{a}-T_{b})} 																											
+frequency 	0	 {\displaystyle \mathbf {T} ^{(\mathbf {n} )}=\mathbf {n} \cdot {\boldsymbol {\sigma }}\quad {\text{or}}\quad T_{j}^{(n)}=\sigma _{ij}n_{i}.\,\!} 																											
+frequency 	0	 {\displaystyle M=(D+L)D^{-1}(D+L)^{T}} 																											
+frequency 	0	 {\displaystyle L=4\pi R^{2}\sigma T^{4}} 																											
+frequency 	0	 {\displaystyle 0\to Q^{\epsilon }(M)\to B(M){\stackrel {1-\epsilon T}{\longrightarrow }}B(M)\to Q_{\epsilon }(M)\to 0} 																											
+frequency 	0	 {\displaystyle V_{t}^{T}=\mathbb {E} G_{\tau ^{*}}=\sup _{t\leq \tau \leq T}\mathbb {E} G_{\tau }} 																											
+frequency 	0	 {\displaystyle TCI={\frac {{\textrm {FXEarnings}}-{\textrm {FXExpenses}}}{{\textrm {FXEarnings}}+{\textrm {FXExpenses}}}}} 																											
+frequency 	0	 {\displaystyle \langle \xi \mid T\xi \rangle \geq 0\quad \xi \in \operatorname {dom} \ T} 																											
+frequency 	0	 {\displaystyle Q=T_{3}+{\tfrac {1}{2}}Y_{W}} 																											
+frequency 	0	 {\displaystyle E=T+V} 																											
+frequency 	0	 {\displaystyle \epsilon ={\frac {T_{e,db}-T_{l,db}}{T_{e,db}-T_{e,wb}}}} 																											
+frequency 	0	 {\displaystyle Q_{10}=\left({\frac {R_{2}}{R_{1}}}\right)^{10/(T_{2}-T_{1})}} 																											
+frequency 	0	 {\displaystyle A^{T}=-A} 																											
+frequency 	0	 {\displaystyle T=\left\{\left(x,\sin {\tfrac {1}{x}}\right):x\in (0,1]\right\}\cup \{(0,0)\}} 																											
+frequency 	0	 {\displaystyle Q=\{x\in k^{n}\mid x^{T}Ax+2b^{T}x+c=0\}} 																											
+frequency 	0	 {\displaystyle \mathrm {MASE} ={\frac {1}{T}}\sum _{t=1}^{T}\left({\frac {\left|e_{t}\right|}{{\frac {1}{T-1}}\sum _{t=2}^{T}\left|Y_{t}-Y_{t-1}\right|}}\right)={\frac {\sum _{t=1}^{T}\left|e_{t}\right|}{{\frac {T}{T-1}}\sum _{t=2}^{T}\left|Y_{t}-Y_{t-1}\right|}}} 																											
+frequency 	0	 {\displaystyle (T^{*}T)^{*}=T^{*}T} 																											
+frequency 	0	 {\displaystyle \sup \nolimits _{T\in F}\|T(x)\|_{Y}&lt	\infty } 																										
+frequency 	0	 {\displaystyle \beta =\left({\frac {\partial p}{\partial T}}\right)_{V}} 																											
+frequency 	0	 {\displaystyle {\rm {\delta }}S={\frac {{\rm {\delta }}q}{T}}} 																											
+frequency 	0	 {\displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t} 																											
+frequency 	0	 {\displaystyle h_{\epsilon }^{*}(T_{\epsilon })=T_{0}+\epsilon \,h_{\epsilon }^{*}({\mathcal {L}}_{X}T_{\epsilon })+O(\epsilon ^{2})} 																											
+frequency 	0	 {\displaystyle \forall pTp} 																											
+frequency 	0	 {\displaystyle M={\frac {1000000}{T}}} 																											
+frequency 	0	 {\displaystyle \|f-\varphi _{\delta }\|_{\infty }=\sup _{t\in [0,T]}\|f(t)-\varphi _{\delta }(t)\|_{X}&lt	\delta 	} 																									
+frequency 	0	 {\displaystyle L(q_{i},{\dot {q}}_{i})=T(q_{i},{\dot {q}}_{i})-V(q_{i})} 																											
+frequency 	0	 {\displaystyle k_{t}={\frac {t_{v}}{T_{N}}}={\frac {t_{N}-t_{NV}}{T_{N}}}} 																											
+frequency 	0	 {\displaystyle RT^{n}=P_{H}SU^{n}\vert _{H}\	\forall n\geq 0} 																										
+frequency 	0	 {\displaystyle V=(HH\cdot TR\cdot TU)+(HH\cdot TR\cdot MR\cdot RR\cdot RU)} 																											
+frequency 	0	 {\displaystyle K_{ij}^{k}={\frac {1}{2}}(T_{ij}^{k}-g_{il}g^{km}T_{jm}^{l}+g_{jl}g^{km}T_{mi}^{l})=\Gamma _{ij}^{k}-\Gamma _{\text{Levi-Civita}}{}_{ij}^{k}} 																											
+frequency 	0	 {\displaystyle T_{n}=(n-1)!} 																											
+frequency 	0	 {\displaystyle Q=UA\Delta T} 																											
+frequency 	0	 {\displaystyle \Delta T=-{\text{tr}}\	\nabla ^{2}T} 																										
+frequency 	0	 {\displaystyle \Lambda =\delta T} 																											
+frequency 	0	 {\displaystyle T_{1}+T_{2}+T_{3}+T_{7}} 																											
+frequency 	0	 {\displaystyle A^{T}P+PA=-QQ^{T}} 																											
+frequency 	0	 {\displaystyle T_{ij}^{k}=\Gamma _{ij}^{k}-\Gamma _{ji}^{k}} 																											
+frequency 	0	 {\displaystyle i_{Q}^{\ast }(TE)=\{(q,v)\in Q\times TE\mid i(q)=\tau _{E}(v)\}\subset Q\times TE,} 																											
+frequency 	0	 {\displaystyle p_{ij}\approx \sum _{t}^{T}p_{t}\,p_{it}\,p_{jt}} 																											
+frequency 	0	 {\displaystyle \delta (X,Y)=\log {\Bigl (}\inf\{\|T\|\|T^{-1}\|T\in \operatorname {GL} (X,Y)\}{\Bigr )}} 																											
+frequency 	0	 {\displaystyle f(x+T)=f(x)} 																											
+frequency 	0	 {\displaystyle {\mathit {Cl}}={\frac {vl\rho }{\lambda \Delta T}}} 																											
+frequency 	0	 {\displaystyle {\mathit {Sk}}={\frac {\varepsilon \sigma T^{3}l}{\lambda }}} 																											
+frequency 	0	 {\displaystyle V\propto T} 																											
+frequency 	0	 {\displaystyle D_{T}=k_{T}D} 																											
+frequency 	0	 {\displaystyle {\Delta H^{o}}={RT^{2}}.{\frac {d\ln K}{dT}}} 																											
+frequency 	0	 {\displaystyle Callx=ATM+0.5RRx+Flyx} 																											
+frequency 	0	 {\displaystyle D=\mu k_{B}T} 																											
+frequency 	0	 {\displaystyle {1 \over T}=A+B\ln(R)+C[\ln(R)]^{3}} 																											
+frequency 	0	 {\displaystyle C_{T}=C_{K}\cup \{U\}} 																											
+frequency 	0	 {\displaystyle \lim _{T\rightarrow T_{H}^{-}}Tr[e^{-\beta H}]=\infty } 																											
+frequency 	0	 {\displaystyle T={\boldsymbol {M}}\cdot {\boldsymbol {e}}_{\mathrm {Q} }} 																											
+frequency 	0	 {\displaystyle A=U-TS} 																											
+frequency 	0	 {\displaystyle \Delta R=k\Delta T} 																											
+frequency 	0	 {\displaystyle {\mathit {Gr}}={\frac {l^{3}g\alpha _{V}\Delta T}{\nu ^{2}}}} 																											
+frequency 	0	 {\displaystyle T(s)={\frac {kG(s)}{1+kG(s)}}} 																											
+frequency 	0	 {\displaystyle T({\vec {x}})=\mathbf {A} {\vec {x}}} 																											
+frequency 	0	 {\displaystyle H_{p}={\frac {(273.15+T)}{1000}}\cdot (C+\log(t))} 																											
+frequency 	0	 {\displaystyle t=T-T_{0}} 																											
+frequency 	0	 {\displaystyle {\frac {P_{1}V_{1}}{T_{1}}}={\frac {P_{2}V_{2}}{T_{2}}}} 																											
+frequency 	0	 {\displaystyle \mathbf {W} ^{i}=[T_{i}]\mathbf {w} =[A_{i}]\mathbf {w} +\mathbf {d} _{i},\quad i=1,\ldots ,5} 																											
+frequency 	0	 {\displaystyle T={\frac {2L}{\sqrt {gh}}}} 																											
+frequency 	0	 {\displaystyle T=2\pi {\sqrt {\frac {I}{\kappa }}}\,} 																											
+frequency 	0	 {\displaystyle A=T(V)/R} 																											
+frequency 	0	 {\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }} 																											
+frequency 	0	 {\displaystyle N\cdot v(T,p)=\sum _{i=1}^{K}N_{i}\cdot v_{i}(T,p)} 																											
+frequency 	0	 {\displaystyle P=\sigma \varepsilon AT^{4}} 																											
+frequency 	0	 {\displaystyle \operatorname {O} _{n}(\mathbb {K} )=\{A\in \mathbb {K} ^{n\times n}|A^{T}A=AA^{T}=I_{n}\}} 																											
+frequency 	0	 {\displaystyle K={e^{-\Delta G/RT}}} 																											
+frequency 	0	 {\displaystyle T={\tfrac {1}{2}}ab} 																											
+frequency 	0	 {\displaystyle R\ =\ N_{S}Zj\exp \left({\frac {-\Delta G^{*}}{k_{B}T}}\right)} 																											
+frequency 	0	 {\displaystyle T=b\cdot \log _{2}(n+1)} 																											
+frequency 	0	 {\displaystyle \operatorname {grad} (T)={\begin{pmatrix}{\frac {\partial T}{\partial x}}\\{\frac {\partial T}{\partial y}}\\{\frac {\partial T}{\partial z}}\end{pmatrix}}} 																											
+frequency 	0	 {\displaystyle T=2\pi {\sqrt {\frac {I}{\kappa }}}} 																											
+frequency 	0	 {\displaystyle T_{n}(\cos \theta )=\cos(n\theta )} 																											
+frequency 	0	 {\displaystyle T={\frac {1}{2}}mv^{2}} 																											
+frequency 	0	 {\displaystyle T_{\text{P}}={\sqrt {\frac {\hbar c^{5}}{Gk_{\text{B}}^{2}}}}} 																											
+frequency 	0	 {\displaystyle \Phi U\subset T\times M\to M} 																											
+frequency 	0	 {\displaystyle x^{T}Ax&gt	0} 																										
+frequency 	0	 {\displaystyle J(F,T,W)=A_{\mathrm {G} }T^{2}e^{-(W-\Delta W) \over kT}} 																											
+frequency 	0	 {\displaystyle {\mathit {La}}={\frac {v}{\sqrt {\frac {R_{\mathrm {s} }T2\gamma }{\gamma +1}}}}} 																											
+frequency 	0	 {\displaystyle Z={\frac {p}{\rho R_{\mathrm {s} }T}}} 																											
+frequency 	0	 {\displaystyle \mathrm {D} ={\frac {PW}{T}}} 																											
+frequency 	0	 {\displaystyle {\mathit {Ra}}={\frac {l^{3}g\alpha _{V}\Delta T}{\nu \alpha }}} 																											
+frequency 	0	 {\displaystyle f={\frac {1}{T}}} 																											
+frequency 	0	 {\displaystyle Q=-k{\frac {dT}{dz}}} 																											
+frequency 	0	 {\displaystyle f^{call}\left(S_{T},k\right)=\left(S_{T}-k\right)^{+}} 																											
+frequency 	0	 {\displaystyle r=k(T)[\mathrm {A} ]^{m}[\mathrm {B} ]^{n}} 																											
+frequency 	0	 {\displaystyle p={\frac {R\cdot T}{V_{m}-b}}-{\frac {a(T)}{V_{m}^{2}+2\cdot b\cdot V_{m}-b^{2}}}} 																											
+frequency 	0	 {\displaystyle \tau ={\frac {n_{corr}-\sum _{i=1}^{T}p_{i}n_{i}}{N-\sum _{i=1}^{T}p_{i}n_{i}}}} 																											
+frequency 	0	 {\displaystyle c'=D_{1}\,S^{T}\,f_{1}=D_{2}\,S^{T}\,f_{2}} 																											
+frequency 	0	 {\displaystyle \Gamma _{\beta \gamma }^{\alpha }+T_{~\beta \gamma }^{\alpha }+S_{~\beta \gamma }^{\alpha }} 																											
+frequency 	0	 {\displaystyle \left(p+{\frac {a'}{v^{2}}}\right)\left(v-b'\right)=kT} 																											
+frequency 	0	 {\displaystyle T_{0}=\left\{f(x_{1},\dots ,x_{n})|f(0,\dots ,0)=0\right\}} 																											
+frequency 	0	 {\displaystyle PV=nRT=mR_{\rm {specific}}T\,\!} 																											
+frequency 	0	 {\displaystyle k(T)=Z\rho \exp \left({\frac {-E_{a}}{RT}}\right)} 																											
+frequency 	0	 {\displaystyle {\hat {\theta }}=T({\hat {F}}_{n})} 																											
+frequency 	0	 {\displaystyle \Delta f_{\text{FWHM}}={\sqrt {\frac {8kT\ln 2}{mc^{2}}}}f_{0}} 																											
+frequency 	0	 {\displaystyle T=n_{\mathrm {t} }-n_{\bar {\mathrm {t} }}} 																											
+frequency 	0	 {\displaystyle H_{0}=P(0,T)\operatorname {E} _{Q}(H_{T})} 																											
+frequency 	0	 {\displaystyle {\frac {dM_{x}(t)}{dt}}=\gamma ({\mathbf {M}}(t)\times {\mathbf {B}}(t))_{x}-{\frac {M_{x}(t)}{T_{2}}}} 																											
+frequency 	0	 {\displaystyle f_{T}=S_{0}-S_{T}+\left(S_{T}-K\right)^{+}-D=S_{0}-K+\left(K-S_{T}\right)^{+}-D} 																											
+frequency 	0	 {\displaystyle \ln {\frac {p}{p_{\mathrm {sat} }}}={\frac {2\gamma V_{\mathrm {m} }}{rRT}}} 																											
+frequency 	0	 {\displaystyle A^{T}A=I\lor AA^{T}=I} 																											
+frequency 	0	 {\displaystyle {\frac {d\epsilon }{dt}}={\frac {\sigma }{d^{3}}}D_{gb}e^{-Q_{Coble}/RT}} 																											
+frequency 	0	 {\displaystyle \mu _{\mathrm {JT} }=\left({\frac {\partial T}{\partial p}}\right)_{H}} 																											
+frequency 	0	 {\displaystyle WCI=(10{\sqrt {v}}-v+10.5)\cdot (33-T_{\mathrm {a} })} 																											
+frequency 	0	 {\displaystyle T_{b}={\frac {a}{Rb}}} 																											
+frequency 	0	 {\displaystyle {\displaystyle MTTF={\frac {A}{j^{n}}}e^{\left({\frac {Q}{kT}}\right)}}} 																											
+frequency 	0	 {\displaystyle A=\{-V_{T}(V_{t})_{t=0}^{T}{\text{ is the price of a self-financing portfolio at each time}}\}} 																											
+frequency 	0	 {\displaystyle T(\rho ,\sigma )={\frac {1}{2}}||\rho -\sigma ||_{1}={\frac {1}{2}}\mathrm {Tr} \left[{\sqrt {(\rho -\sigma )^{\dagger }(\rho -\sigma )}}\right]} 																											
+frequency 	0	 {\displaystyle {\frac {L_{vap}}{T_{boiling}}}\approx 87-88{\frac {J}{Kmol}}} 																											
+frequency 	0	 {\displaystyle T_{ijk\dots }=-T_{jik\dots }=T_{jki\dots }=-T_{kji\dots }=T_{kij\dots }=-T_{ikj\dots }} 																											
+frequency 	0	 {\displaystyle IG(T,a)=H(T)-H(T|a)} 																											
+frequency 	0	 {\displaystyle f(v)={\sqrt {\left({\frac {m}{2\pi kT}}\right)^{3}}}\,4\pi e^{-{\frac {mv^{2}}{2kT}}}} 																											
+frequency 	0	 {\displaystyle {\mathcal {L}}=T-V} 																											
+frequency 	0	 {\displaystyle YouTube.com/llstylish} 																											
+frequency 	0	 {\displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.} 																											
+frequency 	0	 {\displaystyle \tau _{ij}=f(T)=a_{ij}+{\frac {b_{ij}}{T}}+c_{ij}\ \ln \ T+d_{ij}T} 																											
+frequency 	0	 {\displaystyle BI=(H_{700}-H_{1000})-T_{700}-200} 																											
+frequency 	0	 {\displaystyle \|T\|=\sup _{x\in {\mathcal {D}}(T):\|x\|\neq 0}{\frac {\|Tx\|}{\|x\|}}} 																											
+frequency 	0	 {\displaystyle K_{n}={\frac {E\cdot T\cdot d}{a}}} 																											
+frequency 	0	 {\displaystyle \rho _{e}=e{(c^{+}-c^{-})}=c_{0}e\cdot \left[e^{\frac {-e\psi (x,y,z)}{k_{B}T}}-e^{\frac {e\psi (x,y,z)}{k_{B}T}}\right]} 																											
+frequency 	0	 {\displaystyle T(C,\otimes ,I)\to (C,\otimes ,I)} 																											
+frequency 	0	 {\displaystyle \forall U\in T{\mbox{ s.t. }}U\neq \emptyset ,\mu (U)&gt	0} 																										
+frequency 	0	 {\displaystyle {\frac {n_{i+1}n_{e}}{n_{i}}}={\frac {2}{\Lambda ^{3}}}{\frac {g_{i+1}}{g_{i}}}\exp \left[-{\frac {(\epsilon _{i+1}-\epsilon _{i})}{k_{B}T}}\right]} 																											
+frequency 	0	 {\displaystyle \mathbf {grad} \,x_{\mathrm {B} }=-{\frac {k_{T}}{T}}\mathbf {grad} \,T} 																											
+frequency 	0	 {\displaystyle f(x_{k}+s_{k})=f(x_{k})+\nabla f(x_{k})^{T}s_{k}+{\frac {1}{2}}s_{k}^{T}{B}s_{k}} 																											
+frequency 	0	 {\displaystyle U=\sum _{i=1}^{n}{\frac {C_{i}}{T_{i}}}\leq n({2}^{1/n}-1)} 																											
+frequency 	0	 {\displaystyle {P_{1}}{T_{2}}={P_{2}}{T_{1}}} 																											
+frequency 	0	 {\displaystyle {\text{E}}_{1}\sum _{t=1}^{S}[y_{t}^{T}Qy_{t}+u_{t}^{T}Ru_{t}]} 																											
+frequency 	0	 {\displaystyle R_{T}=R{\sqrt {\sin ^{2}\alpha \sin ^{2}\beta \sin ^{2}\gamma +\cos ^{2}\alpha \cos ^{2}\beta \cos ^{2}\gamma }}} 																											
+frequency 	0	 {\displaystyle {\hat {T}}(\mathbf {x} )|\mathbf {r} \rangle =|\mathbf {r} +\mathbf {x} \rangle } 																											
+frequency 	0	 {\displaystyle T_{J}=T_{a}+P_{D}\times R_{ja}} 																											
+frequency 	0	 {\displaystyle T=2\pi {\sqrt {LC}}} 																											
+frequency 	0	 {\displaystyle X(T)=X_{0}\,\exp({\frac {A}{T-T_{f}}})} 																											
+frequency 	0	 {\displaystyle T(p)=\Box pforany[[propositionalvariable]]p} 																											
+frequency 	0	 {\displaystyle \oint {\frac {\delta Q}{T}}\leq 0} 																											
+frequency 	0	 {\displaystyle \mathbb {I} _{S}(T)=\{s\in S\mid sT\subseteq T{\text{ and }}Ts\subseteq T\}} 																											
+frequency 	0	 {\displaystyle \alpha _{V}={\frac {1}{V}}{\frac {\mathrm {d} V}{\mathrm {d} T}}} 																											
+frequency 	0	 {\displaystyle \,Z=v^{T}=(1+i)^{-T}=e^{-\delta T}} 																											
+frequency 	0	 {\displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},} 																											
+frequency 	0	 {\displaystyle \Delta G=\Delta H-T\Delta S} 																											
+frequency 	0	 {\displaystyle {\frac {P_{1}}{T_{1}}}={\frac {P_{2}}{T_{2}}}} 																											
+frequency 	0	 {\displaystyle R={\frac {\Delta T}{\dot {Q}}}} 																											
+frequency 	0	 {\displaystyle \min c^{T}x{\text{ subject to }}x\in P} 																											
+frequency 	0	 {\displaystyle \alpha TM\rightarrow {\mathbb {R} },\quad \alpha _{x}=\alpha |_{T_{x}M}T_{x}M\rightarrow {\mathbb {R} }} 																											
+frequency 	0	 {\displaystyle \operatorname {RMSD} ={\sqrt {\frac {\sum _{t=1}^{T}({\hat {y}}_{t}-y_{t})^{2}}{T}}}} 																											
+frequency 	0	 {\displaystyle Y=C+I+G=C+S+T} 																											
+frequency 	0	 {\displaystyle \mathbf {\psi } _{STO-3G}(s)=c_{1}\phi _{1}+c_{2}\phi _{2}+c_{3}\phi _{3}} 																											
+frequency 	0	 {\displaystyle {\frac {T}{T_{i}}}={\sqrt {\frac {M_{i}}{m_{e}}}}} 																											
+frequency 	0	 {\displaystyle K_{\mathrm {eq} }=10^{-2.4198+0.0003855T+{\frac {2180.6}{T}}}} 																											
+frequency 	0	 {\displaystyle A_{T_{p}}=\{a\in A\	|\	\exists n\in \mathbb {N} \	,p^{n}a=0\}.\	} 																							
+frequency 	0	 {\displaystyle A=A^{T}} 																											
+frequency 	0	 {\displaystyle t={\frac {T_{1}}{2\pi }}(E-e_{1}\sin E)} 																											
+frequency 	0	 {\displaystyle IG(T,a)=H(T)-\sum _{v\in vals(a)}{\frac {|\{{\textbf {x}}\in T|x_{a}=v\}|}{|T|}}\cdot H(\{{\textbf {x}}\in T|x_{a}=v\})} 																											
+frequency 	0	 {\displaystyle {\frac {PV}{T}}=k} 																											
+frequency 	0	 {\displaystyle \mathbb {P} \left\{\sup _{t\in T}f(t)\geq u\right\}} 																											
+frequency 	0	 {\displaystyle H={\frac {\rho _{T}}{\rho _{B}}}} 																											
+frequency 	0	 {\displaystyle zcr={\frac {1}{T-1}}\sum _{t=1}^{T-1}\mathbb {1} _{\mathbb {R} _{&lt	0}}(s_{t}s_{t-1})} 																										
+frequency 	0	 {\displaystyle P={\frac {1}{T}}\int _{0}^{T}i(t)\cdot e(t)dt\,\!} 																											
+frequency 	0	 {\displaystyle {\mathit {Br}}={\frac {\eta v^{2}}{\lambda \Delta T}}} 																											
+frequency 	0	 {\displaystyle {\mathit {Mg}}={\frac {l\Delta T}{\eta a}}{\frac {\mathrm {d} \gamma }{\mathrm {d} T}}} 																											
+frequency 	0	 {\displaystyle T=2\pi {\sqrt {I/\kappa }}} 																											
+frequency 	0	 {\displaystyle {\mathcal {P}}(S)=\{T\mid T\subseteq S\}} 																											
+frequency 	0	 {\displaystyle \varkappa _{T}=-{\frac {1}{V}}\left({\frac {\partial V}{\partial p}}\right)_{T}} 																											
+frequency 	0	 {\displaystyle SBSI={\frac {(H^{\frac {7}{4}}).(WC^{\frac {5}{6}})}{BSA.VTC}}} 																											
+frequency 	0	 {\displaystyle T_{\mathrm {sol-air} }=T_{o}+{\frac {(a\cdot I-\Delta Q_{ir})}{h_{o}}}} 																											
+frequency 	0	 {\displaystyle TRevPAR=TotalRevenue/RoomsAvailable} 																											
+frequency 	0	 {\displaystyle \mathbb {E} \left[\left(\int _{0}^{T}X_{t}\,\mathrm {d} W_{t}\right)^{2}\right]=\mathbb {E} \left[\int _{0}^{T}X_{t}^{2}\,\mathrm {d} t\right]} 																											
+frequency 	0	 {\displaystyle {\begin{array}{rl}A1&amp	(P(p)\land \Box \forall x(p(x)\to q(x)))\to P(q)\\A2&amp	P(\neg p)\iff \neg P(p)\\T1&amp	P(p)\to \Diamond \exists xp(x)\\D1&amp	G(x)\iff \forall p(P(p)\to p(x))\\A3&amp	P(G)\\T2&amp	\Diamond \exists xG(x)\\D2&amp	S(p,x)\iff p(x)\land \forall q(q(x)\to \Box \forall y(p(y)\to q(y)))\\A4&amp	P(p)\to \Box P(p)\\T3&amp	G(x)\to S(G,x)\\D3&amp	E(x)\iff \forall p(S(p,x)\to \Box \exists yp(y))\\A5&amp	P(E)\\T4&amp	\Box \exists xG(x)\end{array}}} 															
+frequency 	0	 {\displaystyle A_{o}={\frac {T_{m}}{T_{m}+T_{d}}}} 																											
+frequency 	0	 {\displaystyle {\mathit {Be}}_{S}={\frac {S(\Delta T)}{S(\Delta T)+S(\Delta p)}}} 																											
+frequency 	0	 {\displaystyle TREE(3)\approx \{3,6,3[1[1\neg 1,2]2]2\}} 																											
+frequency 	0	 {\displaystyle \sigma (T)} 																											
+frequency 	0	 {\displaystyle {\mathit {Ec}}={\frac {v^{2}}{c_{p}\Delta T}}} 																											
+frequency 	0	 {\displaystyle f_{X}(x\mid \theta )=h(x)\exp \left(\eta (\theta )\cdot T(x)-A(\theta )\right)} 																											
+frequency 	0	 {\displaystyle U=\sum _{t=0}^{T}\beta ^{t}u(c_{t})} 																											
+frequency 	0	 {\displaystyle Q=C_{\mathrm {th} }\Delta T} 																											
+frequency 	0	 {\displaystyle j^{\star }=\sigma T^{4}} 																											
+frequency 	0	 {\displaystyle R_{n}(x)\ {\stackrel {\mathrm {def} }{=}}\ T_{n}\left({\frac {x-1}{x+1}}\right)} 																											
+frequency 	0	 {\displaystyle T:\mathbf {v} \mapsto \lambda \mathbf {v} } 																											
+frequency 	0	 {\displaystyle T=KP_{pre}d} 																											
+frequency 	0	 {\displaystyle Z=\sum _{r}{\exp {\frac {-E_{r}}{kT}}}} 																											
+frequency 	0	 {\displaystyle T_{p}={\frac {b\ \gamma (T,RH)}{a-\gamma (T,RH)}}} 																											
+frequency 	0	 {\displaystyle (X,{\mathcal {B}},\mu ,T)} 																											
+frequency 	0	 {\displaystyle J=-A/T} 																											
+frequency 	0	 {\displaystyle R_{\mu \nu }=T_{\mu \nu }\,} 																											
+frequency 	0	 {\displaystyle {\frac {\kappa }{\sigma }}=LT} 																											
+frequency 	0	 {\displaystyle V(x)=\max _{a\in \Gamma (x)}\{F(x,a)+\beta V(T(x,a))\}} 																											
+frequency 	0	 {\displaystyle T={\frac {\ln(2)}{\ln(1+r)}}} 																											
+frequency 	0	 {\displaystyle {\cfrac {G+C}{A+T+G+C}}} 																											
+frequency 	0	 {\displaystyle K={\frac {q}{\Delta T}}} 																											
+frequency 	0	 {\displaystyle I_{diode}={\dfrac {U_{IN}-U_{OUT}}{R_{\Omega }}}} 																											
+frequency 	0	 {\displaystyle X_{T}=C+\mu RX} 																											
+frequency 	0	 {\displaystyle P(t,T)=\mathbb {E} ^{Q}\left[\left.\exp {\left(-\int _{t}^{T}r_{s}\,ds\right)}\right|{\mathcal {F}}_{t}\right]} 																											
+frequency 	0	 {\displaystyle {\frac {\mathrm {d} \varepsilon }{\mathrm {d} t}}={\frac {C\sigma ^{m}}{d^{b}}}e^{\frac {-Q}{kT}}} 																											
+frequency 	0	 {\displaystyle x^{T}Ax\geq 0} 																											
+frequency 	0	 {\displaystyle \lim _{T\to T_{\mathrm {H} }}\operatorname {tr} \exp(-H/k_{\mathrm {B} }T)=\infty } 																											
+frequency 	0	 {\displaystyle R_{n}={\frac {e^{2}}{4kT_{0}\,\Delta f}}} 																											
+frequency 	0	 {\displaystyle \alpha _{A}={\frac {1}{A}}{\frac {\mathrm {d} A}{\mathrm {d} T}}} 																											
+frequency 	0	 {\displaystyle \langle T,\alpha \rangle } 																											
+frequency 	0	 {\displaystyle {\frac {1}{K}}\,d_{T}(g,h)\leq d_{S}(g,h)\leq K\,d_{T}(g,h)} 																											
+frequency 	0	 {\displaystyle T_{L}={\frac {T_{N}}{cos(\theta )}}} 																											
+frequency 	0	 {\displaystyle \tau _{\text{N}}=\tau _{0}\exp \left({\frac {KV}{k_{\text{B}}T}}\right)} 																											
+frequency 	0	 {\displaystyle \ ST={\frac {k(\mathrm {Span} )}{RBW^{2}}}} 																											
+frequency 	0	 {\displaystyle h={\frac {q}{T_{\mathrm {s} }-T_{\mathrm {r} }}}} 																											
+frequency 	0	 {\displaystyle T_{\mu \nu }=-{\frac {2}{\sqrt {\det g}}}{\frac {\delta S}{\delta g^{\mu \nu }}}=-{\frac {2}{\sqrt {\det g}}}{\frac {\partial ({\sqrt {\det g}}{\mathcal {L}})}{\partial g^{\mu \nu }}}=-2{\frac {\partial {\mathcal {L}}}{\partial g^{\mu \nu }}}+g_{\mu \nu }{\mathcal {L}}} 																											
+frequency 	0	 {\displaystyle \Delta (T=0)=1.764\,k_{B}T_{c}} 																											
+frequency 	0	 {\displaystyle Y=-G/T} 																											
+frequency 	0	 {\displaystyle \operatorname {Gram} (A)=\det(A^{T}A)} 																											
+frequency 	0	 {\displaystyle {\mathit {Bz}}={\frac {\rho vc_{p}}{\varepsilon \sigma T^{3}}}} 																											
+frequency 	0	 {\displaystyle \sigma (T)=\sigma _{p}(T)\cup \sigma _{c}(T)\cup \sigma _{r}(T)} 																											
+frequency 	0	 {\displaystyle p={\frac {RT}{V-b}}-{\frac {a}{V^{5/3}}}} 																											
+frequency 	0	 {\displaystyle {\mathcal {E}}^{(0)}=\left\{z\in \mathbb {R} ^{n}\ \ (z-x_{0})^{T}P_{(0)}^{-1}(z-x_{0})\leqslant 1\right\}} 																											
+frequency 	0	 {\displaystyle G=H-TS} 																											
+frequency 	0	 {\displaystyle T_{\mathrm {amortized} }(o)=T_{\mathrm {actual} }(o)+C\cdot (\Phi (S_{\mathrm {after} })-\Phi (S_{\mathrm {before} }))} 																											
+frequency 	0	 {\displaystyle \lbrace (x,y)\in X\times Y\mid Tx=y\rbrace } 																											
+frequency 	0	 {\displaystyle \sigma _{f}={\sqrt {\frac {kT}{mc^{2}}}}f_{0}} 																											
+frequency 	0	 {\displaystyle +_{*}T(E\times E)\to TE,\qquad \lambda _{*}TE\to TE} 																											
+frequency 	0	 {\displaystyle x(N)={1 \over N+1}\sum _{n=0}^{N}T^{n}(x)} 																											
+frequency 	0	 {\displaystyle \sigma _{ab}=|T_{ab}|^{2}{\frac {p_{b}^{2}}{v_{a}v_{b}}}(2j_{b}+1)(2j_{B}+1)} 																											
+frequency 	0	 {\displaystyle \|T\|_{p}={\bigg (}\sum _{n\geq 1}s_{n}^{p}(T){\bigg )}^{1/p}} 																											
+frequency 	0	 {\displaystyle T_{\text{wbgt}}=0.7T_{\text{wet-bulb}}+0.2T_{\text{globe}}+0.1T_{\text{dry-bulb}}} 																											
+gravitational acceleration 	1	 {\displaystyle r_{\text{isco}}={\frac {6GM}{c^{2}}}=3R_{\text{Schwarzschild}}} 																											
+gravitational acceleration 	2	 {\displaystyle {\vec {g}}=-{\frac {GM}{{R}^{2}}}{\vec {r}}} 																											
+gravitational acceleration 	0	 {\displaystyle {\begin{aligned}R^{-1}&amp	Fehler:533	Fehler:539																									
+gravitational force 	1	 {\displaystyle U=-{\frac {GMm}{r}}} 																											
+gravitational force 	2	 {\displaystyle {\vec {F}}_{g}=-{\frac {Gm_{1}m_{2}}{r^{2}}}{\hat {r}}} 																											
+gravitational force 	1	 {\displaystyle {\vec {g}}=-{\frac {Gm_{\oplus }}{{R_{\oplus }}^{2}}}{\vec {r}}} 																											
+gravitational force 	2	 {\displaystyle -{\frac {Gm_{1}m_{2}}{r^{2}}}=m_{2}A_{2}} 																											
+gravitational force 	2	 {\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}} 																											
+gravitational force 	0	 {\displaystyle {\begin{aligned}R^{-1}&amp	Fehler:533	Fehler:539																									
+gravitational potential 	2	 {\displaystyle U=-{\frac {GMm}{r}}} 																											
+gravitational potential 	0	 {\displaystyle {\begin{aligned}R^{-1}&amp	Fehler:533	Fehler:539																									
+hamiltonian operator 	2	 {\displaystyle \epsilon H=p(t)(q(t+\epsilon )-q(t))-\epsilon L} 																											
+hamiltonian operator 	0	 {\displaystyle Sp_{2}(\mathbb {F} _{q})=\left\{g\in GL_{2n}(\mathbb {F} _{q})\mid ^{t}gJg=J\right\}} 																											
+hamilton-jacobi equation 	2	 {\displaystyle {\frac {\partial S}{\partial t}}=-H} 																											
+hamilton-jacobi equation 	0	 {\displaystyle ABSI={WC \over {BMI^{2 \over 3}\times Height^{1 \over 2}}}} 																											
+hooke's law 	0	 {\displaystyle f_{X}(x	n)={\frac {1}{2(n-1)!}}\sum _{k=0}^{n}(-1)^{k}{n \choose k}(x-k)^{n-1}\operatorname {sgn}(x-k)} 																										
+hooke's law 	0	 {\displaystyle X_{k}=\sum _{n=0}^{N-1}x_{n}e^{-{\frac {2\pi i}{N}}nk}} 																											
+hooke's law 	0	 {\displaystyle X_{k+1}=g\cdot X_{k}~~{\bmod {~}}~n} 																											
+hooke's law 	0	 {\displaystyle H^{k}(X	R)\times H^{\ell }(X	R)\to H^{k+\ell }(X	R)} 																								
+hooke's law 	0	 {\displaystyle \left({\frac {\sum _{k=1}^{n}X_{k}}{n}}\right)_{n\in \mathbb {N} }} 																											
+hooke's law 	0	 {\displaystyle f_{k}=P[X_{i}=hk]} 																											
+hooke's law 	0	 {\displaystyle f_{X}(x	n)={\frac {n}{2(n-1)!}}\sum _{k=0}^{n}(-1)^{k}{n \choose k}(nx-k)^{n-1}\operatorname {sgn}(nx-k)} 																										
+hooke's law 	0	 {\displaystyle M{\ddot {X}}=-\nabla U(X)-\gamma {\dot {X}}+{\sqrt {2\gamma k_{B}T}}R(t)\,} 																											
+hooke's law 	0	 {\displaystyle Z={\sqrt {\sum _{i=1}^{k}\left({\frac {X_{i}}{\sigma _{i}}}\right)^{2}}}} 																											
+hooke's law 	0	 {\displaystyle X(t)=((k+\cos(t))\cos(t),(j+\cos(t))\sin(t),\sin(t))} 																											
+hooke's law 	0	 {\displaystyle X_{\mu }^{k}(\sigma ,\theta )=x_{\mu }^{k}+O(\sigma ,\theta )} 																											
+hooke's law 	0	 {\displaystyle \operatorname {E} [X]=x_{1}p_{1}+x_{2}p_{2}+\cdots +x_{k}p_{k}\	} 																										
+hooke's law 	0	 {\displaystyle |X_{k}-X_{k-1}|&lt	c_{k},} 																										
+hooke's law 	0	 {\displaystyle p=\sum _{k}p_{k}X^{k},\quad p_{k}\in \mathbb {F} } 																											
+hooke's law 	0	 {\displaystyle G=\left\vert 1-\sum _{k=2}^{n}(X_{k}-X_{k-1})(Y_{k}+Y_{k-1})\right\vert } 																											
+hooke's law 	0	 {\displaystyle X_{t}^{\tau _{k}}=X_{\min\{t,\tau _{k}\}}} 																											
+hooke's law 	0	 {\displaystyle p_{X}(k)=e^{-\lambda }{\frac {\lambda ^{k}}{k!}}} 																											
+hooke's law 	0	 {\displaystyle F=kX} 																											
+hooke's law 	0	 {\displaystyle X_{i}=(X_{i-a}+X_{i-b}+...+X_{i-k})\mod (2^{m})} 																											
+hooke's law 	0	 {\displaystyle X_{2k}^{2}\sim -2\sum _{i=1}^{k}\ln(p_{i})} 																											
+hooke's law 	0	 {\displaystyle X_{k}=\sum _{i=1}^{S}g_{k}^{i}\cdot M_{i}} 																											
+hooke's law 	0	 {\displaystyle 2^{k}{|X| \choose k}} 																											
+hooke's law 	0	 {\displaystyle k\cdot (X\cdot v)=(\operatorname {Ad} (k)X)\cdot (k\cdot v)} 																											
+hooke's law 	0	 {\displaystyle \Pr(X=k)=(1-p)^{k-1}} 																											
+hooke's law 	0	 {\displaystyle X_{t}=\sum _{k=1}^{\infty }Z_{k}e_{k}(t)} 																											
+hooke's law 	0	 {\displaystyle \mathrm {Res} _{L/k}X(S)=X(S\times _{k}L)} 																											
+hooke's law 	0	 {\displaystyle \operatorname {Griff} ^{k}(X)=Z^{k}(X)_{\mathrm {hom} }/Z^{k}(X)_{\mathrm {alg} }} 																											
+hooke's law 	0	 {\displaystyle \pi _{s}^{p}(X)=\varinjlim _{k}{[\Sigma ^{k}X,S^{p+k}]}} 																											
+kinetic energy 	0	 {\displaystyle \Delta v\ =V_{e}\ln {\frac {m_{0}}{m_{1}}}} 																											
+kinetic energy 	0	 {\displaystyle {\frac {\lambda }{1+\lambda }}\nabla \cdot (\mathbf {\Sigma } _{i}\nabla v)=\chi (C_{m}{\frac {\partial v}{\partial t}}+I_{\text{ion}})} 																											
+kinetic energy 	0	 {\displaystyle e_{v}=m_{v}g_{v}r\ln \left({S \over r}\right)} 																											
+kinetic energy 	0	 {\displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})} 																											
+kinetic energy 	0	 {\displaystyle \lambda ={\frac {h}{p}}={\frac {h}{mv}}} 																											
+kinetic energy 	0	 {\displaystyle \theta =\pi -2b\int _{r_{\mathrm {min} }}^{\infty }{\frac {dr}{r^{2}{\sqrt {1-(b/r)^{2}-2U/mv_{\infty }^{2}}}}}} 																											
+kinetic energy 	0	 {\displaystyle v_{\mathrm {rms} }={\sqrt {{3RT} \over {M_{m}}}}} 																											
+kinetic energy 	1	 {\displaystyle {\vec {F}}=-{\frac {mv^{2}{\hat {r}}}{r}}} 																											
+kinetic energy 	0	 {\displaystyle N_{mg}=B{\sqrt {\frac {l\sigma }{\eta v}}}} 																											
+kinetic energy 	0	 {\displaystyle {\frac {1}{2}}mv^{2}=eV_{ion}} 																											
+kinetic energy 	0	 {\displaystyle E_{D}={\frac {1}{4\pi \epsilon _{0}^{2}}}{\frac {ne^{3}\ln \Lambda }{m_{e}v_{Te}^{2}}}} 																											
+kinetic energy 	0	 {\displaystyle {\frac {1}{v\left[\left({p_{0}}/{p}\right)-1\right]}}={\frac {c-1}{v_{\mathrm {m} }c}}\left({\frac {p}{p_{0}}}\right)+{\frac {1}{v_{m}c}},\qquad (1)} 																											
+kinetic energy 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+kinetic energy 	0	 {\displaystyle v=m/V} 																											
+kinetic energy 	0	 {\displaystyle \Delta v=v_{\text{e}}\ln {\frac {m_{0}}{m_{f}}}} 																											
+kinetic energy 	0	 {\displaystyle TRevPAR=TotalRevenue/RoomsAvailable} 																											
+kinetic energy 	0	 {\displaystyle SR={\frac {CompoundROR}{ABS(Avg.AnnualDD-10\%)}}} 																											
+kinetic energy 	0	 {\displaystyle \sum _{i}m_{i}v_{i}^{2}} 																											
+kinetic energy 	0	 {\displaystyle \int _{Y}^{*}H_{m-n}(A\cap f^{-1}(y))\,dH_{n}(y)\leq {\frac {v_{m-n}v_{n}}{v_{m}}}({\text{Lip }}f)^{n}H_{m}(A)} 																											
+kinetic energy 	0	 {\displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}} 																											
+kinetic energy 	0	 {\displaystyle m={\frac {m_{0}}{\sqrt {1-(v/c)^{2}}}}} 																											
+kinetic energy 	0	 {\displaystyle T={\frac {1}{2}}mv^{2}} 																											
+kinetic energy 	0	 {\displaystyle B_{m}=\sum _{k=0}^{m}\sum _{v=0}^{k}(-)^{v}{\binom {k}{v}}{\frac {v^{m}}{k+1}}} 																											
+kinetic energy 	0	 {\displaystyle \Delta p=p_{i,x}-p_{f,x}=p_{i,x}-(-p_{i,x})=2p_{i,x}=2mv_{x}} 																											
+kinetic energy 	0	 {\displaystyle {\bar {d}}=k{D_{v}\cdot R\cdot \nu _{m}\cdot \epsilon  \over D_{s}\cdot N\cdot \nu _{l}\cdot C_{s}}} 																											
+kinetic energy 	0	 {\displaystyle {\frac {L_{vap}}{T_{boiling}}}\approx 87-88{\frac {J}{Kmol}}} 																											
+kinetic energy 	0	 {\displaystyle f(v)={\sqrt {\left({\frac {m}{2\pi kT}}\right)^{3}}}\,4\pi e^{-{\frac {mv^{2}}{2kT}}}} 																											
+lagrangian operator 	0	 {\displaystyle W_{\mathrm {SWU} }=P\cdot V\left(x_{p}\right)+T\cdot V(x_{t})-F\cdot V(x_{f})} 																											
+lagrangian operator 	0	 {\displaystyle FMV\,=\,{VBAB*TAB_{factor}}} 																											
+lagrangian operator 	0	 {\displaystyle V_{R}^{\circ }={\frac {j}{m}}F(t_{R}-t_{o}){\frac {T}{273.15}}} 																											
+lagrangian operator 	0	 {\displaystyle BRN={\frac {(g/T_{v})\Delta \theta _{v}\Delta z}{(\Delta U)^{2}+(\Delta V)^{2}}}} 																											
+lagrangian operator 	0	 {\displaystyle dU=T\,dS-P\,dV+\mu \,dM} 																											
+lagrangian operator 	0	 {\displaystyle \gamma V^{2/3}=k(T_{c}-T)} 																											
+lagrangian operator 	0	 {\displaystyle p={\frac {RT}{V-b}}\exp \left(-{\frac {a}{RTV}}\right)} 																											
+lagrangian operator 	1	 {\displaystyle L(q_{i},{\dot {q}}_{i})=T(q_{i},{\dot {q}}_{i})-V(q_{i})} 																											
+lagrangian operator 	0	 {\displaystyle k_{t}={\frac {t_{v}}{T_{N}}}={\frac {t_{N}-t_{NV}}{T_{N}}}} 																											
+lagrangian operator 	0	 {\displaystyle T=\left({\frac {\partial U}{\partial S}}\right)_{V,N}} 																											
+lagrangian operator 	0	 {\displaystyle \alpha _{p}={\frac {1}{p}}\left({\frac {\partial p}{\partial T}}\right)_{V}} 																											
+lagrangian operator 	0	 {\displaystyle RT=\left(P+{\frac {a}{V_{\text{m}}^{2}}}\right)(V_{\text{m}}-b)} 																											
+lagrangian operator 	0	 {\displaystyle PV=nRT} 																											
+lagrangian operator 	0	 {\displaystyle RT_{60}={\frac {24\ln 10^{1}}{c_{20}}}{\frac {V}{Sa}}\approx 0.1611\,\mathrm {s} \mathrm {m} ^{-1}{\frac {V}{Sa}}} 																											
+lagrangian operator 	0	 {\displaystyle {\mathit {Gr}}={\frac {l^{3}g\alpha _{V}\Delta T}{\nu ^{2}}}} 																											
+lagrangian operator 	0	 {\displaystyle {\frac {P_{1}V_{1}}{T_{1}}}={\frac {P_{2}V_{2}}{T_{2}}}} 																											
+lagrangian operator 	0	 {\displaystyle {\dot {V}}=V_{T}\times f} 																											
+lagrangian operator 	0	 {\displaystyle \sum _{i}n_{i}\mathrm {d} \mu _{i}=-S\mathrm {d} T+V\mathrm {d} p} 																											
+lagrangian operator 	0	 {\displaystyle PV=nRT=mR_{\rm {specific}}T\,\!} 																											
+lagrangian operator 	0	 {\displaystyle \ln {\frac {p}{p_{\mathrm {sat} }}}={\frac {2\gamma V_{\mathrm {m} }}{rRT}}} 																											
+lagrangian operator 	0	 {\displaystyle \varkappa _{T}=-{\frac {1}{V}}\left({\frac {\partial V}{\partial p}}\right)_{T}} 																											
+lagrangian operator 	0	 {\displaystyle SBSI={\frac {(H^{\frac {7}{4}}).(WC^{\frac {5}{6}})}{BSA.VTC}}} 																											
+lagrangian operator 	0	 {\displaystyle K_{C}={\frac {VT}{L}}} 																											
+lagrangian operator 	0	 {\displaystyle V=(HH\cdot TR\cdot TU)+(HH\cdot TR\cdot MR\cdot RR\cdot RU)} 																											
+lagrangian operator 	0	 {\displaystyle E=T+V} 																											
+lagrangian operator 	0	 {\displaystyle V\propto T} 																											
+lagrangian operator 	0	 {\displaystyle H=T+V+V_{\text{bias}}} 																											
+lagrangian operator 	0	 {\displaystyle A=T(V)/R} 																											
+lagrangian operator 	0	 {\displaystyle \beta =\left({\frac {\partial p}{\partial T}}\right)_{V}} 																											
+lagrangian operator 	0	 {\displaystyle p={\frac {R\cdot T}{V_{m}-b}}-{\frac {a(T)}{V_{m}^{2}+2\cdot b\cdot V_{m}-b^{2}}}} 																											
+lagrangian operator 	0	 {\displaystyle \alpha _{V}={\frac {1}{V}}{\frac {\mathrm {d} V}{\mathrm {d} T}}} 																											
+lagrangian operator 	0	 {\displaystyle I=I_{\mathrm {S} }\left(e^{qV_{\mathrm {D} } \over nkT}-1\right)} 																											
+lagrangian operator 	0	 {\displaystyle V_{t}^{T}=\mathbb {E} G_{\tau ^{*}}=\sup _{t\leq \tau \leq T}\mathbb {E} G_{\tau }} 																											
+lagrangian operator 	0	 {\displaystyle p={\frac {RT}{V-b}}-{\frac {a}{V^{5/3}}}} 																											
+lagrangian operator 	0	 {\displaystyle {\mathit {Ra}}={\frac {l^{3}g\alpha _{V}\Delta T}{\nu \alpha }}} 																											
+lagrangian operator 	0	 {\displaystyle V(x)=\max _{a\in \Gamma (x)}\{F(x,a)+\beta V(T(x,a))\}} 																											
+lagrangian operator 	0	 {\displaystyle {\frac {PV}{T}}=k} 																											
+lagrangian operator 	0	 {\displaystyle \tau _{\text{N}}=\tau _{0}\exp \left({\frac {KV}{k_{\text{B}}T}}\right)} 																											
+lagrangian operator 	0	 {\displaystyle A=\{-V_{T}(V_{t})_{t=0}^{T}{\text{ is the price of a self-financing portfolio at each time}}\}} 																											
+lagrangian operator 	0	 {\displaystyle {\mathcal {L}}=T-V} 																											
+lorentz factor 	0	 {\displaystyle \langle x,v\rangle \geq c\,{\text{ and }}\langle y,v\rangle \leq c} 																											
+lorentz factor 	0	 {\displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})} 																											
+lorentz factor 	0	 {\displaystyle f=\left({\frac {c+v_{\text{r}}}{c+v_{\text{s}}}}\right)f_{0}} 																											
+lorentz factor 	0	 {\displaystyle S_{v}(f)={\frac {A^{2}}{2}}{\frac {cf_{0}^{2}}{c^{2}\pi ^{2}f_{0}^{4}+(f-f_{0})^{2}}},} 																											
+lorentz factor 	1	 {\displaystyle \theta =c\,\mathrm {Arth} \,{\frac {v}{c}}={\frac {c}{2}}\ln {\frac {1+{\dfrac {v}{c}}}{1-{\dfrac {v}{c}}}}} 																											
+lorentz factor 	2	 {\displaystyle \gamma ={\frac {1}{\sqrt {1-({\frac {v}{c}})^{2}}}}} 																											
+lorentz factor 	0	 {\displaystyle v_{\text{P}}={\sqrt {\frac {G^{3}\hbar ^{3}}{c^{9}}}}} 																											
+lorentz factor 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+lorentz factor 	0	 {\displaystyle a=c_{1}{\frac {Du_{1}}{u_{1}}}+\dotsb +c_{n}{\frac {Du_{n}}{u_{n}}}+Dv} 																											
+lorentz factor 	0	 {\displaystyle Bo_{II}={\frac {v}{\sqrt {2\,g\,L_{c}}}}} 																											
+lorentz factor 	2	 {\displaystyle \gamma ={\frac {1}{\sqrt {1-v^{2}/c^{2}}}}} 																											
+lorentz factor 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+lorentz factor 	0	 {\displaystyle j={\frac {K}{c_{p}\rho v}}\left({\frac {c_{p}\eta }{\lambda }}\right)^{2/3}} 																											
+lorentz factor 	0	 {\displaystyle {\frac {\partial c}{\partial t}}=\nabla \cdot (D\nabla c)-\nabla \cdot ({\vec {v}}c)+R} 																											
+lorentz factor 	0	 {\displaystyle {\frac {c}{n}}+\left(1-{\frac {1}{n^{2}}}\right)v} 																											
+lorentz factor 	0	 {\displaystyle {\mathit {Bg}}={\frac {c_{\mathrm {D} }\rho v^{2}}{lg\rho _{\mathrm {b} }}}} 																											
+lorentz factor 	0	 {\displaystyle \kappa ={\frac {v_{p}}{c}}={\frac {1}{\sqrt {\epsilon _{\text{r}}}}}} 																											
+lorentz factor 	0	 {\displaystyle (\lambda x.u)v\	\triangleright _{c}\	u[v/x]} 																									
+lorentz factor 	0	 {\displaystyle m={\frac {m_{0}}{\sqrt {1-(v/c)^{2}}}}} 																											
+lorentz factor 	0	 {\displaystyle {\frac {1}{v\left[\left({p_{0}}/{p}\right)-1\right]}}={\frac {c-1}{v_{\mathrm {m} }c}}\left({\frac {p}{p_{0}}}\right)+{\frac {1}{v_{m}c}},\qquad (1)} 																											
+lorentz factor 	0	 {\displaystyle x=c\cosh {\frac {v}{c}}\cos u} 																											
+lorentz factor 	0	 {\displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}} 																											
+lorentz factor 	0	 {\displaystyle v={\frac {c}{n}}} 																											
+lorentz factor 	0	 {\displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)} 																											
+lorentz factor 	0	 {\displaystyle {\mathit {Ma}}={\frac {v}{c}}} 																											
+lorentz factor 	0	 {\displaystyle {\mathit {Ec}}={\frac {v^{2}}{c_{p}\Delta T}}} 																											
+lorentz factor 	0	 {\displaystyle n_{v}=n_{c}-n_{s}} 																											
+lorentz factor 	0	 {\displaystyle a_{c}={\frac {v^{2}}{r}}} 																											
+lorentz factor 	0	 {\displaystyle t={\frac {\lambda }{c-v}}={\frac {c}{(c-v)f_{s}}}={\frac {1}{(1-\beta )f_{s}}}} 																											
+lorentz factor 	0	 {\displaystyle \tan(\phi )={\frac {u_{y}'}{u_{x}'}}={\frac {u_{y}}{(u_{x}-v)}}={\frac {\sin(\theta )}{(\cos(\theta )-v/c)}}} 																											
+lorentz factor 	0	 {\displaystyle {\mathit {St}}={\frac {K}{\rho vc_{p}}}} 																											
+lorentz factor 	0	 {\displaystyle n_{a}=n_{v}-n_{c}} 																											
+lorentz factor 	0	 {\displaystyle {\mathit {Bz}}={\frac {\rho vc_{p}}{\varepsilon \sigma T^{3}}}} 																											
+lorentz factor 	0	 {\displaystyle t'=\gamma \left(t-{\frac {vx}{c^{2}}}\right),x'=\gamma \left(x-vt\right)} 																											
+mass-energy equivalence 	0	 {\displaystyle \varepsilon is[[Strain(materialsscience)|strain]]} 																											
+mass-energy equivalence 	0	 {\displaystyle L(\lambda )=m_{\mathrm {b} }c_{\mathrm {b} }(\lambda )+m_{\mathrm {s} }c_{\mathrm {s} }(\lambda )} 																											
+mass-energy equivalence 	0	 {\displaystyle OB\%={\frac {-1600}{Mol.wt.ofcompound}}\times (2X+(Y/2)+M-Z)} 																											
+mass-energy equivalence 	0	 {\displaystyle P(i,j,k,m)\equiv d(c_{i},c_{j})\leq {\frac {m}{k+1}}} 																											
+mass-energy equivalence 	0	 {\displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})} 																											
+mass-energy equivalence 	0	 {\displaystyle {\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\psi -\nabla ^{2}\psi +{\frac {m^{2}c^{2}}{\hbar ^{2}}}\psi =0} 																											
+mass-energy equivalence 	0	 {\displaystyle \varphi (\theta )=mR\theta +x+\sum _{n\neq 0}c_{n}e^{in\theta }} 																											
+mass-energy equivalence 	0	 {\displaystyle c:=\langle g^{y},h^{y}\cdot m\rangle } 																											
+mass-energy equivalence 	2	 {\displaystyle E=mc^{2}} 																											
+mass-energy equivalence 	0	 {\displaystyle c_{m}=\left(4g\sigma /\rho \right)^{1/4}} 																											
+mass-energy equivalence 	0	 {\displaystyle \lambda _{\mathrm {C} }={\frac {h}{mc_{0}}},} 																											
+mass-energy equivalence 	0	 {\displaystyle E^{2}-|{\vec {p}}\,|^{2}c^{2}=m^{2}c^{4}} 																											
+mass-energy equivalence 	0	 {\displaystyle S={\frac {1}{c}}\int {d^{4}x{\sqrt {-g}}{\frac {1}{2\mu }}}\times \left[\Phi R-{\frac {\omega (\Phi )}{\Phi }}(\partial _{\sigma }\Phi )^{2}-V(\Phi )+2\mu ~{\mathcal {L}}_{m}(g_{\mu \nu },\Psi )\right]} 																											
+mass-energy equivalence 	0	 {\displaystyle {\frac {\ell x^{2}+mx+n}{(x-a)(x-b)(x-c)}}={\frac {A}{(x-a)}}+{\frac {B}{(x-b)}}+{\frac {C}{(x-c)}}} 																											
+mass-energy equivalence 	0	 {\displaystyle e(c)=n\prod _{i=1}^{m}p_{i}(c_{i})} 																											
+mass-energy equivalence 	0	 {\displaystyle \theta _{0}={\frac {1}{6\pi \epsilon _{0}}}{\frac {e^{2}}{m_{0}c^{3}}}} 																											
+mass-energy equivalence 	0	 {\displaystyle m_{0}=c^{-1}{\sqrt {E^{2}/c^{2}-p^{2}}}} 																											
+mass-energy equivalence 	0	 {\displaystyle M_{\rm {limit}}={\frac {\omega _{3}^{0}{\sqrt {3\pi }}}{2}}\left({\frac {\hbar c}{G}}\right)^{3/2}{\frac {1}{(\mu _{\text{e}}m_{\text{H}})^{2}}}} 																											
+mass-energy equivalence 	0	 {\displaystyle c_{ij}=\sum _{k=1}^{m}a_{ik}b_{kj}} 																											
+mass-energy equivalence 	0	 {\displaystyle m_{\mathrm {P} }={\sqrt {\frac {c\hbar }{G}}}} 																											
+mass-energy equivalence 	0	 {\displaystyle \sigma _{total}={{\bigl (}\sigma _{sample}^{2}+\sigma _{calib}^{2}{\bigr )}}^{\frac {1}{2}}} 																											
+mass-energy equivalence 	0	 {\displaystyle \eta _{th}is[[thermalefficiency]]} 																											
+mass-energy equivalence 	0	 {\displaystyle cr(K_{m,n})=\lfloor n/2\rfloor \lfloor (n-1)/2\rfloor \lfloor m/2\rfloor \lfloor (m-1)/2\rfloor } 																											
+mass-energy equivalence 	0	 {\displaystyle {\frac {1}{v\left[\left({p_{0}}/{p}\right)-1\right]}}={\frac {c-1}{v_{\mathrm {m} }c}}\left({\frac {p}{p_{0}}}\right)+{\frac {1}{v_{m}c}},\qquad (1)} 																											
+mass-energy equivalence 	0	 {\displaystyle i\hbar {\frac {\partial \Psi }{\partial t}}=(c{\hat {\boldsymbol {\alpha }}}\cdot {\hat {\boldsymbol {p}}}+mc^{2}{\hat {\beta }})\Psi } 																											
+mass-energy equivalence 	0	 {\displaystyle c:=[(1+N)^{m}\cdot r^{N}\mod N^{2}]} 																											
+mass-energy equivalence 	0	 {\displaystyle V_{i}isthemembranepotentialofithcompartment} 																											
+mass-energy equivalence 	0	 {\displaystyle \Delta f_{\text{FWHM}}={\sqrt {\frac {8kT\ln 2}{mc^{2}}}}f_{0}} 																											
+mass-energy equivalence 	0	 {\displaystyle B(x,\mu )=f(x)-\mu ~\sum _{i=1}^{m}\log(c_{i}(x))~~~~~(2)} 																											
+mass-energy equivalence 	0	 {\displaystyle [L_{m},L_{n}]=(m-n)L_{m+n}+{\frac {c}{12}}(m^{3}-m)\delta _{m+n,0}} 																											
+mass-energy equivalence 	0	 {\displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess} 																											
+mass-energy equivalence 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+mass-energy equivalence 	0	 {\displaystyle |Y^{X}/G|={\frac {1}{|G|}}\sum _{g\in G}m^{c(g)}} 																											
+mass-energy equivalence 	0	 {\displaystyle Compliance={\frac {\Delta V}{\Delta P}}} 																											
+mass-energy equivalence 	0	 {\displaystyle \Delta (mc)\Delta r\geq \hbar /2} 																											
+mass-energy equivalence 	0	 {\displaystyle m={\frac {m_{0}}{\sqrt {1-(v/c)^{2}}}}} 																											
+mass-energy equivalence 	0	 {\displaystyle c\equiv m^{e}{\pmod {n}}} 																											
+mass-energy equivalence 	0	 {\displaystyle E^{2}=p^{2}c^{2}+m^{2}c^{4}} 																											
+mass-energy equivalence 	0	 {\displaystyle \zeta ={\frac {c}{2{\sqrt {mk}}}}} 																											
+mass-energy equivalence 	0	 {\displaystyle t=s/c_{m}} 																											
+mass-energy equivalence 	0	 {\displaystyle E_{0}=m_{0}c_{0}^{2}} 																											
+mass-energy equivalence 	0	 {\displaystyle cd={\frac {lm}{sr}}} 																											
+mass-energy equivalence 	0	 {\displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}} 																											
+mass-energy equivalence 	0	 {\displaystyle (x^{2}+y^{2})^{2}-(2m^{2}+c)x^{2}+(2m^{2}-c)y^{2}=0} 																											
+mass-energy equivalence 	0	 {\displaystyle Z_{1}\,\!theimpedanceofthegenerator} 																											
+mass-energy equivalence 	0	 {\displaystyle \sum \limits _{l'm'}{{M_{lm,l'm'}}\left({E,{\bf {k}}}\right){c_{l'm'}}\left(E,{\bf {k}}\right)=0}} 																											
+mass-energy equivalence 	0	 {\displaystyle {\Delta }S_{mix}=-R\sum _{i=1}^{N}c_{i}\ln {c_{i}}} 																											
+mass-energy equivalence 	0	 {\displaystyle r_{\mathrm {e} }={\frac {e^{2}}{4\pi \varepsilon _{0}m_{\mathrm {e} }c_{0}^{2}}}} 																											
+mass-energy equivalence 	0	 {\displaystyle R_{\infty }={\frac {\alpha ^{2}m_{e}c}{4\pi \hbar }}} 																											
+mass-energy equivalence 	0	 {\displaystyle (m_{\mathrm {rest} })c^{2}={\sqrt {E_{\mathrm {total} }^{2}-(|\mathbf {p} |c)^{2}}}} 																											
+mass-energy equivalence 	0	 {\displaystyle c={\frac {C}{m}}} 																											
+mass-energy equivalence 	0	 {\displaystyle {\frac {Energy\ consumed}{Built\ area}}} 																											
+mass-energy equivalence 	0	 {\displaystyle \mathbf {e} _{m+1}=\sum _{i=1}^{m}\ c_{i}\mathbf {e} _{i}} 																											
+mass-energy equivalence 	0	 {\displaystyle \sigma _{f}={\sqrt {\frac {kT}{mc^{2}}}}f_{0}} 																											
+mass-energy equivalence 	0	 {\displaystyle f(A\mid m)=\prod _{p}\phi \left(A_{p}\mid A_{\text{base}}+r\sum _{c}C_{cp},\nu ^{-1}\right)} 																											
+mass-energy equivalence 	0	 {\displaystyle YouTube.com/llstylish} 																											
+mechanical impedance 	2	 {\displaystyle Z_{\mathrm {m} }=Z_{\mathrm {a} }A^{2}} 																											
+mechanical impedance 	0	 {\displaystyle \displaystyle m{\big (}(A\cap Z)\cup (B\setminus Z){\big )}=p\,\operatorname {mes} (A)+(1-p)\operatorname {mes} (B)} 																											
+moment of inertia 	0	 {\displaystyle \varepsilon is[[Strain(materialsscience)|strain]]} 																											
+moment of inertia 	0	 {\displaystyle T_{raise}={\frac {Fd_{m}}{2}}\left({\frac {l+\pi \mu d_{m}}{\pi d_{m}-\mu l}}\right)={\frac {Fd_{m}}{2}}\tan {\left(\phi +\lambda \right)}} 																											
+moment of inertia 	0	 {\displaystyle JaroSim(s_{1},s_{2})=\left\{{\begin{array}{l l}{\frac {1}{3}}\left({\frac {m}{|s_{1}|}}+{\frac {m}{|s_{2}|}}+{\frac {m-t}{m}}\right)&amp	{\text{if }}m&gt	0\\0&amp	{\text{otherwise}}\end{array}}\right.} 																								
+moment of inertia 	0	 {\displaystyle {\frac {r}{m}}-\ln(m)-1.24=0} 																											
+moment of inertia 	0	 {\displaystyle e_{v}=m_{v}g_{v}r\ln \left({S \over r}\right)} 																											
+moment of inertia 	0	 {\displaystyle r_{SOI}\approx a\left({\frac {m}{M}}\right)^{2/5}} 																											
+moment of inertia 	0	 {\displaystyle Fisresultantfinenessmodulus} 																											
+moment of inertia 	0	 {\displaystyle {\mathit {Stk}}_{2}={\frac {r^{3}gm}{\nu ^{2}}}\left({\frac {1}{\rho }}-{\frac {1}{\rho _{\mathrm {b} }}}\right)} 																											
+moment of inertia 	0	 {\displaystyle U=-{\frac {GMm}{r}}} 																											
+moment of inertia 	0	 {\displaystyle net.assets\div net.premium.written} 																											
+moment of inertia 	0	 {\displaystyle {\vec {F}}_{g}=-{\frac {Gm_{1}m_{2}}{r^{2}}}{\hat {r}}} 																											
+moment of inertia 	0	 {\displaystyle \Delta Weight_{front}=a{\frac {h}{w}}m} 																											
+moment of inertia 	0	 {\displaystyle \theta =\pi -2b\int _{r_{\mathrm {min} }}^{\infty }{\frac {dr}{r^{2}{\sqrt {1-(b/r)^{2}-2U/mv_{\infty }^{2}}}}}} 																											
+moment of inertia 	0	 {\displaystyle d(km)=130({\sqrt {hr(km)}}+{\sqrt {ht(km)}})} 																											
+moment of inertia 	0	 {\displaystyle \forall r,s\in R,m,n\in M} 																											
+moment of inertia 	0	 {\displaystyle {\vec {F}}=-{\frac {mv^{2}{\hat {r}}}{r}}} 																											
+moment of inertia 	0	 {\displaystyle \rho _{k}=rank(A-\lambda _{i}I)^{k-1}-rank(A-\lambda _{i}I)^{k}\qquad (k=1,2,\ldots ,m_{i})} 																											
+moment of inertia 	0	 {\displaystyle \ \Phi (\mathbf {r} )=R_{l}(r)Y_{lm}(\theta ,\phi )} 																											
+moment of inertia 	0	 {\displaystyle c:=[(1+N)^{m}\cdot r^{N}\mod N^{2}]} 																											
+moment of inertia 	0	 {\displaystyle {\begin{aligned}m+n&amp	#NAME?	&amp	(m,n\in M)\\(m+n)+p&amp	#NAME?	&amp	(m,n,p\in M)\\m+0_{M}&amp	#NAME?	&amp	(m\in M)\\(-m)+m&amp	Fehler:539	&amp	(m\in M)\\r(sm)&amp	Fehler:509	&amp	(m\in M,\	r,s\in R)\\1_{R}m&amp	#NAME?	&amp	(m\in M)\\r(m+n)&amp	#NAME?	&amp	(m,n\in M,\	r\in R)\\(r+s)m&amp	#NAME?	&amp	(m\in M,\	r,s\in R)\end{aligned}}} 
+moment of inertia 	0	 {\displaystyle H(m)\,\equiv \,xr+sk{\pmod {p-1}}} 																											
+moment of inertia 	0	 {\displaystyle {\vec {g}}=-{\frac {Gm_{\oplus }}{{R_{\oplus }}^{2}}}{\vec {r}}} 																											
+moment of inertia 	0	 {\displaystyle R\geq 1-(1-r)m} 																											
+moment of inertia 	0	 {\displaystyle V_{i}isthemembranepotentialofithcompartment} 																											
+moment of inertia 	0	 {\displaystyle JaroWinklerDist(s_{1},s_{2})=1-JaroWinklerSim(s_{1},s_{2})} 																											
+moment of inertia 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+moment of inertia 	0	 {\displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess} 																											
+moment of inertia 	0	 {\displaystyle J_{\mathrm {Q} }=\int r_{\mathrm {Q} }^{2}\mathrm {d} m} 																											
+moment of inertia 	0	 {\displaystyle d_{n}=M_{M_{p}}=2^{2^{p}-1}-1,p\ and\ 2^{p}-primes} 																											
+moment of inertia 	0	 {\displaystyle JaroWinklerSim(s_{1},s_{2})=\left\{{\begin{array}{l l}JaroSim(s_{1},s_{2})+l\cdot p\cdot \left(1-JaroSim(s_{1},s_{2})\right)&amp	{\text{if }}JaroSim(s_{1},s_{2})&gt	b_{t}\\JaroSim(s_{1},s_{2})&amp	{\text{otherwise}}\end{array}}\right.} 																								
+moment of inertia 	0	 {\displaystyle r_{\mathrm {g} }={\frac {m\left\vert {\boldsymbol {v}}\times {\boldsymbol {B}}\right\vert }{qB^{2}}}} 																											
+moment of inertia 	0	 {\displaystyle m={\frac {y_{end}-y_{start}}{x_{end}-x_{start}}}} 																											
+moment of inertia 	0	 {\displaystyle \eta _{th}is[[thermalefficiency]]} 																											
+moment of inertia 	0	 {\displaystyle \Delta (mc)\Delta r\geq \hbar /2} 																											
+moment of inertia 	0	 {\displaystyle -{\frac {Gm_{1}m_{2}}{r^{2}}}=m_{2}A_{2}} 																											
+moment of inertia 	0	 {\displaystyle V_{\text{Yukawa}}(r)=-g^{2}{\frac {e^{-kmr}}{r}},} 																											
+moment of inertia 	0	 {\displaystyle RfD(mg/kg/day)={NOEL(mg/kg/day) \over Uf_{inter}*Uf_{intra}*Uf_{other}}} 																											
+moment of inertia 	0	 {\displaystyle cr(K_{m,n})=\lfloor n/2\rfloor \lfloor (n-1)/2\rfloor \lfloor m/2\rfloor \lfloor (m-1)/2\rfloor } 																											
+moment of inertia 	0	 {\displaystyle -{\frac {\hbar ^{2}}{2m}}{\frac {d^{2}R(r)}{dr^{2}}}+[E-V_{\textrm {eff}}(r)]R(r)=0} 																											
+moment of inertia 	0	 {\displaystyle r=k(T)[\mathrm {A} ]^{m}[\mathrm {B} ]^{n}} 																											
+moment of inertia 	0	 {\displaystyle cd={\frac {lm}{sr}}} 																											
+moment of inertia 	0	 {\displaystyle {\begin{aligned}R_{\ell }^{m}(\mathbf {r} )&amp	\equiv {\sqrt {\frac {4\pi }{2\ell +1}}}\	r^{\ell }Y_{\ell }^{m}(\theta ,\varphi )\\I_{\ell }^{m}(\mathbf {r} )&amp	\equiv {\sqrt {\frac {4\pi }{2\ell +1}}}\	{\frac {Y_{\ell }^{m}(\theta ,\varphi )}{r^{\ell +1}}}\end{aligned}}} 																							
+moment of inertia 	0	 {\displaystyle r_{\mathrm {e} }={\frac {e^{2}}{4\pi \varepsilon _{0}m_{\mathrm {e} }c_{0}^{2}}}} 																											
+moment of inertia 	0	 {\displaystyle L=N\,l,where''N''isthenumberofmonomers} 																											
+moment of inertia 	0	 {\displaystyle {m+n \choose r}=\sum _{k=0}^{r}{m \choose k}{n \choose r-k}} 																											
+moment of inertia 	0	 {\displaystyle {\begin{aligned}R^{-1}&amp	Fehler:533	Fehler:539																									
+moment of inertia 	0	 {\displaystyle f(A\mid m)=\prod _{p}\phi \left(A_{p}\mid A_{\text{base}}+r\sum _{c}C_{cp},\nu ^{-1}\right)} 																											
+moment of inertia 	0	 {\displaystyle {\frac {Energy\ consumed}{Built\ area}}} 																											
+moment of inertia 	0	 {\displaystyle Z_{1}\,\!theimpedanceofthegenerator} 																											
+moment of inertia 	0	 {\displaystyle e(rm,n)=e(m,rn)=re(m,n)} 																											
+moment of inertia 	0	 {\displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}} 																											
+moment of inertia 	0	 {\displaystyle {\vec {F}}_{bolt}=P_{max}\cdot A_{internal}} 																											
+moment of inertia 	0	 {\displaystyle \left[-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}+V(r)\right]\Psi (\mathbf {r} )=E\Psi (\mathbf {r} )} 																											
+moment of inertia 	0	 {\displaystyle |x_{n+1}-a|\leq K\cdot {|x_{n}-a|}^{d+1},forsomeK&gt	0.\!} 																										
+moment of inertia 	0	 {\displaystyle \log _{10}\left({\frac {N}{S}}\right)=-k\cdot r+m} 																											
+moment of inertia 	0	 {\displaystyle r=m/m_{\mathrm {d} }} 																											
+moment of inertia 	0	 {\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}} 																											
+newton's second law of motion 	0	 {\displaystyle d={\frac {a}{\pi }}{\sqrt {(n^{2}+nm+m^{2})}}} 																											
+newton's second law of motion 	0	 {\displaystyle \varepsilon is[[Strain(materialsscience)|strain]]} 																											
+newton's second law of motion 	0	 {\displaystyle a_{0}={\frac {4\pi \varepsilon _{0}\hbar ^{2}}{m_{\mathrm {e} }e^{2}}}} 																											
+newton's second law of motion 	0	 {\displaystyle T_{raise}={\frac {Fd_{m}}{2}}\left({\frac {l+\pi \mu d_{m}}{\pi d_{m}-\mu l}}\right)={\frac {Fd_{m}}{2}}\tan {\left(\phi +\lambda \right)}} 																											
+newton's second law of motion 	0	 {\displaystyle {\ddot {x}}_{a}+{\frac {2}{\tau _{0}}}{\dot {x}}_{a}+\omega _{a}^{2}x_{a}={\frac {e}{m}}E(t,\mathbf {r} _{a})} 																											
+newton's second law of motion 	0	 {\displaystyle m(\varphi )=\int _{0}^{\varphi }M(\varphi )\,d\varphi =a(1-e^{2})\int _{0}^{\varphi }\left(1-e^{2}\sin ^{2}\varphi \right)^{-{\frac {3}{2}}}\,d\varphi } 																											
+newton's second law of motion 	0	 {\displaystyle JaroSim(s_{1},s_{2})=\left\{{\begin{array}{l l}{\frac {1}{3}}\left({\frac {m}{|s_{1}|}}+{\frac {m}{|s_{2}|}}+{\frac {m-t}{m}}\right)&amp	{\text{if }}m&gt	0\\0&amp	{\text{otherwise}}\end{array}}\right.} 																								
+newton's second law of motion 	0	 {\displaystyle A_{i}^{\text{WSM-score}}=\sum _{j=1}^{n}w_{j}a_{ij},{\text{ for }}i=1,2,3,\dots ,m} 																											
+newton's second law of motion 	0	 {\displaystyle \forall m\in M\colon a_{n+1}m\in (a_{1},a_{2},\dotsc ,a_{n})M\implies m\in (a_{1},a_{2},\dotsc ,a_{n})M} 																											
+newton's second law of motion 	0	 {\displaystyle g_{m,n}(x)=e^{2\pi imbx}g(x-na)} 																											
+newton's second law of motion 	0	 {\displaystyle Beam=LOA^{2/3}+1} 																											
+newton's second law of motion 	0	 {\displaystyle r_{SOI}\approx a\left({\frac {m}{M}}\right)^{2/5}} 																											
+newton's second law of motion 	0	 {\displaystyle Fisresultantfinenessmodulus} 																											
+newton's second law of motion 	0	 {\displaystyle net.assets\div net.premium.written} 																											
+newton's second law of motion 	0	 {\displaystyle \min {\{m\in \mathbb {Z} \mid a^{m}=e\land m&gt	0\}}} 																										
+newton's second law of motion 	0	 {\displaystyle T_{a}+{\frac {T_{m}-T_{a}}{3}}} 																											
+newton's second law of motion 	0	 {\displaystyle \mathrm {CI} ={\frac {mass}{height^{3}}}} 																											
+newton's second law of motion 	0	 {\displaystyle \sum _{f}P(d_{m}^{y}|f,m,a_{1})=\sum _{f}P(d_{m}^{y}|f,m,a_{2})} 																											
+newton's second law of motion 	0	 {\displaystyle L_{max}=S_{0}-K+D} 																											
+newton's second law of motion 	0	 {\displaystyle \Delta Weight_{front}=a{\frac {h}{w}}m} 																											
+newton's second law of motion 	0	 {\displaystyle X=A\sum _{i=0}^{m-1}a_{i}} 																											
+newton's second law of motion 	0	 {\displaystyle l_{a}l^{a}=n_{a}n^{a}=m_{a}m^{a}={\bar {m}}_{a}{\bar {m}}^{a}=0\,} 																											
+newton's second law of motion 	0	 {\displaystyle \delta ={\frac {\delta _{max}\sin ^{2}\gamma }{1+\cos ^{2}\gamma }}} 																											
+newton's second law of motion 	0	 {\displaystyle \omega _{a}={\sqrt {\frac {k_{1}M}{m_{A}m_{B}}}}} 																											
+newton's second law of motion 	0	 {\displaystyle P_{a}+P_{m}+P_{d}=1} 																											
+newton's second law of motion 	0	 {\displaystyle c_{ij}=\sum _{k=1}^{m}a_{ik}b_{kj}} 																											
+newton's second law of motion 	0	 {\displaystyle \rho ={\frac {m_{eau}}{V_{tot}}}} 																											
+newton's second law of motion 	0	 {\displaystyle F_{N}=m\cdot \mu \left({\frac {a}{a_{0}}}\right)a} 																											
+newton's second law of motion 	0	 {\displaystyle {\frac {\ell x^{2}+mx+n}{(x-a)(x-b)(x-c)}}={\frac {A}{(x-a)}}+{\frac {B}{(x-b)}}+{\frac {C}{(x-c)}}} 																											
+newton's second law of motion 	0	 {\displaystyle \rho _{k}=rank(A-\lambda _{i}I)^{k-1}-rank(A-\lambda _{i}I)^{k}\qquad (k=1,2,\ldots ,m_{i})} 																											
+newton's second law of motion 	0	 {\displaystyle \sigma _{total}={{\bigl (}\sigma _{sample}^{2}+\sigma _{calib}^{2}{\bigr )}}^{\frac {1}{2}}} 																											
+newton's second law of motion 	0	 {\displaystyle a\uparrow ^{m}b=\underbrace {a\uparrow ^{m-1}\left(a\uparrow ^{m-1}\left[a\uparrow ^{m-1}\left(\ldots \left[a\uparrow ^{m-1}\left(a\uparrow ^{m-1}a\right)\right]\ldots \right)\right]\right)} _{\displaystyle b{\mbox{ copies of }}a},\quad m\geq 0} 																											
+newton's second law of motion 	0	 {\displaystyle m={\frac {y_{end}-y_{start}}{x_{end}-x_{start}}}} 																											
+newton's second law of motion 	0	 {\displaystyle \eta _{th}is[[thermalefficiency]]} 																											
+newton's second law of motion 	0	 {\displaystyle \left\{\sum _{k=0}^{\infty }a_{k}{\mathsf {x}}^{k/n-m}\colon m,n\in \mathbb {Z} ^{+}\right\}} 																											
+newton's second law of motion 	0	 {\displaystyle JaroWinklerDist(s_{1},s_{2})=1-JaroWinklerSim(s_{1},s_{2})} 																											
+newton's second law of motion 	0	 {\displaystyle f=ma} 																											
+newton's second law of motion 	0	 {\displaystyle P_{mag}={\frac {B^{2}}{2\mu _{0}}}} 																											
+newton's second law of motion 	0	 {\displaystyle \mathrm {Du} ={\frac {\kappa ^{\sigma }}{{\mathrm {K} _{m}}a}}} 																											
+newton's second law of motion 	0	 {\displaystyle {\vec {F}}=m\cdot {\vec {a}}} 																											
+newton's second law of motion 	0	 {\displaystyle (a)_{\kappa }^{(\alpha )}=\prod _{i=1}^{m}\prod _{j=1}^{\kappa _{i}}\left(a-{\frac {i-1}{\alpha }}+j-1\right).} 																											
+newton's second law of motion 	0	 {\displaystyle V_{i}isthemembranepotentialofithcompartment} 																											
+newton's second law of motion 	0	 {\displaystyle RfD(mg/kg/day)={NOEL(mg/kg/day) \over Uf_{inter}*Uf_{intra}*Uf_{other}}} 																											
+newton's second law of motion 	0	 {\displaystyle m_{H}(\Sigma )={\sqrt {\frac {{\text{Area}}\,\Sigma }{16\pi }}}\left(1-{\frac {1}{16\pi }}\int _{\Sigma }H^{2}da\right)} 																											
+newton's second law of motion 	0	 {\displaystyle P_{max}=\infty } 																											
+newton's second law of motion 	0	 {\displaystyle TRevPAR=TotalRevenue/RoomsAvailable} 																											
+newton's second law of motion 	0	 {\displaystyle SR={\frac {CompoundROR}{ABS(Avg.AnnualDD-10\%)}}} 																											
+newton's second law of motion 	0	 {\displaystyle Compliance={\frac {\Delta V}{\Delta P}}} 																											
+newton's second law of motion 	0	 {\displaystyle P_{max}=K-S_{0}+C} 																											
+newton's second law of motion 	0	 {\displaystyle i\gamma ^{a}e_{a}^{\mu }D_{\mu }\Psi -m\Psi =0} 																											
+newton's second law of motion 	0	 {\displaystyle \Omega =10^{5}{\frac {Pa\cdot s}{m^{3}}}} 																											
+newton's second law of motion 	0	 {\displaystyle (F,m)({\mathcal {C}},\otimes ,I)\to ({\mathcal {D}},\bullet ,J)and(G,n)({\mathcal {C}},\otimes ,I)\to ({\mathcal {D}},\bullet ,J)} 																											
+newton's second law of motion 	0	 {\displaystyle \sum \limits _{a\leqslant k&lt	b}f(k)=\int \limits _{a}^{b}f(x)dx+\left.\sum \limits _{k=1}^{m}{\frac {B_{k}}{k!}}f^{(k-1)}(x)\right|_{a}^{b}+R_{m},R_{m}=(-1)^{m+1}\int \limits _{a}^{b}{\frac {B_{m}(\{x\})}{m!}}f^{(m)}(x)dx} 																										
+newton's second law of motion 	0	 {\displaystyle \sum _{k=m}^{n}a_{k}=a_{m}+a_{m+1}+\dotsb +a_{n}} 																											
+newton's second law of motion 	0	 {\displaystyle \Lambda ={\frac {m^{2}}{a^{\frac {3}{2}}}}\,k} 																											
+newton's second law of motion 	0	 {\displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess} 																											
+newton's second law of motion 	0	 {\displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}} 																											
+newton's second law of motion 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+newton's second law of motion 	0	 {\displaystyle L_{max}=K-S_{0}+D} 																											
+newton's second law of motion 	0	 {\displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}} 																											
+newton's second law of motion 	0	 {\displaystyle P_{m}=\prod _{i=1}^{m}a_{i}=a_{1}\cdots a_{m}} 																											
+newton's second law of motion 	0	 {\displaystyle {\vec {F}}_{bolt}=P_{max}\cdot A_{internal}} 																											
+newton's second law of motion 	0	 {\displaystyle p={\frac {R\cdot T}{V_{m}-b}}-{\frac {a(T)}{V_{m}^{2}+2\cdot b\cdot V_{m}-b^{2}}}} 																											
+newton's second law of motion 	0	 {\displaystyle mpg=mi/gal} 																											
+newton's second law of motion 	0	 {\displaystyle A=(a_{ij})={\begin{pmatrix}a_{11}&amp	a_{12}&amp	\cdots &amp	a_{1n}\\a_{21}&amp	a_{22}&amp	\cdots &amp	a_{2n}\\\vdots &amp	\vdots &amp	&amp	\vdots \\a_{m1}&amp	a_{m2}&amp	\cdots &amp	a_{mn}\\\end{pmatrix}}\in \ \mathbb {K} ^{m\times n}} 															
+newton's second law of motion 	0	 {\displaystyle {\vec {F}}=m{\vec {a}}} 																											
+newton's second law of motion 	0	 {\displaystyle d_{n}=M_{M_{p}}=2^{2^{p}-1}-1,p\ and\ 2^{p}-primes} 																											
+newton's second law of motion 	0	 {\displaystyle JaroWinklerSim(s_{1},s_{2})=\left\{{\begin{array}{l l}JaroSim(s_{1},s_{2})+l\cdot p\cdot \left(1-JaroSim(s_{1},s_{2})\right)&amp	{\text{if }}JaroSim(s_{1},s_{2})&gt	b_{t}\\JaroSim(s_{1},s_{2})&amp	{\text{otherwise}}\end{array}}\right.} 																								
+newton's second law of motion 	0	 {\displaystyle m=a_{k}n^{k}+a_{k-1}n^{k-1}+\cdots +a_{0},} 																											
+newton's second law of motion 	0	 {\displaystyle K^{m\times n}=\{(a_{ij})_{i=1,\ldots ,m,j=1,\ldots ,n}\mid a_{ij}\in K\}} 																											
+newton's second law of motion 	0	 {\displaystyle P_{max}=S_{0}-K+C} 																											
+newton's second law of motion 	0	 {\displaystyle X_{i}=(X_{i-a}+X_{i-b}+...+X_{i-k})\mod (2^{m})} 																											
+newton's second law of motion 	0	 {\displaystyle (a_{1},a_{2},\ldots ,a_{m}	q)_{n}=(a_{1}	q)_{n}(a_{2}	q)_{n}\ldots (a_{m}	q)_{n}} 																							
+newton's second law of motion 	0	 {\displaystyle a=A/m} 																											
+newton's second law of motion 	0	 {\displaystyle Z_{1}\,\!theimpedanceofthegenerator} 																											
+newton's second law of motion 	0	 {\displaystyle \sum _{j=1}^{n}a_{ij}x_{j}=y_{i}\qquad {\mbox{ for }}i=1,\ldots ,m} 																											
+newton's second law of motion 	0	 {\displaystyle Mass=Sum[25]\	of\	{EMA[9]\	of\	(high-low) \over EMA[9]\,of\,EMA[9]\	of\	(high-low)}} 																					
+newton's second law of motion 	0	 {\displaystyle P_{max}=S_{0}-D} 																											
+newton's second law of motion 	0	 {\displaystyle {\frac {\mathrm {d} a}{\mathrm {d} N}}=C(\Delta K)^{m}} 																											
+newton's second law of motion 	0	 {\displaystyle {\frac {Energy\ consumed}{Built\ area}}} 																											
+newton's second law of motion 	0	 {\displaystyle L_{max}=S_{0}-C} 																											
+newton's second law of motion 	0	 {\displaystyle {\frac {L_{vap}}{T_{boiling}}}\approx 87-88{\frac {J}{Kmol}}} 																											
+newton's second law of motion 	0	 {\displaystyle \left[{\mathcal {S}}_{n}(f)\right](x)&lt	/math&gt	Fehler:510	math&gt	e^{-nx}\sum _{k=0}^{\infty }{{\frac {(nx)^{k}}{k!}}f\left({\frac {k}{n}}\right)}} 																							
+newton's second law of motion 	0	 {\displaystyle |x_{n+1}-a|\leq K\cdot {|x_{n}-a|}^{d+1},forsomeK&gt	0.\!} 																										
+newton's second law of motion 	0	 {\displaystyle \prod _{k=m}^{n}a_{k}=a_{m}\cdot a_{m+1}\cdot \,\,\dotsb \,\,\cdot a_{n}} 																											
+newton's second law of motion 	0	 {\displaystyle L_{max}=\infty } 																											
+pendulum 	2	 {\displaystyle {\frac {d^{2}\theta }{dt^{2}}}+{\frac {g}{l}}\sin \theta =0} 																											
+pendulum 	0	 {\displaystyle u(t)representstheinputsignal} 																											
+pendulum 	0	 {\displaystyle \%R={high_{Ndays}-close_{today} \over high_{Ndays}-low_{Ndays}}\times -100} 																											
+pendulum 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+pendulum 	0	 {\displaystyle RF=\sum _{n=1}^{100}Abs_{i}\cdot F_{i}/(pathlength\cdot density)} 																											
+pendulum 	0	 {\displaystyle \land =[[logicalconjunction|AND]](logicalconjunction)} 																											
+pendulum 	0	 {\displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess} 																											
+pendulum 	0	 {\displaystyle {\frac {d\epsilon }{dt}}={\frac {\sigma }{d^{3}}}D_{gb}e^{-Q_{Coble}/RT}} 																											
+pendulum 	0	 {\displaystyle {\frac {Energy\ consumed}{Built\ area}}} 																											
+pendulum 	0	 {\displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}} 																											
+rest mass 	0	 {\displaystyle p^{\mu }={\begin{matrix}p_{0}\\p_{1}\\p_{2}\\p_{3}\end{matrix}}={\begin{matrix}E/c\\p_{x}\\p_{y}\\p_{z}\end{matrix}}={\begin{matrix}E/c\\{\vec {p}}\end{matrix}}} 																											
+rest mass 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+rest mass 	0	 {\displaystyle E^{2}-|{\vec {p}}\,|^{2}c^{2}=m^{2}c^{4}} 																											
+rest mass 	0	 {\displaystyle m_{0}=c^{-1}{\sqrt {E^{2}/c^{2}-p^{2}}}} 																											
+rest mass 	0	 {\displaystyle E^{2}=p^{2}c^{2}+m^{2}c^{4}} 																											
+stress 	0	 {\displaystyle A_{ABDE}+A_{ACFG}=A_{BCLM}} 																											
+stress 	0	 {\displaystyle T_{A}=3.468F{{\lambda }^{2}}10^{G/10}} 																											
+stress 	0	 {\displaystyle F(t)=Ae^{-t/\tau }} 																											
+stress 	0	 {\displaystyle FMV\,=\,{VBAB*TAB_{factor}}} 																											
+stress 	0	 {\displaystyle \tau _{\mathrm {s} }={\frac {\mathrm {d} F_{\mathrm {t} }}{\mathrm {d} A}}} 																											
+stress 	0	 {\displaystyle A=CF} 																											
+stress 	0	 {\displaystyle AF={\frac {E}{V}}} 																											
+stress 	0	 {\displaystyle F=-{\frac {A_{\text{H}}}{12\pi D^{3}}}} 																											
+stress 	0	 {\displaystyle MMF_{AlNiCo}=H_{C-AlNiCo}\cdot L_{AlNiCo}} 																											
+stress 	0	 {\displaystyle F\,=\,eN_{A}} 																											
+stress 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+stress 	0	 {\displaystyle {\begin{aligned}J&amp	Fehler:539	Fehler:539																									
+stress 	0	 {\displaystyle \lVert A\rVert _{F}={\sqrt {{\text{Tr}}(AA^{*})}}} 																											
+stress 	0	 {\displaystyle -\int _{S}\Phi J\cdot dS=\int _{\Omega }J_{q}\cdot Fd^{3}r-\int _{S}\varepsilon {\frac {\partial A_{0}}{\partial t}}F\cdot dS} 																											
+stress 	0	 {\displaystyle Y=A*F(K,L)\,} 																											
+stress 	0	 {\displaystyle RF=\sum _{n=1}^{100}Abs_{i}\cdot F_{i}/(pathlength\cdot density)} 																											
+stress 	0	 {\displaystyle MA={\frac {LF}{EF}}} 																											
+stress 	0	 {\displaystyle (A^{2}+B^{2}+C^{2}+D^{2}+E^{2}+F^{2}+G^{2}+H^{2})(a^{2}+b^{2}+c^{2}+d^{2}+e^{2}+f^{2}+g^{2}+h^{2})=(Aa-Bb-Cc-Dd-Ee-Ff-Gg-Hh)^{2}+(Ab+Ba+Cd-Dc+Ef-Fe-Gh+Hg)^{2}+(Ac-Bd+Ca+Db+Eg+Fh-Ge-Hf)^{2}+(Ad+Bc-Cb+Da+Eh-Fg+Gf-He)^{2}+(Ae-Bf-Cg-Dh+Ea+Fb+Gc+Hd)^{2}+(Af+Be-Ch+Dg-Eb+Fa-Gd+Hc)^{2}+(Ag+Bh+Ce-Df-Ec+Fd+Ga-Hb)^{2}+(Ah-Bg+Cf+De-Ed-Fc+Gb+Ha)^{2}} 																											
+stress 	0	 {\displaystyle F(x)=A\mathrm {e} ^{-\alpha x}\cos {\beta (x-x_{0})}} 																											
+stress 	0	 {\displaystyle A^{2}(b^{2}+c^{2}-a^{2})+B^{2}(a^{2}+c^{2}-b^{2})+C^{2}(a^{2}+b^{2}-c^{2})\geq 16Ff} 																											
+stress 	0	 {\displaystyle F_{\mathrm {D} }={\frac {1}{2}}C_{\mathrm {D} }\rho v^{2}A} 																											
+stress 	0	 {\displaystyle F={{B^{2}A} \over {2\mu _{0}}}} 																											
+stress 	0	 {\displaystyle Au_{xx}+2Bu_{xy}+Cu_{yy}+Du_{x}+Eu_{y}+Fu+G=0,} 																											
+stress 	0	 {\displaystyle MA={\frac {F_{B}}{F_{A}}}={\frac {a}{b}}} 																											
+stress 	0	 {\displaystyle {\mbox{M}}={\frac {1}{n}}\sum _{t=1}^{n}\left|{\frac {A_{t}-F_{t}}{A_{t}}}\right|} 																											
+stress 	0	 {\displaystyle \mu \left(F^{-1}(A)\right)=\mu (A)} 																											
+stress 	0	 {\displaystyle F(X)\rightarrow \prod _{\alpha \in A}F(X_{\alpha }){{{} \atop \longrightarrow } \atop {\longrightarrow  \atop {}}}\prod _{\alpha ,\beta \in A}F(X_{\alpha }\times _{X}X_{\beta })} 																											
+stress 	0	 {\displaystyle \sigma ={\frac {\mathrm {d} F_{\mathrm {n} }}{\mathrm {d} A}}} 																											
+stress 	0	 {\displaystyle D_{A}*F_{A}+[\Phi ,D_{A}\Phi ]=0} 																											
+stress 	0	 {\displaystyle c_{\mathrm {l} }={\frac {F_{\mathrm {l} }}{qA\cos {\alpha }}}} 																											
+stress 	0	 {\displaystyle {\begin{cases}Au_{xx}+2Bu_{xy}+Cu_{yy}+Du_{x}+Eu_{y}+F=0\\B^{2}-AC=0\end{cases}}} 																											
+stress 	0	 {\displaystyle Callx=ATM+0.5RRx+Flyx} 																											
+stress 	0	 {\displaystyle F=CAnI/l} 																											
+stress 	0	 {\displaystyle \pi ^{\!*}F=dA} 																											
+stress 	0	 {\displaystyle P=F_{A}v_{A}=F_{B}v_{B},\!} 																											
+stress 	0	 {\displaystyle p={\frac {F}{A}}} 																											
+stress 	0	 {\displaystyle Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F=0} 																											
+stress 	0	 {\displaystyle F_{D}\,=\,{\tfrac {1}{2}}\,\rho \,v^{2}\,C_{D}\,A} 																											
+stress 	0	 {\displaystyle D_{A}^{*}D_{A}\phi =\nabla _{A}^{*}\nabla _{A}\phi +{\frac {1}{4}}\operatorname {Sc} [g]\phi +{\frac {1}{2}}\langle F^{+}[A],\phi \rangle } 																											
+stress 	0	 {\displaystyle \mu (A)=\sup\{\mu (F)|F\subseteq A,F{\mbox{ compact and measurable}}\}} 																											
+stress 	0	 {\displaystyle \sigma ={\frac {dF}{dA}}} 																											
+stress 	0	 {\displaystyle {\vec {F}}_{bolt}=P_{max}\cdot A_{internal}} 																											
+stress 	0	 {\displaystyle J(F,T,W)=A_{\mathrm {G} }T^{2}e^{-(W-\Delta W) \over kT}} 																											
+stress 	0	 {\displaystyle {\frac {1}{N}}\sum _{t}\mathbf {1} _{sign(A_{t}-A_{t-1})==sign(F_{t}-F_{t-1})}} 																											
+stress 	0	 {\displaystyle F_{A}=*D_{A}\Phi } 																											
+stress 	0	 {\displaystyle {\displaystyle MTTF={\frac {A}{j^{n}}}e^{\left({\frac {Q}{kT}}\right)}}} 																											
+stress 	0	 {\displaystyle F_{drag}=qA_{s}C_{D}} 																											
+tangential acceleration 	0	 {\displaystyle {\frac {\lambda }{1+\lambda }}\nabla \cdot (\mathbf {\Sigma } _{i}\nabla v)=\chi (C_{m}{\frac {\partial v}{\partial t}}+I_{\text{ion}})} 																											
+tangential acceleration 	1	 {\displaystyle \omega ={\frac {d\phi }{dt}}={\frac {v_{\perp }}{r}}} 																											
+tangential acceleration 	0	 {\displaystyle RI={\frac {v_{systole}-v_{diastole}}{v_{systole}}}} 																											
+tangential acceleration 	0	 {\displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})} 																											
+tangential acceleration 	0	 {\displaystyle \%{\mbox{ difference}}=\left({\frac {r_{solute}-r_{solvent}}{r_{solvent}}}\right)\times 100\%\leq 15\%} 																											
+tangential acceleration 	0	 {\displaystyle \rho _{0}{\frac {\partial ^{2}\mathbf {u} }{\partial t^{2}}}=\left(\lambda +\mu \right)\mathbf {grad} \left(\mathrm {div} \	\mathbf {u} \right)+\mu \Delta \mathbf {u} +\mathbf {f} _{v}} 																										
+tangential acceleration 	0	 {\displaystyle kvitjul} 																											
+tangential acceleration 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+tangential acceleration 	0	 {\displaystyle {\frac {\partial c}{\partial t}}=\nabla \cdot (D\nabla c)-\nabla \cdot ({\vec {v}}c)+R} 																											
+tangential acceleration 	0	 {\displaystyle r'(t)=r(t)-vt} 																											
+tangential acceleration 	0	 {\displaystyle k_{t}={\frac {t_{v}}{T_{N}}}={\frac {t_{N}-t_{NV}}{T_{N}}}} 																											
+tangential acceleration 	0	 {\displaystyle v={\frac {s}{t}}} 																											
+tangential acceleration 	0	 {\displaystyle X=\{X_{1},\ldots ,X_{n}\}isasetofvariables} 																											
+tangential acceleration 	0	 {\displaystyle v={V/\Delta t \over {A}}} 																											
+tangential acceleration 	0	 {\displaystyle \alpha ={\frac {dv_{\perp }}{dt}}} 																											
+tangential acceleration 	0	 {\displaystyle \sum _{n=0}^{\infty }\phi _{n}(\alpha ,\beta )t^{n}=\exp \left[\sum _{n=1}^{\infty }{\frac {t^{n}}{n}}\left(u_{n}(\alpha )+v_{n}(\beta )-1\right)\right]} 																											
+tangential acceleration 	0	 {\displaystyle {\vec {s}}={\frac {d\,{\vec {\jmath }}}{dt}}={\frac {d^{2}{\vec {a}}}{dt^{2}}}={\frac {d^{3}{\vec {v}}}{dt^{3}}}={\frac {d^{4}{\vec {r}}}{dt^{4}}}} 																											
+tangential acceleration 	0	 {\displaystyle {\begin{array}{l}v_{n+1}=v_{n}+g\left(t_{n},x_{n}\right)\Delta t\\x_{n+1}=x_{n}+f\left(t_{n},v_{n+1}\right)\Delta t\end{array}}} 																											
+tangential acceleration 	0	 {\displaystyle TRevPAR=TotalRevenue/RoomsAvailable} 																											
+tangential acceleration 	0	 {\displaystyle v_{i}={\operatorname {d} [M\cdot ]/\operatorname {d} t}=2k_{d}f[I]} 																											
+tangential acceleration 	0	 {\displaystyle \mathbf {v} =v{\hat {\mathbf {u} }}_{t}} 																											
+tangential acceleration 	0	 {\displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)} 																											
+tangential acceleration 	0	 {\displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}} 																											
+tangential acceleration 	0	 {\displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t} 																											
+tangential acceleration 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+tangential acceleration 	0	 {\displaystyle E={\frac {1}{2}}\rho Av^{3}t} 																											
+tangential acceleration 	0	 {\displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},} 																											
+tangential acceleration 	0	 {\displaystyle W_{v}(s+1)=W_{v}(s)+\theta (u,v,s)\cdot \alpha (s)\cdot (D(t)-W_{v}(s))} 																											
+tangential acceleration 	0	 {\displaystyle {\vec {x}}={\vec {p}}+s{\vec {u}}+t{\vec {v}}} 																											
+tangential acceleration 	0	 {\displaystyle {\bar {\boldsymbol {v}}}(x,y,z,t)=v_{x}(x,y,z,t){\hat {\boldsymbol {i}}}+v_{y}(x,y,z,t){\hat {\boldsymbol {j}}}} 																											
+tangential acceleration 	0	 {\displaystyle T(p)=\Box pforany[[propositionalvariable]]p} 																											
+tangential acceleration 	0	 {\displaystyle t={\frac {\lambda }{c-v}}={\frac {c}{(c-v)f_{s}}}={\frac {1}{(1-\beta )f_{s}}}} 																											
+tangential acceleration 	0	 {\displaystyle \operatorname {ec} (G)=t_{w}(G)\prod _{v\in V}{\bigl (}\deg(v)-1{\bigr )}} 																											
+tangential acceleration 	0	 {\displaystyle \mathrm {EG} ={\frac {w_{A}-w_{B}}{v_{tot}}}} 																											
+tangential acceleration 	0	 {\displaystyle v=s/t} 																											
+tangential acceleration 	0	 {\displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}} 																											
+tangential acceleration 	0	 {\displaystyle v(t)=-gt+v_{0}} 																											
+tangential acceleration 	0	 {\displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.} 																											
+tangential acceleration 	0	 {\displaystyle t'=\gamma \left(t-{\frac {vx}{c^{2}}}\right),x'=\gamma \left(x-vt\right)} 																											
+tangential acceleration 	0	 {\displaystyle {\frac {\partial (\rho Y_{i})}{\partial t}}+\nabla \cdot (\rho {\vec {v}}Y_{i})=-\nabla \cdot {\vec {J}}_{i}+R_{i}+S_{i}} 																											
+tangential acceleration 	0	 {\displaystyle \mathrm {D} ={\frac {\partial }{\partial t}}+\nabla _{v}} 																											
+uniform motion 	0	 {\displaystyle \omega ={\frac {d\phi }{dt}}={\frac {v_{\perp }}{r}}} 																											
+uniform motion 	0	 {\displaystyle {\frac {\lambda }{1+\lambda }}\nabla \cdot (\mathbf {\Sigma } _{i}\nabla v)=\chi (C_{m}{\frac {\partial v}{\partial t}}+I_{\text{ion}})} 																											
+uniform motion 	0	 {\displaystyle RI={\frac {v_{systole}-v_{diastole}}{v_{systole}}}} 																											
+uniform motion 	0	 {\displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})} 																											
+uniform motion 	0	 {\displaystyle \%{\mbox{ difference}}=\left({\frac {r_{solute}-r_{solvent}}{r_{solvent}}}\right)\times 100\%\leq 15\%} 																											
+uniform motion 	0	 {\displaystyle \rho _{0}{\frac {\partial ^{2}\mathbf {u} }{\partial t^{2}}}=\left(\lambda +\mu \right)\mathbf {grad} \left(\mathrm {div} \	\mathbf {u} \right)+\mu \Delta \mathbf {u} +\mathbf {f} _{v}} 																										
+uniform motion 	0	 {\displaystyle kvitjul} 																											
+uniform motion 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+uniform motion 	1	 {\displaystyle v={V/\Delta t \over {A}}} 																											
+uniform motion 	0	 {\displaystyle \alpha ={\frac {dv_{\perp }}{dt}}} 																											
+uniform motion 	0	 {\displaystyle {\frac {\partial c}{\partial t}}=\nabla \cdot (D\nabla c)-\nabla \cdot ({\vec {v}}c)+R} 																											
+uniform motion 	0	 {\displaystyle r'(t)=r(t)-vt} 																											
+uniform motion 	0	 {\displaystyle k_{t}={\frac {t_{v}}{T_{N}}}={\frac {t_{N}-t_{NV}}{T_{N}}}} 																											
+uniform motion 	0	 {\displaystyle v={\frac {s}{t}}} 																											
+uniform motion 	0	 {\displaystyle \sum _{n=0}^{\infty }\phi _{n}(\alpha ,\beta )t^{n}=\exp \left[\sum _{n=1}^{\infty }{\frac {t^{n}}{n}}\left(u_{n}(\alpha )+v_{n}(\beta )-1\right)\right]} 																											
+uniform motion 	0	 {\displaystyle {\vec {s}}={\frac {d\,{\vec {\jmath }}}{dt}}={\frac {d^{2}{\vec {a}}}{dt^{2}}}={\frac {d^{3}{\vec {v}}}{dt^{3}}}={\frac {d^{4}{\vec {r}}}{dt^{4}}}} 																											
+uniform motion 	0	 {\displaystyle X=\{X_{1},\ldots ,X_{n}\}isasetofvariables} 																											
+uniform motion 	0	 {\displaystyle v_{i}={\operatorname {d} [M\cdot ]/\operatorname {d} t}=2k_{d}f[I]} 																											
+uniform motion 	0	 {\displaystyle \mathbf {v} =v{\hat {\mathbf {u} }}_{t}} 																											
+uniform motion 	0	 {\displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)} 																											
+uniform motion 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+uniform motion 	0	 {\displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},} 																											
+uniform motion 	0	 {\displaystyle W_{v}(s+1)=W_{v}(s)+\theta (u,v,s)\cdot \alpha (s)\cdot (D(t)-W_{v}(s))} 																											
+uniform motion 	0	 {\displaystyle {\vec {x}}={\vec {p}}+s{\vec {u}}+t{\vec {v}}} 																											
+uniform motion 	0	 {\displaystyle {\begin{array}{l}v_{n+1}=v_{n}+g\left(t_{n},x_{n}\right)\Delta t\\x_{n+1}=x_{n}+f\left(t_{n},v_{n+1}\right)\Delta t\end{array}}} 																											
+uniform motion 	0	 {\displaystyle TRevPAR=TotalRevenue/RoomsAvailable} 																											
+uniform motion 	0	 {\displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}} 																											
+uniform motion 	0	 {\displaystyle E={\frac {1}{2}}\rho Av^{3}t} 																											
+uniform motion 	0	 {\displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t} 																											
+uniform motion 	0	 {\displaystyle v=s/t} 																											
+uniform motion 	0	 {\displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}} 																											
+uniform motion 	0	 {\displaystyle v(t)=-gt+v_{0}} 																											
+uniform motion 	0	 {\displaystyle {\bar {\boldsymbol {v}}}(x,y,z,t)=v_{x}(x,y,z,t){\hat {\boldsymbol {i}}}+v_{y}(x,y,z,t){\hat {\boldsymbol {j}}}} 																											
+uniform motion 	0	 {\displaystyle T(p)=\Box pforany[[propositionalvariable]]p} 																											
+uniform motion 	0	 {\displaystyle t'=\gamma \left(t-{\frac {vx}{c^{2}}}\right),x'=\gamma \left(x-vt\right)} 																											
+uniform motion 	0	 {\displaystyle {\frac {\partial (\rho Y_{i})}{\partial t}}+\nabla \cdot (\rho {\vec {v}}Y_{i})=-\nabla \cdot {\vec {J}}_{i}+R_{i}+S_{i}} 																											
+uniform motion 	0	 {\displaystyle \mathrm {D} ={\frac {\partial }{\partial t}}+\nabla _{v}} 																											
+uniform motion 	0	 {\displaystyle t={\frac {\lambda }{c-v}}={\frac {c}{(c-v)f_{s}}}={\frac {1}{(1-\beta )f_{s}}}} 																											
+uniform motion 	0	 {\displaystyle \operatorname {ec} (G)=t_{w}(G)\prod _{v\in V}{\bigl (}\deg(v)-1{\bigr )}} 																											
+uniform motion 	0	 {\displaystyle \mathrm {EG} ={\frac {w_{A}-w_{B}}{v_{tot}}}} 																											
+uniform motion 	0	 {\displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.} 																											
+velocity 	0	 {\displaystyle {\vec {x}}={\vec {p}}+s({\vec {q}}-{\vec {p}})+t({\vec {r}}-{\vec {p}})} 																											
+velocity 	0	 {\displaystyle \varepsilon is[[Strain(materialsscience)|strain]]} 																											
+velocity 	0	 {\displaystyle r=-{\frac {1}{a}}{\frac {d[\mathrm {A} ]}{dt}}=-{\frac {1}{b}}{\frac {d[\mathrm {B} ]}{dt}}={\frac {1}{p}}{\frac {d[\mathrm {P} ]}{dt}}={\frac {1}{q}}{\frac {d[\mathrm {Q} ]}{dt}}} 																											
+velocity 	0	 {\displaystyle \omega ={\frac {d\phi }{dt}}={\frac {v_{\perp }}{r}}} 																											
+velocity 	0	 {\displaystyle {\frac {\partial u}{\partial t}}-D{\frac {\partial ^{2}u}{\partial x^{2}}}=ru(1-u)} 																											
+velocity 	0	 {\displaystyle JaroSim(s_{1},s_{2})=\left\{{\begin{array}{l l}{\frac {1}{3}}\left({\frac {m}{|s_{1}|}}+{\frac {m}{|s_{2}|}}+{\frac {m-t}{m}}\right)&amp	{\text{if }}m&gt	0\\0&amp	{\text{otherwise}}\end{array}}\right.} 																								
+velocity 	0	 {\displaystyle \eta ={\frac {work\ done}{heat\ absorbed}}={\frac {Q1-Q2}{Q1}}} 																											
+velocity 	0	 {\displaystyle ds^{2}=\left(1-{r_{g} \over r}\right)dt^{2}-{dr^{2} \over 1-{r_{g} \over r}}-r^{2}\left(d\theta ^{2}+\sin ^{2}\theta d\phi ^{2}\right)} 																											
+velocity 	0	 {\displaystyle dr_{t}=(\theta _{t}-\alpha _{t})\,dt+{\sqrt {r_{t}}}\,\sigma _{t}\,dW_{t}} 																											
+velocity 	0	 {\displaystyle N_{e}(t)=N_{0}\exp(rt)} 																											
+velocity 	0	 {\displaystyle FMV\,=\,{VBAB*TAB_{factor}}} 																											
+velocity 	0	 {\displaystyle \%{\mbox{ difference}}=\left({\frac {r_{solute}-r_{solvent}}{r_{solvent}}}\right)\times 100\%\leq 15\%} 																											
+velocity 	0	 {\displaystyle net.assets\div net.premium.written} 																											
+velocity 	0	 {\displaystyle \mathbf {W} isthefull-loadcopperloss} 																											
+velocity 	0	 {\displaystyle Fisresultantfinenessmodulus} 																											
+velocity 	0	 {\displaystyle L(f)=\lim _{N\to \infty }\sum _{i=1}^{N}\left|{\vec {r}}(t_{i})-{\vec {r}}(t_{i-1})\right|} 																											
+velocity 	0	 {\displaystyle \Delta P=\alpha \left({\frac {1}{r_{t}}}+{\frac {1}{r_{b}}}\right)} 																											
+velocity 	0	 {\displaystyle \Delta Weight_{front}=a{\frac {h}{w}}m} 																											
+velocity 	0	 {\displaystyle u(t)representstheinputsignal} 																											
+velocity 	0	 {\displaystyle N_{t+1}=N_{t}e^{r\left(1-{\frac {N_{t}}{k}}\right)}} 																											
+velocity 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+velocity 	0	 {\displaystyle \phi _{b}=r\times \cos(t)+0.0065	\theta _{b}=r\times \sin(t)+0.0060} 																										
+velocity 	0	 {\displaystyle \left(\left|x\right|^{r}+\left|y\right|^{r}\right)^{t/r}+\left|z\right|^{t}\leq 1} 																											
+velocity 	0	 {\displaystyle \mathbf {B} (\mathbf {r} ,t)={\frac {\mu _{0}}{4\pi }}\int \left[{\frac {\mathbf {J} (\mathbf {r} ',t_{r})}{|\mathbf {r} -\mathbf {r} '|^{3}}}+{\frac {1}{|\mathbf {r} -\mathbf {r} '|^{2}c}}{\frac {\partial \mathbf {J} (\mathbf {r} ',t_{r})}{\partial t}}\right]\times (\mathbf {r} -\mathbf {r} ')\,\mathrm {d} ^{3}\mathbf {r} '} 																											
+velocity 	0	 {\displaystyle d(km)=130({\sqrt {hr(km)}}+{\sqrt {ht(km)}})} 																											
+velocity 	0	 {\displaystyle r'(t)=r(t)-vt} 																											
+velocity 	0	 {\displaystyle -\int _{S}\Phi J\cdot dS=\int _{\Omega }J_{q}\cdot Fd^{3}r-\int _{S}\varepsilon {\frac {\partial A_{0}}{\partial t}}F\cdot dS} 																											
+velocity 	0	 {\displaystyle {\begin{aligned}(r+s)+t&amp	Fehler:509	Fehler:509	Fehler:509	Fehler:509	Fehler:509	Fehler:509	Fehler:509	Fehler:539																			
+velocity 	0	 {\displaystyle F_{electrostatic}={\frac {1}{2}}{\frac {\partial C}{\partial z}}\Delta V^{2}} 																											
+velocity 	0	 {\displaystyle JaroWinklerDist(s_{1},s_{2})=1-JaroWinklerSim(s_{1},s_{2})} 																											
+velocity 	0	 {\displaystyle \mathbf {E} (\mathbf {r} ,t)={\frac {1}{4\pi \epsilon _{0}}}\int \left[\left({\frac {\rho (\mathbf {r} ',t_{r})}{|\mathbf {r} -\mathbf {r} '|^{3}}}+{\frac {1}{|\mathbf {r} -\mathbf {r} '|^{2}c}}{\frac {\partial \rho (\mathbf {r} ',t_{r})}{\partial t}}\right)(\mathbf {r} -\mathbf {r} ')-{\frac {1}{|\mathbf {r} -\mathbf {r} '|c^{2}}}{\frac {\partial \mathbf {J} (\mathbf {r} ',t_{r})}{\partial t}}\right]\mathrm {d} ^{3}\mathbf {r} '} 																											
+velocity 	0	 {\displaystyle P(t)=P_{0}e^{rt}} 																											
+velocity 	0	 {\displaystyle m={\frac {y_{end}-y_{start}}{x_{end}-x_{start}}}} 																											
+velocity 	0	 {\displaystyle \eta _{th}is[[thermalefficiency]]} 																											
+velocity 	0	 {\displaystyle FV=PV(1+rt)} 																											
+velocity 	0	 {\displaystyle W_{[a,a+r]}=\int _{a}^{a+r}w(t)\,dt} 																											
+velocity 	0	 {\displaystyle {\vec {s}}={\frac {d\,{\vec {\jmath }}}{dt}}={\frac {d^{2}{\vec {a}}}{dt^{2}}}={\frac {d^{3}{\vec {v}}}{dt^{3}}}={\frac {d^{4}{\vec {r}}}{dt^{4}}}} 																											
+velocity 	0	 {\displaystyle i_{t}=\pi _{t}+r_{t}^{*}+a_{\pi }(\pi _{t}-\pi _{t}^{*})+a_{y}(y_{t}-{\bar {y}}_{t})} 																											
+velocity 	0	 {\displaystyle VP_{n}=C_{c}+C_{f}+V+S=GrossOutput} 																											
+velocity 	0	 {\displaystyle X=\{X_{1},\ldots ,X_{n}\}isasetofvariables} 																											
+velocity 	0	 {\displaystyle \omega isfrequencyofstrainoscillation} 																											
+velocity 	0	 {\displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)} 																											
+velocity 	0	 {\displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}} 																											
+velocity 	0	 {\displaystyle q_{tid}=63\rho n^{5}r^{4}e^{2}/(38\mu Q)} 																											
+velocity 	0	 {\displaystyle V_{i}isthemembranepotentialofithcompartment} 																											
+velocity 	0	 {\displaystyle t\mapsto f(t)+(p-r(t)){f'(t) \over r'(t)}} 																											
+velocity 	0	 {\displaystyle {\mathit {El}}={\frac {t_{\mathrm {r} }\nu }{r^{2}}}} 																											
+velocity 	0	 {\displaystyle dS_{t}=(r_{t}-d_{t})S_{t}\,dt+\sigma _{t}S_{t}\,dW_{t}} 																											
+velocity 	0	 {\displaystyle w_{\ell }=1-{\frac {\ell }{L+1}}&lt	!--nodefinitionforw,lorL--&gt	} 																									
+velocity 	0	 {\displaystyle \mathrm {LEC} ={\frac {\sum _{t=1}^{n}{\frac {I_{t}+M_{t}+F_{t}}{\left({1+r}\right)^{t}}}}{\sum _{t=1}^{n}{\frac {E_{t}}{\left({1+r}\right)^{t}}}}}} 																											
+velocity 	0	 {\displaystyle clearance\ ratio\ of\ X={\frac {C_{x}}{C_{in}}}} 																											
+velocity 	0	 {\displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess} 																											
+velocity 	0	 {\displaystyle d={\sqrt {\int _{-\infty }^{t}(t-r)^{2}f(r)\,dr}}} 																											
+velocity 	0	 {\displaystyle JaroWinklerSim(s_{1},s_{2})=\left\{{\begin{array}{l l}JaroSim(s_{1},s_{2})+l\cdot p\cdot \left(1-JaroSim(s_{1},s_{2})\right)&amp	{\text{if }}JaroSim(s_{1},s_{2})&gt	b_{t}\\JaroSim(s_{1},s_{2})&amp	{\text{otherwise}}\end{array}}\right.} 																								
+velocity 	0	 {\displaystyle RfD(mg/kg/day)={NOEL(mg/kg/day) \over Uf_{inter}*Uf_{intra}*Uf_{other}}} 																											
+velocity 	0	 {\displaystyle ds^{2}=-f(r)dt^{2}+{dr^{2} \over f(r)}+r^{2}(d\theta ^{2}+\sin ^{2}\theta \,d\phi ^{2})} 																											
+velocity 	0	 {\displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t} 																											
+velocity 	0	 {\displaystyle tr\Omega ^{r}(Q_{1}\otimes \cdots \otimes Q_{n})} 																											
+velocity 	0	 {\displaystyle M(t,0)\simeq (-t)^{\beta },fort\uparrow 0} 																											
+velocity 	0	 {\displaystyle {\begin{aligned}\mathrm {d} s^{2}&amp	Fehler:533	Fehler:533	\sim \theta +4\pi \mathbb {Z} \end{aligned}}} 																								
+velocity 	0	 {\displaystyle \mathrm {d} s^{2}=\mathrm {d} t^{2}-{\frac {(R')^{2}}{1+2E}}\mathrm {d} r^{2}-R^{2}\,\mathrm {d} \Omega ^{2}} 																											
+velocity 	0	 {\displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}} 																											
+velocity 	0	 {\displaystyle T(p)=\Box pforany[[propositionalvariable]]p} 																											
+velocity 	0	 {\displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}} 																											
+velocity 	0	 {\displaystyle {\vec {F}}_{bolt}=P_{max}\cdot A_{internal}} 																											
+velocity 	0	 {\displaystyle Z_{1}\,\!theimpedanceofthegenerator} 																											
+velocity 	0	 {\displaystyle zcr={\frac {1}{T-1}}\sum _{t=1}^{T-1}\mathbb {1} _{\mathbb {R} _{&lt	0}}(s_{t}s_{t-1})} 																										
+velocity 	0	 {\displaystyle s*_{l}r(t)=r*_{l}s(t)=\int _{0}^{\infty }s\left({\frac {t}{a}}\right)r(a)\,{\frac {da}{a}}} 																											
+velocity 	0	 {\displaystyle {\begin{aligned}x(t)&amp	Fehler:509	Fehler:539																									
+velocity 	0	 {\displaystyle {\begin{aligned}(r+s)+t&amp	Fehler:509	Fehler:509	Fehler:509	Fehler:509	Fehler:509	Fehler:509	Fehler:539																				
+velocity 	0	 {\displaystyle L=N\,l,where''N''isthenumberofmonomers} 																											
+velocity 	0	 {\displaystyle d\ln(r)=[\theta _{t}+{\frac {\sigma '_{t}}{\sigma _{t}}}\ln(r)]dt+\sigma _{t}\,dW_{t}} 																											
+velocity 	0	 {\displaystyle k_{O}Segregationcoefficient} 																											
+velocity 	0	 {\displaystyle P(t,T)=\mathbb {E} ^{Q}\left[\left.\exp {\left(-\int _{t}^{T}r_{s}\,ds\right)}\right|{\mathcal {F}}_{t}\right]} 																											
+velocity 	0	 {\displaystyle \omega =2\pi fwherefisfrequencyofstrainoscillation} 																											
+velocity 	0	 {\displaystyle {\frac {Energy\ consumed}{Built\ area}}} 																											
+velocity 	0	 {\displaystyle p_{1}r_{1}+p_{2}r_{2}=const} 																											
+velocity 	0	 {\displaystyle r=-{\frac {dC_{\mathrm {A} }}{dt}}=k_{2}C_{\mathrm {AS} }=k_{2}\theta C_{\mathrm {S} }} 																											
+velocity 	0	 {\displaystyle A=arctan(r/h)} 																											
+velocity 	0	 {\displaystyle x_{t}=x_{0}(1+r)^{t}} 																											
+velocity 	0	 {\displaystyle N_{s}=\min(N_{t},N_{r})\!} 																											
+work 	0	 {\displaystyle T_{raise}={\frac {Fd_{m}}{2}}\left({\frac {l+\pi \mu d_{m}}{\pi d_{m}-\mu l}}\right)={\frac {Fd_{m}}{2}}\tan {\left(\phi +\lambda \right)}} 																											
+work 	0	 {\displaystyle FMV\,=\,{VBAB*TAB_{factor}}} 																											
+work 	0	 {\displaystyle r(x_{n})=r_{n}=F(x,g_{n}),{\text{where }}g_{n}\approx g_{n}(x_{n})} 																											
+work 	0	 {\displaystyle {\vec {F}}_{g}=-{\frac {Gm_{1}m_{2}}{r^{2}}}{\hat {r}}} 																											
+work 	0	 {\displaystyle Fisresultantfinenessmodulus} 																											
+work 	0	 {\displaystyle {\vec {F}}_{e}={\frac {q_{1}q_{2}}{4\pi \epsilon _{0}r^{2}}}{\hat {r}}} 																											
+work 	0	 {\displaystyle F^{a}{}_{b}r^{b}=\lambda \,r^{a}} 																											
+work 	0	 {\displaystyle {\vec {F}}=-{\frac {mv^{2}{\hat {r}}}{r}}} 																											
+work 	0	 {\displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}} 																											
+work 	0	 {\displaystyle -\int _{S}\Phi J\cdot dS=\int _{\Omega }J_{q}\cdot Fd^{3}r-\int _{S}\varepsilon {\frac {\partial A_{0}}{\partial t}}F\cdot dS} 																											
+work 	0	 {\displaystyle F_{electrostatic}={\frac {1}{2}}{\frac {\partial C}{\partial z}}\Delta V^{2}} 																											
+work 	0	 {\displaystyle FV=PV(1+rt)} 																											
+work 	0	 {\displaystyle \langle T\rangle =-{\frac {1}{2}}\sum _{i}\langle {\vec {F}}_{i}\cdot {\vec {r}}_{i}\rangle } 																											
+work 	0	 {\displaystyle \mathrm {LEC} ={\frac {\sum _{t=1}^{n}{\frac {I_{t}+M_{t}+F_{t}}{\left({1+r}\right)^{t}}}}{\sum _{t=1}^{n}{\frac {E_{t}}{\left({1+r}\right)^{t}}}}}} 																											
+work 	0	 {\displaystyle F_{\mathrm {R} }=6\pi \cdot r\cdot \eta \cdot v} 																											
+work 	0	 {\displaystyle F=a+r\Psi ^{2}+s\Psi ^{4}+H\Psi +} 																											
+work 	0	 {\displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t} 																											
+work 	0	 {\displaystyle POF={\frac {\max _{D\in Divisions}{(welfare(D))}}{\max _{D\in FairDivisions}{(welfare(D))}}}} 																											
+work 	0	 {\displaystyle r_{i}=R_{F}+\beta _{i}(R_{M}-R_{F})+\alpha _{i}+\epsilon _{i}} 																											
+work 	0	 {\displaystyle {\vec {F}}_{bolt}=P_{max}\cdot A_{internal}} 																											
+work 	0	 {\displaystyle F_{drag}=qA_{s}C_{D}} 																											
+work 	0	 {\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}} 																											

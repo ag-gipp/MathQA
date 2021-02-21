@@ -1,0 +1,2 @@
+GoldID,Query,Benchmark,Relevant Wikipedia,Relevant arXiv,DCG Wikipedia,DCG arXiv,,nDCG_25 = \sum_{i=1}^{25} \frac{rel_{i}{ \log_{2}(i+1)},cut off lists at 25
+,,,,,,,,,maybe use nDCG

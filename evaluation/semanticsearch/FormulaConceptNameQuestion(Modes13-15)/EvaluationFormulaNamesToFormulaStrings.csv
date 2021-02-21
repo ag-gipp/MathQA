@@ -1,0 +1,4 @@
+Mode,Source,Top hits,DCG,IDCG,nDCG
+13,arXiv,0,~0,132,~0
+14,Wikipedia,11,64.81,132,0.49
+15,Wikdata,34,68.64,132,0.52

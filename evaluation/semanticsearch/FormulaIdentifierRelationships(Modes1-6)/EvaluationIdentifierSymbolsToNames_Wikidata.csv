@@ -1,0 +1,159 @@
+Symbol	Score	Candidates
+t	2.63	{'duration': 1, 'time': 1}
+t	2.63	{'duration': 1, 'time': 1}
+L	0	"{'median lethal dose (LD50)': 1, 'median lethal concentration (LC50)': 2, 'length': 1, 'median lethal dose': 1, ""Spence's function"": 1, 'minimal lethal concentration': 1, 'median lethal concentration': 1}"
+r	0	{'sound pressure reflection coefficient': 1}
+p	0	{'atmospheric pressure': 1, 'focal parameter': 1}
+t	2.63	{'duration': 1, 'time': 1}
+m	0	{'Exhaust gas mass flow': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+m	0	{'Exhaust gas mass flow': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+C	0	{'median lethal concentration (LC50)': 1}
+d	0	{'penny size': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+E	0	{'half maximal effective concentration': 1, 'Erdős–Borwein constant': 1}
+p	0	{'atmospheric pressure': 1, 'focal parameter': 1}
+m	0	{'Exhaust gas mass flow': 1}
+k	0	{'permeability': 1, 'reaction rate constant': 1}
+t	2.63	{'duration': 1, 'time': 1}
+p	0	{'atmospheric pressure': 1, 'focal parameter': 1}
+m	0	{'Exhaust gas mass flow': 1}
+e	0	{'essential supremum': 1, 'essential infimum': 1}
+D	0	{'median lethal dose (LD50)': 1, 'Damköhler numbers': 1}
+m	0	{'Exhaust gas mass flow': 1}
+k	0	{'permeability': 1, 'reaction rate constant': 1}
+x	0	{'abscissa': 1}
+q	2	{'electric charge': 1}
+E	0	{'half maximal effective concentration': 1, 'Erdős–Borwein constant': 1}
+B	0	{'Bodenstein number': 1}
+q	2	{'electric charge': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+E	0	{'half maximal effective concentration': 1, 'Erdős–Borwein constant': 1}
+p	0	{'atmospheric pressure': 1, 'focal parameter': 1}
+m	0	{'Exhaust gas mass flow': 1}
+e	0	{'essential supremum': 1, 'essential infimum': 1}
+M	0	{'minimum inhibitory concentration': 1, 'minimum bactericidal concentration': 1, 'Laval number': 1, 'bimoment': 1, 'minimum explosive concentration': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+t	2.63	{'duration': 1, 'time': 1}
+L	0	"{'median lethal dose (LD50)': 1, 'median lethal concentration (LC50)': 2, 'length': 1, 'median lethal dose': 1, ""Spence's function"": 1, 'minimal lethal concentration': 1, 'median lethal concentration': 1}"
+q	0	{'electric charge': 1}
+q	0	{'electric charge': 1}
+p	0	{'atmospheric pressure': 1, 'focal parameter': 1}
+t	2.63	{'duration': 1, 'time': 1}
+p	0	{'atmospheric pressure': 1, 'focal parameter': 1}
+E	0	{'half maximal effective concentration': 1, 'Erdős–Borwein constant': 1}
+t	2.63	{'duration': 1, 'time': 1}
+T	0	{'temperature': 1}
+t	2.63	{'duration': 1, 'time': 1}
+x	1	{'abscissa': 1}
+y	1	{'ordinate': 1}
+p	1	{'atmospheric pressure': 1, 'focal parameter': 1}
+L	0	"{'median lethal dose (LD50)': 1, 'median lethal concentration (LC50)': 2, 'length': 1, 'median lethal dose': 1, ""Spence's function"": 1, 'minimal lethal concentration': 1, 'median lethal concentration': 1}"
+q	2	{'electric charge': 1}
+M	0	{'minimum inhibitory concentration': 1, 'minimum bactericidal concentration': 1, 'Laval number': 1, 'bimoment': 1, 'minimum explosive concentration': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+m	0	{'Exhaust gas mass flow': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+M	0	{'minimum inhibitory concentration': 1, 'minimum bactericidal concentration': 1, 'Laval number': 1, 'bimoment': 1, 'minimum explosive concentration': 1}
+m	0	{'Exhaust gas mass flow': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+q	2	{'electric charge': 1}
+p	0	{'atmospheric pressure': 1, 'focal parameter': 1}
+t	2.63	{'duration': 1, 'time': 1}
+L	0	"{'median lethal dose (LD50)': 1, 'median lethal concentration (LC50)': 2, 'length': 1, 'median lethal dose': 1, ""Spence's function"": 1, 'minimal lethal concentration': 1, 'median lethal concentration': 1}"
+q	2	{'electric charge': 1}
+S	0	{'specific storage': 1}
+t	2.63	{'duration': 1, 'time': 1}
+k	0.63	{'permeability': 1, 'reaction rate constant': 1}
+t	2.63	{'duration': 1, 'time': 1}
+T	2	{'temperature': 1}
+m	0	{'Exhaust gas mass flow': 1}
+L	0	"{'median lethal dose (LD50)': 1, 'median lethal concentration (LC50)': 2, 'length': 1, 'median lethal dose': 1, ""Spence's function"": 1, 'minimal lethal concentration': 1, 'median lethal concentration': 1}"
+T	2	{'temperature': 1}
+q	2	{'electric charge': 1}
+E	0	{'half maximal effective concentration': 1, 'Erdős–Borwein constant': 1}
+B	0	{'Bodenstein number': 1}
+x	0.63	{'abscissa': 1}
+E	0	{'half maximal effective concentration': 1, 'Erdős–Borwein constant': 1}
+m	0	{'Exhaust gas mass flow': 1}
+A	0	{'standard atomic weight': 1, 'conventional atomic weight': 1, 'Academic Freedom Index': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+m	0	{'Exhaust gas mass flow': 1}
+p	0	{'atmospheric pressure': 1, 'focal parameter': 1}
+m	0	{'Exhaust gas mass flow': 1}
+m	0	{'Exhaust gas mass flow': 1}
+z	0	{'height': 1}
+A	0	{'standard atomic weight': 1, 'conventional atomic weight': 1, 'Academic Freedom Index': 1}
+t	2.63	{'duration': 1, 'time': 1}
+t	2.63	{'duration': 1, 'time': 1}
+l	0	{'semi-latus rectum': 1}
+E	0	{'half maximal effective concentration': 1, 'Erdős–Borwein constant': 1}
+t	2.63	{'duration': 1, 'time': 1}
+t	2.63	{'duration': 1, 'time': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+E	0	{'half maximal effective concentration': 1, 'Erdős–Borwein constant': 1}
+m	0	{'Exhaust gas mass flow': 1}
+m	0	{'Exhaust gas mass flow': 1}
+E	0	{'half maximal effective concentration': 1, 'Erdős–Borwein constant': 1}
+p	0	{'atmospheric pressure': 1, 'focal parameter': 1}
+l	0	{'semi-latus rectum': 1}
+E	0	{'half maximal effective concentration': 1, 'Erdős–Borwein constant': 1}
+t	2.63	{'duration': 1, 'time': 1}
+x	1	{'abscissa': 1}
+y	1	{'ordinate': 1}
+z	1	{'height': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+A	0	{'standard atomic weight': 1, 'conventional atomic weight': 1, 'Academic Freedom Index': 1}
+k	0	{'permeability': 1, 'reaction rate constant': 1}
+x	1	{'abscissa': 1}
+t	2.63	{'duration': 1, 'time': 1}
+A	0	{'standard atomic weight': 1, 'conventional atomic weight': 1, 'Academic Freedom Index': 1}
+t	2.63	{'duration': 1, 'time': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+T	2	{'temperature': 1}
+M	0	{'minimum inhibitory concentration': 1, 'minimum bactericidal concentration': 1, 'Laval number': 1, 'bimoment': 1, 'minimum explosive concentration': 1}
+e	0	{'essential supremum': 1, 'essential infimum': 1}
+t	2.63	{'duration': 1, 'time': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+t	2.63	{'duration': 1, 'time': 1}
+A	0	{'standard atomic weight': 1, 'conventional atomic weight': 1, 'Academic Freedom Index': 1}
+r	0	{'sound pressure reflection coefficient': 1}
+\omega	2	{'angular frequency': 1}
+\omega	2	{'angular frequency': 1}
+\omega	2	{'angular frequency': 1}
+\varphi	0	{'latitude': 1, 'porosity': 1}
+\zeta	1	"{""Apéry's constant"": 1, 'mass ratio': 1}"
+\Psi	0	{'geocentric latitude': 1}
+\Psi	0	{'geocentric latitude': 1}
+\epsilon	1	{'linear strain': 1}
+\tau	2	{'time': 1}
+\mu	1	{'viscosity': 1, 'mobility': 1}
+\zeta	1	"{""Apéry's constant"": 1, 'mass ratio': 1}"
+\zeta	1	"{""Apéry's constant"": 1, 'mass ratio': 1}"
+\omega	2	{'angular frequency': 1}
+\varphi	0	{'latitude': 1, 'porosity': 1}
+\theta	1	{'temperature': 1}
+\omega	2	{'angular frequency': 1}
+\phi	1	{'latitude': 1, 'porosity': 1}
+\varphi	0	{'latitude': 1, 'porosity': 1}
+\lambda	1	{'longitude': 1}
+\omega	2	{'angular frequency': 1}
+\varphi	0	{'latitude': 1, 'porosity': 1}
+\mu	1	{'viscosity': 1, 'mobility': 1}
+\sigma	1	{'standard deviation': 1}
+\sigma	1	{'standard deviation': 1}
+\lambda	1	{'longitude': 1}
+	51	
+DCG	51/148=	
+	0,344594594594595	
+	148: total number of catalog hits	
+DCG	51/250=	
+	0,204	
+	250: total number of symbols in benchmark	
+No. relevant	54	195-94 (0s)
+Top1 Acc. / hits	0,364864864864865	
+Top1 Acc. / benchmark	0,216	

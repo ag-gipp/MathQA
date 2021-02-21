@@ -1,0 +1,11 @@
+GoldID,Query,Benchmark,Matches,"(Score, Rank)",DCG,score/(rank+1)
+310,a,acceleration,-,-,0,
+310,v,velocity,"velocity, vector, speed","(2,2), (1,5), (1,10)","1,93777714069534",
+310,t,duration,time,"(1,1)",1,
+310,acceleration,a,"a, g","(2,1), (1,4)","1,69253606521631",
+310,velocity,v,"v, c, V, u","(2,1), (1,2), (1,4), (1,5)","3,44845911887939",
+310,duration,t,\tau,"(1,3)","0,5",
+311,\alpha,angular acceleration,-,-,0,
+311,\omega,angular velocity,"frequency, oscillator, harmonic","(1,1), (1,8), (1,9)","1,61649487244971",
+311,t,duration,time,"(1,1)",1,
+312-375,…,…,…,…,…,

@@ -1,0 +1,626 @@
+GoldID	Score	Name	Formula	(Score,Rank)	DCG	nDCG
+310	1	acceleration	\mathbf{F}=m\mathbf{g}			
+310	1	acceleration	g=-G\cdot M/r^{2}+\omega^{2}\cdot r			
+310	2	acceleration	\mathbf{\bar{a}}=\frac{\Delta\mathbf{v}}{\Delta t}.			
+310	2	acceleration	a\equiv\dot{v}=\dot{\beta}c			
+310	0	acceleration	\boldsymbol{a}_{C}=-2\boldsymbol{\Omega\times v}=2\,\omega\,\begin{pmatrix}-v_%{u}\\0\\v_{e}\end{pmatrix}\ .			
+310	0	acceleration	Fehler:501			
+310	0	acceleration	\therefore v^{2}=v_{0}^{2}+2(\mathbf{a}\cdot(\mathbf{r}-\mathbf{r}_{0}))			
+310	1	acceleration	\vec{F}=m\vec{a}.			
+310	0	acceleration	\frac{d(r^{2}\dot{\theta})}{dt}=r(2\dot{r}\dot{\theta}+r\ddot{\theta})=ra_{%\theta}=0.			
+310	0	acceleration	\mathbf{\ddot{r}}_{\text{Earth}}=Gm_{\text{Sun}}r_{\text{Earth},\text{Sun}}^{-%2}\hat{\mathbf{r}}_{\text{Earth},\text{Sun}}			
+311	0	angular acceleration	n=1			
+311	0	angular acceleration	\mathbf{V}_{i}=\mathbf{V}+\boldsymbol{\omega}\times\mathbf{r}_{i}			
+311	0	angular acceleration	\mathbf{F}^{\prime}=\mathbf{F}-\mathbf{F}_{\mathrm{app}}			
+311	0	angular acceleration	{\alpha}=\frac{\tau}{I}.			
+311	0	angular acceleration	\mathbf{L}=\mathbf{r}\times\mathbf{p}			
+311	0	angular acceleration	W=\frac{dA(t)}{dt}\cdot A^{-1}(t)			
+311	0	angular acceleration	\zeta(t)=\dot{\alpha}(t)=\ddot{\omega}(t)=\overset{...}{\theta}(t)			
+311	0	angular acceleration	\sin\theta=1.22\frac{\lambda}{D}			
+311	0	angular acceleration	v_{\mathrm{p}}=\frac{\lambda}{T}.			
+311	0	angular acceleration	\mbox{power}=\frac{\mbox{force}\times\mbox{linear distance}}{\mbox{time}}=%\frac{\left(\frac{\mbox{torque}}{\displaystyle{r}}\right)\times(r\times\mbox{%angular speed}\times t)}{t}=\mbox{torque}\times\mbox{angular speed}.			
+312	0	angular frequency	n=1			
+312	0	angular frequency	t=0			
+312	1	angular frequency	\omega_{\mathrm{n}}^{2}=\frac{k}{m}\,			
+312	0	angular frequency	\mathbf{V}_{i}=\mathbf{V}+\boldsymbol{\omega}\times\mathbf{r}_{i}			
+312	0	angular frequency	v_{\mathrm{p}}=\frac{\lambda}{T}.			
+312	0	angular frequency	\mathbf{L}=\mathbf{r}\times\mathbf{p}			
+312	0	angular frequency	W=\frac{dA(t)}{dt}\cdot A^{-1}(t)			
+312	0	angular frequency	\gamma=\frac{1}{\sqrt{1-\beta^{2}}}=\frac{1}{\sqrt{1-\left(\frac{v}{c}\right)^%{2}}}			
+312	0	angular frequency	\frac{d^{2}\theta}{dt^{2}}=-\omega^{2}\theta			
+312	0	angular frequency	\frac{\mathrm{d}\theta}{\mathrm{d}x}=k			
+313	0	angular momentum	n=1			
+313	2	angular momentum	\mathbf{L}=\mathbf{r}\times\mathbf{p}			
+313	1	angular momentum	\scriptstyle\mathbf{L}=\hbar			
+313	0	angular momentum	\boldsymbol{\tau}=\mathbf{0},			
+313	1	angular momentum	\frac{d\mathbf{L}}{dt}=I\boldsymbol{\alpha}.			
+313	0	angular momentum	\mathbf{V}_{i}=\mathbf{V}+\mathbf{v}_{i}.			
+313	0	angular momentum	Fehler:509			
+313	0	angular momentum	\sum_{i}\mathbf{R}\times m_{i}\mathbf{V}=\mathbf{R}\times\sum_{i}m_{i}\mathbf{%V}=\mathbf{R}\times M\mathbf{V},			
+313	0	angular momentum	\mathbf{V}_{i}=\mathbf{V}+\boldsymbol{\omega}\times\mathbf{r}_{i}			
+313	0	angular momentum	\ell=3			
+314	1	angular velocity	\mathbf{V}_{i}=\mathbf{V}+\boldsymbol{\omega}\times\mathbf{r}_{i}			
+314	0	angular velocity	n=1			
+314	0	angular velocity	W=\frac{dA(t)}{dt}\cdot A^{-1}(t)			
+314	1	angular velocity	\omega=\frac{|\mathrm{\mathbf{v}}|\sin(\theta)}{|\mathrm{\mathbf{r}}|}			
+314	0	angular velocity	\frac{dA(t)}{dt}=W\cdot A(t)			
+314	1	angular velocity	\boldsymbol{\omega}=[\omega_{x},\omega_{y},\omega_{z}]			
+314	0	angular velocity	\boldsymbol{\omega}_{1}=\boldsymbol{\omega}_{2}			
+314	0	angular velocity	\mathbf{F}^{\prime}=\mathbf{F}-\mathbf{F}_{\mathrm{app}}			
+314	0	angular velocity	\mathrm{MA}=\frac{F_{B}}{F_{A}}=\frac{v_{A}}{v_{B}}.			
+314	0	angular velocity	\ v_{2}=u_{2}			
+315	0	center of mass	\ v_{\bar{x}}=\ v_{\bar{x}}^{\prime}			
+315	0	center of mass	\gamma=\frac{1}{\sqrt{1-v^{2}/c^{2}}}			
+315	1	center of mass	r_{\text{cm}}=\frac{m_{1}r_{1}+m_{2}r_{2}+\cdots}{m_{1}+m_{2}+\cdots}.			
+315	0	center of mass	m\left({}^{A}_{Z}\mathrm{X}\right)c^{2}=m_{N}\left({}^{A}_{Z}\mathrm{X}\right)%c^{2}+Zm_{e}c^{2}-\sum_{i=1}^{Z}B_{i}			
+315	1	center of mass	m_{\text{red}}=\frac{m_{\mathrm{e}}m_{\mathrm{p}}}{m_{\mathrm{e}}+m_{\mathrm{p%}}}=m_{\mathrm{e}}\frac{1}{1+m_{\mathrm{e}}/m_{\mathrm{p}}}			
+315	0	center of mass	c=-1			
+315	0	center of mass	Q=C_{\mathrm{th}}\Delta T\,			
+315	0	center of mass	r_{1}m_{1}=r_{2}m_{2}			
+315	0	center of mass	\mathbf{L}=\mathbf{R}\times m\mathbf{V}=I_{R}\boldsymbol{\omega}_{R}.			
+315	0	center of mass	\mathbf{V}=\mathbf{0},			
+316	0	centripetal acceleration	\mathbf{F}=m\mathbf{g}			
+316	0	centripetal acceleration	g=-G\cdot M/r^{2}+\omega^{2}\cdot r			
+316	1	centripetal acceleration	\mathbf{\bar{a}}=\frac{\Delta\mathbf{v}}{\Delta t}.			
+316	0	centripetal acceleration	a\equiv\dot{v}=\dot{\beta}c			
+316	1	centripetal acceleration	\boldsymbol{a}_{C}=-2\boldsymbol{\Omega\times v}=2\,\omega\,\begin{pmatrix}-v_%{u}\\0\\v_{e}\end{pmatrix}\ .			
+316	0	centripetal acceleration	Fehler:501			
+316	1	centripetal acceleration	\therefore v^{2}=v_{0}^{2}+2(\mathbf{a}\cdot(\mathbf{r}-\mathbf{r}_{0}))			
+316	0	centripetal acceleration	\vec{F}=m\vec{a}.			
+316	1	centripetal acceleration	\frac{d(r^{2}\dot{\theta})}{dt}=r(2\dot{r}\dot{\theta}+r\ddot{\theta})=ra_{%\theta}=0.			
+316	1	centripetal acceleration	\mathbf{\ddot{r}}_{\text{Earth}}=Gm_{\text{Sun}}r_{\text{Earth},\text{Sun}}^{-%2}\hat{\mathbf{r}}_{\text{Earth},\text{Sun}}			
+317	0	centripetal force	N=mg\,			
+317	0	centripetal force	\vec{F}=m\vec{g}			
+317	0	centripetal force	\theta=\tan^{-1}\bigg(\frac{\text{Rise}}{\text{Run}}\bigg)\,			
+317	0	centripetal force	\text{MA}=\frac{F_{w}}{F_{i}}=\frac{1}{\sin\theta}\,			
+317	0	centripetal force	\phi=\tan^{-1}\mu\,			
+317	0	centripetal force	MA=\frac{F_{B}}{F_{A}}=\frac{a}{b}.			
+317	0	centripetal force	\mathbf{F}=q\mathbf{E}			
+317	0	centripetal force	\mathbf{F}=m\mathbf{a}			
+317	0	centripetal force	\frac{d\mathbf{p}_{i}}{dt}=\mathbf{F}_{E}+\sum_{i\neq j}\mathbf{F}_{ij}\,\!			
+317	0	centripetal force	F\left(t\right)=-kx\left(t\right)			
+318	0	circumference	V=\frac{1}{3}h(x_{1}^{2}+x_{1}x_{2}+x_{2}^{2}).			
+318	0	circumference	\theta=\frac{s}{r}			
+318	2	circumference	C=2\pi r=\pi d.\,			
+318	0	circumference	\pi=\frac{C}{d}			
+318	0	circumference	{C}=\pi\cdot{d}=2\pi\cdot{r}.\!			
+318	0	circumference	s=60\times m			
+318	0	circumference	C=\pi(a+b)\left[1+\sum_{n=1}^{\infty}\left(\frac{(2n-1)!!}{2^{n}n!}\right)^{2}%\frac{h^{n}}{(2n-1)^{2}}\right].			
+318	0	circumference	23^{\circ}=23\cdot\frac{\pi}{180^{\circ}}\approx 0.4014\text{ rad}			
+318	0	circumference	\ell=\pi\cdot 2r			
+319	0	conservation of energy	n=1			
+319	0	conservation of energy	U=k{x}^{2}/2.			
+319	1	conservation of energy	0=\Delta E_{1}-\Delta E_{2}\,			
+319	1	conservation of energy	0=\Delta E_{1}-\Delta E_{2}			
+319	0	conservation of energy	E=\frac{mc^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}.			
+319	0	conservation of energy	E=h\nu			
+319	0	conservation of energy	E=\frac{p^{2}}{2m}			
+319	0	conservation of energy	U=0			
+319	0	conservation of energy	n_{i}=0,1,2,\dots\quad(\text{the energy level in dimension }i).			
+319	0	conservation of energy	d\left(\frac{1}{2}v^{2}\right)=vdv=vv_{\text{e}}dm/m=\frac{1}{2}\left(v_{\text%{e}}^{2}-(v-v_{\text{e}})^{2}+v^{2}\right)dm/m			
+320	0	conservation of momentum	E=\frac{p^{2}}{2m}			
+320	1	conservation of momentum	\sum{\Delta{\vec{p}}}=\Delta{\vec{p}_{1,2}}+\Delta{\vec{p}_{2,1}}=0			
+320	1	conservation of momentum	m_{1}u_{1}+m_{2}u_{2}=m_{1}v_{1}+m_{2}v_{2}.			
+320	0	conservation of momentum	\mathbf{P}=\left(\frac{E}{c},\mathbf{p}\right)\,.			
+320	0	conservation of momentum	\mathbf{p}=m\mathbf{v}			
+320	0	conservation of momentum	\mathbf{L}=\mathbf{r}\times\mathbf{p}			
+320	0	conservation of momentum	\scriptstyle\mathbf{L}=\hbar			
+320	0	conservation of momentum	p=\frac{mv}{\sqrt{1-\frac{v^{2}}{c^{2}}}}			
+320	0	conservation of momentum	p=mv.			
+320	0	conservation of momentum	\frac{d}{dt}\left(\frac{\partial\mathcal{L}}{\partial\dot{q}_{j}}\right)-\frac%{\partial\mathcal{L}}{\partial q_{j}}=0\,.			
+321	1	damping	\zeta=\frac{1}{2\sqrt{K_{p}K_{v}RC}}			
+321	0	damping	\frac{\langle E(s)\rangle}{A}=-\frac{\hbar c^{1-s}\pi^{2-s}}{2a^{3-s}}\frac{1}%{3-s}\sum_{n}|n|^{3-s}.			
+321	0	damping	\frac{c}{v_{g}}=n+\omega\frac{\partial n}{\partial\omega}.			
+321	0	damping	U=\frac{1}{2}kx^{2}.			
+321	2	damping	\zeta=\frac{c}{2\sqrt{mk}}			
+321	0	damping	Q=2\pi\times\frac{\text{Energy stored}}{\text{Energy lost per cycle}}.			
+321	0	damping	\tau_{2}=CR_{2}			
+321	1	damping	\zeta=\frac{1}{2\omega_{n}\tau_{1}}+\frac{\omega_{n}\tau_{2}}{2}			
+321	0	damping	V_{1}=1/(1-w)			
+322	0	dirac equation	Ax+By=C,\,			
+322	0	dirac equation	x=-3			
+322	0	dirac equation	2x+4=12			
+322	0	dirac equation	C=\frac{V_{c}^{2}}{9}			
+322	0	dirac equation	\frac{x^{2}}{a^{2}}-\frac{y^{2}}{b^{2}}=-1			
+322	0	dirac equation	E=\frac{mc^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}.			
+322	0	dirac equation	\log(k)=s_{E}s_{N}(N+E)			
+322	0	dirac equation	x^{2}-ny^{2}=1			
+322	0	dirac equation	A=i\beta\alpha_{1},B=i\beta\alpha_{2},C=i\beta\alpha_{3},D=\beta\,,			
+322	1	dirac equation	H=c\sqrt{\left(p-\frac{q}{c}A\right)^{2}+m^{2}c^{2}}+qA^{0}.			
+323	0	dirac equation in curved spacetime	Ax+By=C,\,			
+323	0	dirac equation in curved spacetime	x=-3			
+323	0	dirac equation in curved spacetime	2x+4=12			
+323	0	dirac equation in curved spacetime	C=\frac{V_{c}^{2}}{9}			
+323	0	dirac equation in curved spacetime	\frac{x^{2}}{a^{2}}-\frac{y^{2}}{b^{2}}=-1			
+323	0	dirac equation in curved spacetime	E=\frac{mc^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}.			
+323	0	dirac equation in curved spacetime	\log(k)=s_{E}s_{N}(N+E)			
+323	0	dirac equation in curved spacetime	x^{2}-ny^{2}=1			
+323	1	dirac equation in curved spacetime	A=i\beta\alpha_{1},B=i\beta\alpha_{2},C=i\beta\alpha_{3},D=\beta\,,			
+323	0	dirac equation in curved spacetime	H=c\sqrt{\left(p-\frac{q}{c}A\right)^{2}+m^{2}c^{2}}+qA^{0}.			
+324	0	elastic energy	n=1			
+324	2	elastic energy	U=k{x}^{2}/2.			
+324	0	elastic energy	0=\Delta E_{1}-\Delta E_{2}\,			
+324	0	elastic energy	0=\Delta E_{1}-\Delta E_{2}			
+324	0	elastic energy	E=\frac{mc^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}.			
+324	0	elastic energy	E=h\nu			
+324	0	elastic energy	E=\frac{p^{2}}{2m}			
+324	0	elastic energy	U=0			
+324	0	elastic energy	n_{i}=0,1,2,\dots\quad(\text{the energy level in dimension }i).			
+324	0	elastic energy	d\left(\frac{1}{2}v^{2}\right)=vdv=vv_{\text{e}}dm/m=\frac{1}{2}\left(v_{\text%{e}}^{2}-(v-v_{\text{e}})^{2}+v^{2}\right)dm/m			
+325	0	electromagnetic force	N=mg\,			
+325	0	electromagnetic force	\vec{F}=m\vec{g}			
+325	0	electromagnetic force	\theta=\tan^{-1}\bigg(\frac{\text{Rise}}{\text{Run}}\bigg)\,			
+325	0	electromagnetic force	\text{MA}=\frac{F_{w}}{F_{i}}=\frac{1}{\sin\theta}\,			
+325	0	electromagnetic force	\phi=\tan^{-1}\mu\,			
+325	0	electromagnetic force	MA=\frac{F_{B}}{F_{A}}=\frac{a}{b}.			
+325	1	electromagnetic force	\mathbf{F}=q\mathbf{E}			
+325	0	electromagnetic force	\rho b_{i}=p_{i}\,\!			
+325	0	electromagnetic force	L=\frac{m}{2}\mathbf{\dot{r}}\cdot\mathbf{\dot{r}}+q\mathbf{A}\cdot\mathbf{%\dot{r}}-q\phi			
+325	0	electromagnetic force	\widetilde{\Gamma}^{\mu}_{5\alpha}={1\over 2}g^{\mu\nu}k\phi^{2}(F_{\alpha\nu}%-A_{\alpha}\partial_{\nu}\ln\phi^{2})			
+326	0	electrostatic force	U=-\frac{GMm}{r},			
+326	0	electrostatic force	N=mg\,			
+326	0	electrostatic force	\vec{F}=m\vec{g}			
+326	0	electrostatic force	\theta=\tan^{-1}\bigg(\frac{\text{Rise}}{\text{Run}}\bigg)\,			
+326	0	electrostatic force	\text{MA}=\frac{F_{w}}{F_{i}}=\frac{1}{\sin\theta}\,			
+326	0	electrostatic force	\phi=\tan^{-1}\mu\,			
+326	0	electrostatic force	MA=\frac{F_{B}}{F_{A}}=\frac{a}{b}.			
+326	2	electrostatic force	\mathbf{F}=q\mathbf{E}			
+326	0	electrostatic force	\mathbf{F}=m\mathbf{a}			
+326	0	electrostatic force	\frac{d\mathbf{p}_{i}}{dt}=\mathbf{F}_{E}+\sum_{i\neq j}\mathbf{F}_{ij}\,\!			
+327	0	energy-momentum relation	x=\frac{X}{Z}			
+327	0	energy-momentum relation	cz\approx DH(t_{0})=v_{r}\ .			
+327	0	energy-momentum relation	\tau=\alpha l.			
+327	1	energy-momentum relation	E=\frac{p^{2}}{2m}			
+327	0	energy-momentum relation	P_{0}V_{0}^{\gamma}=PV^{\gamma}=\operatorname{constant}.			
+327	0	energy-momentum relation	\langle Tx,y\rangle=\langle x,Uy\rangle			
+327	0	energy-momentum relation	x^{2}+y^{2}-1=0			
+327	0	energy-momentum relation	L_{ij}=x_{i}p_{j}-x_{j}p_{i}\,.			
+327	0	energy-momentum relation	A\subseteq B\and B\subseteq A\Rightarrow A=B			
+327	0	energy-momentum relation	E=\frac{1}{2}mU_{\mathrm{ion}}^{2}=-neV_{1}			
+328	2	escape velocity	v_{0}=\sqrt{\frac{2GM}{r_{0}}}.			
+328	0	escape velocity	\mathbf{V}_{i}=\mathbf{V}+\boldsymbol{\omega}\times\mathbf{r}_{i}			
+328	0	escape velocity	\ v_{2}=u_{2}			
+328	0	escape velocity	v_{b}=\frac{C_{R}m_{a}(u_{a}-u_{b})+m_{a}u_{a}+m_{b}u_{b}}{m_{a}+m_{b}}			
+328	0	escape velocity	\begin{smallmatrix}\sqrt{79.4^{2}\ +\ 62^{2}}\ =\ 100\end{smallmatrix}			
+328	0	escape velocity	\tan(\theta)=u_{y}/u_{x}			
+328	0	escape velocity	\boldsymbol{\omega}_{1}=\boldsymbol{\omega}_{2}			
+328	0	escape velocity	Fehler:501			
+328	0	escape velocity	\tfrac{1}{2}\rho u^{2}+P=\text{constant}			
+328	0	escape velocity	z=\frac{\lambda_{o}}{\lambda_{e}}-1=\sqrt{\frac{1+v/c}{1-v/c}}-1\approx\frac{v%}{c}\ .			
+329	0	euler-lagrange equation	Ax+By=C,\,			
+329	0	euler-lagrange equation	x=-3			
+329	0	euler-lagrange equation	2x+4=12			
+329	0	euler-lagrange equation	C=\frac{V_{c}^{2}}{9}			
+329	0	euler-lagrange equation	\frac{x^{2}}{a^{2}}-\frac{y^{2}}{b^{2}}=-1			
+329	0	euler-lagrange equation	E=\frac{mc^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}.			
+329	0	euler-lagrange equation	\log(k)=s_{E}s_{N}(N+E)			
+329	0	euler-lagrange equation	x^{2}-ny^{2}=1			
+329	0	euler-lagrange equation	{\alpha}=\frac{\tau}{I}.			
+329	0	euler-lagrange equation	x^{2}\frac{d^{2}y}{dx^{2}}+[x^{2}-n(n+1)]y=0.			
+330	0	force	N=mg\,			
+330	1	force	\vec{F}=m\vec{g}			
+330	0	force	\theta=\tan^{-1}\bigg(\frac{\text{Rise}}{\text{Run}}\bigg)\,			
+330	0	force	\text{MA}=\frac{F_{w}}{F_{i}}=\frac{1}{\sin\theta}\,			
+330	0	force	\phi=\tan^{-1}\mu\,			
+330	0	force	MA=\frac{F_{B}}{F_{A}}=\frac{a}{b}.			
+330	1	force	\mathbf{F}=q\mathbf{E}			
+330	1	force	\mathbf{F}=m\mathbf{a}			
+330	1	force	\frac{d\mathbf{p}_{i}}{dt}=\mathbf{F}_{E}+\sum_{i\neq j}\mathbf{F}_{ij}\,\!			
+330	1	force	F\left(t\right)=-kx\left(t\right)			
+333	0	free fall	\mathbf{D}=\varepsilon_{0}\mathbf{E},\quad\mathbf{H}=\frac{1}{\mu_{0}}\mathbf{B}			
+333	0	free fall	\Delta G=\Delta H-T\Delta S			
+333	0	free fall	\Delta E=\frac{1}{2}\alpha_{0}\left(T-T_{0}\right)P_{x}^{2}+\frac{1}{4}\alpha_%{11}P_{x}^{4}+\frac{1}{6}\alpha_{111}P_{x}^{6}			
+333	0	free fall	E=\hbar\omega=\frac{\hbar^{2}k^{2}}{2m},			
+333	0	free fall	E=\frac{p^{2}}{2m}			
+333	0	free fall	E=hf\,			
+333	0	free fall	1-\frac{78}{79}\times(\frac{77}{78})^{78}=0.64=64\par\par\@@section{%subsection}{S3.SS7}{3.7}{3.7}{{\@tag[][]{3.7}6}}{{\@tag[][]{3.7}6}}\par			
+333	0	free fall	K_{n}=\frac{2\lambda}{d}			
+333	0	free fall	3\cos\Omega=1-4\cos^{2}\left[\left(\phi+\psi\right)/2\right]			
+333	0	free fall	\hbar\omega_{p}/T_{e}=0.1			
+334	0	frequency	t=0			
+334	1	frequency	\omega_{\mathrm{n}}^{2}=\frac{k}{m}\,			
+334	0	frequency	c(t)=A\cdot\sin(2\pi f_{c}t)\,			
+334	0	frequency	\zeta=\frac{1}{2\sqrt{K_{p}K_{v}RC}}			
+334	1	frequency	E=h\nu			
+334	1	frequency	\nu(t)=\frac{1}{2\pi}\frac{d\Phi(t)}{dt}.			
+334	0	frequency	p^{2}+2pq+q^{2}=1\,			
+334	0	frequency	\scriptstyle\log_{2}\left(\prod_{k=1}^{n}f_{k}\right)			
+334	0	frequency	|z|=1			
+334	0	frequency	s=j\omega			
+335	0	friction	N=mg\,			
+335	0	friction	Q=0			
+335	2	friction	F_{k}=\mu_{\mathrm{k}}F_{n}\,			
+335	1	friction	\tan{\theta}=\mu_{\mathrm{s}}\,			
+335	0	friction	\mathrm{MA}=\frac{F_{w}}{F_{i}}.\,			
+335	0	friction	W_{\text{in}}=W_{\text{fric}}+W_{\text{out}}\,			
+335	0	friction	\phi=\tan^{-1}\mu\,			
+335	0	friction	MA=\frac{T_{B}}{T_{A}}=\frac{r_{B}}{r_{A}}.			
+335	0	friction	ΔS=0			
+335	0	friction	dV=0			
+336	0	galilean transformation	\hat{w}_{i}=R_{i}^{j}w_{j}.			
+336	0	galilean transformation	\det A=\pm 1			
+336	0	galilean transformation	A^{\mu}=\frac{dU^{\mu}}{d\tau}\,.			
+336	0	galilean transformation	\hat{T}_{i^{\prime}_{2}}^{i^{\prime}_{1}}=(R^{-1})_{i_{1}}^{i^{\prime}_{1}}T_{%i_{2}}^{i_{1}}R_{i^{\prime}_{2}}^{i_{2}}			
+336	0	galilean transformation	\theta=\omega_{1}t-\frac{1}{2}\alpha t^{2}			
+336	0	galilean transformation	\vec{y}=A\vec{x}+\vec{b}.			
+336	0	galilean transformation	a_{7}^{\prime}=a_{3}\oplus a_{4}\oplus a_{5}\oplus a_{6}\oplus a_{7}\oplus 0=1%\oplus 0\oplus 0\oplus 1\oplus 1\oplus 0=1.			
+336	0	galilean transformation	(i\gamma^{\mu}\partial_{\mu}^{\prime}-m)\psi^{\prime}(x^{\prime},t^{\prime})=0.			
+336	0	galilean transformation	T(v)=T(a_{1}v_{1})+\cdots+T(a_{n}v_{n})=a_{1}T(v_{1})+\cdots+a_{n}T(v_{n})=a_{%1}\lambda_{1}v_{1}+\cdots+a_{n}\lambda_{n}v_{n}.			
+336	0	galilean transformation	\mu=2			
+337	1	generalized momentum	\frac{d}{dt}\left(\frac{\partial\mathcal{L}}{\partial\dot{q}_{j}}\right)-\frac%{\partial\mathcal{L}}{\partial q_{j}}=0\,.			
+337	0	generalized momentum	E=\frac{p^{2}}{2m}			
+337	0	generalized momentum	M_{-\infty}(x_{1},\dots,x_{n})=\frac{1}{M_{\infty}(1/x_{1},\dots,1/x_{n})}.			
+337	1	generalized momentum	\mathbf{p}=m\mathbf{v}			
+337	0	generalized momentum	\mathbf{L}=\mathbf{r}\times\mathbf{p}			
+337	0	generalized momentum	\scriptstyle\mathbf{L}=\hbar			
+337	0	generalized momentum	p=\frac{mv}{\sqrt{1-\frac{v^{2}}{c^{2}}}}			
+337	0	generalized momentum	p=mv.			
+337	0	generalized momentum	\mathbf{F}=q(\mathbf{E}+\mathbf{v}\times\mathbf{B}).			
+337	0	generalized momentum	\mathbf{g}=\frac{\mathbf{S}}{c^{2}}\,.			
+338	0	gravitational acceleration	U=0			
+338	0	gravitational acceleration	\mathbf{g}=-\mu\frac{\hat{\mathbf{R}}}{|\mathbf{R}|^{2}}			
+338	2	gravitational acceleration	g=-G\cdot M/r^{2}+\omega^{2}\cdot r			
+338	1	gravitational acceleration	a=\frac{M}{m}g.			
+338	1	gravitational acceleration	\mathbf{F}_{\text{AB}}=-GM_{\text{A}}M_{\text{B}}\frac{\hat{\mathbf{R}}_{\text%{AB}}}{|\mathbf{R}_{\text{AB}}|^{2}}			
+338	1	gravitational acceleration	F=Mg			
+338	1	gravitational acceleration	\mathbf{F}=m\mathbf{g}			
+338	0	gravitational acceleration	A^{3}=\frac{GM_{\odot}D^{2}}{k^{2}}			
+338	0	gravitational acceleration	\mathbf{\hat{r}}=\mathbf{\frac{r}{|r|}}			
+338	0	gravitational acceleration	{R(r+dr)-R(r)\over R}={dr\over r}=gdr\,			
+339	0	gravitational force	U=0			
+339	0	gravitational force	\theta=\tan^{-1}\bigg(\frac{\text{Rise}}{\text{Run}}\bigg)\,			
+339	1	gravitational force	F=Mg			
+339	1	gravitational force	N=mg\,			
+339	1	gravitational force	\mathbf{g}=-\mu\frac{\hat{\mathbf{R}}}{|\mathbf{R}|^{2}}			
+339	1	gravitational force	\mathbf{F}_{\text{AB}}=-GM_{\text{A}}M_{\text{B}}\frac{\hat{\mathbf{R}}_{\text%{AB}}}{|\mathbf{R}_{\text{AB}}|^{2}}			
+339	0	gravitational force	U=-\frac{GMm}{r},			
+339	1	gravitational force	\vec{F}=m\vec{g}			
+339	0	gravitational force	\text{MA}=\frac{F_{w}}{F_{i}}=\frac{1}{\sin\theta}\,			
+339	0	gravitational force	\phi=\tan^{-1}\mu\,			
+340	0	gravitational potential	U=0			
+340	2	gravitational potential	U=-\frac{GMm}{r},			
+340	0	gravitational potential	V=0			
+340	0	gravitational potential	E=\frac{\hbar^{2}\pi^{2}n^{2}}{2mL^{2}}=\frac{n^{2}h^{2}}{8mL^{2}}.			
+340	0	gravitational potential	{dR\over dx}=g=-{dV\over dx}\,			
+340	0	gravitational potential	\mathbf{g}=-\mu\frac{\hat{\mathbf{R}}}{|\mathbf{R}|^{2}}			
+340	2	gravitational potential	U=-m\sum G\frac{M}{r}			
+340	0	gravitational potential	U_{\mathbf{E}}=q\,V.\,			
+340	0	gravitational potential	\nabla^{2}V=-\frac{\rho}{\varepsilon_{0}}			
+340	0	gravitational potential	a=\frac{M}{m}g.			
+341	0	hamiltonian operator	\textstyle\rho=|i\rang\lang i|			
+341	0	hamiltonian operator	\mathbf{p}={\hbar\over i}\nabla=-i\hbar\nabla\,,			
+341	0	hamiltonian operator	\mathbf{p}=\mathbf{P}−q\mathbf{A}			
+341	0	hamiltonian operator	M_{fi}=\langle f|U|i\rangle.			
+341	0	hamiltonian operator	E_{\mathrm{tot}}=\sum_{k}E_{k}N_{k}			
+341	0	hamiltonian operator	(A\cup B)^{c}=A^{c}\cap B^{c}			
+341	0	hamiltonian operator	\int F(x)\delta_{\alpha}(x)=F(0)			
+341	0	hamiltonian operator	\int_{U}A\varphi(x)\cdot\psi(x)\,dx=\int_{U}\varphi(x)\cdot A^{t}\psi(x)\,dx%\qquad\text{for all}\ \varphi,\psi\in D(U).			
+341	0	hamiltonian operator	[A\varphi](t)=t\varphi(t).\			
+341	0	hamiltonian operator	\mathbf{p}\psi(p)=p\psi(p)\,,			
+342	0	hamilton-jacobi equation	Ax+By=C,\,			
+342	0	hamilton-jacobi equation	x=-3			
+342	0	hamilton-jacobi equation	2x+4=12			
+342	0	hamilton-jacobi equation	C=\frac{V_{c}^{2}}{9}			
+342	0	hamilton-jacobi equation	\frac{x^{2}}{a^{2}}-\frac{y^{2}}{b^{2}}=-1			
+342	0	hamilton-jacobi equation	E=\frac{mc^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}.			
+342	0	hamilton-jacobi equation	\log(k)=s_{E}s_{N}(N+E)			
+342	0	hamilton-jacobi equation	x^{2}-ny^{2}=1			
+342	0	hamilton-jacobi equation	{\alpha}=\frac{\tau}{I}.			
+342	0	hamilton-jacobi equation	x^{2}\frac{d^{2}y}{dx^{2}}+[x^{2}-n(n+1)]y=0.			
+343	0	'hooke''s law'	P_{\text{estimated}}=\frac{\frac{1}{SU}-1}{\frac{1}{NP}-1}			
+343	0	'hooke''s law'	\frac{{\tan\theta_{1}}}{{\tan\theta_{2}}}=\frac{{\mu_{r2}}}{{\mu_{r1}}}			
+343	0	'hooke''s law'	v_{r}=HD\ .			
+343	0	'hooke''s law'	\mathbf{F}=q\,\mathbf{E}(\mathbf{r},\ t)+q\,\mathbf{v}\times\mathbf{B}(\mathbf%{r},\ t).			
+343	0	'hooke''s law'	pV=nRT\,			
+343	0	'hooke''s law'	\ T=0			
+343	0	'hooke''s law'	P_{1}V_{1}=P_{2}V_{2}.			
+343	0	'hooke''s law'	k_{\rm C}/k_{\rm A}=c^{2}			
+343	0	'hooke''s law'	k_{\rm C}=1			
+343	0	'hooke''s law'	\mathbf{F}=m\mathbf{a}			
+344	0	jerk	J\left(\overset{...}{x},\ddot{x},\dot{x},x\right)=0			
+344	0	jerk	\frac{\mathrm{d}^{3}x}{\mathrm{d}t^{3}}+A\frac{\mathrm{d}^{2}x}{\mathrm{d}t^{2%}}+\frac{\mathrm{d}x}{\mathrm{d}t}-|x|+1=0.			
+345	0	kinetic energy	U=k{x}^{2}/2.			
+345	0	kinetic energy	n=1			
+345	0	kinetic energy	\mathbf{v}=\frac{m_{a}\mathbf{u}_{a}+m_{b}\mathbf{u}_{b}}{m_{a}+m_{b}}			
+345	2	kinetic energy	E=\frac{mc^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}.			
+345	0	kinetic energy	0=\Delta E_{1}-\Delta E_{2}\,			
+345	0	kinetic energy	0=\Delta E_{1}-\Delta E_{2}			
+345	0	kinetic energy	v=\frac{m_{a}u_{a}+m_{b}u_{b}}{m_{a}+m_{b}}			
+345	0	kinetic energy	v_{\text{e}}=0.6275\Delta v			
+345	0	kinetic energy	E=h\nu			
+345	1	kinetic energy	E=\frac{p^{2}}{2m}			
+346	1	lagrangian operator	L=\frac{m}{2}\mathbf{\dot{r}}\cdot\mathbf{\dot{r}}+q\mathbf{A}\cdot\mathbf{%\dot{r}}-q\phi			
+346	0	lagrangian operator	\textstyle\rho=|i\rang\lang i|			
+346	0	lagrangian operator	\mathbf{p}={\hbar\over i}\nabla=-i\hbar\nabla\,,			
+346	1	lagrangian operator	\mathcal{L}_{y}=-y_{u\,ij}\epsilon^{ab}\,h_{b}^{\dagger}\,\overline{Q}_{ia}u_{%j}^{c}-y_{d\,ij}\,h\,\overline{Q}_{i}d^{c}_{j}-y_{e\,ij}\,h\,\overline{L}_{i}e%^{c}_{j}+h.c.			
+346	0	lagrangian operator	M_{fi}=\langle f|U|i\rangle.			
+346	0	lagrangian operator	(A\cup B)^{c}=A^{c}\cap B^{c}			
+346	0	lagrangian operator	\int F(x)\delta_{\alpha}(x)=F(0)			
+346	0	lagrangian operator	\int_{U}A\varphi(x)\cdot\psi(x)\,dx=\int_{U}\varphi(x)\cdot A^{t}\psi(x)\,dx%\qquad\text{for all}\ \varphi,\psi\in D(U).			
+346	0	lagrangian operator	[A\varphi](t)=t\varphi(t).\			
+346	0	lagrangian operator	\mathbf{p}\psi(p)=p\psi(p)\,,			
+347	0	lorentz factor	\text{percentage improvement}=\left(1-\frac{1}{\text{speedup factor}}\right)%\cdot 100			
+347	0	lorentz factor	P=\alpha CV^{2}f			
+347	0	lorentz factor	Fehler:539			
+347	0	lorentz factor	\frac{\delta s^{\prime}}{\delta s}=\frac{P^{\prime}Q^{\prime}}{PQ}=\frac{P^{%\prime}M^{\prime}}{PM}=k=\frac{P^{\prime}K^{\prime}}{PK}=h=\sec\phi.			
+347	0	lorentz factor	y=ax^{2}+bx+c			
+347	0	lorentz factor	\zeta=\frac{1}{2\sqrt{K_{p}K_{v}RC}}			
+347	0	lorentz factor	|P|=|S|\cos\varphi			
+347	0	lorentz factor	\sqrt{E}=(k^{2}-m^{2})^{1\over 4}			
+347	0	lorentz factor	\widetilde{\Gamma}^{\mu}_{5\alpha}={1\over 2}g^{\mu\nu}k\phi^{2}(F_{\alpha\nu}%-A_{\alpha}\partial_{\nu}\ln\phi^{2})			
+347	0	lorentz factor	L=\frac{m}{2}\mathbf{\dot{r}}\cdot\mathbf{\dot{r}}+q\mathbf{A}\cdot\mathbf{%\dot{r}}-q\phi			
+348	0	lorentz force	N=mg\,			
+348	0	lorentz force	\widetilde{\Gamma}^{\mu}_{5\alpha}={1\over 2}g^{\mu\nu}k\phi^{2}(F_{\alpha\nu}%-A_{\alpha}\partial_{\nu}\ln\phi^{2})			
+348	1	lorentz force	\mathbf{F}=I\int\mathrm{d}\boldsymbol{\ell}\times\mathbf{B}			
+348	0	lorentz force	L=\frac{m}{2}\mathbf{\dot{r}}\cdot\mathbf{\dot{r}}+q\mathbf{A}\cdot\mathbf{%\dot{r}}-q\phi			
+348	0	lorentz force	\vec{F}=m\vec{g}			
+348	0	lorentz force	\theta=\tan^{-1}\bigg(\frac{\text{Rise}}{\text{Run}}\bigg)\,			
+348	0	lorentz force	\text{MA}=\frac{F_{w}}{F_{i}}=\frac{1}{\sin\theta}\,			
+348	0	lorentz force	\phi=\tan^{-1}\mu\,			
+348	0	lorentz force	MA=\frac{F_{B}}{F_{A}}=\frac{a}{b}.			
+348	1	lorentz force	\mathbf{F}=q\mathbf{E}			
+349	0	lorentz transformation	A^{\mu}=\frac{dU^{\mu}}{d\tau}\,.			
+349	0	lorentz transformation	\hat{w}_{i}=R_{i}^{j}w_{j}.			
+349	0	lorentz transformation	(i\gamma^{\mu}\partial_{\mu}^{\prime}-m)\psi^{\prime}(x^{\prime},t^{\prime})=0.			
+349	0	lorentz transformation	\eta_{\mu\nu}\Lambda^{\mu}_{\alpha}\Lambda^{\nu}_{\beta}=\eta_{\alpha\beta}\ .			
+349	0	lorentz transformation	\det A=\pm 1			
+349	0	lorentz transformation	\hat{T}_{i^{\prime}_{2}}^{i^{\prime}_{1}}=(R^{-1})_{i_{1}}^{i^{\prime}_{1}}T_{%i_{2}}^{i_{1}}R_{i^{\prime}_{2}}^{i_{2}}			
+349	0	lorentz transformation	\sqrt{E}=(k^{2}-m^{2})^{1\over 4}			
+349	0	lorentz transformation	\gamma\ \stackrel{\mathrm{def}}{=}\ \frac{1}{\sqrt{1-(v/c_{0})^{2}}}\ \geq 1.			
+349	0	lorentz transformation	\widetilde{\Gamma}^{\mu}_{5\alpha}={1\over 2}g^{\mu\nu}k\phi^{2}(F_{\alpha\nu}%-A_{\alpha}\partial_{\nu}\ln\phi^{2})			
+349	0	lorentz transformation	L=\frac{m}{2}\mathbf{\dot{r}}\cdot\mathbf{\dot{r}}+q\mathbf{A}\cdot\mathbf{%\dot{r}}-q\phi			
+350	0	mass-energy equivalence	[a]:=\{x\in X\mid a\sim x\}			
+350	0	mass-energy equivalence	B_{n}=\frac{1}{e}\sum_{k=0}^{\infty}\frac{k^{n}}{k!},			
+350	0	mass-energy equivalence	nb=md			
+350	0	mass-energy equivalence	\int_{A}dA\nabla f=\oint_{\partial A}dxf			
+350	0	mass-energy equivalence	\left|\sum_{i=0}^{n-1}f(t_{i})(x_{i+1}-x_{i})-s\right|<\varepsilon.			
+350	0	mass-energy equivalence	\forall x.(x\in A\leftrightarrow x=x)			
+350	0	mass-energy equivalence	C\ell_{p,q+2}(\mathbf{R})=\mathbf{H}\otimes C\ell_{q,p}(\mathbf{R}).			
+350	0	mass-energy equivalence	d(x,y)=\lim_{n}d\left(x_{n},y_{n}\right)			
+350	0	mass-energy equivalence	E_{\gamma^{\prime}}=hf^{\prime}\!			
+350	0	mass-energy equivalence	(f^{*}\theta)(X_{x})=\theta(f_{*}X_{x})			
+351	0	mechanical impedance	IMA=\frac{F_{out}}{F_{in}}=\frac{v_{in}}{v_{out}}.			
+351	0	mechanical impedance	\rho=\frac{Z_{t}-Z_{o}}{Z_{t}+Z_{o}}			
+351	1	mechanical impedance	Z_{\mathrm{in}}=\frac{{Z_{0}}^{2}}{Z_{L}}.\,			
+351	1	mechanical impedance	Z_{0}=\sqrt{\frac{L}{C}}			
+351	0	mechanical impedance	\mathcal{F}=\mathbf{F}_{B}+\mathbf{F}_{C}			
+351	0	mechanical impedance	E_{\rm d}({\rm AB})=\sqrt{E_{\rm d}({\rm AA})E_{\rm d}({\rm BB})}+1.3(\chi_{%\rm A}-\chi_{\rm B})^{2}eV			
+351	0	mechanical impedance	\mathrm{MA}=\frac{F_{w}}{F_{i}}.\,			
+351	0	mechanical impedance	\frac{\omega_{A}}{\omega_{B}}=\frac{r_{B}}{r_{A}}=\frac{N_{B}}{N_{A}}.			
+351	0	mechanical impedance	AMA=\frac{F_{out}}{F_{in}},			
+351	0	mechanical impedance	\mathrm{MA}_{\text{compound}}={F_{\text{out1}}\over F_{\text{in1}}}{F_{\text{%out2}}\over F_{\text{in2}}}{F_{\text{out3}}\over F_{\text{in3}}}\ldots{F_{%\text{outN}}\over F_{\text{inN}}}\,			
+352	1	moment of inertia	L=I\omega.			
+352	0	moment of inertia	v=r\omega,			
+352	0	moment of inertia	\frac{d\mathbf{L}}{dt}=\frac{dI}{dt}\boldsymbol{\omega}+I\frac{d\boldsymbol{%\omega}}{dt}.			
+352	0	moment of inertia	L_{ij}=x_{i}p_{j}-x_{j}p_{i}\,.			
+352	0	moment of inertia	L_{ij}=I_{ijk\ell}\omega_{k\ell}\,.			
+352	0	moment of inertia	\rho(x,t)=\frac{N}{\sqrt{4\pi Dt}}e^{-\frac{x^{2}}{4Dt}}.			
+352	0	moment of inertia	TCPI_{EAC}={BAC-EV\over EAC-AC}			
+352	0	moment of inertia	V=-\mathbb{\hat{d}}\cdot\mathbb{E}			
+352	0	moment of inertia	\chi_{m}=\frac{\partial M}{\partial H}=\frac{N_{\text{A }}}{3k_{B}T}\mu_{%\mathrm{eff}}^{2}\text{ 	 and }\mu_{\mathrm{eff}}=g_{J}\sqrt{J(J+1)}\mu_{B}		
+352	0	moment of inertia	T=2\pi\sqrt{\frac{I}{mgR}}			
+353	1	momentum	E=\frac{p^{2}}{2m}			
+353	2	momentum	\mathbf{p}=m\mathbf{v}			
+353	1	momentum	\mathbf{L}=\mathbf{r}\times\mathbf{p}			
+353	0	momentum	\scriptstyle\mathbf{L}=\hbar			
+353	1	momentum	p=\frac{mv}{\sqrt{1-\frac{v^{2}}{c^{2}}}}			
+353	2	momentum	p=mv.			
+353	0	momentum	\frac{d}{dt}\left(\frac{\partial\mathcal{L}}{\partial\dot{q}_{j}}\right)-\frac%{\partial\mathcal{L}}{\partial q_{j}}=0\,.			
+353	0	momentum	\mathbf{F}=q(\mathbf{E}+\mathbf{v}\times\mathbf{B}).			
+353	0	momentum	\mathbf{g}=\frac{\mathbf{S}}{c^{2}}\,.			
+353	1	momentum	p=\pm\hbar k_{n}			
+354	2	'newton''s second law of motion'	\scriptstyle{\vec{F}=m\vec{a}}			
+354	0	'newton''s second law of motion'	\mathbf{F}=q\,\mathbf{E}(\mathbf{r},\ t)+q\,\mathbf{v}\times\mathbf{B}(\mathbf%{r},\ t).			
+354	0	'newton''s second law of motion'	-mg\ell\theta=I\alpha			
+354	0	'newton''s second law of motion'	\frac{d^{2}\theta}{dt^{2}}=-\sum_{n}\omega_{n}^{2}\theta			
+354	0	'newton''s second law of motion'	\mathbf{F}=q\left(\mathbf{E}+\mathbf{v}\times\mathbf{B}\right)\,\!			
+354	2	'newton''s second law of motion'	a=\frac{M}{m}g.			
+354	0	'newton''s second law of motion'	p(t)=m(t)v(t)			
+354	0	'newton''s second law of motion'	\mathbf{F}=\frac{\mathrm{d}\mathbf{p}}{\mathrm{d}t}=\frac{\mathrm{d}(m\mathbf{%v})}{\mathrm{d}t}.			
+354	0	'newton''s second law of motion'	P_{\text{estimated}}=\frac{\frac{1}{SU}-1}{\frac{1}{NP}-1}			
+354	2	'newton''s second law of motion'	\mathbf{F}=m\mathbf{a}			
+355	0	'newton''s third law of motion'	\scriptstyle{\vec{F}=m\vec{a}}			
+355	0	'newton''s third law of motion'	\mathbf{F}=q\,\mathbf{E}(\mathbf{r},\ t)+q\,\mathbf{v}\times\mathbf{B}(\mathbf%{r},\ t).			
+355	0	'newton''s third law of motion'	-mg\ell\theta=I\alpha			
+355	1	'newton''s third law of motion'	\frac{d^{2}\theta}{dt^{2}}=-\sum_{n}\omega_{n}^{2}\theta			
+355	0	'newton''s third law of motion'	\mathbf{F}=q\left(\mathbf{E}+\mathbf{v}\times\mathbf{B}\right)\,\!			
+355	0	'newton''s third law of motion'	a=\frac{M}{m}g.			
+355	0	'newton''s third law of motion'	p(t)=m(t)v(t)			
+355	0	'newton''s third law of motion'	\mathbf{F}=\frac{\mathrm{d}\mathbf{p}}{\mathrm{d}t}=\frac{\mathrm{d}(m\mathbf{%v})}{\mathrm{d}t}.			
+355	0	'newton''s third law of motion'	P_{\text{estimated}}=\frac{\frac{1}{SU}-1}{\frac{1}{NP}-1}			
+355	0	'newton''s third law of motion'	\mathbf{F}=m\mathbf{a}			
+356	0	oscillation	\omega_{f}(x_{0})=0.			
+356	0	oscillation	P(t)=v(t)\ i(t)=\frac{(V_{\mathrm{peak}})^{2}}{R}\sin^{2}(\omega t)			
+356	1	oscillation	T=2\pi\sqrt{\frac{l}{g}}			
+356	0	oscillation	\frac{d^{2}\mathbf{r}}{dt^{2}}=-\sum_{n}\omega_{n}^{2}\mathbf{r}_{n}			
+356	1	oscillation	\omega=\sqrt{\frac{k}{m}}=\frac{2\pi}{T}.			
+356	1	oscillation	\phi=\arctan\left(\frac{2\omega\omega_{0}\zeta}{\omega^{2}-\omega_{0}^{2}}\right)			
+356	1	oscillation	t=RC\times\ln(2)			
+356	1	oscillation	Q=\frac{M\omega}{\Gamma}\,			
+356	1	oscillation	T=2\pi{\sqrt{\frac{m}{k}}}			
+356	1	oscillation	T=2\pi\sqrt{\frac{\ell}{g}}			
+357	0	pendulum	L=\frac{I}{mR}			
+357	1	pendulum	T=2\pi\sqrt{\frac{L}{g}}\,			
+357	1	pendulum	T=2\pi\sqrt{\frac{\ell}{g}}			
+357	1	pendulum	T=2\pi\sqrt{\frac{l}{g}}			
+357	1	pendulum	y_{1}=-\frac{\ell}{2}\cos\theta_{1}			
+357	1	pendulum	T=2\pi\sqrt{L\over g}\left(1+\frac{1}{16}\theta_{0}^{2}+\frac{11}{3072}\theta_%{0}^{4}+\cdots\right)			
+357	1	pendulum	Q=\frac{M\omega}{\Gamma}\,			
+357	0	pendulum	\frac{1}{\Delta T}=\frac{1}{T_{1}}-\frac{1}{T_{2}}\,			
+358	0	power	\text{SWR}=\frac{1+\sqrt{P_{r}/P_{f}}}{1-\sqrt{P_{r}/P_{f}}}			
+358	1	power	P_{\rm T}=IV\,.			
+358	0	power	MA=\frac{T_{B}}{T_{A}}=\frac{r_{B}}{r_{A}}.			
+358	0	power	T+ATT=1+E,			
+358	0	power	R=\frac{V}{I}\,			
+358	0	power	\cos\varphi=0			
+358	1	power	|P|=|S|\cos\varphi			
+358	0	power	RL(\mathrm{dB})=10\log_{10}{P_{\mathrm{i}}\over P_{\mathrm{r}}}			
+358	0	power	RL(\mathrm{dB})=-20\log_{10}\left|\mathit{\Gamma}\right|			
+358	1	power	P=I^{2}R.			
+359	0	radial velocity	\mathbf{V}_{i}=\mathbf{V}+\boldsymbol{\omega}\times\mathbf{r}_{i}			
+359	0	radial velocity	\begin{smallmatrix}\sqrt{79.4^{2}\ +\ 62^{2}}\ =\ 100\end{smallmatrix}			
+359	0	radial velocity	Fehler:501			
+359	0	radial velocity	\ v_{2}=u_{2}			
+359	0	radial velocity	v_{b}=\frac{C_{R}m_{a}(u_{a}-u_{b})+m_{a}u_{a}+m_{b}u_{b}}{m_{a}+m_{b}}			
+359	0	radial velocity	\tan(\theta)=u_{y}/u_{x}			
+359	0	radial velocity	\boldsymbol{\omega}_{1}=\boldsymbol{\omega}_{2}			
+359	0	radial velocity	\tfrac{1}{2}\rho u^{2}+P=\text{constant}			
+359	0	radial velocity	v_{0}=\sqrt{\frac{2GM}{r_{0}}}.			
+359	0	radial velocity	z=\frac{\lambda_{o}}{\lambda_{e}}-1=\sqrt{\frac{1+v/c}{1-v/c}}-1\approx\frac{v%}{c}\ .			
+360	0	rest energy	n=1			
+360	0	1	E=\frac{mc^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}.			
+360	0	rest energy	U=k{x}^{2}/2.			
+360	2	rest energy	\mathbf{P}^{2}=-(E_{\mathrm{rest}}/c)^{2}=-(mc)^{2}.			
+360	0	rest energy	0=\Delta E_{1}-\Delta E_{2}\,			
+360	0	rest energy	0=\Delta E_{1}-\Delta E_{2}			
+360	0	rest energy	E=h\nu			
+360	0	rest energy	E=\frac{p^{2}}{2m}			
+360	0	rest energy	U=0			
+360	0	rest energy	n_{i}=0,1,2,\dots\quad(\text{the energy level in dimension }i).			
+361	1	rest mass	\gamma=\frac{1}{\sqrt{1-v^{2}/c^{2}}}			
+361	1	rest mass	E=\frac{mc^{2}}{\sqrt{1-\frac{v^{2}}{c^{2}}}}.			
+361	1	rest mass	\mathbf{P}^{2}=-(E_{\mathrm{rest}}/c)^{2}=-(mc)^{2}.			
+361	0	rest mass	m\left({}^{A}_{Z}\mathrm{X}\right)c^{2}=m_{N}\left({}^{A}_{Z}\mathrm{X}\right)%c^{2}+Zm_{e}c^{2}-\sum_{i=1}^{Z}B_{i}			
+361	0	rest mass	m_{\text{red}}=\frac{m_{\mathrm{e}}m_{\mathrm{p}}}{m_{\mathrm{e}}+m_{\mathrm{p%}}}=m_{\mathrm{e}}\frac{1}{1+m_{\mathrm{e}}/m_{\mathrm{p}}}			
+361	0	rest mass	c=-1			
+361	0	rest mass	\ v_{\bar{x}}=\ v_{\bar{x}}^{\prime}			
+361	0	rest mass	Q=C_{\mathrm{th}}\Delta T\,			
+361	0	rest mass	r_{1}m_{1}=r_{2}m_{2}			
+361	0	rest mass	E_{\gamma^{\prime}}=hf^{\prime}\!			
+362	0	rossby number	n=1			
+362	1	rossby number	Ro=\frac{U}{fL}.			
+362	0	rossby number	90=2^{1}\cdot 3^{2}\cdot 5^{1}=2\cdot 3\cdot 3\cdot 5.\,\!			
+362	0	rossby number	J=\{b,j\},\alpha=1,x_{b}=t,x_{j}=1			
+362	0	rossby number	x^{5}+(11/2)x^{3}-7x^{2}+9=0			
+362	0	rossby number	\alpha(m,n)=\min\{i\geq 1:A(i,\lfloor m/n\rfloor)\geq\log_{2}n\}.			
+362	0	rossby number	f(n)=\begin{cases}n/2&\text{if }n\equiv 0\\(3n+1)/2&\text{if }n\equiv 1.\end{cases}\	\	(\mathop{{\rm mod}}2)	
+362	0	rossby number	i=\frac{n!}{(n-2p)!\ p!\ 2^{p}}			
+362	0	rossby number	\hat{e}_{i}=\frac{1}{\sqrt{|e_{i}\cdot e_{i}|}}e_{i},			
+362	0	rossby number	Fehler:539			
+363	0	speed	HM=\frac{1}{\frac{1}{n}\sum_{i=1}^{n}\frac{1}{a_{i}}}=\frac{n}{\frac{1}{a_{1}}%+\frac{1}{a_{2}}+\cdots+\frac{1}{a_{n}}}			
+363	0	speed	\frac{\text{d}\omega}{\text{d}k}=\frac{c}{n}-\frac{ck}{n^{2}}\cdot\frac{\text{%d}n}{\text{d}k}.			
+363	0	speed	v_{\text{e}}=0.6275\Delta v			
+363	2	speed	v=s/t			
+363	0	speed	\mbox{power}=\frac{\mbox{force}\times\mbox{linear distance}}{\mbox{time}}=%\frac{\left(\frac{\mbox{torque}}{\displaystyle{r}}\right)\times(r\times\mbox{%angular speed}\times t)}{t}=\mbox{torque}\times\mbox{angular speed}.			
+363	0	speed	S{{t}_{n}}=\frac{{{f}_{n}}L}{U}=\frac{n-\beta}{U\left(\frac{1}{{{c}_{0}}}+%\frac{1}{{{u}_{v}}}\right)}			
+363	0	speed	\kappa=\theta-\phi\approx v/c			
+363	0	speed	L=I\omega.			
+363	0	speed	\omega_{1}+\omega_{2}=\omega_{2}+\omega_{1}			
+363	0	speed	a=\frac{q}{m}\nabla\phi			
+364	0	speed of light	A_{\lambda}=-\log\mathcal{T}.			
+364	0	speed of light	L_{o}(x,\vec{w})=L_{e}(x,\vec{w})+\int_{\Omega}f_{r}(x,\vec{w}^{\prime},\vec{w%})L_{i}(x,\vec{w}^{\prime})(\vec{w}^{\prime}\cdot\vec{n})\mathrm{d}\vec{w}^{\prime}			
+364	0	speed of light	HM=\frac{1}{\frac{1}{n}\sum_{i=1}^{n}\frac{1}{a_{i}}}=\frac{n}{\frac{1}{a_{1}}%+\frac{1}{a_{2}}+\cdots+\frac{1}{a_{n}}}			
+364	0	speed of light	\frac{\text{d}\omega}{\text{d}k}=\frac{c}{n}-\frac{ck}{n^{2}}\cdot\frac{\text{%d}n}{\text{d}k}.			
+364	0	speed of light	u=\frac{dx}{dt}=\frac{\gamma\ (dx^{\prime}+vdt^{\prime})}{\gamma\ (dt^{\prime}%+vdx^{\prime}/c^{2})}=\frac{(dx^{\prime}/dt^{\prime})+v}{1+(v/c^{2})(dx^{%\prime}/dt^{\prime})}=\frac{u^{\prime}+v}{1+u^{\prime}v/c^{2}}\ .			
+364	0	speed of light	v_{\text{e}}=0.6275\Delta v			
+364	0	speed of light	n_{1}\sin\theta_{1}=n_{2}\sin\theta_{2}.			
+364	0	speed of light	E=hf\,			
+364	1	speed of light	\kappa=\theta-\phi\approx v/c			
+364	0	speed of light	\displaystyle c=f\lambda			
+365	0	sphere	r_{1}.r_{2}=r_{0}^{2}			
+365	0	sphere	\varphi=2\cos{\pi\over 5}=\frac{1+\sqrt{5}}{2}\qquad\xi=2\sin{\pi\over 5}=%\sqrt{\frac{5-\sqrt{5}}{2}}=5^{1/4}\varphi^{-1/2}.			
+365	0	sphere	u(x^{\prime},y^{\prime},z^{\prime})=\iiint_{V}Gf\,dV+\iint_{S}G_{n}g\,dS.\,			
+365	0	sphere	\rho^{\prime}=\frac{a^{2}}{\rho}.\,			
+365	0	sphere	\cos\Theta=\cos\varphi\cos\varphi^{\prime}+\sin\varphi\sin\varphi^{\prime}\cos%(\theta-\theta^{\prime}).			
+365	0	sphere	R=\frac{2m_{p}}{\pi}			
+365	0	sphere	\mathbf{S^{\prime\prime}}=\frac{1}{P^{\prime}}\begin{bmatrix}1\\S^{\prime}_{1}\\S^{\prime}_{2}\\S^{\prime}_{3}\end{bmatrix}=\frac{1}{P}\begin{bmatrix}S_{0}\\S_{1}\\S_{2}\\S_{3}\end{bmatrix}.			
+365	0	sphere	|\alpha|^{2}+|\beta|^{2}=1\,			
+365	0	sphere	F=20			
+365	0	sphere	z^{\prime}=xy=r^{2}\,\cos^{2}\theta\,\cos\phi\,\sin\phi,			
+366	0	spherical pendulum	L=\frac{I}{mR}			
+366	1	spherical pendulum	T=2\pi\sqrt{\frac{L}{g}}\,			
+366	0	spherical pendulum	y_{n}(x)=-(-x)^{n}\left(\frac{1}{x}\frac{d}{dx}\right)^{n}\,\frac{\cos(x)}{x}.			
+366	0	spherical pendulum	y_{0}(x)=-\cos(x)/x			
+366	1	spherical pendulum	z=r\cos\theta\,			
+366	1	spherical pendulum	T=2\pi\sqrt{\frac{\ell}{g}}			
+366	0	spherical pendulum	dN=N(d_{p})\,\mathrm{d}d_{p}			
+366	0	spherical pendulum	F_{D}=\frac{3\pi\eta Vd}{C_{c}}			
+366	0	spherical pendulum	\tan\alpha=\frac{\sin L}{(1-e^{2})\tan\phi_{2}}			
+366	0	spherical pendulum	Y_{-(m+\frac{1}{2})}(x)=(-1)^{m}J_{m+\frac{1}{2}}(x).			
+367	0	'stokes'' law'	P_{\text{estimated}}=\frac{\frac{1}{SU}-1}{\frac{1}{NP}-1}			
+367	0	'stokes'' law'	\frac{{\tan\theta_{1}}}{{\tan\theta_{2}}}=\frac{{\mu_{r2}}}{{\mu_{r1}}}			
+367	0	'stokes'' law'	v_{r}=HD\ .			
+367	0	'stokes'' law'	\mathbf{F}=q\,\mathbf{E}(\mathbf{r},\ t)+q\,\mathbf{v}\times\mathbf{B}(\mathbf%{r},\ t).			
+367	0	'stokes'' law'	pV=nRT\,			
+367	0	'stokes'' law'	\ T=0			
+367	0	'stokes'' law'	P_{1}V_{1}=P_{2}V_{2}.			
+367	0	'stokes'' law'	k_{\rm C}/k_{\rm A}=c^{2}			
+367	0	'stokes'' law'	k_{\rm C}=1			
+367	0	'stokes'' law'	\mathbf{F}=m\mathbf{a}			
+368	0	stress	p_{e}=0.5\,\operatorname{erfc}\left(\sqrt{\frac{E}{N_{o}}}\right).			
+368	0	stress	\boldsymbol{P}=J~{}\boldsymbol{\sigma}\cdot\boldsymbol{F}^{-T}~{}\text{where}~%{}J=\det(\boldsymbol{F})			
+368	0	stress	\mathrm{Bm}=\frac{\tau_{y}L}{\mu V}			
+368	0	stress	\ {D\mathbf{u}\over Dt}=\mathbf{F}-{\nabla p\over\rho}			
+368	0	stress	\widetilde{U}_{5}=\widetilde{g}_{5a}\widetilde{U}^{a}=\phi^{2}{cd\tau\over ds}%(kA_{\nu}U^{\nu}+U^{5})={\rm constant}			
+368	0	stress	T^{ij}=F^{ik}F^{jl}g_{kl}-\frac{1}{4}g^{ij}|F|^{2},			
+368	0	stress	\mathbf{F}=\iiint\!(\rho\mathbf{E}+\mathbf{J}\times\mathbf{B})\,\mathrm{d}V.\,\!			
+368	0	stress	\mathbf{B}=\mu_{0}\left(\mathbf{H}+\mathbf{M}\right)\,.			
+368	0	stress	\mathrm{tr}(\boldsymbol{\varepsilon})=\nabla\cdot\mathbf{u}.			
+368	0	stress	\mathrm{tr}(\boldsymbol{\sigma})=(3\lambda+2\mu)\nabla\cdot\mathbf{u}.			
+369	0	tangential acceleration	\mathbf{F}=m\mathbf{g}			
+369	1	tangential acceleration	g=-G\cdot M/r^{2}+\omega^{2}\cdot r			
+369	1	tangential acceleration	a=r\alpha.			
+369	0	tangential acceleration	\mathbf{a}=\boldsymbol{\alpha}\times\mathbf{r}+\boldsymbol{\omega}\times%\mathbf{v}\,\!			
+369	0	tangential acceleration	\mathbf{j}\cdot\mathbf{\hat{n}}=j\cos\theta			
+369	0	tangential acceleration	\mathbf{\bar{a}}=\frac{\Delta\mathbf{v}}{\Delta t}.			
+369	0	tangential acceleration	a\equiv\dot{v}=\dot{\beta}c			
+369	0	tangential acceleration	\boldsymbol{a}_{C}=-2\boldsymbol{\Omega\times v}=2\,\omega\,\begin{pmatrix}-v_%{u}\\0\\v_{e}\end{pmatrix}\ .			
+369	0	tangential acceleration	Fehler:501			
+369	0	tangential acceleration	\therefore v^{2}=v_{0}^{2}+2(\mathbf{a}\cdot(\mathbf{r}-\mathbf{r}_{0}))			
+370	0	tangential velocity	\mathbf{V}_{i}=\mathbf{V}+\boldsymbol{\omega}\times\mathbf{r}_{i}			
+370	0	tangential velocity	\ v_{2}=u_{2}			
+370	0	tangential velocity	v_{b}=\frac{C_{R}m_{a}(u_{a}-u_{b})+m_{a}u_{a}+m_{b}u_{b}}{m_{a}+m_{b}}			
+370	0	tangential velocity	\operatorname{R}o=\frac{U}{{{f}_{0}}L}			
+370	0	tangential velocity	\begin{smallmatrix}\sqrt{79.4^{2}\ +\ 62^{2}}\ =\ 100\end{smallmatrix}			
+370	0	tangential velocity	\tan(\theta)=u_{y}/u_{x}			
+370	0	tangential velocity	\boldsymbol{\omega}_{1}=\boldsymbol{\omega}_{2}			
+370	0	tangential velocity	Fehler:501			
+370	0	tangential velocity	\tfrac{1}{2}\rho u^{2}+P=\text{constant}			
+370	0	tangential velocity	v_{0}=\sqrt{\frac{2GM}{r_{0}}}.			
+371	0	torque	E=\tau\theta			
+371	1	torque	\int\boldsymbol{\tau}dt=I\boldsymbol{\omega}+constant.			
+371	0	torque	\frac{d\mathbf{L}_{i}}{dt}=\mathbf{\tau}_{E}+\sum_{i\neq j}\mathbf{\tau}_{ij}\,\!			
+371	0	torque	P=\boldsymbol{\tau}\cdot\boldsymbol{\omega},			
+371	0	torque	(\mathbf{r}\times\mathbf{F}_{1})+(\mathbf{r}\times\mathbf{F}_{2})+\cdots=%\mathbf{r}\times(\mathbf{F}_{1}+\mathbf{F}_{2}+\cdots).			
+371	0	torque	\boldsymbol{\tau}=\mathbf{0},			
+371	0	torque	Fehler:509			
+371	0	torque	\mathrm{MA}=\frac{F_{B}}{F_{A}}=\frac{v_{A}}{v_{B}}.			
+371	2	torque	\tau=(\text{distance to centre})(\text{force}).			
+371	0	torque	\boldsymbol{\tau}_{2}=\boldsymbol{\tau}_{1}+(\mathbf{r}_{1}-\mathbf{r}_{2})%\times\mathbf{F}			
+372	0	uniform motion	-mg\ell\theta=I\alpha			
+372	0	uniform motion	r=a(1-\varepsilon\cos E).			
+372	0	uniform motion	\qquad U_{a}\triangleq d^{-1}([0,a])=\{(m,n)\in M\times M:d(m,n)\leq a\}.			
+372	0	uniform motion	P_{N}(N_{R})=\frac{N!}{2^{N}N_{R}!(N-N_{R})!}			
+372	0	uniform motion	\boldsymbol{a}_{C}=-2\boldsymbol{\Omega\times v}=2\,\omega\,\begin{pmatrix}-v_%{u}\\0\\v_{e}\end{pmatrix}\ .			
+372	0	uniform motion	U=\frac{1}{2}kx^{2}.			
+372	0	uniform motion	S_{v}p=\begin{bmatrix}v_{x}&0&0&0\\0&v_{y}&0&0\\0&0&v_{z}&0\\0&0&0&1\end{bmatrix}\begin{bmatrix}p_{x}\\p_{y}\\p_{z}\\1\end{bmatrix}=\begin{bmatrix}v_{x}p_{x}\\v_{y}p_{y}\\v_{z}p_{z}\\1\end{bmatrix}.			
+372	0	uniform motion	\sum_{k=10^{n-2}}^{10^{n-1}-1}\log_{10}\left(1+\frac{1}{10k+d}\right)			
+372	0	uniform motion	R=\frac{2m_{p}}{\pi}			
+372	0	uniform motion	V={E}{l}\ \ \text{or}\ \ E=\frac{V}{l}.			
+373	0	velocity	\mathbf{V}_{i}=\mathbf{V}+\boldsymbol{\omega}\times\mathbf{r}_{i}			
+373	0	velocity	\ v_{2}=u_{2}			
+373	0	velocity	v_{b}=\frac{C_{R}m_{a}(u_{a}-u_{b})+m_{a}u_{a}+m_{b}u_{b}}{m_{a}+m_{b}}			
+373	0	velocity	\begin{smallmatrix}\sqrt{79.4^{2}\ +\ 62^{2}}\ =\ 100\end{smallmatrix}			
+373	0	velocity	\tan(\theta)=u_{y}/u_{x}			
+373	0	velocity	\boldsymbol{\omega}_{1}=\boldsymbol{\omega}_{2}			
+373	0	velocity	Fehler:501			
+373	0	velocity	\tfrac{1}{2}\rho u^{2}+P=\text{constant}			
+373	0	velocity	v_{0}=\sqrt{\frac{2GM}{r_{0}}}.			
+373	0	velocity	z=\frac{\lambda_{o}}{\lambda_{e}}-1=\sqrt{\frac{1+v/c}{1-v/c}}-1\approx\frac{v%}{c}\ .			
+374	1	wavenumber	p=\hbar k			
+374	0	wavenumber	y={1\over 2}{\omega^{2}m_{e}\over k_{m}^{2}k_{B}T_{e}}			
+374	0	wavenumber	\frac{\mathrm{d}\theta}{\mathrm{d}x}=k			
+374	0	wavenumber	x=0			
+374	0	wavenumber	x=L			
+374	2	wavenumber	k=\frac{2\pi}{\lambda}=\beta			
+374	2	wavenumber	k_{0}=\frac{2\pi}{\lambda_{0}}=\frac{\omega}{c}			
+375	0	work	dV=0			
+375	0	work	\displaystyle CPI={EV\over AC}			
+375	1	work	W_{F}=-\Delta U_{F}.\!			
+375	0	work	\Delta P={(v_{2}^{2}-v_{1}^{2})\over 2}+\Delta zg+{\Delta p_{\mathrm{static}}%\over\rho}			
+375	0	work	\hbar\omega=W_{\rm e}			
+375	0	work	W=0			
+375	0	work	Q=0			
+375	0	work	ΔS=0			
+375	0	work	\frac{d}{dx}\int_{a}^{x}f(t)\,dt=f(x).			
+375	0	work	\Delta S_{C}=Q_{C}/T_{C}			

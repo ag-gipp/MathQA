@@ -1,0 +1,1497 @@
+Name 	 Score 	 Formula 	 Identifier 
+acceleration 	 0 	 \displaystyle \omega ={\frac {d\phi }{dt}}={\frac {v_{\perp }}{r}}	radial velocity 
+acceleration 	 0 	 \displaystyle {\frac {\lambda }{1+\lambda }}\nabla \cdot (\mathbf {\Sigma } _{i}\nabla v)=\chi (C_{m}{\frac {\partial v}{\partial t}}+I_{\text{ion}})	Monodomain model 
+acceleration 	 0 	 \displaystyle RI={\frac {v_{systole}-v_{diastole}}{v_{systole}}}	Arterial resistivity index 
+acceleration 	 0 	 \displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})	Time of flight detector 
+acceleration 	 0 	 \displaystyle \%{\mbox{ difference}}=\left({\frac {r_{solute}-r_{solvent}}{r_{solvent}}}\right)\times 100\%\leq 15\%	Hume-Rothery rules 
+acceleration 	 0 	 \displaystyle r'(t)=r(t)-vt	Galilean invariance 
+acceleration 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+acceleration 	 0 	 \displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},	Boussinesq approximation 
+acceleration 	 0 	 \displaystyle W_{v}(s+1)=W_{v}(s)+\theta (u,v,s)\cdot \alpha (s)\cdot (D(t)-W_{v}(s))	shellsort 
+acceleration 	 0 	 \displaystyle {\vec {x}}={\vec {p}}+s{\vec {u}}+t{\vec {v}}	Q15839526 
+acceleration 	 0 	 \displaystyle {\begin{array}{l}v_{n+1}=v_{n}+g\left(t_{n},x_{n}\right)\Delta t\\x_{n+1}=x_{n}+f\left(t_{n},v_{n+1}\right)\Delta t\end{array}}	Semi-implicit Euler method 
+acceleration 	 0 	 \displaystyle TRevPAR=TotalRevenue/RoomsAvailable	TRevPAR 
+acceleration 	 0 	 \displaystyle v=s/t	speed 
+acceleration 	 0 	 \displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}	characteristic energy 
+acceleration 	 0 	 \displaystyle v(t)=-gt+v_{0}	free fall 
+acceleration 	 0 	 \displaystyle k_{t}={\frac {t_{v}}{T_{N}}}={\frac {t_{N}-t_{NV}}{T_{N}}}	Q187089 
+acceleration 	 0 	 \displaystyle t={\frac {\lambda }{c-v}}={\frac {c}{(c-v)f_{s}}}={\frac {1}{(1-\beta )f_{s}}}	Relativistic Doppler effect 
+acceleration 	 0 	 \displaystyle t'=\gamma \left(t-{\frac {vx}{c^{2}}}\right),x'=\gamma \left(x-vt\right)	Lorentz transformation 
+acceleration 	 0 	 \displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.	Rayleigh–Bénard convection 
+acceleration 	 0 	 \displaystyle \rho _{0}{\frac {\partial ^{2}\mathbf {u} }{\partial t^{2}}}=\left(\lambda +\mu \right)\mathbf {grad} \left(\mathrm {div} \;\mathbf {u} \right)+\mu \Delta \mathbf {u} +\mathbf {f} _{v}	Q2413370 
+acceleration 	 0 	 \displaystyle v={\frac {s}{t}}	v = d/t 
+acceleration 	 0 	 \displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}	blood flow 
+acceleration 	 0 	 \displaystyle {\frac {\partial (\rho Y_{i})}{\partial t}}+\nabla \cdot (\rho {\vec {v}}Y_{i})=-\nabla \cdot {\vec {J}}_{i}+R_{i}+S_{i}	chemical model 
+acceleration 	 0 	 \displaystyle \mathrm {D} ={\frac {\partial }{\partial t}}+\nabla _{v}	material derivative 
+acceleration 	 0 	 \displaystyle \operatorname {ec} (G)=t_{w}(G)\prod _{v\in V}{\bigl (}\deg(v)-1{\bigr )}	BEST theorem 
+acceleration 	 0 	 \displaystyle \sum _{n=0}^{\infty }\phi _{n}(\alpha ,\beta )t^{n}=\exp \left[\sum _{n=1}^{\infty }{\frac {t^{n}}{n}}\left(u_{n}(\alpha )+v_{n}(\beta )-1\right)\right]	Spitzer's formula 
+acceleration 	 0 	 \displaystyle {\vec {s}}={\frac {d\,{\vec {\jmath }}}{dt}}={\frac {d^{2}{\vec {a}}}{dt^{2}}}={\frac {d^{3}{\vec {v}}}{dt^{3}}}={\frac {d^{4}{\vec {r}}}{dt^{4}}}	snap 
+acceleration 	 0 	 \displaystyle E={\frac {1}{2}}\rho Av^{3}t	Stokes wave 
+acceleration 	 0 	 \displaystyle {\bar {\boldsymbol {v}}}(x,y,z,t)=v_{x}(x,y,z,t){\hat {\boldsymbol {i}}}+v_{y}(x,y,z,t){\hat {\boldsymbol {j}}}	two-dimensional flow 
+acceleration 	 0 	 \displaystyle kvitjul	Q102454959 
+acceleration 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+acceleration 	 0 	 \displaystyle X=\{X_{1},\ldots ,X_{n}\}isasetofvariables	tangent bundle 
+acceleration 	 0 	 \displaystyle T(p)=\Box pforany[[propositionalvariable]]p	Modal companion 
+acceleration 	 0 	 \displaystyle v={V/\Delta t \over {A}}	Air-to-cloth ratio 
+acceleration 	 0 	 \displaystyle \alpha ={\frac {dv_{\perp }}{dt}}	tangential acceleration 
+acceleration 	 0 	 \displaystyle v_{i}={\operatorname {d} [M\cdot ]/\operatorname {d} t}=2k_{d}f[I]	Radical polymerization 
+acceleration 	 0 	 \displaystyle \mathbf {v} =v{\hat {\mathbf {u} }}_{t}	Orbital state vectors 
+acceleration 	 0 	 \displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)	Continuous-wave radar 
+acceleration 	 0 	 \displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t	Model rocket motor classification 
+acceleration 	 0 	 \displaystyle {\frac {\partial c}{\partial t}}=\nabla \cdot (D\nabla c)-\nabla \cdot ({\vec {v}}c)+R	convection–diffusion equation 
+acceleration 	 0 	 \displaystyle \mathrm {EG} ={\frac {w_{A}-w_{B}}{v_{tot}}}	efficiency gap 
+center of mass 	 0 	 \displaystyle {\begin{aligned}m+n&amp;=n+m&amp;&amp;(m,n\in M)\\(m+n)+p&amp;=m+(n+p)&amp;&amp;(m,n,p\in M)\\m+0_{M}&amp;=m&amp;&amp;(m\in M)\\(-m)+m&amp;=0_{M}&amp;&amp;(m\in M)\\r(sm)&amp;=(rs)m&amp;&amp;(m\in M,\;r,s\in R)\\1_{R}m&amp;=m&amp;&amp;(m\in M)\\r(m+n)&amp;=rm+rn&amp;&amp;(m,n\in M,\;r\in R)\\(r+s)m&amp;=rm+sm&amp;&amp;(m\in M,\;r,s\in R)\end{aligned}}	module 
+center of mass 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+center of mass 	 0 	 \displaystyle {\begin{aligned}R_{\ell }^{m}(\mathbf {r} )&amp;\equiv {\sqrt {\frac {4\pi }{2\ell +1}}}\;r^{\ell }Y_{\ell }^{m}(\theta ,\varphi )\\I_{\ell }^{m}(\mathbf {r} )&amp;\equiv {\sqrt {\frac {4\pi }{2\ell +1}}}\;{\frac {Y_{\ell }^{m}(\theta ,\varphi )}{r^{\ell +1}}}\end{aligned}}	solid harmonics 
+center of mass 	 0 	 \displaystyle {\vec {g}}=-{\frac {Gm_{\oplus }}{{R_{\oplus }}^{2}}}{\vec {r}}	gravity of Earth 
+center of mass 	 0 	 \displaystyle R\geq 1-(1-r)m	Tanner graph 
+center of mass 	 0 	 \displaystyle -{\frac {\hbar ^{2}}{2m}}{\frac {d^{2}R(r)}{dr^{2}}}+[E-V_{\textrm {eff}}(r)]R(r)=0	Langer correction 
+center of mass 	 0 	 \displaystyle \ \Phi (\mathbf {r} )=R_{l}(r)Y_{lm}(\theta ,\phi )	Gaussian orbital 
+center of mass 	 0 	 \displaystyle RfD(mg/kg/day)={NOEL(mg/kg/day) \over Uf_{inter}*Uf_{intra}*Uf_{other}}	Reference dose 
+center of mass 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+center of mass 	 0 	 \displaystyle \forall r,s\in R,m,n\in M	Glossary of module theory 
+center of mass 	 0 	 \displaystyle {\begin{aligned}R^{-1}&amp;={\frac {1}{M^{2}}}\sum _{i\neq j}{\frac {m_{i}m_{j}}{\|{\vec {r}}_{i}-{\vec {r}}_{j}\|}}\\M&amp;=\sum _{i}m_{i}\\G\end{aligned}}	N-body units 
+centripetal acceleration 	 0 	 \displaystyle \omega ={\frac {d\phi }{dt}}={\frac {v_{\perp }}{r}}	radial velocity 
+centripetal acceleration 	 0 	 \displaystyle e_{v}=m_{v}g_{v}r\ln \left({S \over r}\right)	Peek's law 
+centripetal acceleration 	 0 	 \displaystyle \%{\mbox{ difference}}=\left({\frac {r_{solute}-r_{solvent}}{r_{solvent}}}\right)\times 100\%\leq 15\%	Hume-Rothery rules 
+centripetal acceleration 	 0 	 \displaystyle {\mathit {Go}}={\frac {vl_{\mathrm {b} }}{\nu }}{\sqrt {\frac {l_{\mathrm {b} }}{r_{\mathrm {c} }}}}	Görtler number 
+centripetal acceleration 	 0 	 \displaystyle v=r_{A}\omega _{A}=r_{B}\omega _{B}	gear ratio 
+centripetal acceleration 	 0 	 \displaystyle r'(t)=r(t)-vt	Galilean invariance 
+centripetal acceleration 	 0 	 \displaystyle T(v_{1},v_{2},\ldots ,v_{r})=T(v_{\sigma 1},v_{\sigma 2},\ldots ,v_{\sigma r})	symmetric tensor 
+centripetal acceleration 	 0 	 \displaystyle x(u,v)=\left(R+r\cos {v}\right)\cos {u}	Spring (mathematics) 
+centripetal acceleration 	 0 	 \displaystyle {\vec {F}}=-{\frac {mv^{2}{\hat {r}}}{r}}	centripetal force 
+centripetal acceleration 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+centripetal acceleration 	 0 	 \displaystyle \theta =\pi -2b\int _{r_{\mathrm {min} }}^{\infty }{\frac {dr}{r^{2}{\sqrt {1-(b/r)^{2}-2U/mv_{\infty }^{2}}}}}	Impact parameter 
+centripetal acceleration 	 0 	 \displaystyle \Gamma ={\frac {V_{rev}}{V_{fwd}}}	Binet–Cauchy identity 
+centripetal acceleration 	 0 	 \displaystyle X=\{X_{1},\ldots ,X_{n}\}isasetofvariables	tangent bundle 
+centripetal acceleration 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+centripetal acceleration 	 0 	 \displaystyle F_{\mathrm {R} }=6\pi \cdot r\cdot \eta \cdot v	Law of Stokes 
+centripetal acceleration 	 0 	 \displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t	Model rocket motor classification 
+centripetal acceleration 	 0 	 \displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)	Continuous-wave radar 
+centripetal acceleration 	 0 	 \displaystyle v_{\text{e}}={\sqrt {\frac {2GM}{r}}}={\sqrt {2gr}}	escape velocity 
+centripetal acceleration 	 0 	 \displaystyle r(G)=1+\min _{v\in V}r(G-v)	Cycle rank 
+centripetal acceleration 	 0 	 \displaystyle v=r+\gamma Pv	Automatic basis function construction 
+centripetal acceleration 	 0 	 \displaystyle {\vec {s}}={\frac {d\,{\vec {\jmath }}}{dt}}={\frac {d^{2}{\vec {a}}}{dt^{2}}}={\frac {d^{3}{\vec {v}}}{dt^{3}}}={\frac {d^{4}{\vec {r}}}{dt^{4}}}	snap 
+centripetal acceleration 	 0 	 \displaystyle POF={\frac {\max _{D\in Divisions}{(welfare(D))}}{\max _{D\in FairDivisions}{(welfare(D))}}}	Price of fairness 
+centripetal acceleration 	 0 	 \displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}	characteristic energy 
+centripetal acceleration 	 0 	 \displaystyle {\mathit {Dn}}={\frac {2vr}{\nu }}{\sqrt {\frac {r}{R}}}	Dean number 
+centripetal acceleration 	 0 	 \displaystyle T(p)=\Box pforany[[propositionalvariable]]p	Modal companion 
+centripetal acceleration 	 0 	 \displaystyle a_{c}={\frac {v^{2}}{r}}	centripetal acceleration 
+centripetal acceleration 	 0 	 \displaystyle v=\omega r	tangential velocity 
+centripetal force 	 0 	 \displaystyle e_{v}=m_{v}g_{v}r\ln \left({S \over r}\right)	Peek's law 
+centripetal force 	 0 	 \displaystyle \theta =\pi -2b\int _{r_{\mathrm {min} }}^{\infty }{\frac {dr}{r^{2}{\sqrt {1-(b/r)^{2}-2U/mv_{\infty }^{2}}}}}	Impact parameter 
+centripetal force 	 0 	 \displaystyle {\vec {F}}=-{\frac {mv^{2}{\hat {r}}}{r}}	centripetal force 
+centripetal force 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+damping 	 0 	 \displaystyle P(i,j,k,m)\equiv d(c_{i},c_{j})\leq {\frac {m}{k+1}}	complex normal distribution 
+damping 	 0 	 \displaystyle c_{ij}=\sum _{k=1}^{m}a_{ik}b_{kj}	matrix multiplication algorithm 
+damping 	 0 	 \displaystyle \Delta f_{\text{FWHM}}={\sqrt {\frac {8kT\ln 2}{mc^{2}}}}f_{0}	Doppler broadening 
+damping 	 0 	 \displaystyle \zeta ={\frac {c}{2{\sqrt {mk}}}}	damping 
+damping 	 0 	 \displaystyle \sigma _{f}={\sqrt {\frac {kT}{mc^{2}}}}f_{0}	Doppler broadening 
+elastic energy 	 0 	 \displaystyle \prod _{n=1}^{\infty }\left(1-x^{n}\right)=\sum _{k=-\infty }^{\infty }\left(-1\right)^{k}x^{k\left(3k-1\right)/2}=1+\sum _{k=1}^{\infty }(-1)^{k}\left(x^{k(3k+1)/2}+x^{k(3k-1)/2}\right)	pentagonal number theorem 
+elastic energy 	 0 	 \displaystyle f(x)=\sum _{k=0}^{\infty }{\frac {\phi (k)}{k!}}(-x)^{k}\!	Ramanujan's master theorem 
+elastic energy 	 0 	 \displaystyle P(x,y)=\sum a_{ik}x^{i}y^{k}=0	algebraic curve 
+elastic energy 	 0 	 \displaystyle \ln x=\log _{e}x=\sum _{k=1}^{\infty }{z^{k} \over k}=z+{z^{2} \over 2}+{z^{3} \over 3}+\cdots 	natural logarithm 
+elastic energy 	 0 	 \displaystyle f_{X}(x;n)={\frac {1}{2(n-1)!}}\sum _{k=0}^{n}(-1)^{k}{n \choose k}(x-k)^{n-1}\operatorname {sgn}(x-k)	Irwin–Hall distribution 
+elastic energy 	 0 	 \displaystyle \alpha _{T}={\frac {k_{T}}{x_{\mathrm {A} }x_{\mathrm {B} }}}	thermal diffusion factor 
+elastic energy 	 0 	 \displaystyle f(x)={\frac {a_{0}}{2}}+\sum _{k=1}^{n}(a_{k}\cos(kx)+b_{k}\sin(kx))	trigonometric polynomial 
+elastic energy 	 0 	 \displaystyle \sum _{k=1}^{\infty }\left\vert \left\langle x,e_{k}\right\rangle \right\vert ^{2}\leq \left\Vert x\right\Vert ^{2}	Bessel's inequality 
+elastic energy 	 0 	 \displaystyle R_{xx}(k)=\alpha _{k}	Maximum entropy spectral estimation 
+elastic energy 	 0 	 \displaystyle f(x;\lambda ,k)={\begin{cases}{\frac {k}{\lambda }}({\frac {x}{\lambda }})^{k-1}e^{-(x/\lambda )^{k}}&amp;x\geq 0,\\0&amp;x&lt;0,\end{cases}}	Weibull distribution 
+elastic energy 	 0 	 \displaystyle f(x)=\sum _{k=1}^{n}a_{k}{\mathbf {1} }_{A_{k}}(x)	exponential smoothing 
+elastic energy 	 0 	 \displaystyle \omega (x,f)=\bigcap _{n\in \mathbb {N} }{\overline {\{f^{k}(x)k&gt;n\}}}	limit set 
+elastic energy 	 0 	 \displaystyle [{\mathcal {T}}_{n}(f)](x)=ne^{-nx}\sum _{k=0}^{\infty }{{\frac {(nx)^{k}}{k!}}\int _{k/n}^{(k+1)/n}f(t)\,dt}	Szász–Mirakjan–Kantorovich operator 
+elastic energy 	 0 	 \displaystyle (x+y)^{r}=\sum _{k=0}^{\infty }{r \choose k}x^{k}y^{r-k}	Q864030 
+elastic energy 	 0 	 \displaystyle f_{X}(x;n)={\frac {n}{2(n-1)!}}\sum _{k=0}^{n}(-1)^{k}{n \choose k}(nx-k)^{n-1}\operatorname {sgn}(nx-k)	Bates distribution 
+elastic energy 	 0 	 \displaystyle \sum _{i,j=1}^{m}g^{ij}\left({\frac {\partial ^{2}\phi ^{\gamma }}{\partial x_{i}\partial x_{j}}}-\sum _{k=1}^{m}{\hat {\Gamma }}_{ij}^{k}{\frac {\partial \phi ^{\gamma }}{\partial x_{k}}}+\sum _{\alpha ,\beta =1}^{n}\Gamma _{\alpha \beta }^{\gamma }\circ \phi {\frac {\partial \phi ^{\alpha }}{\partial x_{i}}}{\frac {\partial \phi ^{\beta }}{\partial x_{j}}}\right)=0	harmonic morphism 
+elastic energy 	 0 	 \displaystyle (x_{1}+x_{2}+\cdots +x_{m})^{n}=\sum _{k_{1}+k_{2}+\cdots +k_{m}=n}{n \choose k_{1},k_{2},\ldots ,k_{m}}\prod _{t=1}^{m}x_{t}^{k_{t}}\,,	multinomial theorem 
+elastic energy 	 0 	 \displaystyle Q=\{x\in k^{n}\mid x^{T}Ax+2b^{T}x+c=0\}	quadric 
+elastic energy 	 0 	 \displaystyle h_{n}(x;q)=\sum _{k=0}^{n}{\frac {(q;q)_{n}}{(q;q)_{k}(q;q)_{n-k}}}x^{k}	Rogers–Szegő polynomials 
+elastic energy 	 0 	 \displaystyle u'+x'i+y'j+z'k=(a+bi+cj+dk)(u+xi+yj+zk)(p+qi+rj+sk),	rotation group SO(4) 
+elastic energy 	 0 	 \displaystyle I(k)=\int g(x)e^{ikf(x)}\,dx	stationary phase approximation 
+elastic energy 	 0 	 \displaystyle X_{k}=\sum _{n=0}^{N-1}x_{n}e^{-{\frac {2\pi i}{N}}nk}	Cooley–Tukey FFT algorithm 
+elastic energy 	 0 	 \displaystyle \int _{a}^{b}h(x)\;\mathrm {d} x\approx \sum _{k=1}^{n}w_{k}h(x_{k})	Nyström method 
+elastic energy 	 0 	 \displaystyle H(m)\,\equiv \,xr+sk{\pmod {p-1}}	ElGamal signature scheme 
+elastic energy 	 0 	 \displaystyle p_{k}(x_{1},\ldots ,x_{n})=\sum \nolimits _{i=1}^{n}x_{i}^{k}=x_{1}^{k}+\cdots +x_{n}^{k}	Newton's identities 
+elastic energy 	 0 	 \displaystyle {\frac {\partial u}{\partial t}}-{\frac {\partial ^{2}u}{\partial x^{2}}}={\frac {\alpha }{k}}u(1-u^{q})	Fisher-Kolmogorov equation 
+elastic energy 	 0 	 \displaystyle S(x)=\sum _{k=0}^{n}a_{k}\phi _{k}(x)	Clenshaw algorithm 
+elastic energy 	 0 	 \displaystyle M_{n}(x,\beta ,\gamma )=\sum _{k=0}^{n}(-1)^{k}{n \choose k}{x \choose k}k!(x+\beta )_{n-k}\gamma ^{-k}	Meixner polynomials 
+elastic energy 	 0 	 \displaystyle U={\frac {1}{2}}k\Delta x^{2}	elastic energy 
+elastic energy 	 0 	 \displaystyle x_{k}(\zeta )=\Re \left\{\int _{0}^{\zeta }\varphi _{k}(z)\,dz\right\}+c_{k},\qquad k=1,2,3	Associate family 
+elastic energy 	 0 	 \displaystyle X_{\mu }^{k}(\sigma ,\theta )=x_{\mu }^{k}+O(\sigma ,\theta )	Supermembranes 
+elastic energy 	 0 	 \displaystyle p_{n}(x+y)=\sum _{k=0}^{n}{n \choose k}\,p_{k}(x)\,p_{n-k}(y)	Binomial type 
+elastic energy 	 0 	 \displaystyle F(k)=|F(k)|e^{i\psi (k)}=\int _{-\infty }^{\infty }f(x)\ e^{-2\pi ik\cdot x}\,dx	Phase retrieval 
+elastic energy 	 0 	 \displaystyle x(u)=a\operatorname {sn} (u,k)+(a/k){\big (}(1-k^{2})u-E(u,k){\big )}	Nodary 
+elastic energy 	 0 	 \displaystyle ds^{2}=dt^{2}-a^{2}(t)d\chi ^{2}=dt^{2}-a^{2}(t)\left(dx^{2}+k{\frac {(xdx)^{2}}{1-kx^{2}}}\right)	Friedmann–Lemaître–Robertson–Walker metric 
+elastic energy 	 0 	 \displaystyle V={\dfrac {1}{2}}kx^{2}	transition of state 
+elastic energy 	 0 	 \displaystyle M(x_{1},\ldots ,x_{n})=\varphi ^{-1}\left({\frac {1}{n}}\sum _{k=1}^{n}\varphi (x_{k})\right)=\varphi ^{-1}\left({\frac {\varphi (x_{1})+\ldots +\varphi (x_{n})}{n}}\right)	quasi-arithmetic mean 
+elastic energy 	 0 	 \displaystyle \varphi =g\mathrm {d} x^{I}=g\mathrm {d} x^{i_{1}}\wedge \mathrm {d} x^{i_{2}}\wedge \cdots \wedge \mathrm {d} x^{i_{k}}	exterior derivative 
+elastic energy 	 0 	 \displaystyle \sum \limits _{a\leqslant k&lt;b}f(k)=\int \limits _{a}^{b}f(x)dx+\left.\sum \limits _{k=1}^{m}{\frac {B_{k}}{k!}}f^{(k-1)}(x)\right|_{a}^{b}+R_{m},R_{m}=(-1)^{m+1}\int \limits _{a}^{b}{\frac {B_{m}(\{x\})}{m!}}f^{(m)}(x)dx	Euler–Maclaurin formula 
+elastic energy 	 0 	 \displaystyle \prod _{k=1}^{n}(x_{k}+y_{k})^{1/n}\geq \prod _{k=1}^{n}x_{k}^{1/n}+\prod _{k=1}^{n}y_{k}^{1/n}	Mahler's inequality 
+elastic energy 	 0 	 \displaystyle B_{m}(x)=\sum _{n=0}^{m}{\frac {1}{n+1}}\sum _{k=0}^{n}(-1)^{k}{n \choose k}(x+k)^{m}	Bernoulli polynomials 
+elastic energy 	 0 	 \displaystyle x(t)=f(t)+\sum _{i=m}^{n}k(t,s,x(s))	Summation equation 
+elastic energy 	 0 	 \displaystyle \sum _{k=0}^{n}{\frac {x}{x+kz}}{x+kz \choose k}{\frac {y}{y+(n-k)z}}{y+(n-k)z \choose n-k}={\frac {x+y}{x+y+nz}}{x+y+nz \choose n}	Rothe–Hagen identity 
+elastic energy 	 0 	 \displaystyle e_{k}(x_{1},\dotsc ,x_{n})=\sum _{1\leq i_{1}&lt;i_{2}&lt;\dotsb &lt;i_{k}\leq n}x_{i_{1}}x_{i_{2}}\dotsm x_{i_{k}}	elementary symmetric polynomial 
+elastic energy 	 0 	 \displaystyle \{kxk\in K\}	projective plane 
+elastic energy 	 0 	 \displaystyle \mathbf {grad} \,x_{\mathrm {B} }=-{\frac {k_{T}}{T}}\mathbf {grad} \,T	thermal diffusion ratio 
+elastic energy 	 0 	 \displaystyle f(x_{k}+s_{k})=f(x_{k})+\nabla f(x_{k})^{T}s_{k}+{\frac {1}{2}}s_{k}^{T}{B}s_{k}	Low-energy electron microscopy 
+elastic energy 	 0 	 \displaystyle \operatorname {aff} (S)=\left\{\sum _{i=1}^{k}\alpha _{i}x_{i}\,{\Bigg |}\,k&gt;0,\,x_{i}\in S,\,\alpha _{i}\in \mathbb {R} ,\,\sum _{i=1}^{k}\alpha _{i}=1\right\}	affine hull 
+elastic energy 	 0 	 \displaystyle {\begin{cases}x(t)=k(\cos {t}+t\,\sin {t})\\y(t)=k(\sin {t}-t\,\cos {t})\end{cases}}	Involute of a circle 
+elastic energy 	 0 	 \displaystyle ax+by=1\implies axc+byc=c\implies axc+aky=c\implies a(cx+ky)=c	proof of Euclid's lemma using Bezout's identity 
+elastic energy 	 0 	 \displaystyle (x+y)^{n}=\sum _{k=0}^{n}{n \choose k}x^{n-k}y^{k}	Pascal's triangle 
+elastic energy 	 0 	 \displaystyle \displaystyle \ell _{n}(x,\lambda )=e^{-n\lambda }\sum _{k}(1-e^{\lambda })^{k}{\binom {n}{k}}{\binom {x}{k}}=e^{-n\lambda }{}_{2}F_{1}(-n,-x;1;1-e^{\lambda })	Gottlieb polynomials 
+elastic energy 	 0 	 \displaystyle {\frac {x}{m}}=kP^{\frac {1}{n}}	adsorption 
+elastic energy 	 0 	 \displaystyle \sum _{k=0}^{n-1}\left\lfloor x+{\frac {k}{n}}\right\rfloor =\lfloor nx\rfloor 	Hermite's identity 
+elastic energy 	 0 	 \displaystyle \int _{\Omega }\int _{\Omega }|k(x,y)|^{2}\,dx\,dy&lt;\infty 	Hilbert–Schmidt integral operator 
+elastic energy 	 0 	 \displaystyle {\frac {dL}{dx}}=L_{0}{\frac {\frac {dE}{dx}}{1+kB{\frac {dE}{dx}}}}	Birks' Law 
+elastic energy 	 0 	 \displaystyle x_{k+1}=x_{k}-{\frac {2f(x_{k})}{w\pm {\sqrt {\left(f[x_{k},x_{k-1}]+f[x_{k},x_{k-2}]-f[x_{k-1},x_{k-2}]\right)^{2}-4f(x_{k})f[x_{k},x_{k-1},x_{k-2}]}}}}.	Muller's method 
+elastic energy 	 0 	 \displaystyle x_{k+1}=x_{k}-{\frac {f^{'}\left(x_{k}\right)}{f''\left(x_{k}\right)}}	Newton's method in optimization 
+elastic energy 	 0 	 \displaystyle P(x)=\sum _{k=0}^{n}a_{k}x^{k}	polynomial 
+elastic energy 	 0 	 \displaystyle [{\mathcal {F}}_{n}(f)](x)={\frac {1}{\sqrt {n\pi }}}\sum _{k=-\infty }^{\infty }{\exp {\left({-n{\left({{\frac {k}{n}}-x}\right)}^{2}}\right)}f\left({\frac {k}{n}}\right)}	Favard operator 
+elastic energy 	 0 	 \displaystyle f(x)={\frac {L}{1+\mathrm {e} ^{-k(x-x_{0})}}}	logistic function 
+elastic energy 	 0 	 \displaystyle [{\mathcal {L}}_{n}(f)](x)=\sum _{k=0}^{\infty }{(-1)^{k}{\frac {x^{k}}{k!}}\phi _{n}^{(k)}(x)f\left({\frac {k}{n}}\right)}	Baskakov operator 
+elastic energy 	 0 	 \displaystyle f=f(x)=\sum _{k=0}^{\infty }a_{k}x^{k}=a_{0}+a_{1}x^{1}+a_{2}x^{2}+a_{3}x^{3}+\cdots 	Chomsky–Schützenberger enumeration theorem 
+elastic energy 	 0 	 \displaystyle \rho _{e}=e{(c^{+}-c^{-})}=c_{0}e\cdot \left[e^{\frac {-e\psi (x,y,z)}{k_{B}T}}-e^{\frac {e\psi (x,y,z)}{k_{B}T}}\right]	Poisson–Boltzmann equation 
+elastic energy 	 0 	 \displaystyle \psi (x,t)=A\cos(kx-\omega t+\varphi )	Spherical pendulum 
+elastic energy 	 0 	 \displaystyle (1+x)^{\alpha }=\sum _{k=0}^{\infty }\;{\alpha  \choose k}\;x^{k}=1+\alpha x+{\frac {\alpha (\alpha -1)}{2!}}x^{2}+\cdots 	binomial series 
+elastic energy 	 0 	 \displaystyle \left[{\mathcal {S}}_{n}(f)\right](x)&lt;/math&gt;=&lt;math&gt;e^{-nx}\sum _{k=0}^{\infty }{{\frac {(nx)^{k}}{k!}}f\left({\frac {k}{n}}\right)}	Szász–Mirakyan operator 
+elastic energy 	 0 	 \displaystyle k\langle x,y\rangle /(yx-qxy)	noncommutative projective geometry 
+elastic energy 	 0 	 \displaystyle {\mathcal {K}}_{k}(x;n,q)={\mathcal {K}}_{k}(x)=\sum _{j=0}^{k}(-1)^{j}(q-1)^{k-j}{\binom {x}{j}}{\binom {n-x}{k-j}},\quad k=0,1,\ldots ,n	Kravchuk polynomials 
+elastic energy 	 0 	 \displaystyle \operatorname {E} [X]=x_{1}p_{1}+x_{2}p_{2}+\cdots +x_{k}p_{k}\;	expected value 
+elastic energy 	 0 	 \displaystyle \xi =A_{x}f_{x}(z)e^{i(\omega t-kx)}\quad \quad (1)	Lamb waves 
+elastic energy 	 0 	 \displaystyle \max _{-1\leq x\leq 1}|P^{(k)}(x)|\leq {\frac {n^{2}(n^{2}-1^{2})(n^{2}-2^{2})\cdots (n^{2}-(k-1)^{2})}{1\cdot 3\cdot 5\cdots (2k-1)}}\max _{-1\leq x\leq 1}|P(x)|	Markov brothers' inequality 
+elastic energy 	 0 	 \displaystyle P(x_{k},m|Z_{0:k},U_{0:k},x_{0})	Q97703784 
+elastic energy 	 0 	 \displaystyle {\begin{aligned}x(t)&amp;=r(1+k)\cos t-r\cos \left((1+k)t\right)\\y(t)&amp;=r(1+k)\sin t-r\sin \left((1+k)t\right)\end{aligned}}	epicycloid 
+electromagnetic force 	 0 	 \displaystyle {\vec {F}}=q({\vec {E}}+{\vec {v}}\times {\vec {B}})	electromagnetic force 
+energy-momentum relation 	 0 	 \displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})	Time of flight detector 
+energy-momentum relation 	 0 	 \displaystyle e(c)=n\prod _{i=1}^{m}p_{i}(c_{i})	Configural frequency analysis 
+energy-momentum relation 	 0 	 \displaystyle m_{0}=c^{-1}{\sqrt {E^{2}/c^{2}-p^{2}}}	rest mass (invariant mass) or rest energy 
+energy-momentum relation 	 0 	 \displaystyle OB\%={\frac {-1600}{Mol.wt.ofcompound}}\times (2X+(Y/2)+M-Z)	oxygen balance 
+energy-momentum relation 	 0 	 \displaystyle E^{2}-|{\vec {p}}\,|^{2}c^{2}=m^{2}c^{4}	On shell and off shell 
+energy-momentum relation 	 0 	 \displaystyle {\frac {1}{v\left[\left({p_{0}}/{p}\right)-1\right]}}={\frac {c-1}{v_{\mathrm {m} }c}}\left({\frac {p}{p_{0}}}\right)+{\frac {1}{v_{m}c}},\qquad (1)	BET theory 
+energy-momentum relation 	 0 	 \displaystyle \sigma _{total}={{\bigl (}\sigma _{sample}^{2}+\sigma _{calib}^{2}{\bigr )}}^{\frac {1}{2}}	Calibration of radiocarbon dates 
+energy-momentum relation 	 0 	 \displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess	Procept 
+energy-momentum relation 	 0 	 \displaystyle E^{2}=p^{2}c^{2}+m^{2}c^{4}	energy-momentum relation 
+energy-momentum relation 	 0 	 \displaystyle Compliance={\frac {\Delta V}{\Delta P}}	pulmonary compliance 
+energy-momentum relation 	 0 	 \displaystyle Z_{1}\,\!theimpedanceofthegenerator	T pad 
+energy-momentum relation 	 0 	 \displaystyle V_{i}isthemembranepotentialofithcompartment	Compartmental modelling of dendrites 
+energy-momentum relation 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+energy-momentum relation 	 0 	 \displaystyle f(A\mid m)=\prod _{p}\phi \left(A_{p}\mid A_{\text{base}}+r\sum _{c}C_{cp},\nu ^{-1}\right)	Bayesian tool for methylation analysis 
+force 	 0 	 \displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})	Time of flight detector 
+force 	 0 	 \displaystyle W_{\mathrm {SWU} }=P\cdot V\left(x_{p}\right)+T\cdot V(x_{t})-F\cdot V(x_{f})	Separative Work Unit 
+force 	 0 	 \displaystyle \rho (p)=const	Incompressible flow 
+force 	 0 	 \displaystyle \epsilon H=p(t)(q(t+\epsilon )-q(t))-\epsilon L	path integral formulation 
+force 	 0 	 \displaystyle {\vec {x}}={\vec {p}}+s({\vec {q}}-{\vec {p}})+t({\vec {r}}-{\vec {p}})	Q15906199 
+force 	 0 	 \displaystyle r=-{\frac {1}{a}}{\frac {d[\mathrm {A} ]}{dt}}=-{\frac {1}{b}}{\frac {d[\mathrm {B} ]}{dt}}={\frac {1}{p}}{\frac {d[\mathrm {P} ]}{dt}}={\frac {1}{q}}{\frac {d[\mathrm {Q} ]}{dt}}	reaction rate 
+force 	 0 	 \displaystyle OB\%={\frac {-1600}{Mol.wt.ofcompound}}\times (2X+(Y/2)+M-Z)	oxygen balance 
+force 	 0 	 \displaystyle H_{p}={\frac {(273.15+T)}{1000}}\cdot (C+\log(t))	Hollomon–Jaffe parameter 
+force 	 0 	 \displaystyle -\sum _{t}\chi (t)\phi \left({\frac {t}{\pi }}\right)^{(p-1)/m}	Elliptic Gauss sum 
+force 	 0 	 \displaystyle net.assets\div net.premium.written	solvency ratio 
+force 	 0 	 \displaystyle \mathbf {W} isthefull-loadcopperloss	short circuit test 
+force 	 0 	 \displaystyle P={\frac {1}{T}}\int \limits _{0}^{T}p\,\mathrm {d} t	active power 
+force 	 0 	 \displaystyle f^{put}\left(S_{T},k\right)=\left(k-S_{T}\right)^{+}	cost to claim a put option 
+force 	 0 	 \displaystyle \mathrm {Pr} _{t}\,={\frac {c_{p}\eta _{t}}{\varkappa _{t}}}	turbulent Prandtl number 
+force 	 0 	 \displaystyle VP_{n}=C_{c}+C_{f}+V+S=GrossOutput	Value product 
+force 	 0 	 \displaystyle p(x)=\prod \limits _{t\in K}(x-t)	F-distribution 
+force 	 0 	 \displaystyle p(x)=\prod \limits _{t\in K}(x-t)	Recursively enumerable set 
+force 	 0 	 \displaystyle JaroWinklerSim(s_{1},s_{2})=\left\{{\begin{array}{l l}JaroSim(s_{1},s_{2})+l\cdot p\cdot \left(1-JaroSim(s_{1},s_{2})\right)&amp;{\text{if }}JaroSim(s_{1},s_{2})&gt;b_{t}\\JaroSim(s_{1},s_{2})&amp;{\text{otherwise}}\end{array}}\right.	Jaro–Winkler similarity 
+force 	 0 	 \displaystyle p_{ij}\approx \sum _{t}^{T}p_{t}\,p_{it}\,p_{jt}	latent class model 
+force 	 0 	 \displaystyle {\frac {\mathrm {d} \rho }{\mathrm {d} t}}={\frac {\partial \rho }{\partial t}}+\sum _{i=1}^{n}\left({\frac {\partial \rho }{\partial q_{i}}}{\dot {q}}_{i}+{\frac {\partial \rho }{\partial p_{i}}}{\dot {p}}_{i}\right)=0	Liouville equation 
+force 	 0 	 \displaystyle J(V)={J_{t}}(V)+{J_{e}}(V)-{J_{p}}	Perovskite solar cell 
+force 	 0 	 \displaystyle t\mapsto f(t)+(p-r(t)){f'(t) \over r'(t)}	bilinear filtering 
+force 	 0 	 \displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess	Procept 
+force 	 0 	 \displaystyle out=(i\times s+o)^{p}	ASC CDL 
+force 	 0 	 \displaystyle T(p)=\Box pforany[[propositionalvariable]]p	Modal companion 
+force 	 0 	 \displaystyle {\frac {\partial \mathbf {v} }{\partial t}}+(\mathbf {v} \cdot \nabla )\mathbf {v} =\mathbf {g} -{\frac {1}{\rho }}\nabla p	Euler equations 
+force 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+force 	 0 	 \displaystyle \sigma _{total}={{\bigl (}\sigma _{sample}^{2}+\sigma _{calib}^{2}{\bigr )}}^{\frac {1}{2}}	Calibration of radiocarbon dates 
+force 	 0 	 \displaystyle Sp_{2}(\mathbb {F} _{q})=\left\{g\in GL_{2n}(\mathbb {F} _{q})\mid ^{t}gJg=J\right\}	representation of a Lie group 
+force 	 0 	 \displaystyle RF=\sum _{n=1}^{100}Abs_{i}\cdot F_{i}/(pathlength\cdot density)	global warming potential 
+force 	 0 	 \displaystyle {\vec {F}}={\frac {\mathrm {d} {\vec {p}}}{\mathrm {d} t}}	Newton's second law of motion (general) 
+force 	 0 	 \displaystyle p_{1}r_{1}+p_{2}r_{2}=const	cartesian oval 
+force 	 0 	 \displaystyle i{\frac {\partial }{\partial t}}\rho (x,p)={\hat {L}}\rho (x,p)	Koopman–von Neumann classical mechanics 
+force 	 0 	 \displaystyle p_{tot,1}=p_{tot,2}	conservation of momentum 
+force 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+force 	 0 	 \displaystyle q_{n}(x)=\int _{\mathbb {R} }\!{\frac {p_{n}(t)-p_{n}(x)}{t-x}}\rho (t)\,dt	Secondary polynomials 
+force 	 0 	 \displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.	Rayleigh–Bénard convection 
+force 	 0 	 \displaystyle {\hat {H}}={\frac {1}{2}}\left[{\hat {p}}^{2}+\Omega ^{2}(t){\hat {q}}^{2}\right]	Ermakov–Lewis invariant 
+force 	 0 	 \displaystyle p_{t+1}({\hat {x}})=\sum _{x}p(x)p_{t}({\hat {x}}|x)	Blahut–Arimoto algorithm 
+force 	 0 	 \displaystyle u(t)representstheinputsignal	Separation principle 
+force 	 0 	 \displaystyle {d^{2}h^{ij} \over dt^{2}}=\left({1 \over m^{i}}+{1 \over m^{j}}\right)p^{ij}+\sum _{k\neq j}C(ij,ik)\psi (\alpha _{ij,ik}){1 \over m^{i}}p^{ik}+\sum _{l\neq i}C(ij,jl)\psi (\alpha _{ij,jl}){1 \over m^{j}}p^{jl}	movable cellular automaton 
+force 	 0 	 \displaystyle E=\int _{t_{1}}^{t_{2}}p^{2}\mathrm {d} t	sound exposure 
+force 	 0 	 \displaystyle W=\int \limits _{t_{1}}^{t_{2}}p\,\mathrm {d} t	active energy 
+force 	 0 	 \displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},	Boussinesq approximation 
+force 	 0 	 \displaystyle V_{i}isthemembranepotentialofithcompartment	Compartmental modelling of dendrites 
+force 	 0 	 \displaystyle {\vec {x}}={\vec {p}}+s{\vec {u}}+t{\vec {v}}	Q15839526 
+force 	 0 	 \displaystyle Z_{1}\,\!theimpedanceofthegenerator	T pad 
+four-momentum 	 0 	 \displaystyle E_{\text{B}}=-{\dfrac {Rhc}{n^{2}}}	On-balance volume 
+four-momentum 	 0 	 \displaystyle E=K'+{\frac {RT}{nF}}\ln(c)	Stabilizer code 
+four-momentum 	 0 	 \displaystyle E=K'+{\frac {RT}{nF}}\ln(c)	Pauli group 
+four-momentum 	 0 	 \displaystyle E=mc^{2}	mass–energy equivalence 
+four-momentum 	 0 	 \displaystyle E^{2}-|{\vec {p}}\,|^{2}c^{2}=m^{2}c^{4}	On shell and off shell 
+four-momentum 	 0 	 \displaystyle m_{0}=c^{-1}{\sqrt {E^{2}/c^{2}-p^{2}}}	rest mass (invariant mass) or rest energy 
+four-momentum 	 0 	 \displaystyle E=\varepsilon cd	molar attenuation coefficient 
+four-momentum 	 0 	 \displaystyle s_{q}(x)={\begin{cases}0,&amp;x&lt;-\nu \\{\frac {1}{c(q)}}E_{q^{2}}^{\frac {-q^{2}x^{2}}{[2]_{q}}},&amp;-\nu \leq x\leq \nu \\0,&amp;{\mbox{if }}x&gt;\nu .\end{cases}}	Gaussian q-distribution 
+four-momentum 	 0 	 \displaystyle p^{\mu }={\begin{matrix}p_{0}\\p_{1}\\p_{2}\\p_{3}\end{matrix}}={\begin{matrix}E/c\\p_{x}\\p_{y}\\p_{z}\end{matrix}}={\begin{matrix}E/c\\{\vec {p}}\end{matrix}}	four-momentum 
+four-momentum 	 0 	 \displaystyle {\displaystyle W=\Delta E_{c}=E_{c_{2}}-E_{c_{1}}\,}	work-energy principle 
+four-momentum 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+four-momentum 	 0 	 \displaystyle E^{2}=p^{2}c^{2}+m^{2}c^{4}	energy-momentum relation 
+four-momentum 	 0 	 \displaystyle {\displaystyle \Delta U=W-\Delta E_{c}\,}	work-energy principle 
+four-momentum 	 0 	 \displaystyle {\frac {Energy\ consumed}{Built\ area}}	efficient energy use 
+four-momentum 	 0 	 \displaystyle E_{0}=m_{0}c_{0}^{2}	rest energy 
+four-momentum 	 0 	 \displaystyle (A^{2}+B^{2}+C^{2}+D^{2}+E^{2}+F^{2}+G^{2}+H^{2})(a^{2}+b^{2}+c^{2}+d^{2}+e^{2}+f^{2}+g^{2}+h^{2})=(Aa-Bb-Cc-Dd-Ee-Ff-Gg-Hh)^{2}+(Ab+Ba+Cd-Dc+Ef-Fe-Gh+Hg)^{2}+(Ac-Bd+Ca+Db+Eg+Fh-Ge-Hf)^{2}+(Ad+Bc-Cb+Da+Eh-Fg+Gf-He)^{2}+(Ae-Bf-Cg-Dh+Ea+Fb+Gc+Hd)^{2}+(Af+Be-Ch+Dg-Eb+Fa-Gd+Hc)^{2}+(Ag+Bh+Ce-Df-Ec+Fd+Ga-Hb)^{2}+(Ah-Bg+Cf+De-Ed-Fc+Gb+Ha)^{2}	Degen's eight-square identity 
+four-momentum 	 0 	 \displaystyle \sum \limits _{l'm'}{{M_{lm,l'm'}}\left({E,{\bf {k}}}\right){c_{l'm'}}\left(E,{\bf {k}}\right)=0}	Korringa–Kohn–Rostoker approximation 
+four-momentum 	 0 	 \displaystyle (m_{\mathrm {rest} })c^{2}={\sqrt {E_{\mathrm {total} }^{2}-(|\mathbf {p} |c)^{2}}}	rest mass 
+four-momentum 	 0 	 \displaystyle E_{\text{P}}={\sqrt {\frac {\hbar c^{5}}{G}}}	Planck energy 
+four-momentum 	 0 	 \displaystyle I={\frac {2E}{2Z_{oc}}}	Bartlett's bisection theorem 
+free fall 	 0 	 \displaystyle ds^{2}=\left(1-{r_{g} \over r}\right)dt^{2}-{dr^{2} \over 1-{r_{g} \over r}}-r^{2}\left(d\theta ^{2}+\sin ^{2}\theta d\phi ^{2}\right)	Lemaître coordinates 
+free fall 	 0 	 \displaystyle F(t)=n\int _{-\infty }^{\infty }g(x)[G(x+t)-G(x)]^{n-1}{\text{d}}x	range 
+free fall 	 0 	 \displaystyle {\frac {d^{2}\theta }{dt^{2}}}+{\frac {g}{l}}\sin \theta =0	pendulum 
+free fall 	 0 	 \displaystyle \Delta Weight_{front}=a{\frac {h}{w}}m	load transfer 
+free fall 	 0 	 \displaystyle \nabla \left(\kappa \nabla T\right)+g=\rho C{\frac {\partial T}{\partial t}}	Heat generation in integrated circuits 
+free fall 	 0 	 \displaystyle \mathrm {CI} ={\frac {mass}{height^{3}}}	Ponderal index 
+free fall 	 0 	 \displaystyle |G|\cdot M(t)=\sum _{g\in G}{\frac {1}{\det(I-tg)}}	Molien series 
+free fall 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+free fall 	 0 	 \displaystyle u_{tt}-c^{2}u_{xx}=0,\,u(x,0)=g(x),\,u_{t}(x,0)=h(x),	D'Alembert's formula 
+free fall 	 0 	 \displaystyle \displaystyle \sum g_{n}(x)t^{n}/n!=\exp(x(1+t-e^{t}))	Mahler polynomial 
+free fall 	 0 	 \displaystyle \mathbb {E} [f(X_{t+s}-X_{t})g(J_{t+s})|{\mathcal {F}}_{t}]=\mathbb {E} _{J_{t},0}[f(X_{s})g(J_{s})]	Markov additive process 
+free fall 	 0 	 \displaystyle \land =[[logicalconjunction|AND]](logicalconjunction)	truth table 
+free fall 	 0 	 \displaystyle u(t)representstheinputsignal	Separation principle 
+free fall 	 0 	 \displaystyle \%R={high_{Ndays}-close_{today} \over high_{Ndays}-low_{Ndays}}\times -100	Williams %R 
+free fall 	 0 	 \displaystyle RF=\sum _{n=1}^{100}Abs_{i}\cdot F_{i}/(pathlength\cdot density)	global warming potential 
+free fall 	 0 	 \displaystyle f(x)=\int _{a}^{x}g(t)\,dt	Khinchin integral 
+free fall 	 0 	 \displaystyle {\frac {d\epsilon }{dt}}={\frac {\sigma }{d^{3}}}D_{gb}e^{-Q_{Coble}/RT}	Coble creep 
+free fall 	 0 	 \displaystyle \displaystyle (1+t)^{z}(1-t)^{-z}=\sum _{n}g_{n}(z)t^{n}	Mittag-Leffler polynomials 
+free fall 	 0 	 \displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},	Boussinesq approximation 
+free fall 	 0 	 \displaystyle {d^{2}x \over dt^{2}}+f(x){dx \over dt}+g(x)=0	Liénard equation 
+free fall 	 0 	 \displaystyle {\begin{array}{l}v_{n+1}=v_{n}+g\left(t_{n},x_{n}\right)\Delta t\\x_{n+1}=x_{n}+f\left(t_{n},v_{n+1}\right)\Delta t\end{array}}	Semi-implicit Euler method 
+free fall 	 0 	 \displaystyle {\frac {1}{N}}\sum _{t}\mathbf {1} _{sign(A_{t}-A_{t-1})==sign(F_{t}-F_{t-1})}	Mean Directional Accuracy 
+free fall 	 0 	 \displaystyle Z_{1}\,\!theimpedanceofthegenerator	T pad 
+free fall 	 0 	 \displaystyle g(x,y;t)={\frac {1}{2\pi t}}e^{-(x^{2}+y^{2})/2t}	scale space 
+free fall 	 0 	 \displaystyle t={\rm {atan2}}(\phi _{g},\theta _{g})+0.000003\times \cos(3000\theta _{g})	BD09 
+free fall 	 0 	 \displaystyle Sp_{2}(\mathbb {F} _{q})=\left\{g\in GL_{2n}(\mathbb {F} _{q})\mid ^{t}gJg=J\right\}	representation of a Lie group 
+free fall 	 0 	 \displaystyle H(t,x(t),u(t),\lambda (t),t)=f(t,x(t),u(t))+\lambda (t)\cdot g(t,x(t),u(t))	Hamiltonian 
+free fall 	 0 	 \displaystyle v(t)=-gt+v_{0}	free fall 
+free fall 	 0 	 \displaystyle (f*g)(t){\stackrel {\mathrm {def} }{=}}\int _{-\infty }^{\infty }f(\tau )g(t-\tau )d\tau =\int _{-\infty }^{\infty }f(t-\tau )g(\tau )d\tau 	convolution 
+free fall 	 0 	 \displaystyle \mathbf {v} ={\frac {d\mathbf {x} }{dt}}=g(t)	Wiener equation 
+free fall 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+free fall 	 0 	 \displaystyle {d^{2}\theta  \over dt^{2}}+{g \over \ell }\sin \theta =0	Electromagnetic wave equation 
+free fall 	 0 	 \displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.	Rayleigh–Bénard convection 
+free fall 	 0 	 \displaystyle k_{O}Segregationcoefficient	Zone melting 
+free fall 	 0 	 \displaystyle \Box =\partial ^{\mu }\partial _{\mu }=g^{\mu \nu }\partial _{\mu }\partial _{\nu }={\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}-{\frac {\partial ^{2}}{\partial x^{2}}}-{\frac {\partial ^{2}}{\partial y^{2}}}-{\frac {\partial ^{2}}{\partial z^{2}}}	d'Alembert operator 
+free fall 	 0 	 \displaystyle u_{tt}-c^{2}u_{xx}=0,\,u(x,0)=g(x),\,u_{t}(x,0)=h(x)	D'Alembert's formula 
+free fall 	 0 	 \displaystyle {\frac {dK(t)}{dt}}=I^{g}(t)-D(t)=I^{n}(t)	stock and flow 
+free fall 	 0 	 \displaystyle {\frac {Energy\ consumed}{Built\ area}}	efficient energy use 
+free fall 	 0 	 \displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess	Procept 
+free fall 	 0 	 \displaystyle ABSI={WC \over {BMI^{2 \over 3}\times Height^{1 \over 2}}}	Body Shape Index 
+free fall 	 0 	 \displaystyle RfD(mg/kg/day)={NOEL(mg/kg/day) \over Uf_{inter}*Uf_{intra}*Uf_{other}}	Reference dose 
+free fall 	 0 	 \displaystyle Y_{t}=g_{t}+C_{t}+I_{t};	Multiplier-accelerator model 
+free fall 	 0 	 \displaystyle P={gmh \over t}	Margaria-Kalamen power test 
+frequency 	 0 	 \displaystyle W_{\mathrm {SWU} }=P\cdot V\left(x_{p}\right)+T\cdot V(x_{t})-F\cdot V(x_{f})	Separative Work Unit 
+frequency 	 0 	 \displaystyle \operatorname {W} ^{s,p}(M)=\left\{f\in \operatorname {L} ^{p}(M)\colon \sum _{\mu _{1},\dots ,\mu _{k}}T^{\mu _{1},\dots ,\mu _{k}}\partial _{\mu _{1}}\cdots \partial _{\mu _{k}}f\in \operatorname {L} ^{p}(M;\mathbb {K} )\qquad \forall T\in \Gamma ^{\infty }(\mathrm {T} M^{\otimes k}),\,\|T\|\leq 1,\,k\leq s\right\}	Sobolev space 
+frequency 	 0 	 \displaystyle G=G_{\infty }\left({\frac {T}{T+1}}\right)+G_{0}\left({\frac {1}{T+1}}\right)	Asymptotic gain model 
+frequency 	 0 	 \displaystyle T_{A}=3.468F{{\lambda }^{2}}10^{G/10}	noise temperature 
+frequency 	 0 	 \displaystyle T_{g}={\frac {H_{d}}{S_{d}+R\ln({\frac {1-f_{c}}{f_{c}}})}}	melting 
+frequency 	 0 	 \displaystyle gT_{p}M\times T_{p}M\to \mathbb {R} 	pseudo-Riemannian manifold 
+frequency 	 0 	 \displaystyle \{F_{t}t\in T\}	random element 
+frequency 	 0 	 \displaystyle {\text{Diagnostic odds ratio, DOR}}={\frac {TP/FP}{FN/TN}}	Diagnostic odds ratio 
+frequency 	 0 	 \displaystyle T(\alpha \mathbf {x} +\beta \mathbf {y} )=\alpha T(\mathbf {x} )+\beta T(\mathbf {y} ),\quad \forall \alpha ,\beta \in \mathbb {R} ,\forall \mathbf {x} ,\mathbf {y} \in \operatorname {dom} (T)	linear map 
+frequency 	 0 	 \displaystyle q=\sum _{r}{\exp {\frac {-\varepsilon _{r}}{kT}}}	molecular partition function 
+frequency 	 0 	 \displaystyle c=S_{0}e^{-r_{f}T}{\mathcal {N}}(d_{1})-Ke^{-r_{d}T}{\mathcal {N}}(d_{2})	Foreign-exchange option 
+frequency 	 0 	 \displaystyle {\frac {P}{T}}=k	Gay-Lussac's law 
+frequency 	 0 	 \displaystyle P(t,T)=e^{-\int _{t}^{T}f(t,s)ds}	Heath–Jarrow–Morton framework 
+frequency 	 0 	 \displaystyle T_{raise}={\frac {Fd_{m}}{2}}\left({\frac {l+\pi \mu d_{m}}{\pi d_{m}-\mu l}}\right)={\frac {Fd_{m}}{2}}\tan {\left(\phi +\lambda \right)}	G Scorpii 
+frequency 	 0 	 \displaystyle {\mathit {Ca}}={\frac {T_{2}-T_{1}}{T_{2}}}	Carnot number 
+frequency 	 0 	 \displaystyle \Lambda _{m}^{0}={\frac {F^{2}}{RT}}\left(\nu _{+}z_{+}^{2}D_{+}+\nu _{-}z_{-}^{2}D_{-}\right)	Nernst-Einstein equation 
+frequency 	 0 	 \displaystyle M=\left\lfloor 1+{\frac {\tau }{T-\delta }}\right\rfloor 	leaky bucket 
+frequency 	 0 	 \displaystyle q=h(T_{w}-T_{f})	Critical heat flux 
+frequency 	 0 	 \displaystyle T\subseteq {\mathcal {P}}(S)=\{A\mid A\subseteq X\}	set system 
+frequency 	 0 	 \displaystyle n_{e}(\phi _{2})=n_{e}(\phi _{1})e^{e(\phi _{2}-\phi _{1})/k_{B}T_{e}}	Upper hybrid oscillation 
+frequency 	 0 	 \displaystyle \alpha _{T}={\frac {k_{T}}{x_{\mathrm {A} }x_{\mathrm {B} }}}	thermal diffusion factor 
+frequency 	 0 	 \displaystyle \chi _{\rho }^{\lambda }=\sum _{T}(-1)^{ht(T)}	Murnaghan-Nakayama rule 
+frequency 	 0 	 \displaystyle {\mathit {Ste}}={\frac {c_{p}\Delta T}{Q}}	Stefan number 
+frequency 	 0 	 \displaystyle S=\int {\frac {\delta Q}{T}}	entropy 
+frequency 	 0 	 \displaystyle Y=S+C+B^{\prime }+T+B	hypercharge 
+frequency 	 0 	 \displaystyle \sum _{j}q_{j}x_{j}=\sum _{j}(x_{j}+t_{j}(x_{j}))=wL-T(wL)\;,	Atkinson–Stiglitz theorem 
+frequency 	 0 	 \displaystyle T_{\Lambda }M=E^{s}\oplus E^{u}	hyperbolic set 
+frequency 	 0 	 \displaystyle \operatorname {supp} (\mu ):=\{x\in X\mid x\in N_{x}\in T\implies \mu (N_{x})&gt;0\}	support 
+frequency 	 0 	 \displaystyle \nabla _{(i}T_{j)k_{1}\dotso k_{p}}=0	Killing–Yano tensor 
+frequency 	 0 	 \displaystyle [T_{i},T_{j}]=if^{ijk}T^{k}	Loop representation in gauge theories and quantum gravity 
+frequency 	 0 	 \displaystyle \mathrm {STC} ={\tfrac {1}{n_{s}-1}}\sum _{i=1}^{T}y_{i}(\mathbf {x_{i}} -STA)(\mathbf {x_{i}} -STA)^{T}	Spike-triggered covariance 
+frequency 	 0 	 \displaystyle FMV\,=\,{VBAB*TAB_{factor}}	Stochastic Eulerian Lagrangian method 
+frequency 	 0 	 \displaystyle N(T)={\frac {T}{2\pi }}\log {\frac {T}{2\pi }}-{\frac {T}{2\pi }}+O(\log {T})	effective radius 
+frequency 	 0 	 \displaystyle N(T)={\frac {T}{2\pi }}\log {\frac {T}{2\pi }}-{\frac {T}{2\pi }}+O(\log {T})	Riemann–von Mangoldt formula 
+frequency 	 0 	 \displaystyle \mu (S)&gt;0\land \forall T\subseteq S\colon T\in \Sigma \implies \mu (T)\not \in (0,\mu (S))	atom 
+frequency 	 0 	 \displaystyle W_{T}=\sum _{i=1}^{n}W_{i}	parimutuel betting 
+frequency 	 0 	 \displaystyle {\frac {T_{\text{f}}}{T_{\text{i}}}}=\left({\frac {p_{\text{f}}}{p_{\text{i}}}}\right)^{\frac {\gamma -1}{\gamma }}	Biaxial nematic 
+frequency 	 0 	 \displaystyle {\frac {T_{\text{f}}}{T_{\text{i}}}}=\left({\frac {p_{\text{f}}}{p_{\text{i}}}}\right)^{\frac {\gamma -1}{\gamma }}	High energy nuclear physics 
+frequency 	 0 	 \displaystyle \nabla \left(\kappa \nabla T\right)+g=\rho C{\frac {\partial T}{\partial t}}	Heat generation in integrated circuits 
+frequency 	 0 	 \displaystyle V_{R}^{\circ }={\frac {j}{m}}F(t_{R}-t_{o}){\frac {T}{273.15}}	Inverse gas chromatography 
+frequency 	 0 	 \displaystyle {\mathit {Lo}}={\frac {\sigma \left(\Delta U\right)^{2}}{\lambda \Delta T}}	Lorentz number 
+frequency 	 0 	 \displaystyle \lambda _{\mathrm {X} }=\exp {\frac {\mu _{\mathrm {X} }}{RT}}	absolute chemical activity 
+frequency 	 0 	 \displaystyle T_{F}=50+\left({\frac {N_{60}-40}{4}}\right)	Dolbear's Law 
+frequency 	 0 	 \displaystyle P={\frac {1}{T}}\int \limits _{0}^{T}p\,\mathrm {d} t	active power 
+frequency 	 0 	 \displaystyle dU=T\,dS-P\,dV+\mu \,dM	Onsager reciprocal relations 
+frequency 	 0 	 \displaystyle \|T\|\leq 1	contraction 
+frequency 	 0 	 \displaystyle \mu (T)\,=\,\mu _{0}\exp(-bT)	polarization identity 
+frequency 	 0 	 \displaystyle \mu (T)\,=\,\mu _{0}\exp(-bT)	Temperature dependence of liquid viscosity 
+frequency 	 0 	 \displaystyle \gamma V^{2/3}=k(T_{c}-T)	Complete quotient 
+frequency 	 0 	 \displaystyle \sigma _{T}={\sigma _{T_{cal}}[1+\alpha (T-T_{cal})]}	Robbins constant 
+frequency 	 0 	 \displaystyle f_{T}=S_{T}-S_{0}-\left(S_{T}-K\right)^{+}+C=K-S_{0}-\left(K-S_{T}\right)^{+}+C	payoff at maturity of covered call 
+frequency 	 0 	 \displaystyle T=\left({\frac {\partial U}{\partial S}}\right)_{V,N}	thermodynamic temperature 
+frequency 	 0 	 \displaystyle v_{\mathrm {rms} }={\sqrt {{3RT} \over {M_{m}}}}	Root-mean-square speed 
+frequency 	 0 	 \displaystyle T_{1}=\left\{f(x_{1},\dots ,x_{n})|f(1,\dots ,1)=1\right\}	unit-preserving boolean fuction 
+frequency 	 0 	 \displaystyle Q(\mathbf {x} )=\mathbf {x} ^{T}A\mathbf {x} 	Principal axis theorem 
+frequency 	 0 	 \displaystyle Y_{1}=c_{0}+c_{1}\left(Y-T\right)+I+G	Balanced budget 
+frequency 	 0 	 \displaystyle Bo_{I}={\frac {g\;\beta \;\Delta T\;L_{c}^{3}}{\alpha ^{2}}}=Ra\;Pr=Gr\;Pr^{2}	Boussinesq number 
+frequency 	 0 	 \displaystyle \alpha _{p}={\frac {1}{p}}\left({\frac {\partial p}{\partial T}}\right)_{V}	relative pressure coefficient 
+frequency 	 0 	 \displaystyle RT=\left(P+{\frac {a}{V_{\text{m}}^{2}}}\right)(V_{\text{m}}-b)	real gas 
+frequency 	 0 	 \displaystyle \Phi \colon H^{k}(B;\mathbf {Z} _{2})\to {\tilde {H}}^{k+n}(T(E);\mathbf {Z} _{2})	rigid rotor 
+frequency 	 0 	 \displaystyle \mathbf {q} =-\lambda \operatorname {grad} (T)	thermal conductivity 
+frequency 	 0 	 \displaystyle f^{*}=\sup _{N\geq 1}{\frac {1}{N}}\sum _{i=0}^{N-1}f\circ T^{i}	median absolute deviation 
+frequency 	 0 	 \displaystyle T_{a}+{\frac {T_{m}-T_{a}}{3}}	airport reference temperature 
+frequency 	 0 	 \displaystyle \Delta P=\;C\,a\;h\;{\bigg (}{\frac {1}{T_{o}}}-{\frac {1}{T_{i}}}{\bigg )}	stack effect 
+frequency 	 0 	 \displaystyle \Delta P=\;C\,a\;h\;{\bigg (}{\frac {1}{T_{o}}}-{\frac {1}{T_{i}}}{\bigg )}	Mason–Weaver equation 
+frequency 	 0 	 \displaystyle {\dot {V}}=V_{T}\times f	respiratory minute volume 
+frequency 	 0 	 \displaystyle f_{T}=S_{0}-S_{T}-\left(K-S_{T}\right)^{+}+C=S_{0}-K-\left(S_{T}-K\right)^{+}+C	payoff at maturity of covered put 
+frequency 	 0 	 \displaystyle \lambda _{\text{max}}={\frac {b}{T}}	Wien's displacement law 
+frequency 	 0 	 \displaystyle {\frac {\partial T}{\partial t}}=\nabla \cdot (\alpha _{1}\nabla T)+Q	Free boundary problem 
+frequency 	 0 	 \displaystyle [i]=T^{q^{i}}-T,	Carlitz exponential 
+frequency 	 0 	 \displaystyle \eta \,=\,1-{\frac {T_{c}}{T_{h}}}	fossil-fuel power station 
+frequency 	 0 	 \displaystyle \sum _{i}n_{i}\mathrm {d} \mu _{i}=-S\mathrm {d} T+V\mathrm {d} p	Gibbs–Duhem equation 
+frequency 	 0 	 \displaystyle H={\frac {kT}{Mg}}	scale height 
+frequency 	 0 	 \displaystyle Q_{10}=\left({\frac {k_{2}}{k_{1}}}\right)^{\frac {10\,\mathrm {K} }{T_{2}-T_{1}}}\approx 2.5	Q10 (temperature coefficient) 
+frequency 	 0 	 \displaystyle k=Ae^{-E_{a}/(RT)}	Arrhenius equation 
+frequency 	 0 	 \displaystyle T(v_{1},v_{2},\ldots ,v_{r})=T(v_{\sigma 1},v_{\sigma 2},\ldots ,v_{\sigma r})	symmetric tensor 
+frequency 	 0 	 \displaystyle W=\{u\in L^{p}([0,T];X_{0})|{\dot {u}}\in L^{q}([0,T];X_{1})\}.	coupon collector's problem 
+frequency 	 0 	 \displaystyle F=\sigma T^{4}({\tfrac {R}{D}})^{2}	The Magnificent Seven 
+frequency 	 0 	 \displaystyle C={\frac {\mathrm {d} Q}{\mathrm {d} T}}	heat capacity 
+frequency 	 0 	 \displaystyle T_{\text{A}}={\frac {1}{4\pi }}\int _{0}^{2\pi }\int _{0}^{\pi }G(\theta ,\varphi )T_{\text{S}}(\theta ,\varphi )\sin(\theta )\;d\theta d\varphi &lt;ref&gt;[1]&lt;/ref&gt;	Antenna gain-to-noise-temperature 
+frequency 	 0 	 \displaystyle {P}\propto {T}	Gay-Lussac's law 
+frequency 	 0 	 \displaystyle T_{n}=\{d\in \mathbb {N} :d\mid n\}	divisor set 
+frequency 	 0 	 \displaystyle n_{\rm {Q}}=\left({\frac {MkT}{2\pi \hbar ^{2}}}\right)^{3/2}	Quantum concentration 
+frequency 	 0 	 \displaystyle D={\mu \,k_{B}T}	fluctuation-dissipation theorem 
+frequency 	 0 	 \displaystyle E=K'+{\frac {RT}{nF}}\ln(c)	Stabilizer code 
+frequency 	 0 	 \displaystyle E=K'+{\frac {RT}{nF}}\ln(c)	Pauli group 
+frequency 	 0 	 \displaystyle p={\frac {RT}{V-b}}\exp \left(-{\frac {a}{RTV}}\right)	Q230907 
+frequency 	 0 	 \displaystyle \Delta T=P\cdot R_{th}	Q3258283 
+frequency 	 0 	 \displaystyle T_{C}=10+\left({\frac {N-40}{7}}\right)	Dolbear's Law 
+frequency 	 0 	 \displaystyle f^{put}\left(S_{T},k\right)=\left(k-S_{T}\right)^{+}	cost to claim a put option 
+frequency 	 0 	 \displaystyle Jo={\frac {2\rho c_{p}\Delta T}{\mu _{\mathrm {e} }H^{2}}}	Joule's number 
+frequency 	 0 	 \displaystyle \alpha A+\beta B\rightleftharpoons \sigma A+\tau T	Autocatalysis 
+frequency 	 0 	 \displaystyle T_{t}(af+bh)=aT_{t}f+bT_{t}h	Scale-space axioms 
+frequency 	 0 	 \displaystyle f:(X,T_{1})\to (Y,T_{2})\quad \land \quad \forall \,U\in T_{2}:\quad f^{-1}(U)\in T_{1}	continuous function 
+frequency 	 0 	 \displaystyle \tau _{A}(\omega ):=\inf\{t\in T|X_{t}(\omega )\in A\}	Hitting time 
+frequency 	 0 	 \displaystyle \Delta T=T-T_{\mathrm {r} }	temperature difference 
+frequency 	 0 	 \displaystyle E_{eq,K^{+}}={\frac {RT}{zF}}\ln {\frac {[K^{+}]_{o}}{[K^{+}]_{i}}}	membrane potential 
+frequency 	 0 	 \displaystyle b_{ij}=\sum _{\lambda =1}^{10}G^{(\lambda )}T_{ij}^{(\lambda )}	Explicit algebraic stress model 
+frequency 	 0 	 \displaystyle \langle u,v\rangle =\langle Tu,Tv\rangle 	orthogonal transformation 
+frequency 	 0 	 \displaystyle h(nT_{s})={\begin{cases}1;&amp;n=0\\0;&amp;n\neq 0\end{cases}}	Nyquist ISI criterion 
+frequency 	 0 	 \displaystyle {\begin{aligned}J&amp;=x^{T}(t_{1})F(t_{1})x(t_{1})+\int \limits _{t_{0}}^{t_{1}}\left(x^{T}Qx+u^{T}Ru+2x^{T}Nu\right)\\{\dot {x}}&amp;=Ax+Bu\end{aligned}}	linear-quadratic regulator 
+frequency 	 0 	 \displaystyle ChR=100(1-{\frac {T_{o}}{T_{s}}})=100{\frac {T_{a}}{T_{s}}}	Channel reliability 
+frequency 	 0 	 \displaystyle \mathrm {HI} =c_{1}+c_{2}T+c_{3}R+c_{4}TR+c_{5}T^{2}+c_{6}R^{2}+c_{7}T^{2}R+c_{8}TR^{2}+c_{9}T^{2}R^{2}	heat index 
+frequency 	 0 	 \displaystyle T={\frac {1}{2}}{\dot {q}}^{\mathrm {T} }M{\dot {q}}	mass matrix 
+frequency 	 0 	 \displaystyle TMDL=WLA+LA+MOS	Total maximum daily load 
+frequency 	 0 	 \displaystyle f_{T}=S_{T}-S_{0}+\left(K-S_{T}\right)^{+}-D=K-S_{0}+\left(S_{T}-K\right)^{+}-D	payoff at maturity of protective put 
+frequency 	 0 	 \displaystyle \eta _{\mathrm {max} }=1-{\frac {T_{\mathrm {c} }}{T_{\mathrm {h} }}}	maximum efficiency 
+frequency 	 0 	 \displaystyle BRN={\frac {(g/T_{v})\Delta \theta _{v}\Delta z}{(\Delta U)^{2}+(\Delta V)^{2}}}	Bulk Richardson number 
+frequency 	 0 	 \displaystyle Q=T_{3}+{\tfrac {1}{2}}Y_{W}	weak hypercharge 
+frequency 	 0 	 \displaystyle E=T+V	mechanical energy 
+frequency 	 0 	 \displaystyle \epsilon ={\frac {T_{e,db}-T_{l,db}}{T_{e,db}-T_{e,wb}}}	orthographic map projection 
+frequency 	 0 	 \displaystyle Q_{10}=\left({\frac {R_{2}}{R_{1}}}\right)^{10/(T_{2}-T_{1})}	Q10 
+frequency 	 0 	 \displaystyle A^{T}=-A	skew-symmetric matrix 
+frequency 	 0 	 \displaystyle T=\left\{\left(x,\sin {\tfrac {1}{x}}\right):x\in (0,1]\right\}\cup \{(0,0)\}	topologist's sine curve 
+frequency 	 0 	 \displaystyle Q=\{x\in k^{n}\mid x^{T}Ax+2b^{T}x+c=0\}	quadric 
+frequency 	 0 	 \displaystyle \mathrm {MASE} ={\frac {1}{T}}\sum _{t=1}^{T}\left({\frac {\left|e_{t}\right|}{{\frac {1}{T-1}}\sum _{t=2}^{T}\left|Y_{t}-Y_{t-1}\right|}}\right)={\frac {\sum _{t=1}^{T}\left|e_{t}\right|}{{\frac {T}{T-1}}\sum _{t=2}^{T}\left|Y_{t}-Y_{t-1}\right|}}	mean absolute scaled error 
+frequency 	 0 	 \displaystyle (T^{*}T)^{*}=T^{*}T	Von Neumann's theorem 
+frequency 	 0 	 \displaystyle M={\frac {1000000}{T}}	Mired 
+frequency 	 0 	 \displaystyle \|f-\varphi _{\delta }\|_{\infty }=\sup _{t\in [0,T]}\|f(t)-\varphi _{\delta }(t)\|_{X}&lt;\delta ;	Regulated function 
+frequency 	 0 	 \displaystyle L(q_{i},{\dot {q}}_{i})=T(q_{i},{\dot {q}}_{i})-V(q_{i})	Lagrange function 
+frequency 	 0 	 \displaystyle k_{t}={\frac {t_{v}}{T_{N}}}={\frac {t_{N}-t_{NV}}{T_{N}}}	Q187089 
+frequency 	 0 	 \displaystyle RT^{n}=P_{H}SU^{n}\vert _{H}\;\forall n\geq 0	Commutant lifting theorem 
+frequency 	 0 	 \displaystyle p_{ij}\approx \sum _{t}^{T}p_{t}\,p_{it}\,p_{jt}	latent class model 
+frequency 	 0 	 \displaystyle \delta (X,Y)=\log {\Bigl (}\inf\{\|T\|\|T^{-1}\|T\in \operatorname {GL} (X,Y)\}{\Bigr )}	Banach–Mazur compactum 
+frequency 	 0 	 \displaystyle f(x+T)=f(x)	periodic function 
+frequency 	 0 	 \displaystyle {\mathit {Cl}}={\frac {vl\rho }{\lambda \Delta T}}	Clausius number 
+frequency 	 0 	 \displaystyle {\mathit {Sk}}={\frac {\varepsilon \sigma T^{3}l}{\lambda }}	Stark number 
+frequency 	 0 	 \displaystyle V\propto T	Charles's law 
+frequency 	 0 	 \displaystyle D_{T}=k_{T}D	thermal diffusion coefficient 
+frequency 	 0 	 \displaystyle {\Delta H^{o}}={RT^{2}}.{\frac {d\ln K}{dT}}	Temperature jump 
+frequency 	 0 	 \displaystyle Callx=ATM+0.5RRx+Flyx	Volatility smile 
+frequency 	 0 	 \displaystyle \sup \nolimits _{T\in F}\|T(x)\|_{Y}&lt;\infty 	Uniform boundedness principle 
+frequency 	 0 	 \displaystyle \beta =\left({\frac {\partial p}{\partial T}}\right)_{V}	pressure coefficient 
+frequency 	 0 	 \displaystyle {\rm {\delta }}S={\frac {{\rm {\delta }}q}{T}}	Introduction to entropy 
+frequency 	 0 	 \displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t	Model rocket motor classification 
+frequency 	 0 	 \displaystyle h_{\epsilon }^{*}(T_{\epsilon })=T_{0}+\epsilon \,h_{\epsilon }^{*}({\mathcal {L}}_{X}T_{\epsilon })+O(\epsilon ^{2})	Stewart–Walker lemma 
+frequency 	 0 	 \displaystyle \forall pTp	Trivialism 
+frequency 	 0 	 \displaystyle \sigma (T)	spectrum 
+frequency 	 0 	 \displaystyle {\mathit {Ec}}={\frac {v^{2}}{c_{p}\Delta T}}	Eckert number 
+frequency 	 0 	 \displaystyle f_{X}(x\mid \theta )=h(x)\exp \left(\eta (\theta )\cdot T(x)-A(\theta )\right)	exponential family 
+frequency 	 0 	 \displaystyle U=\sum _{t=0}^{T}\beta ^{t}u(c_{t})	Elasticity of intertemporal substitution 
+frequency 	 0 	 \displaystyle Q=C_{\mathrm {th} }\Delta T	thermal mass 
+frequency 	 0 	 \displaystyle j^{\star }=\sigma T^{4}	Hayashi track 
+frequency 	 0 	 \displaystyle A=T(V)/R	Koszul duality 
+frequency 	 0 	 \displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }	Einstein field equations 
+frequency 	 0 	 \displaystyle N\cdot v(T,p)=\sum _{i=1}^{K}N_{i}\cdot v_{i}(T,p)	Thomson scattering 
+frequency 	 0 	 \displaystyle P=\sigma \varepsilon AT^{4}	Stefan–Boltzmann law 
+frequency 	 0 	 \displaystyle \operatorname {O} _{n}(\mathbb {K} )=\{A\in \mathbb {K} ^{n\times n}|A^{T}A=AA^{T}=I_{n}\}	orthogonal group 
+frequency 	 0 	 \displaystyle K={e^{-\Delta G/RT}}	Critical variable 
+frequency 	 0 	 \displaystyle T={\tfrac {1}{2}}ab	right triangle 
+frequency 	 0 	 \displaystyle R\ =\ N_{S}Zj\exp \left({\frac {-\Delta G^{*}}{k_{B}T}}\right)	Classical nucleation theory 
+frequency 	 0 	 \displaystyle (X,{\mathcal {B}},\mu ,T)	measure-preserving dynamical system 
+frequency 	 0 	 \displaystyle J=-A/T	Massieu function 
+frequency 	 0 	 \displaystyle A^{T}P+PA=-QQ^{T}	Kalman–Yakubovich–Popov lemma 
+frequency 	 0 	 \displaystyle T_{ij}^{k}=\Gamma _{ij}^{k}-\Gamma _{ji}^{k}	torsion tensor 
+frequency 	 0 	 \displaystyle i_{Q}^{\ast }(TE)=\{(q,v)\in Q\times TE\mid i(q)=\tau _{E}(v)\}\subset Q\times TE,	Kosmann lift 
+frequency 	 0 	 \displaystyle R_{\mu \nu }=T_{\mu \nu }\,	history of general relativity 
+frequency 	 0 	 \displaystyle {\frac {\kappa }{\sigma }}=LT	Wiedemann–Franz law 
+frequency 	 0 	 \displaystyle V(x)=\max _{a\in \Gamma (x)}\{F(x,a)+\beta V(T(x,a))\}	Bellman equation 
+frequency 	 0 	 \displaystyle T={\frac {\ln(2)}{\ln(1+r)}}	axion 
+frequency 	 0 	 \displaystyle {\cfrac {G+C}{A+T+G+C}}	GC-content 
+frequency 	 0 	 \displaystyle K={\frac {q}{\Delta T}}	heat transfer coefficient 
+frequency 	 0 	 \displaystyle D=\mu k_{B}T	Einstein relation 
+frequency 	 0 	 \displaystyle {1 \over T}=A+B\ln(R)+C[\ln(R)]^{3}	Steinhart–Hart equation 
+frequency 	 0 	 \displaystyle C_{T}=C_{K}\cup \{U\}	Heine–Borel theorem 
+frequency 	 0 	 \displaystyle \lim _{T\rightarrow T_{H}^{-}}Tr[e^{-\beta H}]=\infty 	Weinberg–Witten theorem 
+frequency 	 0 	 \displaystyle H=T+V+V_{\text{bias}}	Metadynamics 
+frequency 	 0 	 \displaystyle \nabla _{\mu }T^{\mu \nu }=0	Relativistic Euler equations 
+frequency 	 0 	 \displaystyle T=2\pi {\sqrt {\frac {a^{3}}{\mu }}}	orbital period 
+frequency 	 0 	 \displaystyle T_{A}=0:\csc ^{2}{\left(B/2\right)}:\csc ^{2}{\left(C/2\right)};T_{B}=\csc ^{2}{\left(A/2\right)}:0:\csc ^{2}{\left(C/2\right)};T_{C}=\csc ^{2}{\left(A/2\right)}:\csc ^{2}{\left(B/2\right)}:0	extouch triangle 
+frequency 	 0 	 \displaystyle \nabla _{(i}T_{jk)}=0	Killing tensor 
+frequency 	 0 	 \displaystyle \eta _{\text{max}}=\eta _{\text{Carnot}}=1-{\frac {T_{\mathrm {C} }}{T_{\mathrm {H} }}}	connection 
+frequency 	 0 	 \displaystyle \eta _{\text{max}}=\eta _{\text{Carnot}}=1-{\frac {T_{\mathrm {C} }}{T_{\mathrm {H} }}}	Carnot's theorem 
+frequency 	 0 	 \displaystyle \mu _{\mathrm {X} }=\left({\frac {\partial G}{\partial n_{\mathrm {X} }}}\right)_{T,p}	chemical potential 
+frequency 	 0 	 \displaystyle a_{i}=e^{\frac {\mu _{i}-\mu _{i}^{\ominus }}{RT}}	activity 
+frequency 	 0 	 \displaystyle S_{r}={\frac {dQ/dT}{Q}}	Hierarchical generalized linear model 
+frequency 	 0 	 \displaystyle S_{r}={\frac {dQ/dT}{Q}}	Nanothermometry 
+frequency 	 0 	 \displaystyle Y_{t}(u)=T+Y_{c}(u)	Rubin causal model 
+frequency 	 0 	 \displaystyle \sigma \propto gT^{3}	Cosmic neutrino background 
+frequency 	 0 	 \displaystyle T(n)=S(n)+T(n(1-p))	prune and search 
+frequency 	 0 	 \displaystyle I_{diode}={\dfrac {U_{IN}-U_{OUT}}{R_{\Omega }}}	row and column spaces 
+frequency 	 0 	 \displaystyle X_{T}=C+\mu RX	Helmert transformation 
+frequency 	 0 	 \displaystyle P(t,T)=\mathbb {E} ^{Q}\left[\left.\exp {\left(-\int _{t}^{T}r_{s}\,ds\right)}\right|{\mathcal {F}}_{t}\right]	delayed neutron 
+frequency 	 0 	 \displaystyle {\frac {\mathrm {d} \varepsilon }{\mathrm {d} t}}={\frac {C\sigma ^{m}}{d^{b}}}e^{\frac {-Q}{kT}}	creep 
+frequency 	 0 	 \displaystyle x^{T}Ax\geq 0	copositive matrix 
+frequency 	 0 	 \displaystyle \lim _{T\to T_{\mathrm {H} }}\operatorname {tr} \exp(-H/k_{\mathrm {B} }T)=\infty 	Hagedorn temperature 
+frequency 	 0 	 \displaystyle R_{n}={\frac {e^{2}}{4kT_{0}\,\Delta f}}	Equivalent noise resistance 
+frequency 	 0 	 \displaystyle \alpha _{A}={\frac {1}{A}}{\frac {\mathrm {d} A}{\mathrm {d} T}}	areal expansion coefficient 
+frequency 	 0 	 \displaystyle \langle T,\alpha \rangle 	Homological integration 
+frequency 	 0 	 \displaystyle T=b\cdot \log _{2}(n+1)	Hick's law 
+frequency 	 0 	 \displaystyle \operatorname {grad} (T)={\begin{pmatrix}{\frac {\partial T}{\partial x}}\\{\frac {\partial T}{\partial y}}\\{\frac {\partial T}{\partial z}}\end{pmatrix}}	temperature gradient 
+frequency 	 0 	 \displaystyle T=2\pi {\sqrt {\frac {I}{\kappa }}}	balance wheel 
+frequency 	 0 	 \displaystyle T_{n}(\cos \theta )=\cos(n\theta )	Chebyshev polynomials of the first kind 
+frequency 	 0 	 \displaystyle T={\frac {1}{2}}mv^{2}	kinetic energy 
+frequency 	 0 	 \displaystyle T_{\text{P}}={\sqrt {\frac {\hbar c^{5}}{Gk_{\text{B}}^{2}}}}	Planck temperature 
+frequency 	 0 	 \displaystyle \Phi U\subset T\times M\to M	Dynamical system 
+frequency 	 0 	 \displaystyle I=I_{\mathrm {S} }\left(e^{qV_{\mathrm {D} } \over nkT}-1\right)	frequency mixer 
+frequency 	 0 	 \displaystyle ZFW+FOB=TOW	zero-fuel weight 
+frequency 	 0 	 \displaystyle q=hA(T_{a}-T_{b})	Frontogenesis 
+frequency 	 0 	 \displaystyle \mathbf {T} ^{(\mathbf {n} )}=\mathbf {n} \cdot {\boldsymbol {\sigma }}\quad {\text{or}}\quad T_{j}^{(n)}=\sigma _{ij}n_{i}.\,\!	Cauchy stress tensor 
+frequency 	 0 	 \displaystyle M=(D+L)D^{-1}(D+L)^{T}	symmetric successive over-relaxation 
+frequency 	 0 	 \displaystyle L=4\pi R^{2}\sigma T^{4}	Luminosity (star) 
+frequency 	 0 	 \displaystyle 0\to Q^{\epsilon }(M)\to B(M){\stackrel {1-\epsilon T}{\longrightarrow }}B(M)\to Q_{\epsilon }(M)\to 0	ε-quadratic form 
+frequency 	 0 	 \displaystyle V_{t}^{T}=\mathbb {E} G_{\tau ^{*}}=\sup _{t\leq \tau \leq T}\mathbb {E} G_{\tau }	optimal stopping 
+frequency 	 0 	 \displaystyle TCI={\frac {{\textrm {FXEarnings}}-{\textrm {FXExpenses}}}{{\textrm {FXEarnings}}+{\textrm {FXExpenses}}}}	Competitiveness 
+frequency 	 0 	 \displaystyle {\frac {1}{K}}\,d_{T}(g,h)\leq d_{S}(g,h)\leq K\,d_{T}(g,h)	Washburn's equation 
+frequency 	 0 	 \displaystyle T_{L}={\frac {T_{N}}{cos(\theta )}}	sloped armour 
+frequency 	 0 	 \displaystyle \tau _{\text{N}}=\tau _{0}\exp \left({\frac {KV}{k_{\text{B}}T}}\right)	Néel relaxation theory 
+frequency 	 0 	 \displaystyle \ ST={\frac {k(\mathrm {Span} )}{RBW^{2}}}	spectrum analyzer 
+frequency 	 0 	 \displaystyle h={\frac {q}{T_{\mathrm {s} }-T_{\mathrm {r} }}}	surface coefficient of heat transfer 
+frequency 	 0 	 \displaystyle T_{\mu \nu }=-{\frac {2}{\sqrt {\det g}}}{\frac {\delta S}{\delta g^{\mu \nu }}}=-{\frac {2}{\sqrt {\det g}}}{\frac {\partial ({\sqrt {\det g}}{\mathcal {L}})}{\partial g^{\mu \nu }}}=-2{\frac {\partial {\mathcal {L}}}{\partial g^{\mu \nu }}}+g_{\mu \nu }{\mathcal {L}}	stress–energy tensor 
+frequency 	 0 	 \displaystyle \Delta (T=0)=1.764\,k_{B}T_{c}	Brownian motion 
+frequency 	 0 	 \displaystyle Y=-G/T	Planck function 
+frequency 	 0 	 \displaystyle \operatorname {Gram} (A)=\det(A^{T}A)	Gram determinant 
+frequency 	 0 	 \displaystyle TD=MD-{\frac {1}{N}}	series circuit 
+frequency 	 0 	 \displaystyle K_{C}={\frac {VT}{L}}	Keulegan–Carpenter number 
+frequency 	 0 	 \displaystyle \left|\sum _{i=0}^{q-1}\phi f^{i}(x)-q\int _{T}\phi \,d\mu \right|\leqslant \operatorname {Var} (\phi )	Denjoy–Koksma inequality 
+frequency 	 0 	 \displaystyle \sum _{k=0}^{\infty }T^{k}	Neumann series 
+frequency 	 0 	 \displaystyle M{\ddot {X}}=-\nabla U(X)-\gamma {\dot {X}}+{\sqrt {2\gamma k_{B}T}}R(t)\,	Langevin dynamics 
+frequency 	 0 	 \displaystyle E_{D}={\frac {1}{4\pi \epsilon _{0}^{2}}}{\frac {ne^{3}\ln \Lambda }{m_{e}v_{Te}^{2}}}	Dreicer field 
+frequency 	 0 	 \displaystyle \forall y(R(x,y)\rightarrow ST_{y}(\Box p))	Standard translation 
+frequency 	 0 	 \displaystyle I_{\nu }={\frac {2h\nu ^{3}}{c^{2}}}{\frac {1}{e^{\frac {h\nu }{kT}}-1}}	brightness temperature 
+frequency 	 0 	 \displaystyle \alpha _{l}={\frac {1}{l}}{\frac {\mathrm {d} l}{\mathrm {d} T}}	linear expansion coefficient 
+frequency 	 0 	 \displaystyle \langle \xi \mid T\xi \rangle \geq 0\quad \xi \in \operatorname {dom} \ T	Friedrichs extension 
+frequency 	 0 	 \displaystyle V=(HH\cdot TR\cdot TU)+(HH\cdot TR\cdot MR\cdot RR\cdot RU)	Fourt-Woodlock equation 
+frequency 	 0 	 \displaystyle K_{ij}^{k}={\frac {1}{2}}(T_{ij}^{k}-g_{il}g^{km}T_{jm}^{l}+g_{jl}g^{km}T_{mi}^{l})=\Gamma _{ij}^{k}-\Gamma _{\text{Levi-Civita}}{}_{ij}^{k}	contorsion tensor 
+frequency 	 0 	 \displaystyle T_{n}=(n-1)!	Recursive tree 
+frequency 	 0 	 \displaystyle Q=UA\Delta T	Bogdanov-Takens bifurcation 
+frequency 	 0 	 \displaystyle \Delta T=-{\text{tr}}\;\nabla ^{2}T	Laplace operators in differential geometry 
+frequency 	 0 	 \displaystyle \Lambda =\delta T	logarithmic decrement 
+frequency 	 0 	 \displaystyle T_{1}+T_{2}+T_{3}+T_{7}	analysis of algorithms 
+frequency 	 0 	 \displaystyle f^{call}\left(S_{T},k\right)=\left(S_{T}-k\right)^{+}	cost to claim a call option 
+frequency 	 0 	 \displaystyle r=k(T)[\mathrm {A} ]^{m}[\mathrm {B} ]^{n}	reaction rate constant 
+frequency 	 0 	 \displaystyle p={\frac {R\cdot T}{V_{m}-b}}-{\frac {a(T)}{V_{m}^{2}+2\cdot b\cdot V_{m}-b^{2}}}	Q230917 
+frequency 	 0 	 \displaystyle \tau ={\frac {n_{corr}-\sum _{i=1}^{T}p_{i}n_{i}}{N-\sum _{i=1}^{T}p_{i}n_{i}}}	Klecka's tau 
+frequency 	 0 	 \displaystyle c'=D_{1}\,S^{T}\,f_{1}=D_{2}\,S^{T}\,f_{2}	chromatic adaptation 
+frequency 	 0 	 \displaystyle \Gamma _{\beta \gamma }^{\alpha }+T_{~\beta \gamma }^{\alpha }+S_{~\beta \gamma }^{\alpha }	Bismut connection 
+frequency 	 0 	 \displaystyle \left(p+{\frac {a'}{v^{2}}}\right)\left(v-b'\right)=kT	Van der Waals equation 
+frequency 	 0 	 \displaystyle {\mathit {Bz}}={\frac {\rho vc_{p}}{\varepsilon \sigma T^{3}}}	Boltzmann number 
+frequency 	 0 	 \displaystyle {\mathit {Gr}}^{*}=-{\frac {l^{3}g\Delta x}{\rho \nu ^{2}}}\left({\frac {\partial \rho }{\partial x}}\right)_{T,p}	Grashof number for mass transfer 
+frequency 	 0 	 \displaystyle \omega =-\log _{10}(p_{r}^{\rm {sat}})-1,{\rm {\ at\ }}T_{r}=0.7	acentric factor 
+frequency 	 0 	 \displaystyle {\color {Blue}BCT}=5.876\times {\color {Red}ECT}\times {\sqrt {U\times d}}	Edge crush test 
+frequency 	 0 	 \displaystyle {{\frac {dQ}{dt}}=h\cdot A\cdot (T(t)-T_{\text{env}})=h\cdot A\Delta T(t)\quad }	Newton's law of cooling 
+frequency 	 0 	 \displaystyle \langle T\rangle =-{\frac {1}{2}}\sum _{i}\langle {\vec {F}}_{i}\cdot {\vec {r}}_{i}\rangle 	virial theorem 
+frequency 	 0 	 \displaystyle {\mathit {Po}}={\frac {Q_{\mathrm {m} }l^{2}}{\lambda \Delta T}}	Pomerantsev number 
+frequency 	 0 	 \displaystyle PV=nRT	gas 
+frequency 	 0 	 \displaystyle PV=nRT	ideal gas 
+frequency 	 0 	 \displaystyle PV=nRT	ideal gas law 
+frequency 	 0 	 \displaystyle T_{\mathrm {H} }={\frac {1}{8\pi M}}	Hawking radiation 
+frequency 	 0 	 \displaystyle RT_{60}={\frac {24\ln 10^{1}}{c_{20}}}{\frac {V}{Sa}}\approx 0.1611\,\mathrm {s} \mathrm {m} ^{-1}{\frac {V}{Sa}}	reverberation 
+frequency 	 0 	 \displaystyle l\colon TS\to ST	distributive law between monads 
+frequency 	 0 	 \displaystyle \tau _{ij}=f(T)=a_{ij}+{\frac {b_{ij}}{T}}+c_{ij}\ \ln \ T+d_{ij}T	Non-random two-liquid model 
+frequency 	 0 	 \displaystyle BI=(H_{700}-H_{1000})-T_{700}-200	Q895946 
+frequency 	 0 	 \displaystyle \|T\|=\sup _{x\in {\mathcal {D}}(T):\|x\|\neq 0}{\frac {\|Tx\|}{\|x\|}}	operator norm 
+frequency 	 0 	 \displaystyle K_{n}={\frac {E\cdot T\cdot d}{a}}	Applied element method 
+frequency 	 0 	 \displaystyle \rho _{e}=e{(c^{+}-c^{-})}=c_{0}e\cdot \left[e^{\frac {-e\psi (x,y,z)}{k_{B}T}}-e^{\frac {e\psi (x,y,z)}{k_{B}T}}\right]	Poisson–Boltzmann equation 
+frequency 	 0 	 \displaystyle T(C,\otimes ,I)\to (C,\otimes ,I)	monoidal monad 
+frequency 	 0 	 \displaystyle \forall U\in T{\mbox{ s.t. }}U\neq \emptyset ,\mu (U)&gt;0	Strictly positive measure 
+frequency 	 0 	 \displaystyle \sigma (T)=\sigma _{p}(T)\cup \sigma _{c}(T)\cup \sigma _{r}(T)	Decomposition of spectrum 
+frequency 	 0 	 \displaystyle p={\frac {RT}{V-b}}-{\frac {a}{V^{5/3}}}	Q230907 
+frequency 	 0 	 \displaystyle {\mathcal {E}}^{(0)}=\left\{z\in \mathbb {R} ^{n}\ \ (z-x_{0})^{T}P_{(0)}^{-1}(z-x_{0})\leqslant 1\right\}	ellipsoid method 
+frequency 	 0 	 \displaystyle G=H-TS	Gibbs free energy 
+frequency 	 0 	 \displaystyle T_{\mathrm {amortized} }(o)=T_{\mathrm {actual} }(o)+C\cdot (\Phi (S_{\mathrm {after} })-\Phi (S_{\mathrm {before} }))	Potential method 
+frequency 	 0 	 \displaystyle \lbrace (x,y)\in X\times Y\mid Tx=y\rbrace 	closed graph theorem 
+frequency 	 0 	 \displaystyle \sigma _{f}={\sqrt {\frac {kT}{mc^{2}}}}f_{0}	Doppler broadening 
+frequency 	 0 	 \displaystyle +_{*}T(E\times E)\to TE,\qquad \lambda _{*}TE\to TE	Secondary vector bundle structure 
+frequency 	 0 	 \displaystyle T={\boldsymbol {M}}\cdot {\boldsymbol {e}}_{\mathrm {Q} }	torque 
+frequency 	 0 	 \displaystyle A=U-TS	Helmholtz free energy 
+frequency 	 0 	 \displaystyle \Delta R=k\Delta T	thermistor 
+frequency 	 0 	 \displaystyle {\mathit {Gr}}={\frac {l^{3}g\alpha _{V}\Delta T}{\nu ^{2}}}	Grashof number 
+frequency 	 0 	 \displaystyle T(s)={\frac {kG(s)}{1+kG(s)}}	Nyquist stability criterion 
+frequency 	 0 	 \displaystyle T({\vec {x}})=\mathbf {A} {\vec {x}}	transformation matrix 
+frequency 	 0 	 \displaystyle H_{p}={\frac {(273.15+T)}{1000}}\cdot (C+\log(t))	Hollomon–Jaffe parameter 
+frequency 	 0 	 \displaystyle t=T-T_{0}	Celsius temperature 
+frequency 	 0 	 \displaystyle {\frac {P_{1}V_{1}}{T_{1}}}={\frac {P_{2}V_{2}}{T_{2}}}	Combined gas law 
+frequency 	 0 	 \displaystyle \mathbf {W} ^{i}=[T_{i}]\mathbf {w} =[A_{i}]\mathbf {w} +\mathbf {d} _{i},\quad i=1,\ldots ,5	Burmester's theory 
+frequency 	 0 	 \displaystyle T={\frac {2L}{\sqrt {gh}}}	Seiche 
+frequency 	 0 	 \displaystyle T=2\pi {\sqrt {\frac {I}{\kappa }}}\,	balance wheel 
+frequency 	 0 	 \displaystyle {\frac {T}{T_{i}}}={\sqrt {\frac {M_{i}}{m_{e}}}}	Peierls transition 
+frequency 	 0 	 \displaystyle K_{\mathrm {eq} }=10^{-2.4198+0.0003855T+{\frac {2180.6}{T}}}	water-gas shift reaction 
+frequency 	 0 	 \displaystyle A_{T_{p}}=\{a\in A\;|\;\exists n\in \mathbb {N} \;,p^{n}a=0\}.\;	torsion subgroup 
+frequency 	 0 	 \displaystyle A=A^{T}	symmetric matrix 
+frequency 	 0 	 \displaystyle t={\frac {T_{1}}{2\pi }}(E-e_{1}\sin E)	Orbit phasing 
+frequency 	 0 	 \displaystyle IG(T,a)=H(T)-\sum _{v\in vals(a)}{\frac {|\{{\textbf {x}}\in T|x_{a}=v\}|}{|T|}}\cdot H(\{{\textbf {x}}\in T|x_{a}=v\})	Information gain in decision trees 
+frequency 	 0 	 \displaystyle {\frac {PV}{T}}=k	Combined gas law 
+frequency 	 0 	 \displaystyle \mathbb {P} \left\{\sup _{t\in T}f(t)\geq u\right\}	Excursion probability 
+frequency 	 0 	 \displaystyle H={\frac {\rho _{T}}{\rho _{B}}}	Hausner ratio 
+frequency 	 0 	 \displaystyle zcr={\frac {1}{T-1}}\sum _{t=1}^{T-1}\mathbb {1} _{\mathbb {R} _{&lt;0}}(s_{t}s_{t-1})	Zero-crossing rate 
+frequency 	 0 	 \displaystyle P={\frac {1}{T}}\int _{0}^{T}i(t)\cdot e(t)dt\,\!	Output power of an analog TV transmitter 
+frequency 	 0 	 \displaystyle {\mathit {Br}}={\frac {\eta v^{2}}{\lambda \Delta T}}	Brinkman number 
+frequency 	 0 	 \displaystyle {\mathit {Mg}}={\frac {l\Delta T}{\eta a}}{\frac {\mathrm {d} \gamma }{\mathrm {d} T}}	Marangoni number 
+frequency 	 0 	 \displaystyle WCI=(10{\sqrt {v}}-v+10.5)\cdot (33-T_{\mathrm {a} })	wind chill 
+frequency 	 0 	 \displaystyle T_{b}={\frac {a}{Rb}}	Boyle temperature 
+frequency 	 0 	 \displaystyle {\displaystyle MTTF={\frac {A}{j^{n}}}e^{\left({\frac {Q}{kT}}\right)}}	Black's equation 
+frequency 	 0 	 \displaystyle A=\{-V_{T}(V_{t})_{t=0}^{T}{\text{ is the price of a self-financing portfolio at each time}}\}	Acceptance set 
+frequency 	 0 	 \displaystyle A=\{-V_{T}(V_{t})_{t=0}^{T}{\text{ is the price of a self-financing portfolio at each time}}\}	Static forces and virtual-particle exchange 
+frequency 	 0 	 \displaystyle T(\rho ,\sigma )={\frac {1}{2}}||\rho -\sigma ||_{1}={\frac {1}{2}}\mathrm {Tr} \left[{\sqrt {(\rho -\sigma )^{\dagger }(\rho -\sigma )}}\right]	Trace distance 
+frequency 	 0 	 \displaystyle {\frac {L_{vap}}{T_{boiling}}}\approx 87-88{\frac {J}{Kmol}}	Trouton's ratio 
+frequency 	 0 	 \displaystyle T_{ijk\dots }=-T_{jik\dots }=T_{jki\dots }=-T_{kji\dots }=T_{kij\dots }=-T_{ikj\dots }	antisymmetric tensor 
+frequency 	 0 	 \displaystyle IG(T,a)=H(T)-H(T|a)	Information gain in decision trees 
+frequency 	 0 	 \displaystyle f(v)={\sqrt {\left({\frac {m}{2\pi kT}}\right)^{3}}}\,4\pi e^{-{\frac {mv^{2}}{2kT}}}	Maxwell–Boltzmann distribution 
+frequency 	 0 	 \displaystyle {\mathcal {L}}=T-V	Lagrangian operator 
+frequency 	 0 	 \displaystyle YouTube.com/llstylish	Geometric dimensioning and tolerancing 
+frequency 	 0 	 \displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.	Rayleigh–Bénard convection 
+frequency 	 0 	 \displaystyle x(N)={1 \over N+1}\sum _{n=0}^{N}T^{n}(x)	Fischer group Fi24 
+frequency 	 0 	 \displaystyle \sigma _{ab}=|T_{ab}|^{2}{\frac {p_{b}^{2}}{v_{a}v_{b}}}(2j_{b}+1)(2j_{B}+1)	nuclear cross section 
+frequency 	 0 	 \displaystyle \|T\|_{p}={\bigg (}\sum _{n\geq 1}s_{n}^{p}(T){\bigg )}^{1/p}	Schatten norm 
+frequency 	 0 	 \displaystyle T_{\text{wbgt}}=0.7T_{\text{wet-bulb}}+0.2T_{\text{globe}}+0.1T_{\text{dry-bulb}}	wet-bulb globe temperature 
+frequency 	 0 	 \displaystyle T_{0}=\left\{f(x_{1},\dots ,x_{n})|f(0,\dots ,0)=0\right\}	zero-preserving boolean fuction 
+frequency 	 0 	 \displaystyle PV=nRT=mR_{\rm {specific}}T\,\!	molar gas constant 
+frequency 	 0 	 \displaystyle k(T)=Z\rho \exp \left({\frac {-E_{a}}{RT}}\right)	Collision theory 
+frequency 	 0 	 \displaystyle {\hat {\theta }}=T({\hat {F}}_{n})	Fisher consistency 
+frequency 	 0 	 \displaystyle \Delta f_{\text{FWHM}}={\sqrt {\frac {8kT\ln 2}{mc^{2}}}}f_{0}	Doppler broadening 
+frequency 	 0 	 \displaystyle T=n_{\mathrm {t} }-n_{\bar {\mathrm {t} }}	topness 
+frequency 	 0 	 \displaystyle H_{0}=P(0,T)\operatorname {E} _{Q}(H_{T})	Risk-neutral measure 
+frequency 	 0 	 \displaystyle {\frac {dM_{x}(t)}{dt}}=\gamma ({\mathbf {M}}(t)\times {\mathbf {B}}(t))_{x}-{\frac {M_{x}(t)}{T_{2}}}	Bloch equations 
+frequency 	 0 	 \displaystyle f_{T}=S_{0}-S_{T}+\left(S_{T}-K\right)^{+}-D=S_{0}-K+\left(K-S_{T}\right)^{+}-D	payoff at maturity of protective call 
+frequency 	 0 	 \displaystyle \ln {\frac {p}{p_{\mathrm {sat} }}}={\frac {2\gamma V_{\mathrm {m} }}{rRT}}	Kelvin equation 
+frequency 	 0 	 \displaystyle A^{T}A=I\lor AA^{T}=I	semi-orthogonal matrix 
+frequency 	 0 	 \displaystyle {\frac {d\epsilon }{dt}}={\frac {\sigma }{d^{3}}}D_{gb}e^{-Q_{Coble}/RT}	Coble creep 
+frequency 	 0 	 \displaystyle \mu _{\mathrm {JT} }=\left({\frac {\partial T}{\partial p}}\right)_{H}	Joule-Thomson coefficient 
+frequency 	 0 	 \displaystyle T(p)=\Box pforany[[propositionalvariable]]p	Modal companion 
+frequency 	 0 	 \displaystyle \oint {\frac {\delta Q}{T}}\leq 0	Clausius theorem 
+frequency 	 0 	 \displaystyle \mathbb {I} _{S}(T)=\{s\in S\mid sT\subseteq T{\text{ and }}Ts\subseteq T\}	Detective quantum efficiency 
+frequency 	 0 	 \displaystyle \mathbb {I} _{S}(T)=\{s\in S\mid sT\subseteq T{\text{ and }}Ts\subseteq T\}	Idealizer 
+frequency 	 0 	 \displaystyle \alpha _{V}={\frac {1}{V}}{\frac {\mathrm {d} V}{\mathrm {d} T}}	cubic expansion coefficient 
+frequency 	 0 	 \displaystyle \,Z=v^{T}=(1+i)^{-T}=e^{-\delta T}	Actuarial present value 
+frequency 	 0 	 \displaystyle {\frac {n_{i+1}n_{e}}{n_{i}}}={\frac {2}{\Lambda ^{3}}}{\frac {g_{i+1}}{g_{i}}}\exp \left[-{\frac {(\epsilon _{i+1}-\epsilon _{i})}{k_{B}T}}\right]	Saha ionization equation 
+frequency 	 0 	 \displaystyle \mathbf {grad} \,x_{\mathrm {B} }=-{\frac {k_{T}}{T}}\mathbf {grad} \,T	thermal diffusion ratio 
+frequency 	 0 	 \displaystyle f(x_{k}+s_{k})=f(x_{k})+\nabla f(x_{k})^{T}s_{k}+{\frac {1}{2}}s_{k}^{T}{B}s_{k}	Low-energy electron microscopy 
+frequency 	 0 	 \displaystyle U=\sum _{i=1}^{n}{\frac {C_{i}}{T_{i}}}\leq n({2}^{1/n}-1)	Rate-monotonic scheduling 
+frequency 	 0 	 \displaystyle {P_{1}}{T_{2}}={P_{2}}{T_{1}}	Gay-Lussac's law 
+frequency 	 0 	 \displaystyle {\text{E}}_{1}\sum _{t=1}^{S}[y_{t}^{T}Qy_{t}+u_{t}^{T}Ru_{t}]	stochastic control 
+frequency 	 0 	 \displaystyle R_{T}=R{\sqrt {\sin ^{2}\alpha \sin ^{2}\beta \sin ^{2}\gamma +\cos ^{2}\alpha \cos ^{2}\beta \cos ^{2}\gamma }}	Taylor circle 
+frequency 	 0 	 \displaystyle {\hat {T}}(\mathbf {x} )|\mathbf {r} \rangle =|\mathbf {r} +\mathbf {x} \rangle 	Translation operator 
+frequency 	 0 	 \displaystyle T_{J}=T_{a}+P_{D}\times R_{ja}	operating temperature 
+frequency 	 0 	 \displaystyle T=2\pi {\sqrt {LC}}	Q4491930 
+frequency 	 0 	 \displaystyle X(T)=X_{0}\,\exp({\frac {A}{T-T_{f}}})	Q2503407 
+frequency 	 0 	 \displaystyle x^{T}Ax&gt;0	positive-definite matrix 
+frequency 	 0 	 \displaystyle J(F,T,W)=A_{\mathrm {G} }T^{2}e^{-(W-\Delta W) \over kT}	Schottky effect 
+frequency 	 0 	 \displaystyle {\mathit {La}}={\frac {v}{\sqrt {\frac {R_{\mathrm {s} }T2\gamma }{\gamma +1}}}}	Laval number 
+frequency 	 0 	 \displaystyle Z={\frac {p}{\rho R_{\mathrm {s} }T}}	compressibility factor 
+frequency 	 0 	 \displaystyle \mathrm {D} ={\frac {PW}{T}}	duty cycle 
+frequency 	 0 	 \displaystyle {\mathit {Ra}}={\frac {l^{3}g\alpha _{V}\Delta T}{\nu \alpha }}	Rayleigh number 
+frequency 	 0 	 \displaystyle f={\frac {1}{T}}	frequency 
+frequency 	 0 	 \displaystyle Q=-k{\frac {dT}{dz}}	Thermal history modelling 
+frequency 	 0 	 \displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},	Boussinesq approximation 
+frequency 	 0 	 \displaystyle \Delta G=\Delta H-T\Delta S	Chemisorption 
+frequency 	 0 	 \displaystyle \Delta G=\Delta H-T\Delta S	spontaneous process 
+frequency 	 0 	 \displaystyle \Delta G=\Delta H-T\Delta S	protein precipitation 
+frequency 	 0 	 \displaystyle {\frac {P_{1}}{T_{1}}}={\frac {P_{2}}{T_{2}}}	Gay-Lussac's law 
+frequency 	 0 	 \displaystyle R={\frac {\Delta T}{\dot {Q}}}	thermal resistance 
+frequency 	 0 	 \displaystyle \min c^{T}x{\text{ subject to }}x\in P	fundamental theorem of linear programming 
+frequency 	 0 	 \displaystyle \alpha TM\rightarrow {\mathbb {R} },\quad \alpha _{x}=\alpha |_{T_{x}M}T_{x}M\rightarrow {\mathbb {R} }	one-form 
+frequency 	 0 	 \displaystyle \operatorname {RMSD} ={\sqrt {\frac {\sum _{t=1}^{T}({\hat {y}}_{t}-y_{t})^{2}}{T}}}	root-mean-square deviation 
+frequency 	 0 	 \displaystyle Y=C+I+G=C+S+T	savings identity 
+frequency 	 0 	 \displaystyle \mathbf {\psi } _{STO-3G}(s)=c_{1}\phi _{1}+c_{2}\phi _{2}+c_{3}\phi _{3}	STO-nG basis sets 
+frequency 	 0 	 \displaystyle {\begin{array}{rl}A1&amp;(P(p)\land \Box \forall x(p(x)\to q(x)))\to P(q)\\A2&amp;P(\neg p)\iff \neg P(p)\\T1&amp;P(p)\to \Diamond \exists xp(x)\\D1&amp;G(x)\iff \forall p(P(p)\to p(x))\\A3&amp;P(G)\\T2&amp;\Diamond \exists xG(x)\\D2&amp;S(p,x)\iff p(x)\land \forall q(q(x)\to \Box \forall y(p(y)\to q(y)))\\A4&amp;P(p)\to \Box P(p)\\T3&amp;G(x)\to S(G,x)\\D3&amp;E(x)\iff \forall p(S(p,x)\to \Box \exists yp(y))\\A5&amp;P(E)\\T4&amp;\Box \exists xG(x)\end{array}}	Gödel's ontological proof 
+frequency 	 0 	 \displaystyle A_{o}={\frac {T_{m}}{T_{m}+T_{d}}}	availability 
+frequency 	 0 	 \displaystyle {\mathit {Be}}_{S}={\frac {S(\Delta T)}{S(\Delta T)+S(\Delta p)}}	Bejan number 
+frequency 	 0 	 \displaystyle TREE(3)\approx \{3,6,3[1[1\neg 1,2]2]2\}	TREE(3) 
+frequency 	 0 	 \displaystyle T=2\pi {\sqrt {I/\kappa }}	balance spring 
+frequency 	 0 	 \displaystyle {\mathcal {P}}(S)=\{T\mid T\subseteq S\}	power set 
+frequency 	 0 	 \displaystyle \varkappa _{T}=-{\frac {1}{V}}\left({\frac {\partial V}{\partial p}}\right)_{T}	isothermal compressibility 
+frequency 	 0 	 \displaystyle SBSI={\frac {(H^{\frac {7}{4}}).(WC^{\frac {5}{6}})}{BSA.VTC}}	Surface based body shape index 
+frequency 	 0 	 \displaystyle T_{\mathrm {sol-air} }=T_{o}+{\frac {(a\cdot I-\Delta Q_{ir})}{h_{o}}}	Sol-air temperature 
+frequency 	 0 	 \displaystyle TRevPAR=TotalRevenue/RoomsAvailable	TRevPAR 
+frequency 	 0 	 \displaystyle \mathbb {E} \left[\left(\int _{0}^{T}X_{t}\,\mathrm {d} W_{t}\right)^{2}\right]=\mathbb {E} \left[\int _{0}^{T}X_{t}^{2}\,\mathrm {d} t\right]	Itō isometry 
+frequency 	 0 	 \displaystyle R_{n}(x)\ {\stackrel {\mathrm {def} }{=}}\ T_{n}\left({\frac {x-1}{x+1}}\right)	Chebyshev rational functions 
+frequency 	 0 	 \displaystyle T:\mathbf {v} \mapsto \lambda \mathbf {v} 	eigenvectors and eigenvalues 
+frequency 	 0 	 \displaystyle T=KP_{pre}d	bolted joint 
+frequency 	 0 	 \displaystyle Z=\sum _{r}{\exp {\frac {-E_{r}}{kT}}}	canonical partition function 
+frequency 	 0 	 \displaystyle T_{p}={\frac {b\ \gamma (T,RH)}{a-\gamma (T,RH)}}	dew point 
+gravitational acceleration 	 0 	 \displaystyle r_{\text{isco}}={\frac {6GM}{c^{2}}}=3R_{\text{Schwarzschild}}	innermost stable circular orbit 
+gravitational acceleration 	 0 	 \displaystyle {\vec {g}}=-{\frac {GM}{{R}^{2}}}{\vec {r}}	gravitational acceleration 
+gravitational acceleration 	 0 	 \displaystyle {\begin{aligned}R^{-1}&amp;={\frac {1}{M^{2}}}\sum _{i\neq j}{\frac {m_{i}m_{j}}{\|{\vec {r}}_{i}-{\vec {r}}_{j}\|}}\\M&amp;=\sum _{i}m_{i}\\G\end{aligned}}	N-body units 
+gravitational force 	 0 	 \displaystyle U=-{\frac {GMm}{r}}	gravitational potential 
+gravitational force 	 0 	 \displaystyle {\vec {F}}_{g}=-{\frac {Gm_{1}m_{2}}{r^{2}}}{\hat {r}}	gravity 
+gravitational force 	 0 	 \displaystyle {\vec {g}}=-{\frac {Gm_{\oplus }}{{R_{\oplus }}^{2}}}{\vec {r}}	gravity of Earth 
+gravitational force 	 0 	 \displaystyle -{\frac {Gm_{1}m_{2}}{r^{2}}}=m_{2}A_{2}	orbit 
+gravitational force 	 0 	 \displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}	gravitational constant 
+gravitational force 	 0 	 \displaystyle {\begin{aligned}R^{-1}&amp;={\frac {1}{M^{2}}}\sum _{i\neq j}{\frac {m_{i}m_{j}}{\|{\vec {r}}_{i}-{\vec {r}}_{j}\|}}\\M&amp;=\sum _{i}m_{i}\\G\end{aligned}}	N-body units 
+gravitational potential 	 0 	 \displaystyle U=-{\frac {GMm}{r}}	gravitational potential 
+gravitational potential 	 0 	 \displaystyle {\begin{aligned}R^{-1}&amp;={\frac {1}{M^{2}}}\sum _{i\neq j}{\frac {m_{i}m_{j}}{\|{\vec {r}}_{i}-{\vec {r}}_{j}\|}}\\M&amp;=\sum _{i}m_{i}\\G\end{aligned}}	N-body units 
+hamiltonian operator 	 0 	 \displaystyle \epsilon H=p(t)(q(t+\epsilon )-q(t))-\epsilon L	path integral formulation 
+hamiltonian operator 	 0 	 \displaystyle Sp_{2}(\mathbb {F} _{q})=\left\{g\in GL_{2n}(\mathbb {F} _{q})\mid ^{t}gJg=J\right\}	representation of a Lie group 
+hamilton-jacobi equation 	 0 	 \displaystyle {\frac {\partial S}{\partial t}}=-H	Hamilton–Jacobi equation 
+hamilton-jacobi equation 	 0 	 \displaystyle ABSI={WC \over {BMI^{2 \over 3}\times Height^{1 \over 2}}}	Body Shape Index 
+hooke's law 	 0 	 \displaystyle f_{X}(x;n)={\frac {1}{2(n-1)!}}\sum _{k=0}^{n}(-1)^{k}{n \choose k}(x-k)^{n-1}\operatorname {sgn}(x-k)	Irwin–Hall distribution 
+hooke's law 	 0 	 \displaystyle H^{k}(X;R)\times H^{\ell }(X;R)\to H^{k+\ell }(X;R)	cohomology ring 
+hooke's law 	 0 	 \displaystyle X_{k}=\sum _{n=0}^{N-1}x_{n}e^{-{\frac {2\pi i}{N}}nk}	Cooley–Tukey FFT algorithm 
+hooke's law 	 0 	 \displaystyle X_{k+1}=g\cdot X_{k}~~{\bmod {~}}~n	Lehmer random number generator 
+hooke's law 	 0 	 \displaystyle M{\ddot {X}}=-\nabla U(X)-\gamma {\dot {X}}+{\sqrt {2\gamma k_{B}T}}R(t)\,	Langevin dynamics 
+hooke's law 	 0 	 \displaystyle \left({\frac {\sum _{k=1}^{n}X_{k}}{n}}\right)_{n\in \mathbb {N} }	Cramér's theorem 
+hooke's law 	 0 	 \displaystyle f_{k}=P[X_{i}=hk]	Panjer recursion 
+hooke's law 	 0 	 \displaystyle f_{X}(x;n)={\frac {n}{2(n-1)!}}\sum _{k=0}^{n}(-1)^{k}{n \choose k}(nx-k)^{n-1}\operatorname {sgn}(nx-k)	Bates distribution 
+hooke's law 	 0 	 \displaystyle 2^{k}{|X| \choose k}	Bondy's theorem 
+hooke's law 	 0 	 \displaystyle k\cdot (X\cdot v)=(\operatorname {Ad} (k)X)\cdot (k\cdot v)	Soliton distribution 
+hooke's law 	 0 	 \displaystyle X(t)=((k+\cos(t))\cos(t),(j+\cos(t))\sin(t),\sin(t))	Space cardioid 
+hooke's law 	 0 	 \displaystyle F=kX	Hooke's law 
+hooke's law 	 0 	 \displaystyle X_{i}=(X_{i-a}+X_{i-b}+...+X_{i-k})\mod (2^{m})	Lagged Fibonacci generator 
+hooke's law 	 0 	 \displaystyle X_{t}^{\tau _{k}}=X_{\min\{t,\tau _{k}\}}	local martingale 
+hooke's law 	 0 	 \displaystyle p_{X}(k)=e^{-\lambda }{\frac {\lambda ^{k}}{k!}}	Poisson distribution 
+hooke's law 	 0 	 \displaystyle X_{\mu }^{k}(\sigma ,\theta )=x_{\mu }^{k}+O(\sigma ,\theta )	Supermembranes 
+hooke's law 	 0 	 \displaystyle \pi _{s}^{p}(X)=\varinjlim _{k}{[\Sigma ^{k}X,S^{p+k}]}	Cohomotopy group 
+hooke's law 	 0 	 \displaystyle G=\left\vert 1-\sum _{k=2}^{n}(X_{k}-X_{k-1})(Y_{k}+Y_{k-1})\right\vert 	Gini coefficient 
+hooke's law 	 0 	 \displaystyle \mathrm {Res} _{L/k}X(S)=X(S\times _{k}L)	Weil restriction 
+hooke's law 	 0 	 \displaystyle \operatorname {E} [X]=x_{1}p_{1}+x_{2}p_{2}+\cdots +x_{k}p_{k}\;	expected value 
+hooke's law 	 0 	 \displaystyle X_{k}=\sum _{i=1}^{S}g_{k}^{i}\cdot M_{i}	Linear network coding 
+hooke's law 	 0 	 \displaystyle \operatorname {Griff} ^{k}(X)=Z^{k}(X)_{\mathrm {hom} }/Z^{k}(X)_{\mathrm {alg} }	Griffiths group 
+hooke's law 	 0 	 \displaystyle X_{t}=\sum _{k=1}^{\infty }Z_{k}e_{k}(t)	Karhunen–Loève theorem 
+hooke's law 	 0 	 \displaystyle \Pr(X=k)=(1-p)^{k-1}	geometric distribution 
+hooke's law 	 0 	 \displaystyle Z={\sqrt {\sum _{i=1}^{k}\left({\frac {X_{i}}{\sigma _{i}}}\right)^{2}}}	88 Aquarii 
+hooke's law 	 0 	 \displaystyle X_{2k}^{2}\sim -2\sum _{i=1}^{k}\ln(p_{i})	Fisher's method 
+hooke's law 	 0 	 \displaystyle |X_{k}-X_{k-1}|&lt;c_{k},	Azuma's inequality 
+hooke's law 	 0 	 \displaystyle p=\sum _{k}p_{k}X^{k},\quad p_{k}\in \mathbb {F} 	Laurent polynomial 
+kinetic energy 	 0 	 \displaystyle \Delta v\ =V_{e}\ln {\frac {m_{0}}{m_{1}}}	nuclear thermal rocket 
+kinetic energy 	 0 	 \displaystyle {\frac {\lambda }{1+\lambda }}\nabla \cdot (\mathbf {\Sigma } _{i}\nabla v)=\chi (C_{m}{\frac {\partial v}{\partial t}}+I_{\text{ion}})	Monodomain model 
+kinetic energy 	 0 	 \displaystyle \lambda ={\frac {h}{p}}={\frac {h}{mv}}	Wavelength of an electron 
+kinetic energy 	 0 	 \displaystyle e_{v}=m_{v}g_{v}r\ln \left({S \over r}\right)	Peek's law 
+kinetic energy 	 0 	 \displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})	Time of flight detector 
+kinetic energy 	 0 	 \displaystyle \theta =\pi -2b\int _{r_{\mathrm {min} }}^{\infty }{\frac {dr}{r^{2}{\sqrt {1-(b/r)^{2}-2U/mv_{\infty }^{2}}}}}	Impact parameter 
+kinetic energy 	 0 	 \displaystyle v_{\mathrm {rms} }={\sqrt {{3RT} \over {M_{m}}}}	Root-mean-square speed 
+kinetic energy 	 0 	 \displaystyle {\frac {1}{2}}mv^{2}=eV_{ion}	Critical ionization velocity 
+kinetic energy 	 0 	 \displaystyle {\vec {F}}=-{\frac {mv^{2}{\hat {r}}}{r}}	centripetal force 
+kinetic energy 	 0 	 \displaystyle N_{mg}=B{\sqrt {\frac {l\sigma }{\eta v}}}	magnetic number 
+kinetic energy 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+kinetic energy 	 0 	 \displaystyle v=m/V	mass concentration of water vapour 
+kinetic energy 	 0 	 \displaystyle \Delta v=v_{\text{e}}\ln {\frac {m_{0}}{m_{f}}}	Tsiolkovsky rocket equation 
+kinetic energy 	 0 	 \displaystyle \sum _{i}m_{i}v_{i}^{2}	vis viva 
+kinetic energy 	 0 	 \displaystyle E_{D}={\frac {1}{4\pi \epsilon _{0}^{2}}}{\frac {ne^{3}\ln \Lambda }{m_{e}v_{Te}^{2}}}	Dreicer field 
+kinetic energy 	 0 	 \displaystyle {\frac {1}{v\left[\left({p_{0}}/{p}\right)-1\right]}}={\frac {c-1}{v_{\mathrm {m} }c}}\left({\frac {p}{p_{0}}}\right)+{\frac {1}{v_{m}c}},\qquad (1)	BET theory 
+kinetic energy 	 0 	 \displaystyle \int _{Y}^{*}H_{m-n}(A\cap f^{-1}(y))\,dH_{n}(y)\leq {\frac {v_{m-n}v_{n}}{v_{m}}}({\text{Lip }}f)^{n}H_{m}(A)	Eilenberg's inequality 
+kinetic energy 	 0 	 \displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}	blood flow 
+kinetic energy 	 0 	 \displaystyle m={\frac {m_{0}}{\sqrt {1-(v/c)^{2}}}}	mass in special relativity 
+kinetic energy 	 0 	 \displaystyle TRevPAR=TotalRevenue/RoomsAvailable	TRevPAR 
+kinetic energy 	 0 	 \displaystyle SR={\frac {CompoundROR}{ABS(Avg.AnnualDD-10\%)}}	Sterling ratio 
+kinetic energy 	 0 	 \displaystyle B_{m}=\sum _{k=0}^{m}\sum _{v=0}^{k}(-)^{v}{\binom {k}{v}}{\frac {v^{m}}{k+1}}	Bernoulli number 
+kinetic energy 	 0 	 \displaystyle \Delta p=p_{i,x}-p_{f,x}=p_{i,x}-(-p_{i,x})=2p_{i,x}=2mv_{x}	kinetic theory 
+kinetic energy 	 0 	 \displaystyle {\bar {d}}=k{D_{v}\cdot R\cdot \nu _{m}\cdot \epsilon  \over D_{s}\cdot N\cdot \nu _{l}\cdot C_{s}}	Suspension polymerization 
+kinetic energy 	 0 	 \displaystyle T={\frac {1}{2}}mv^{2}	kinetic energy 
+kinetic energy 	 0 	 \displaystyle {\frac {L_{vap}}{T_{boiling}}}\approx 87-88{\frac {J}{Kmol}}	Trouton's ratio 
+kinetic energy 	 0 	 \displaystyle f(v)={\sqrt {\left({\frac {m}{2\pi kT}}\right)^{3}}}\,4\pi e^{-{\frac {mv^{2}}{2kT}}}	Maxwell–Boltzmann distribution 
+lagrangian operator 	 0 	 \displaystyle FMV\,=\,{VBAB*TAB_{factor}}	Stochastic Eulerian Lagrangian method 
+lagrangian operator 	 0 	 \displaystyle W_{\mathrm {SWU} }=P\cdot V\left(x_{p}\right)+T\cdot V(x_{t})-F\cdot V(x_{f})	Separative Work Unit 
+lagrangian operator 	 0 	 \displaystyle V_{R}^{\circ }={\frac {j}{m}}F(t_{R}-t_{o}){\frac {T}{273.15}}	Inverse gas chromatography 
+lagrangian operator 	 0 	 \displaystyle BRN={\frac {(g/T_{v})\Delta \theta _{v}\Delta z}{(\Delta U)^{2}+(\Delta V)^{2}}}	Bulk Richardson number 
+lagrangian operator 	 0 	 \displaystyle dU=T\,dS-P\,dV+\mu \,dM	Onsager reciprocal relations 
+lagrangian operator 	 0 	 \displaystyle \gamma V^{2/3}=k(T_{c}-T)	Complete quotient 
+lagrangian operator 	 0 	 \displaystyle T=\left({\frac {\partial U}{\partial S}}\right)_{V,N}	thermodynamic temperature 
+lagrangian operator 	 0 	 \displaystyle \alpha _{p}={\frac {1}{p}}\left({\frac {\partial p}{\partial T}}\right)_{V}	relative pressure coefficient 
+lagrangian operator 	 0 	 \displaystyle RT=\left(P+{\frac {a}{V_{\text{m}}^{2}}}\right)(V_{\text{m}}-b)	real gas 
+lagrangian operator 	 0 	 \displaystyle {\dot {V}}=V_{T}\times f	respiratory minute volume 
+lagrangian operator 	 0 	 \displaystyle \sum _{i}n_{i}\mathrm {d} \mu _{i}=-S\mathrm {d} T+V\mathrm {d} p	Gibbs–Duhem equation 
+lagrangian operator 	 0 	 \displaystyle E=T+V	mechanical energy 
+lagrangian operator 	 0 	 \displaystyle p={\frac {RT}{V-b}}\exp \left(-{\frac {a}{RTV}}\right)	Q230907 
+lagrangian operator 	 0 	 \displaystyle L(q_{i},{\dot {q}}_{i})=T(q_{i},{\dot {q}}_{i})-V(q_{i})	Lagrange function 
+lagrangian operator 	 0 	 \displaystyle k_{t}={\frac {t_{v}}{T_{N}}}={\frac {t_{N}-t_{NV}}{T_{N}}}	Q187089 
+lagrangian operator 	 0 	 \displaystyle K_{C}={\frac {VT}{L}}	Keulegan–Carpenter number 
+lagrangian operator 	 0 	 \displaystyle {\mathit {Gr}}={\frac {l^{3}g\alpha _{V}\Delta T}{\nu ^{2}}}	Grashof number 
+lagrangian operator 	 0 	 \displaystyle {\frac {P_{1}V_{1}}{T_{1}}}={\frac {P_{2}V_{2}}{T_{2}}}	Combined gas law 
+lagrangian operator 	 0 	 \displaystyle PV=nRT	gas 
+lagrangian operator 	 0 	 \displaystyle PV=nRT	ideal gas 
+lagrangian operator 	 0 	 \displaystyle PV=nRT	ideal gas law 
+lagrangian operator 	 0 	 \displaystyle RT_{60}={\frac {24\ln 10^{1}}{c_{20}}}{\frac {V}{Sa}}\approx 0.1611\,\mathrm {s} \mathrm {m} ^{-1}{\frac {V}{Sa}}	reverberation 
+lagrangian operator 	 0 	 \displaystyle PV=nRT=mR_{\rm {specific}}T\,\!	molar gas constant 
+lagrangian operator 	 0 	 \displaystyle \ln {\frac {p}{p_{\mathrm {sat} }}}={\frac {2\gamma V_{\mathrm {m} }}{rRT}}	Kelvin equation 
+lagrangian operator 	 0 	 \displaystyle \varkappa _{T}=-{\frac {1}{V}}\left({\frac {\partial V}{\partial p}}\right)_{T}	isothermal compressibility 
+lagrangian operator 	 0 	 \displaystyle SBSI={\frac {(H^{\frac {7}{4}}).(WC^{\frac {5}{6}})}{BSA.VTC}}	Surface based body shape index 
+lagrangian operator 	 0 	 \displaystyle H=T+V+V_{\text{bias}}	Metadynamics 
+lagrangian operator 	 0 	 \displaystyle V=(HH\cdot TR\cdot TU)+(HH\cdot TR\cdot MR\cdot RR\cdot RU)	Fourt-Woodlock equation 
+lagrangian operator 	 0 	 \displaystyle I=I_{\mathrm {S} }\left(e^{qV_{\mathrm {D} } \over nkT}-1\right)	frequency mixer 
+lagrangian operator 	 0 	 \displaystyle V_{t}^{T}=\mathbb {E} G_{\tau ^{*}}=\sup _{t\leq \tau \leq T}\mathbb {E} G_{\tau }	optimal stopping 
+lagrangian operator 	 0 	 \displaystyle V\propto T	Charles's law 
+lagrangian operator 	 0 	 \displaystyle \beta =\left({\frac {\partial p}{\partial T}}\right)_{V}	pressure coefficient 
+lagrangian operator 	 0 	 \displaystyle A=T(V)/R	Koszul duality 
+lagrangian operator 	 0 	 \displaystyle p={\frac {R\cdot T}{V_{m}-b}}-{\frac {a(T)}{V_{m}^{2}+2\cdot b\cdot V_{m}-b^{2}}}	Q230917 
+lagrangian operator 	 0 	 \displaystyle {\frac {PV}{T}}=k	Combined gas law 
+lagrangian operator 	 0 	 \displaystyle \alpha _{V}={\frac {1}{V}}{\frac {\mathrm {d} V}{\mathrm {d} T}}	cubic expansion coefficient 
+lagrangian operator 	 0 	 \displaystyle {\mathit {Ra}}={\frac {l^{3}g\alpha _{V}\Delta T}{\nu \alpha }}	Rayleigh number 
+lagrangian operator 	 0 	 \displaystyle V(x)=\max _{a\in \Gamma (x)}\{F(x,a)+\beta V(T(x,a))\}	Bellman equation 
+lagrangian operator 	 0 	 \displaystyle \tau _{\text{N}}=\tau _{0}\exp \left({\frac {KV}{k_{\text{B}}T}}\right)	Néel relaxation theory 
+lagrangian operator 	 0 	 \displaystyle p={\frac {RT}{V-b}}-{\frac {a}{V^{5/3}}}	Q230907 
+lagrangian operator 	 0 	 \displaystyle A=\{-V_{T}(V_{t})_{t=0}^{T}{\text{ is the price of a self-financing portfolio at each time}}\}	Acceptance set 
+lagrangian operator 	 0 	 \displaystyle A=\{-V_{T}(V_{t})_{t=0}^{T}{\text{ is the price of a self-financing portfolio at each time}}\}	Static forces and virtual-particle exchange 
+lagrangian operator 	 0 	 \displaystyle {\mathcal {L}}=T-V	Lagrangian operator 
+lorentz factor 	 0 	 \displaystyle \langle x,v\rangle \geq c\,{\text{ and }}\langle y,v\rangle \leq c	maximum-margin hyperplane 
+lorentz factor 	 0 	 \displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})	Time of flight detector 
+lorentz factor 	 0 	 \displaystyle f=\left({\frac {c+v_{\text{r}}}{c+v_{\text{s}}}}\right)f_{0}	Doppler effect 
+lorentz factor 	 0 	 \displaystyle S_{v}(f)={\frac {A^{2}}{2}}{\frac {cf_{0}^{2}}{c^{2}\pi ^{2}f_{0}^{4}+(f-f_{0})^{2}}},	Oscillator linewidth 
+lorentz factor 	 0 	 \displaystyle {\mathit {Bg}}={\frac {c_{\mathrm {D} }\rho v^{2}}{lg\rho _{\mathrm {b} }}}	Bagnold number 
+lorentz factor 	 0 	 \displaystyle \kappa ={\frac {v_{p}}{c}}={\frac {1}{\sqrt {\epsilon _{\text{r}}}}}	Electrical length 
+lorentz factor 	 0 	 \displaystyle \theta =c\,\mathrm {Arth} \,{\frac {v}{c}}={\frac {c}{2}}\ln {\frac {1+{\dfrac {v}{c}}}{1-{\dfrac {v}{c}}}}	rapidity 
+lorentz factor 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+lorentz factor 	 0 	 \displaystyle \gamma ={\frac {1}{\sqrt {1-({\frac {v}{c}})^{2}}}}	Charge invariance 
+lorentz factor 	 0 	 \displaystyle Bo_{II}={\frac {v}{\sqrt {2\,g\,L_{c}}}}	Boussinesq number 
+lorentz factor 	 0 	 \displaystyle \gamma ={\frac {1}{\sqrt {1-v^{2}/c^{2}}}}	Lorentz factor 
+lorentz factor 	 0 	 \displaystyle j={\frac {K}{c_{p}\rho v}}\left({\frac {c_{p}\eta }{\lambda }}\right)^{2/3}	Colburn number 
+lorentz factor 	 0 	 \displaystyle {\frac {\partial c}{\partial t}}=\nabla \cdot (D\nabla c)-\nabla \cdot ({\vec {v}}c)+R	convection–diffusion equation 
+lorentz factor 	 0 	 \displaystyle v_{\text{P}}={\sqrt {\frac {G^{3}\hbar ^{3}}{c^{9}}}}	Planck volume 
+lorentz factor 	 0 	 \displaystyle a=c_{1}{\frac {Du_{1}}{u_{1}}}+\dotsb +c_{n}{\frac {Du_{n}}{u_{n}}}+Dv	Liouville's theorem 
+lorentz factor 	 0 	 \displaystyle {\frac {1}{v\left[\left({p_{0}}/{p}\right)-1\right]}}={\frac {c-1}{v_{\mathrm {m} }c}}\left({\frac {p}{p_{0}}}\right)+{\frac {1}{v_{m}c}},\qquad (1)	BET theory 
+lorentz factor 	 0 	 \displaystyle {\frac {c}{n}}+\left(1-{\frac {1}{n^{2}}}\right)v	luminiferous aether 
+lorentz factor 	 0 	 \displaystyle (\lambda x.u)v\;\triangleright _{c}\;u[v/x]	mean curvature flow 
+lorentz factor 	 0 	 \displaystyle v={\frac {c}{n}}	dispersion 
+lorentz factor 	 0 	 \displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)	Continuous-wave radar 
+lorentz factor 	 0 	 \displaystyle {\mathit {Ma}}={\frac {v}{c}}	Mach number 
+lorentz factor 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+lorentz factor 	 0 	 \displaystyle x=c\cosh {\frac {v}{c}}\cos u	catenoid 
+lorentz factor 	 0 	 \displaystyle {\mathit {Ec}}={\frac {v^{2}}{c_{p}\Delta T}}	Eckert number 
+lorentz factor 	 0 	 \displaystyle n_{v}=n_{c}-n_{s}	number of valid votes 
+lorentz factor 	 0 	 \displaystyle m={\frac {m_{0}}{\sqrt {1-(v/c)^{2}}}}	mass in special relativity 
+lorentz factor 	 0 	 \displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}	characteristic energy 
+lorentz factor 	 0 	 \displaystyle a_{c}={\frac {v^{2}}{r}}	centripetal acceleration 
+lorentz factor 	 0 	 \displaystyle t={\frac {\lambda }{c-v}}={\frac {c}{(c-v)f_{s}}}={\frac {1}{(1-\beta )f_{s}}}	Relativistic Doppler effect 
+lorentz factor 	 0 	 \displaystyle \tan(\phi )={\frac {u_{y}'}{u_{x}'}}={\frac {u_{y}}{(u_{x}-v)}}={\frac {\sin(\theta )}{(\cos(\theta )-v/c)}}	optical aberration 
+lorentz factor 	 0 	 \displaystyle {\mathit {St}}={\frac {K}{\rho vc_{p}}}	Stanton number for heat transfer 
+lorentz factor 	 0 	 \displaystyle n_{a}=n_{v}-n_{c}	number of abstentions 
+lorentz factor 	 0 	 \displaystyle t'=\gamma \left(t-{\frac {vx}{c^{2}}}\right),x'=\gamma \left(x-vt\right)	Lorentz transformation 
+lorentz factor 	 0 	 \displaystyle {\mathit {Bz}}={\frac {\rho vc_{p}}{\varepsilon \sigma T^{3}}}	Boltzmann number 
+lorentz force 	 0 	 \displaystyle {\vec {F}}=q({\vec {E}}+{\vec {v}}\times {\vec {B}})	electromagnetic force 
+mass-energy equivalence 	 0 	 \displaystyle \varepsilon is[[Strain(materialsscience)|strain]]	Ramberg–Osgood relationship 
+mass-energy equivalence 	 0 	 \displaystyle L(\lambda )=m_{\mathrm {b} }c_{\mathrm {b} }(\lambda )+m_{\mathrm {s} }c_{\mathrm {s} }(\lambda )	Dichromatic reflectance model 
+mass-energy equivalence 	 0 	 \displaystyle OB\%={\frac {-1600}{Mol.wt.ofcompound}}\times (2X+(Y/2)+M-Z)	oxygen balance 
+mass-energy equivalence 	 0 	 \displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})	Time of flight detector 
+mass-energy equivalence 	 0 	 \displaystyle P(i,j,k,m)\equiv d(c_{i},c_{j})\leq {\frac {m}{k+1}}	complex normal distribution 
+mass-energy equivalence 	 0 	 \displaystyle c:=\langle g^{y},h^{y}\cdot m\rangle 	ElGamal encryption 
+mass-energy equivalence 	 0 	 \displaystyle E=mc^{2}	mass–energy equivalence 
+mass-energy equivalence 	 0 	 \displaystyle {\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\psi -\nabla ^{2}\psi +{\frac {m^{2}c^{2}}{\hbar ^{2}}}\psi =0	Klein–Gordon equation 
+mass-energy equivalence 	 0 	 \displaystyle \varphi (\theta )=mR\theta +x+\sum _{n\neq 0}c_{n}e^{in\theta }	T-duality 
+mass-energy equivalence 	 0 	 \displaystyle c_{m}=\left(4g\sigma /\rho \right)^{1/4}	Denny's paradox 
+mass-energy equivalence 	 0 	 \displaystyle \lambda _{\mathrm {C} }={\frac {h}{mc_{0}}},	Compton wavelength 
+mass-energy equivalence 	 0 	 \displaystyle E^{2}-|{\vec {p}}\,|^{2}c^{2}=m^{2}c^{4}	On shell and off shell 
+mass-energy equivalence 	 0 	 \displaystyle \theta _{0}={\frac {1}{6\pi \epsilon _{0}}}{\frac {e^{2}}{m_{0}c^{3}}}	chronon 
+mass-energy equivalence 	 0 	 \displaystyle m_{0}=c^{-1}{\sqrt {E^{2}/c^{2}-p^{2}}}	rest mass (invariant mass) or rest energy 
+mass-energy equivalence 	 0 	 \displaystyle M_{\rm {limit}}={\frac {\omega _{3}^{0}{\sqrt {3\pi }}}{2}}\left({\frac {\hbar c}{G}}\right)^{3/2}{\frac {1}{(\mu _{\text{e}}m_{\text{H}})^{2}}}	Chandrasekhar limit 
+mass-energy equivalence 	 0 	 \displaystyle \sigma _{total}={{\bigl (}\sigma _{sample}^{2}+\sigma _{calib}^{2}{\bigr )}}^{\frac {1}{2}}	Calibration of radiocarbon dates 
+mass-energy equivalence 	 0 	 \displaystyle \eta _{th}is[[thermalefficiency]]	Diesel cycle 
+mass-energy equivalence 	 0 	 \displaystyle cr(K_{m,n})=\lfloor n/2\rfloor \lfloor (n-1)/2\rfloor \lfloor m/2\rfloor \lfloor (m-1)/2\rfloor 	negative temperature 
+mass-energy equivalence 	 0 	 \displaystyle {\frac {1}{v\left[\left({p_{0}}/{p}\right)-1\right]}}={\frac {c-1}{v_{\mathrm {m} }c}}\left({\frac {p}{p_{0}}}\right)+{\frac {1}{v_{m}c}},\qquad (1)	BET theory 
+mass-energy equivalence 	 0 	 \displaystyle S={\frac {1}{c}}\int {d^{4}x{\sqrt {-g}}{\frac {1}{2\mu }}}\times \left[\Phi R-{\frac {\omega (\Phi )}{\Phi }}(\partial _{\sigma }\Phi )^{2}-V(\Phi )+2\mu ~{\mathcal {L}}_{m}(g_{\mu \nu },\Psi )\right]	Scalar-tensor theory 
+mass-energy equivalence 	 0 	 \displaystyle i\hbar {\frac {\partial \Psi }{\partial t}}=(c{\hat {\boldsymbol {\alpha }}}\cdot {\hat {\boldsymbol {p}}}+mc^{2}{\hat {\beta }})\Psi 	Dirac equation 
+mass-energy equivalence 	 0 	 \displaystyle V_{i}isthemembranepotentialofithcompartment	Compartmental modelling of dendrites 
+mass-energy equivalence 	 0 	 \displaystyle \Delta f_{\text{FWHM}}={\sqrt {\frac {8kT\ln 2}{mc^{2}}}}f_{0}	Doppler broadening 
+mass-energy equivalence 	 0 	 \displaystyle B(x,\mu )=f(x)-\mu ~\sum _{i=1}^{m}\log(c_{i}(x))~~~~~(2)	interior point method 
+mass-energy equivalence 	 0 	 \displaystyle {\frac {\ell x^{2}+mx+n}{(x-a)(x-b)(x-c)}}={\frac {A}{(x-a)}}+{\frac {B}{(x-b)}}+{\frac {C}{(x-c)}}	Heaviside cover-up method 
+mass-energy equivalence 	 0 	 \displaystyle e(c)=n\prod _{i=1}^{m}p_{i}(c_{i})	Configural frequency analysis 
+mass-energy equivalence 	 0 	 \displaystyle c_{ij}=\sum _{k=1}^{m}a_{ik}b_{kj}	matrix multiplication algorithm 
+mass-energy equivalence 	 0 	 \displaystyle c:=[(1+N)^{m}\cdot r^{N}\mod N^{2}]	Paillier cryptosystem 
+mass-energy equivalence 	 0 	 \displaystyle [L_{m},L_{n}]=(m-n)L_{m+n}+{\frac {c}{12}}(m^{3}-m)\delta _{m+n,0}	Virasoro algebra 
+mass-energy equivalence 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+mass-energy equivalence 	 0 	 \displaystyle |Y^{X}/G|={\frac {1}{|G|}}\sum _{g\in G}m^{c(g)}	Pólya enumeration theorem 
+mass-energy equivalence 	 0 	 \displaystyle Compliance={\frac {\Delta V}{\Delta P}}	pulmonary compliance 
+mass-energy equivalence 	 0 	 \displaystyle \Delta (mc)\Delta r\geq \hbar /2	Heisenberg's uncertainty principle 
+mass-energy equivalence 	 0 	 \displaystyle (x^{2}+y^{2})^{2}-(2m^{2}+c)x^{2}+(2m^{2}-c)y^{2}=0	hippopede 
+mass-energy equivalence 	 0 	 \displaystyle Z_{1}\,\!theimpedanceofthegenerator	T pad 
+mass-energy equivalence 	 0 	 \displaystyle m_{\mathrm {P} }={\sqrt {\frac {c\hbar }{G}}}	Planck mass 
+mass-energy equivalence 	 0 	 \displaystyle cd={\frac {lm}{sr}}	candela 
+mass-energy equivalence 	 0 	 \displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess	Procept 
+mass-energy equivalence 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+mass-energy equivalence 	 0 	 \displaystyle \sum \limits _{l'm'}{{M_{lm,l'm'}}\left({E,{\bf {k}}}\right){c_{l'm'}}\left(E,{\bf {k}}\right)=0}	Korringa–Kohn–Rostoker approximation 
+mass-energy equivalence 	 0 	 \displaystyle r_{\mathrm {e} }={\frac {e^{2}}{4\pi \varepsilon _{0}m_{\mathrm {e} }c_{0}^{2}}}	classical electron radius 
+mass-energy equivalence 	 0 	 \displaystyle R_{\infty }={\frac {\alpha ^{2}m_{e}c}{4\pi \hbar }}	Precision tests of QED 
+mass-energy equivalence 	 0 	 \displaystyle {\Delta }S_{mix}=-R\sum _{i=1}^{N}c_{i}\ln {c_{i}}	Number theoretic Hilbert transform 
+mass-energy equivalence 	 0 	 \displaystyle (m_{\mathrm {rest} })c^{2}={\sqrt {E_{\mathrm {total} }^{2}-(|\mathbf {p} |c)^{2}}}	rest mass 
+mass-energy equivalence 	 0 	 \displaystyle c={\frac {C}{m}}	specific heat capacity 
+mass-energy equivalence 	 0 	 \displaystyle t=s/c_{m}	Network performance 
+mass-energy equivalence 	 0 	 \displaystyle {\frac {Energy\ consumed}{Built\ area}}	efficient energy use 
+mass-energy equivalence 	 0 	 \displaystyle \mathbf {e} _{m+1}=\sum _{i=1}^{m}\ c_{i}\mathbf {e} _{i}	DIIS 
+mass-energy equivalence 	 0 	 \displaystyle m={\frac {m_{0}}{\sqrt {1-(v/c)^{2}}}}	mass in special relativity 
+mass-energy equivalence 	 0 	 \displaystyle c\equiv m^{e}{\pmod {n}}	Key encapsulation 
+mass-energy equivalence 	 0 	 \displaystyle \sigma _{f}={\sqrt {\frac {kT}{mc^{2}}}}f_{0}	Doppler broadening 
+mass-energy equivalence 	 0 	 \displaystyle E^{2}=p^{2}c^{2}+m^{2}c^{4}	energy-momentum relation 
+mass-energy equivalence 	 0 	 \displaystyle \zeta ={\frac {c}{2{\sqrt {mk}}}}	damping 
+mass-energy equivalence 	 0 	 \displaystyle f(A\mid m)=\prod _{p}\phi \left(A_{p}\mid A_{\text{base}}+r\sum _{c}C_{cp},\nu ^{-1}\right)	Bayesian tool for methylation analysis 
+mass-energy equivalence 	 0 	 \displaystyle YouTube.com/llstylish	Geometric dimensioning and tolerancing 
+mass-energy equivalence 	 0 	 \displaystyle E_{0}=m_{0}c_{0}^{2}	rest energy 
+mechanical impedance 	 0 	 \displaystyle Z_{\mathrm {m} }=Z_{\mathrm {a} }A^{2}	mechanical impedance 
+mechanical impedance 	 0 	 \displaystyle \displaystyle m{\big (}(A\cap Z)\cup (B\setminus Z){\big )}=p\,\operatorname {mes} (A)+(1-p)\operatorname {mes} (B)	standard probability space 
+moment of inertia 	 0 	 \displaystyle \varepsilon is[[Strain(materialsscience)|strain]]	Ramberg–Osgood relationship 
+moment of inertia 	 0 	 \displaystyle T_{raise}={\frac {Fd_{m}}{2}}\left({\frac {l+\pi \mu d_{m}}{\pi d_{m}-\mu l}}\right)={\frac {Fd_{m}}{2}}\tan {\left(\phi +\lambda \right)}	G Scorpii 
+moment of inertia 	 0 	 \displaystyle U=-{\frac {GMm}{r}}	gravitational potential 
+moment of inertia 	 0 	 \displaystyle JaroSim(s_{1},s_{2})=\left\{{\begin{array}{l l}{\frac {1}{3}}\left({\frac {m}{|s_{1}|}}+{\frac {m}{|s_{2}|}}+{\frac {m-t}{m}}\right)&amp;{\text{if }}m&gt;0\\0&amp;{\text{otherwise}}\end{array}}\right.	Jaro similarity 
+moment of inertia 	 0 	 \displaystyle {\frac {r}{m}}-\ln(m)-1.24=0	Granger causality 
+moment of inertia 	 0 	 \displaystyle e_{v}=m_{v}g_{v}r\ln \left({S \over r}\right)	Peek's law 
+moment of inertia 	 0 	 \displaystyle r_{SOI}\approx a\left({\frac {m}{M}}\right)^{2/5}	sphere of influence 
+moment of inertia 	 0 	 \displaystyle Fisresultantfinenessmodulus	Fineness modulus 
+moment of inertia 	 0 	 \displaystyle {\mathit {Stk}}_{2}={\frac {r^{3}gm}{\nu ^{2}}}\left({\frac {1}{\rho }}-{\frac {1}{\rho _{\mathrm {b} }}}\right)	Stokes rotameter number 
+moment of inertia 	 0 	 \displaystyle \theta =\pi -2b\int _{r_{\mathrm {min} }}^{\infty }{\frac {dr}{r^{2}{\sqrt {1-(b/r)^{2}-2U/mv_{\infty }^{2}}}}}	Impact parameter 
+moment of inertia 	 0 	 \displaystyle net.assets\div net.premium.written	solvency ratio 
+moment of inertia 	 0 	 \displaystyle {\vec {F}}_{g}=-{\frac {Gm_{1}m_{2}}{r^{2}}}{\hat {r}}	gravity 
+moment of inertia 	 0 	 \displaystyle \Delta Weight_{front}=a{\frac {h}{w}}m	load transfer 
+moment of inertia 	 0 	 \displaystyle {\vec {F}}=-{\frac {mv^{2}{\hat {r}}}{r}}	centripetal force 
+moment of inertia 	 0 	 \displaystyle \rho _{k}=rank(A-\lambda _{i}I)^{k-1}-rank(A-\lambda _{i}I)^{k}\qquad (k=1,2,\ldots ,m_{i})	Polynomial basis 
+moment of inertia 	 0 	 \displaystyle \ \Phi (\mathbf {r} )=R_{l}(r)Y_{lm}(\theta ,\phi )	Gaussian orbital 
+moment of inertia 	 0 	 \displaystyle \forall r,s\in R,m,n\in M	Glossary of module theory 
+moment of inertia 	 0 	 \displaystyle d(km)=130({\sqrt {hr(km)}}+{\sqrt {ht(km)}})	Kolchuga passive sensor 
+moment of inertia 	 0 	 \displaystyle JaroWinklerDist(s_{1},s_{2})=1-JaroWinklerSim(s_{1},s_{2})	Jaro–Winkler distance 
+moment of inertia 	 0 	 \displaystyle m={\frac {y_{end}-y_{start}}{x_{end}-x_{start}}}	Cooling flow 
+moment of inertia 	 0 	 \displaystyle \eta _{th}is[[thermalefficiency]]	Diesel cycle 
+moment of inertia 	 0 	 \displaystyle {m+n \choose r}=\sum _{k=0}^{r}{m \choose k}{n \choose r-k}	Vandermonde's identity 
+moment of inertia 	 0 	 \displaystyle cr(K_{m,n})=\lfloor n/2\rfloor \lfloor (n-1)/2\rfloor \lfloor m/2\rfloor \lfloor (m-1)/2\rfloor 	negative temperature 
+moment of inertia 	 0 	 \displaystyle c:=[(1+N)^{m}\cdot r^{N}\mod N^{2}]	Paillier cryptosystem 
+moment of inertia 	 0 	 \displaystyle {\begin{aligned}m+n&amp;=n+m&amp;&amp;(m,n\in M)\\(m+n)+p&amp;=m+(n+p)&amp;&amp;(m,n,p\in M)\\m+0_{M}&amp;=m&amp;&amp;(m\in M)\\(-m)+m&amp;=0_{M}&amp;&amp;(m\in M)\\r(sm)&amp;=(rs)m&amp;&amp;(m\in M,\;r,s\in R)\\1_{R}m&amp;=m&amp;&amp;(m\in M)\\r(m+n)&amp;=rm+rn&amp;&amp;(m,n\in M,\;r\in R)\\(r+s)m&amp;=rm+sm&amp;&amp;(m\in M,\;r,s\in R)\end{aligned}}	module 
+moment of inertia 	 0 	 \displaystyle H(m)\,\equiv \,xr+sk{\pmod {p-1}}	ElGamal signature scheme 
+moment of inertia 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+moment of inertia 	 0 	 \displaystyle {\vec {g}}=-{\frac {Gm_{\oplus }}{{R_{\oplus }}^{2}}}{\vec {r}}	gravity of Earth 
+moment of inertia 	 0 	 \displaystyle R\geq 1-(1-r)m	Tanner graph 
+moment of inertia 	 0 	 \displaystyle V_{i}isthemembranepotentialofithcompartment	Compartmental modelling of dendrites 
+moment of inertia 	 0 	 \displaystyle \Delta (mc)\Delta r\geq \hbar /2	Heisenberg's uncertainty principle 
+moment of inertia 	 0 	 \displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess	Procept 
+moment of inertia 	 0 	 \displaystyle J_{\mathrm {Q} }=\int r_{\mathrm {Q} }^{2}\mathrm {d} m	moment of inertia 
+moment of inertia 	 0 	 \displaystyle d_{n}=M_{M_{p}}=2^{2^{p}-1}-1,p\ and\ 2^{p}-primes	double Mersenne number 
+moment of inertia 	 0 	 \displaystyle JaroWinklerSim(s_{1},s_{2})=\left\{{\begin{array}{l l}JaroSim(s_{1},s_{2})+l\cdot p\cdot \left(1-JaroSim(s_{1},s_{2})\right)&amp;{\text{if }}JaroSim(s_{1},s_{2})&gt;b_{t}\\JaroSim(s_{1},s_{2})&amp;{\text{otherwise}}\end{array}}\right.	Jaro–Winkler similarity 
+moment of inertia 	 0 	 \displaystyle r_{\mathrm {g} }={\frac {m\left\vert {\boldsymbol {v}}\times {\boldsymbol {B}}\right\vert }{qB^{2}}}	gyroradius 
+moment of inertia 	 0 	 \displaystyle -{\frac {Gm_{1}m_{2}}{r^{2}}}=m_{2}A_{2}	orbit 
+moment of inertia 	 0 	 \displaystyle V_{\text{Yukawa}}(r)=-g^{2}{\frac {e^{-kmr}}{r}},	Yukawa potential 
+moment of inertia 	 0 	 \displaystyle RfD(mg/kg/day)={NOEL(mg/kg/day) \over Uf_{inter}*Uf_{intra}*Uf_{other}}	Reference dose 
+moment of inertia 	 0 	 \displaystyle {\begin{aligned}R_{\ell }^{m}(\mathbf {r} )&amp;\equiv {\sqrt {\frac {4\pi }{2\ell +1}}}\;r^{\ell }Y_{\ell }^{m}(\theta ,\varphi )\\I_{\ell }^{m}(\mathbf {r} )&amp;\equiv {\sqrt {\frac {4\pi }{2\ell +1}}}\;{\frac {Y_{\ell }^{m}(\theta ,\varphi )}{r^{\ell +1}}}\end{aligned}}	solid harmonics 
+moment of inertia 	 0 	 \displaystyle -{\frac {\hbar ^{2}}{2m}}{\frac {d^{2}R(r)}{dr^{2}}}+[E-V_{\textrm {eff}}(r)]R(r)=0	Langer correction 
+moment of inertia 	 0 	 \displaystyle r=k(T)[\mathrm {A} ]^{m}[\mathrm {B} ]^{n}	reaction rate constant 
+moment of inertia 	 0 	 \displaystyle cd={\frac {lm}{sr}}	candela 
+moment of inertia 	 0 	 \displaystyle Z_{1}\,\!theimpedanceofthegenerator	T pad 
+moment of inertia 	 0 	 \displaystyle e(rm,n)=e(m,rn)=re(m,n)	pairing 
+moment of inertia 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+moment of inertia 	 0 	 \displaystyle {\vec {F}}_{bolt}=P_{max}\cdot A_{internal}	Bolt thrust 
+moment of inertia 	 0 	 \displaystyle \log _{10}\left({\frac {N}{S}}\right)=-k\cdot r+m	Fractional Schrödinger equation 
+moment of inertia 	 0 	 \displaystyle r=m/m_{\mathrm {d} }	mass ratio of water vapour to dry gas 
+moment of inertia 	 0 	 \displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}	gravitational constant 
+moment of inertia 	 0 	 \displaystyle r_{\mathrm {e} }={\frac {e^{2}}{4\pi \varepsilon _{0}m_{\mathrm {e} }c_{0}^{2}}}	classical electron radius 
+moment of inertia 	 0 	 \displaystyle L=N\,l,where''N''isthenumberofmonomers	Ideal chain 
+moment of inertia 	 0 	 \displaystyle {\frac {Energy\ consumed}{Built\ area}}	efficient energy use 
+moment of inertia 	 0 	 \displaystyle \left[-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}+V(r)\right]\Psi (\mathbf {r} )=E\Psi (\mathbf {r} )	Heat kernel signature 
+moment of inertia 	 0 	 \displaystyle |x_{n+1}-a|\leq K\cdot {|x_{n}-a|}^{d+1},forsomeK&gt;0.\!	Householder's method 
+moment of inertia 	 0 	 \displaystyle {\begin{aligned}R^{-1}&amp;={\frac {1}{M^{2}}}\sum _{i\neq j}{\frac {m_{i}m_{j}}{\|{\vec {r}}_{i}-{\vec {r}}_{j}\|}}\\M&amp;=\sum _{i}m_{i}\\G\end{aligned}}	N-body units 
+moment of inertia 	 0 	 \displaystyle f(A\mid m)=\prod _{p}\phi \left(A_{p}\mid A_{\text{base}}+r\sum _{c}C_{cp},\nu ^{-1}\right)	Bayesian tool for methylation analysis 
+momentum 	 0 	 \displaystyle \Delta v\ =V_{e}\ln {\frac {m_{0}}{m_{1}}}	nuclear thermal rocket 
+momentum 	 0 	 \displaystyle {\frac {\lambda }{1+\lambda }}\nabla \cdot (\mathbf {\Sigma } _{i}\nabla v)=\chi (C_{m}{\frac {\partial v}{\partial t}}+I_{\text{ion}})	Monodomain model 
+momentum 	 0 	 \displaystyle \lambda ={\frac {h}{p}}={\frac {h}{mv}}	Wavelength of an electron 
+momentum 	 0 	 \displaystyle e_{v}=m_{v}g_{v}r\ln \left({S \over r}\right)	Peek's law 
+momentum 	 0 	 \displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})	Time of flight detector 
+momentum 	 0 	 \displaystyle \theta =\pi -2b\int _{r_{\mathrm {min} }}^{\infty }{\frac {dr}{r^{2}{\sqrt {1-(b/r)^{2}-2U/mv_{\infty }^{2}}}}}	Impact parameter 
+momentum 	 0 	 \displaystyle v_{\mathrm {rms} }={\sqrt {{3RT} \over {M_{m}}}}	Root-mean-square speed 
+momentum 	 0 	 \displaystyle {\frac {1}{2}}mv^{2}=eV_{ion}	Critical ionization velocity 
+momentum 	 0 	 \displaystyle {\vec {F}}=-{\frac {mv^{2}{\hat {r}}}{r}}	centripetal force 
+momentum 	 0 	 \displaystyle N_{mg}=B{\sqrt {\frac {l\sigma }{\eta v}}}	magnetic number 
+momentum 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+momentum 	 0 	 \displaystyle v=m/V	mass concentration of water vapour 
+momentum 	 0 	 \displaystyle \Delta v=v_{\text{e}}\ln {\frac {m_{0}}{m_{f}}}	Tsiolkovsky rocket equation 
+momentum 	 0 	 \displaystyle \sum _{i}m_{i}v_{i}^{2}	vis viva 
+momentum 	 0 	 \displaystyle E_{D}={\frac {1}{4\pi \epsilon _{0}^{2}}}{\frac {ne^{3}\ln \Lambda }{m_{e}v_{Te}^{2}}}	Dreicer field 
+momentum 	 0 	 \displaystyle {\frac {1}{v\left[\left({p_{0}}/{p}\right)-1\right]}}={\frac {c-1}{v_{\mathrm {m} }c}}\left({\frac {p}{p_{0}}}\right)+{\frac {1}{v_{m}c}},\qquad (1)	BET theory 
+momentum 	 0 	 \displaystyle \int _{Y}^{*}H_{m-n}(A\cap f^{-1}(y))\,dH_{n}(y)\leq {\frac {v_{m-n}v_{n}}{v_{m}}}({\text{Lip }}f)^{n}H_{m}(A)	Eilenberg's inequality 
+momentum 	 0 	 \displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}	blood flow 
+momentum 	 0 	 \displaystyle m={\frac {m_{0}}{\sqrt {1-(v/c)^{2}}}}	mass in special relativity 
+momentum 	 0 	 \displaystyle TRevPAR=TotalRevenue/RoomsAvailable	TRevPAR 
+momentum 	 0 	 \displaystyle SR={\frac {CompoundROR}{ABS(Avg.AnnualDD-10\%)}}	Sterling ratio 
+momentum 	 0 	 \displaystyle B_{m}=\sum _{k=0}^{m}\sum _{v=0}^{k}(-)^{v}{\binom {k}{v}}{\frac {v^{m}}{k+1}}	Bernoulli number 
+momentum 	 0 	 \displaystyle \Delta p=p_{i,x}-p_{f,x}=p_{i,x}-(-p_{i,x})=2p_{i,x}=2mv_{x}	kinetic theory 
+momentum 	 0 	 \displaystyle {\bar {d}}=k{D_{v}\cdot R\cdot \nu _{m}\cdot \epsilon  \over D_{s}\cdot N\cdot \nu _{l}\cdot C_{s}}	Suspension polymerization 
+momentum 	 0 	 \displaystyle T={\frac {1}{2}}mv^{2}	kinetic energy 
+momentum 	 0 	 \displaystyle {\frac {L_{vap}}{T_{boiling}}}\approx 87-88{\frac {J}{Kmol}}	Trouton's ratio 
+momentum 	 0 	 \displaystyle f(v)={\sqrt {\left({\frac {m}{2\pi kT}}\right)^{3}}}\,4\pi e^{-{\frac {mv^{2}}{2kT}}}	Maxwell–Boltzmann distribution 
+newton's second law of motion 	 0 	 \displaystyle d={\frac {a}{\pi }}{\sqrt {(n^{2}+nm+m^{2})}}	optical properties of carbon nanotubes 
+newton's second law of motion 	 0 	 \displaystyle \varepsilon is[[Strain(materialsscience)|strain]]	Ramberg–Osgood relationship 
+newton's second law of motion 	 0 	 \displaystyle a_{0}={\frac {4\pi \varepsilon _{0}\hbar ^{2}}{m_{\mathrm {e} }e^{2}}}	Bohr radius 
+newton's second law of motion 	 0 	 \displaystyle T_{raise}={\frac {Fd_{m}}{2}}\left({\frac {l+\pi \mu d_{m}}{\pi d_{m}-\mu l}}\right)={\frac {Fd_{m}}{2}}\tan {\left(\phi +\lambda \right)}	G Scorpii 
+newton's second law of motion 	 0 	 \displaystyle {\ddot {x}}_{a}+{\frac {2}{\tau _{0}}}{\dot {x}}_{a}+\omega _{a}^{2}x_{a}={\frac {e}{m}}E(t,\mathbf {r} _{a})	Rabi problem 
+newton's second law of motion 	 0 	 \displaystyle m(\varphi )=\int _{0}^{\varphi }M(\varphi )\,d\varphi =a(1-e^{2})\int _{0}^{\varphi }\left(1-e^{2}\sin ^{2}\varphi \right)^{-{\frac {3}{2}}}\,d\varphi 	meridian arc 
+newton's second law of motion 	 0 	 \displaystyle JaroSim(s_{1},s_{2})=\left\{{\begin{array}{l l}{\frac {1}{3}}\left({\frac {m}{|s_{1}|}}+{\frac {m}{|s_{2}|}}+{\frac {m-t}{m}}\right)&amp;{\text{if }}m&gt;0\\0&amp;{\text{otherwise}}\end{array}}\right.	Jaro similarity 
+newton's second law of motion 	 0 	 \displaystyle A_{i}^{\text{WSM-score}}=\sum _{j=1}^{n}w_{j}a_{ij},{\text{ for }}i=1,2,3,\dots ,m	weighted sum model 
+newton's second law of motion 	 0 	 \displaystyle \forall m\in M\colon a_{n+1}m\in (a_{1},a_{2},\dotsc ,a_{n})M\implies m\in (a_{1},a_{2},\dotsc ,a_{n})M	regular sequence 
+newton's second law of motion 	 0 	 \displaystyle g_{m,n}(x)=e^{2\pi imbx}g(x-na)	Balian–Low theorem 
+newton's second law of motion 	 0 	 \displaystyle Beam=LOA^{2/3}+1	beam 
+newton's second law of motion 	 0 	 \displaystyle net.assets\div net.premium.written	solvency ratio 
+newton's second law of motion 	 0 	 \displaystyle \min {\{m\in \mathbb {Z} \mid a^{m}=e\land m&gt;0\}}	order of a group element 
+newton's second law of motion 	 0 	 \displaystyle r_{SOI}\approx a\left({\frac {m}{M}}\right)^{2/5}	sphere of influence 
+newton's second law of motion 	 0 	 \displaystyle Fisresultantfinenessmodulus	Fineness modulus 
+newton's second law of motion 	 0 	 \displaystyle \omega _{a}={\sqrt {\frac {k_{1}M}{m_{A}m_{B}}}}	triatomic molecule 
+newton's second law of motion 	 0 	 \displaystyle \sum _{f}P(d_{m}^{y}|f,m,a_{1})=\sum _{f}P(d_{m}^{y}|f,m,a_{2})	No free lunch in search and optimization 
+newton's second law of motion 	 0 	 \displaystyle L_{max}=S_{0}-K+D	maximum loss at maturity of protective put 
+newton's second law of motion 	 0 	 \displaystyle \Delta Weight_{front}=a{\frac {h}{w}}m	load transfer 
+newton's second law of motion 	 0 	 \displaystyle \delta ={\frac {\delta _{max}\sin ^{2}\gamma }{1+\cos ^{2}\gamma }}	Rayleigh sky model 
+newton's second law of motion 	 0 	 \displaystyle T_{a}+{\frac {T_{m}-T_{a}}{3}}	airport reference temperature 
+newton's second law of motion 	 0 	 \displaystyle \mathrm {CI} ={\frac {mass}{height^{3}}}	Ponderal index 
+newton's second law of motion 	 0 	 \displaystyle \rho ={\frac {m_{eau}}{V_{tot}}}	Q1382234 
+newton's second law of motion 	 0 	 \displaystyle F_{N}=m\cdot \mu \left({\frac {a}{a_{0}}}\right)a	Modified Newtonian dynamics 
+newton's second law of motion 	 0 	 \displaystyle {\frac {\ell x^{2}+mx+n}{(x-a)(x-b)(x-c)}}={\frac {A}{(x-a)}}+{\frac {B}{(x-b)}}+{\frac {C}{(x-c)}}	Heaviside cover-up method 
+newton's second law of motion 	 0 	 \displaystyle \rho _{k}=rank(A-\lambda _{i}I)^{k-1}-rank(A-\lambda _{i}I)^{k}\qquad (k=1,2,\ldots ,m_{i})	Polynomial basis 
+newton's second law of motion 	 0 	 \displaystyle \mathrm {Du} ={\frac {\kappa ^{\sigma }}{{\mathrm {K} _{m}}a}}	Dukhin number 
+newton's second law of motion 	 0 	 \displaystyle X=A\sum _{i=0}^{m-1}a_{i}	harshad number 
+newton's second law of motion 	 0 	 \displaystyle l_{a}l^{a}=n_{a}n^{a}=m_{a}m^{a}={\bar {m}}_{a}{\bar {m}}^{a}=0\,	ricci scalars 
+newton's second law of motion 	 0 	 \displaystyle P_{a}+P_{m}+P_{d}=1	Sticking coefficient 
+newton's second law of motion 	 0 	 \displaystyle c_{ij}=\sum _{k=1}^{m}a_{ik}b_{kj}	matrix multiplication algorithm 
+newton's second law of motion 	 0 	 \displaystyle \left\{\sum _{k=0}^{\infty }a_{k}{\mathsf {x}}^{k/n-m}\colon m,n\in \mathbb {Z} ^{+}\right\}	Puiseux series 
+newton's second law of motion 	 0 	 \displaystyle JaroWinklerDist(s_{1},s_{2})=1-JaroWinklerSim(s_{1},s_{2})	Jaro–Winkler distance 
+newton's second law of motion 	 0 	 \displaystyle \sigma _{total}={{\bigl (}\sigma _{sample}^{2}+\sigma _{calib}^{2}{\bigr )}}^{\frac {1}{2}}	Calibration of radiocarbon dates 
+newton's second law of motion 	 0 	 \displaystyle a\uparrow ^{m}b=\underbrace {a\uparrow ^{m-1}\left(a\uparrow ^{m-1}\left[a\uparrow ^{m-1}\left(\ldots \left[a\uparrow ^{m-1}\left(a\uparrow ^{m-1}a\right)\right]\ldots \right)\right]\right)} _{\displaystyle b{\mbox{ copies of }}a},\quad m\geq 0	hyperoperation 
+newton's second law of motion 	 0 	 \displaystyle m={\frac {y_{end}-y_{start}}{x_{end}-x_{start}}}	Cooling flow 
+newton's second law of motion 	 0 	 \displaystyle \eta _{th}is[[thermalefficiency]]	Diesel cycle 
+newton's second law of motion 	 0 	 \displaystyle {\vec {F}}=m\cdot {\vec {a}}	Newton's second law of motion for constant mass 
+newton's second law of motion 	 0 	 \displaystyle P_{mag}={\frac {B^{2}}{2\mu _{0}}}	magnetic levitation 
+newton's second law of motion 	 0 	 \displaystyle f=ma	rocket engine nozzle 
+newton's second law of motion 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+newton's second law of motion 	 0 	 \displaystyle (a)_{\kappa }^{(\alpha )}=\prod _{i=1}^{m}\prod _{j=1}^{\kappa _{i}}\left(a-{\frac {i-1}{\alpha }}+j-1\right).	generalized Pochhammer symbol 
+newton's second law of motion 	 0 	 \displaystyle V_{i}isthemembranepotentialofithcompartment	Compartmental modelling of dendrites 
+newton's second law of motion 	 0 	 \displaystyle Compliance={\frac {\Delta V}{\Delta P}}	pulmonary compliance 
+newton's second law of motion 	 0 	 \displaystyle P_{max}=K-S_{0}+C	maximum profit at maturity of covered call 
+newton's second law of motion 	 0 	 \displaystyle i\gamma ^{a}e_{a}^{\mu }D_{\mu }\Psi -m\Psi =0	Dirac equation in curved spacetime 
+newton's second law of motion 	 0 	 \displaystyle \Omega =10^{5}{\frac {Pa\cdot s}{m^{3}}}	acoustic ohm 
+newton's second law of motion 	 0 	 \displaystyle TRevPAR=TotalRevenue/RoomsAvailable	TRevPAR 
+newton's second law of motion 	 0 	 \displaystyle SR={\frac {CompoundROR}{ABS(Avg.AnnualDD-10\%)}}	Sterling ratio 
+newton's second law of motion 	 0 	 \displaystyle m_{H}(\Sigma )={\sqrt {\frac {{\text{Area}}\,\Sigma }{16\pi }}}\left(1-{\frac {1}{16\pi }}\int _{\Sigma }H^{2}da\right)	Area theorem 
+newton's second law of motion 	 0 	 \displaystyle P_{max}=\infty 	maximum profit at maturity of protective put 
+newton's second law of motion 	 0 	 \displaystyle \sum \limits _{a\leqslant k&lt;b}f(k)=\int \limits _{a}^{b}f(x)dx+\left.\sum \limits _{k=1}^{m}{\frac {B_{k}}{k!}}f^{(k-1)}(x)\right|_{a}^{b}+R_{m},R_{m}=(-1)^{m+1}\int \limits _{a}^{b}{\frac {B_{m}(\{x\})}{m!}}f^{(m)}(x)dx	Euler–Maclaurin formula 
+newton's second law of motion 	 0 	 \displaystyle \sum _{k=m}^{n}a_{k}=a_{m}+a_{m+1}+\dotsb +a_{n}	sum 
+newton's second law of motion 	 0 	 \displaystyle \Lambda ={\frac {m^{2}}{a^{\frac {3}{2}}}}\,k	clearing the neighbourhood 
+newton's second law of motion 	 0 	 \displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess	Procept 
+newton's second law of motion 	 0 	 \displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}	blood flow 
+newton's second law of motion 	 0 	 \displaystyle d_{n}=M_{M_{p}}=2^{2^{p}-1}-1,p\ and\ 2^{p}-primes	double Mersenne number 
+newton's second law of motion 	 0 	 \displaystyle JaroWinklerSim(s_{1},s_{2})=\left\{{\begin{array}{l l}JaroSim(s_{1},s_{2})+l\cdot p\cdot \left(1-JaroSim(s_{1},s_{2})\right)&amp;{\text{if }}JaroSim(s_{1},s_{2})&gt;b_{t}\\JaroSim(s_{1},s_{2})&amp;{\text{otherwise}}\end{array}}\right.	Jaro–Winkler similarity 
+newton's second law of motion 	 0 	 \displaystyle RfD(mg/kg/day)={NOEL(mg/kg/day) \over Uf_{inter}*Uf_{intra}*Uf_{other}}	Reference dose 
+newton's second law of motion 	 0 	 \displaystyle (F,m)({\mathcal {C}},\otimes ,I)\to ({\mathcal {D}},\bullet ,J)and(G,n)({\mathcal {C}},\otimes ,I)\to ({\mathcal {D}},\bullet ,J)	monoidal natural transformation 
+newton's second law of motion 	 0 	 \displaystyle mpg=mi/gal	miles per gallon 
+newton's second law of motion 	 0 	 \displaystyle A=(a_{ij})={\begin{pmatrix}a_{11}&amp;a_{12}&amp;\cdots &amp;a_{1n}\\a_{21}&amp;a_{22}&amp;\cdots &amp;a_{2n}\\\vdots &amp;\vdots &amp;&amp;\vdots \\a_{m1}&amp;a_{m2}&amp;\cdots &amp;a_{mn}\\\end{pmatrix}}\in \ \mathbb {K} ^{m\times n}	matrix 
+newton's second law of motion 	 0 	 \displaystyle {\vec {F}}=m{\vec {a}}	force 
+newton's second law of motion 	 0 	 \displaystyle a=A/m	specific activity 
+newton's second law of motion 	 0 	 \displaystyle a=A/m	specific Helmholtz energy 
+newton's second law of motion 	 0 	 \displaystyle P_{max}=S_{0}-D	maximum profit at maturity of protective call 
+newton's second law of motion 	 0 	 \displaystyle L_{max}=S_{0}-C	maximum loss at maturity of covered call 
+newton's second law of motion 	 0 	 \displaystyle p={\frac {R\cdot T}{V_{m}-b}}-{\frac {a(T)}{V_{m}^{2}+2\cdot b\cdot V_{m}-b^{2}}}	Q230917 
+newton's second law of motion 	 0 	 \displaystyle X_{i}=(X_{i-a}+X_{i-b}+...+X_{i-k})\mod (2^{m})	Lagged Fibonacci generator 
+newton's second law of motion 	 0 	 \displaystyle (a_{1},a_{2},\ldots ,a_{m};q)_{n}=(a_{1};q)_{n}(a_{2};q)_{n}\ldots (a_{m};q)_{n}	basic hypergeometric series 
+newton's second law of motion 	 0 	 \displaystyle Z_{1}\,\!theimpedanceofthegenerator	T pad 
+newton's second law of motion 	 0 	 \displaystyle \sum _{j=1}^{n}a_{ij}x_{j}=y_{i}\qquad {\mbox{ for }}i=1,\ldots ,m	Pure submodule 
+newton's second law of motion 	 0 	 \displaystyle Mass=Sum[25]\;of\;{EMA[9]\;of\;(high-low) \over EMA[9]\,of\,EMA[9]\;of\;(high-low)}	mass index 
+newton's second law of motion 	 0 	 \displaystyle L_{max}=K-S_{0}+D	maximum loss at maturity of protective call 
+newton's second law of motion 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+newton's second law of motion 	 0 	 \displaystyle P_{m}=\prod _{i=1}^{m}a_{i}=a_{1}\cdots a_{m}	empty product 
+newton's second law of motion 	 0 	 \displaystyle {\vec {F}}_{bolt}=P_{max}\cdot A_{internal}	Bolt thrust 
+newton's second law of motion 	 0 	 \displaystyle m=a_{k}n^{k}+a_{k-1}n^{k-1}+\cdots +a_{0},	Goodstein's theorem 
+newton's second law of motion 	 0 	 \displaystyle K^{m\times n}=\{(a_{ij})_{i=1,\ldots ,m,j=1,\ldots ,n}\mid a_{ij}\in K\}	matrix space 
+newton's second law of motion 	 0 	 \displaystyle P_{max}=S_{0}-K+C	maximum profit at maturity of covered put 
+newton's second law of motion 	 0 	 \displaystyle {\frac {\mathrm {d} a}{\mathrm {d} N}}=C(\Delta K)^{m}	Paris' law 
+newton's second law of motion 	 0 	 \displaystyle {\frac {Energy\ consumed}{Built\ area}}	efficient energy use 
+newton's second law of motion 	 0 	 \displaystyle \left[{\mathcal {S}}_{n}(f)\right](x)&lt;/math&gt;=&lt;math&gt;e^{-nx}\sum _{k=0}^{\infty }{{\frac {(nx)^{k}}{k!}}f\left({\frac {k}{n}}\right)}	Szász–Mirakyan operator 
+newton's second law of motion 	 0 	 \displaystyle |x_{n+1}-a|\leq K\cdot {|x_{n}-a|}^{d+1},forsomeK&gt;0.\!	Householder's method 
+newton's second law of motion 	 0 	 \displaystyle \prod _{k=m}^{n}a_{k}=a_{m}\cdot a_{m+1}\cdot \,\,\dotsb \,\,\cdot a_{n}	product of a sequence 
+newton's second law of motion 	 0 	 \displaystyle L_{max}=\infty 	maximum loss at maturity of covered put 
+newton's second law of motion 	 0 	 \displaystyle {\frac {L_{vap}}{T_{boiling}}}\approx 87-88{\frac {J}{Kmol}}	Trouton's ratio 
+pendulum 	 0 	 \displaystyle {\frac {d^{2}\theta }{dt^{2}}}+{\frac {g}{l}}\sin \theta =0	pendulum 
+pendulum 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+pendulum 	 0 	 \displaystyle u(t)representstheinputsignal	Separation principle 
+pendulum 	 0 	 \displaystyle \%R={high_{Ndays}-close_{today} \over high_{Ndays}-low_{Ndays}}\times -100	Williams %R 
+pendulum 	 0 	 \displaystyle RF=\sum _{n=1}^{100}Abs_{i}\cdot F_{i}/(pathlength\cdot density)	global warming potential 
+pendulum 	 0 	 \displaystyle \land =[[logicalconjunction|AND]](logicalconjunction)	truth table 
+pendulum 	 0 	 \displaystyle {\frac {d\epsilon }{dt}}={\frac {\sigma }{d^{3}}}D_{gb}e^{-Q_{Coble}/RT}	Coble creep 
+pendulum 	 0 	 \displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess	Procept 
+pendulum 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+pendulum 	 0 	 \displaystyle {\frac {Energy\ consumed}{Built\ area}}	efficient energy use 
+power 	 0 	 \displaystyle SUE_{t}={\frac {Q_{t}-E(Q_{t})}{\sigma (Q_{t}-E(Q_{t})}}	Earnings surprise 
+power 	 0 	 \displaystyle {\ddot {x}}_{a}+{\frac {2}{\tau _{0}}}{\dot {x}}_{a}+\omega _{a}^{2}x_{a}={\frac {e}{m}}E(t,\mathbf {r} _{a})	Rabi problem 
+power 	 0 	 \displaystyle E[B_{H}(t)B_{H}(s)]={\tfrac {1}{2}}(|t|^{2H}+|s|^{2H}-|t-s|^{2H})	Fractional Brownian motion 
+power 	 0 	 \displaystyle dE_{t}=dQ+dW	First law of thermodynamics 
+power 	 0 	 \displaystyle {\frac {\partial }{\partial t}}(\rho \phi )+\nabla (\rho \mathbf {u} \phi )\,=\nabla (\Gamma \cdot \operatorname {grad} \phi )+S_{\phi }\;({EquationRef|1})	Laplacian of the indicator 
+power 	 0 	 \displaystyle P\langle E_{1,j}^{C}\rangle \times P\langle E_{2,j}^{C}\rangle \times \cdots \times P\langle E_{m,j}^{C}\rangle =\left(1-2t/G\right)^{m}	Sulston score 
+power 	 0 	 \displaystyle E_{\mathrm {sig} }\cos(\omega _{\mathrm {sig} }t+\varphi )	Heterodyne detection 
+power 	 0 	 \displaystyle P={\frac {\mathrm {d} E}{\mathrm {d} t}}	power 
+power 	 0 	 \displaystyle A(\tau )=\int _{-\infty }^{+\infty }E(t)E^{*}(t-\tau )dt	Thermal de Broglie wavelength 
+power 	 0 	 \displaystyle A(\tau )=\int _{-\infty }^{+\infty }E(t)E^{*}(t-\tau )dt	Optical autocorrelation 
+power 	 0 	 \displaystyle \mathbf {x} _{t+1}=\mathbf {x} _{t}+sE_{t}	Cuckoo search 
+power 	 0 	 \displaystyle \int _{0}^{\infty }E(t)\,dt=1	residence time distribution 
+power 	 0 	 \displaystyle \int _{0}^{\infty }E(t)\,dt=1	Lower convex envelope 
+power 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+power 	 0 	 \displaystyle \mathrm {LEC} ={\frac {\sum _{t=1}^{n}{\frac {I_{t}+M_{t}+F_{t}}{\left({1+r}\right)^{t}}}}{\sum _{t=1}^{n}{\frac {E_{t}}{\left({1+r}\right)^{t}}}}}	Levelized cost of energy 
+power 	 0 	 \displaystyle E=\int _{t_{1}}^{t_{2}}p^{2}\mathrm {d} t	sound exposure 
+power 	 0 	 \displaystyle \mathrm {d} s^{2}=\mathrm {d} t^{2}-{\frac {(R')^{2}}{1+2E}}\mathrm {d} r^{2}-R^{2}\,\mathrm {d} \Omega ^{2}	Lemaître–Tolman metric 
+power 	 0 	 \displaystyle E_{tot,1}=E_{tot,2}	conservation of energy 
+power 	 0 	 \displaystyle E={\frac {1}{2}}\rho Av^{3}t	Stokes wave 
+power 	 0 	 \displaystyle t={\frac {T_{1}}{2\pi }}(E-e_{1}\sin E)	Orbit phasing 
+power 	 0 	 \displaystyle \Delta E\Delta t\geq {h \over 4\pi }	quantum fluctuation 
+power 	 0 	 \displaystyle E=\int \limits _{-\infty }^{\infty }|x(t)|^{2}\,dt	Standardized moment 
+power 	 0 	 \displaystyle RfD(mg/kg/day)={NOEL(mg/kg/day) \over Uf_{inter}*Uf_{intra}*Uf_{other}}	Reference dose 
+power 	 0 	 \displaystyle {\frac {Energy\ consumed}{Built\ area}}	efficient energy use 
+power 	 0 	 \displaystyle {\frac {1}{\operatorname {ch} (t)}}=\sum _{n=0}^{\infty }{\frac {E_{n}\cdot t^{n}}{n!}}	Euler number 
+power 	 0 	 \displaystyle S=\int \limits _{t_{1}}^{t_{2}}E\,\mathrm {d} t	action 
+power 	 0 	 \displaystyle H_{\mathrm {e} }=E_{\mathrm {e} }t	exposure 
+rest energy 	 0 	 \displaystyle L(\lambda )=m_{\mathrm {b} }c_{\mathrm {b} }(\lambda )+m_{\mathrm {s} }c_{\mathrm {s} }(\lambda )	Dichromatic reflectance model 
+rest energy 	 0 	 \displaystyle OB\%={\frac {-1600}{Mol.wt.ofcompound}}\times (2X+(Y/2)+M-Z)	oxygen balance 
+rest energy 	 0 	 \displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})	Time of flight detector 
+rest energy 	 0 	 \displaystyle P(i,j,k,m)\equiv d(c_{i},c_{j})\leq {\frac {m}{k+1}}	complex normal distribution 
+rest energy 	 0 	 \displaystyle \varepsilon is[[Strain(materialsscience)|strain]]	Ramberg–Osgood relationship 
+rest energy 	 0 	 \displaystyle {\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\psi -\nabla ^{2}\psi +{\frac {m^{2}c^{2}}{\hbar ^{2}}}\psi =0	Klein–Gordon equation 
+rest energy 	 0 	 \displaystyle \varphi (\theta )=mR\theta +x+\sum _{n\neq 0}c_{n}e^{in\theta }	T-duality 
+rest energy 	 0 	 \displaystyle {\frac {\ell x^{2}+mx+n}{(x-a)(x-b)(x-c)}}={\frac {A}{(x-a)}}+{\frac {B}{(x-b)}}+{\frac {C}{(x-c)}}	Heaviside cover-up method 
+rest energy 	 0 	 \displaystyle e(c)=n\prod _{i=1}^{m}p_{i}(c_{i})	Configural frequency analysis 
+rest energy 	 0 	 \displaystyle S={\frac {1}{c}}\int {d^{4}x{\sqrt {-g}}{\frac {1}{2\mu }}}\times \left[\Phi R-{\frac {\omega (\Phi )}{\Phi }}(\partial _{\sigma }\Phi )^{2}-V(\Phi )+2\mu ~{\mathcal {L}}_{m}(g_{\mu \nu },\Psi )\right]	Scalar-tensor theory 
+rest energy 	 0 	 \displaystyle c:=\langle g^{y},h^{y}\cdot m\rangle 	ElGamal encryption 
+rest energy 	 0 	 \displaystyle E=mc^{2}	mass–energy equivalence 
+rest energy 	 0 	 \displaystyle m_{\mathrm {P} }={\sqrt {\frac {c\hbar }{G}}}	Planck mass 
+rest energy 	 0 	 \displaystyle \theta _{0}={\frac {1}{6\pi \epsilon _{0}}}{\frac {e^{2}}{m_{0}c^{3}}}	chronon 
+rest energy 	 0 	 \displaystyle m_{0}=c^{-1}{\sqrt {E^{2}/c^{2}-p^{2}}}	rest mass (invariant mass) or rest energy 
+rest energy 	 0 	 \displaystyle M_{\rm {limit}}={\frac {\omega _{3}^{0}{\sqrt {3\pi }}}{2}}\left({\frac {\hbar c}{G}}\right)^{3/2}{\frac {1}{(\mu _{\text{e}}m_{\text{H}})^{2}}}	Chandrasekhar limit 
+rest energy 	 0 	 \displaystyle c_{m}=\left(4g\sigma /\rho \right)^{1/4}	Denny's paradox 
+rest energy 	 0 	 \displaystyle \lambda _{\mathrm {C} }={\frac {h}{mc_{0}}},	Compton wavelength 
+rest energy 	 0 	 \displaystyle E^{2}-|{\vec {p}}\,|^{2}c^{2}=m^{2}c^{4}	On shell and off shell 
+rest energy 	 0 	 \displaystyle c_{ij}=\sum _{k=1}^{m}a_{ik}b_{kj}	matrix multiplication algorithm 
+rest energy 	 0 	 \displaystyle \Delta f_{\text{FWHM}}={\sqrt {\frac {8kT\ln 2}{mc^{2}}}}f_{0}	Doppler broadening 
+rest energy 	 0 	 \displaystyle B(x,\mu )=f(x)-\mu ~\sum _{i=1}^{m}\log(c_{i}(x))~~~~~(2)	interior point method 
+rest energy 	 0 	 \displaystyle i\hbar {\frac {\partial \Psi }{\partial t}}=(c{\hat {\boldsymbol {\alpha }}}\cdot {\hat {\boldsymbol {p}}}+mc^{2}{\hat {\beta }})\Psi 	Dirac equation 
+rest energy 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+rest energy 	 0 	 \displaystyle |Y^{X}/G|={\frac {1}{|G|}}\sum _{g\in G}m^{c(g)}	Pólya enumeration theorem 
+rest energy 	 0 	 \displaystyle V_{i}isthemembranepotentialofithcompartment	Compartmental modelling of dendrites 
+rest energy 	 0 	 \displaystyle \sigma _{total}={{\bigl (}\sigma _{sample}^{2}+\sigma _{calib}^{2}{\bigr )}}^{\frac {1}{2}}	Calibration of radiocarbon dates 
+rest energy 	 0 	 \displaystyle \eta _{th}is[[thermalefficiency]]	Diesel cycle 
+rest energy 	 0 	 \displaystyle c:=[(1+N)^{m}\cdot r^{N}\mod N^{2}]	Paillier cryptosystem 
+rest energy 	 0 	 \displaystyle [L_{m},L_{n}]=(m-n)L_{m+n}+{\frac {c}{12}}(m^{3}-m)\delta _{m+n,0}	Virasoro algebra 
+rest energy 	 0 	 \displaystyle cr(K_{m,n})=\lfloor n/2\rfloor \lfloor (n-1)/2\rfloor \lfloor m/2\rfloor \lfloor (m-1)/2\rfloor 	negative temperature 
+rest energy 	 0 	 \displaystyle {\frac {1}{v\left[\left({p_{0}}/{p}\right)-1\right]}}={\frac {c-1}{v_{\mathrm {m} }c}}\left({\frac {p}{p_{0}}}\right)+{\frac {1}{v_{m}c}},\qquad (1)	BET theory 
+rest energy 	 0 	 \displaystyle t=s/c_{m}	Network performance 
+rest energy 	 0 	 \displaystyle Compliance={\frac {\Delta V}{\Delta P}}	pulmonary compliance 
+rest energy 	 0 	 \displaystyle \Delta (mc)\Delta r\geq \hbar /2	Heisenberg's uncertainty principle 
+rest energy 	 0 	 \displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess	Procept 
+rest energy 	 0 	 \displaystyle m={\frac {m_{0}}{\sqrt {1-(v/c)^{2}}}}	mass in special relativity 
+rest energy 	 0 	 \displaystyle c\equiv m^{e}{\pmod {n}}	Key encapsulation 
+rest energy 	 0 	 \displaystyle E_{0}=m_{0}c_{0}^{2}	rest energy 
+rest energy 	 0 	 \displaystyle E^{2}=p^{2}c^{2}+m^{2}c^{4}	energy-momentum relation 
+rest energy 	 0 	 \displaystyle \zeta ={\frac {c}{2{\sqrt {mk}}}}	damping 
+rest energy 	 0 	 \displaystyle (x^{2}+y^{2})^{2}-(2m^{2}+c)x^{2}+(2m^{2}-c)y^{2}=0	hippopede 
+rest energy 	 0 	 \displaystyle Z_{1}\,\!theimpedanceofthegenerator	T pad 
+rest energy 	 0 	 \displaystyle cd={\frac {lm}{sr}}	candela 
+rest energy 	 0 	 \displaystyle \sum \limits _{l'm'}{{M_{lm,l'm'}}\left({E,{\bf {k}}}\right){c_{l'm'}}\left(E,{\bf {k}}\right)=0}	Korringa–Kohn–Rostoker approximation 
+rest energy 	 0 	 \displaystyle r_{\mathrm {e} }={\frac {e^{2}}{4\pi \varepsilon _{0}m_{\mathrm {e} }c_{0}^{2}}}	classical electron radius 
+rest energy 	 0 	 \displaystyle R_{\infty }={\frac {\alpha ^{2}m_{e}c}{4\pi \hbar }}	Precision tests of QED 
+rest energy 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+rest energy 	 0 	 \displaystyle {\Delta }S_{mix}=-R\sum _{i=1}^{N}c_{i}\ln {c_{i}}	Number theoretic Hilbert transform 
+rest energy 	 0 	 \displaystyle \sigma _{f}={\sqrt {\frac {kT}{mc^{2}}}}f_{0}	Doppler broadening 
+rest energy 	 0 	 \displaystyle f(A\mid m)=\prod _{p}\phi \left(A_{p}\mid A_{\text{base}}+r\sum _{c}C_{cp},\nu ^{-1}\right)	Bayesian tool for methylation analysis 
+rest energy 	 0 	 \displaystyle YouTube.com/llstylish	Geometric dimensioning and tolerancing 
+rest energy 	 0 	 \displaystyle {\frac {Energy\ consumed}{Built\ area}}	efficient energy use 
+rest energy 	 0 	 \displaystyle \mathbf {e} _{m+1}=\sum _{i=1}^{m}\ c_{i}\mathbf {e} _{i}	DIIS 
+rest energy 	 0 	 \displaystyle (m_{\mathrm {rest} })c^{2}={\sqrt {E_{\mathrm {total} }^{2}-(|\mathbf {p} |c)^{2}}}	rest mass 
+rest energy 	 0 	 \displaystyle c={\frac {C}{m}}	specific heat capacity 
+rest mass 	 0 	 \displaystyle p^{\mu }={\begin{matrix}p_{0}\\p_{1}\\p_{2}\\p_{3}\end{matrix}}={\begin{matrix}E/c\\p_{x}\\p_{y}\\p_{z}\end{matrix}}={\begin{matrix}E/c\\{\vec {p}}\end{matrix}}	four-momentum 
+rest mass 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+rest mass 	 0 	 \displaystyle E^{2}-|{\vec {p}}\,|^{2}c^{2}=m^{2}c^{4}	On shell and off shell 
+rest mass 	 0 	 \displaystyle m_{0}=c^{-1}{\sqrt {E^{2}/c^{2}-p^{2}}}	rest mass (invariant mass) or rest energy 
+rest mass 	 0 	 \displaystyle E^{2}=p^{2}c^{2}+m^{2}c^{4}	energy-momentum relation 
+speed 	 0 	 \displaystyle ds^{2}=\left(1-{r_{g} \over r}\right)dt^{2}-{dr^{2} \over 1-{r_{g} \over r}}-r^{2}\left(d\theta ^{2}+\sin ^{2}\theta d\phi ^{2}\right)	Lemaître coordinates 
+speed 	 0 	 \displaystyle \prod \limits _{n\geq 1}(1-s^{n})(1-s^{n}t)(1-s^{n-1}t^{-1})(1-s^{2n-1}t^{2})(1-s^{2n-1}t^{-2})=\displaystyle \sum \limits _{n\in Z}s^{(3n^{2}+n)/2}(t^{3n}-t^{-3n-1}),\mid s\mid &lt;1,t\neq 0.	Quintuple product identity 
+speed 	 0 	 \displaystyle {\vec {x}}={\vec {p}}+s({\vec {q}}-{\vec {p}})+t({\vec {r}}-{\vec {p}})	Q15906199 
+speed 	 0 	 \displaystyle \varepsilon is[[Strain(materialsscience)|strain]]	Ramberg–Osgood relationship 
+speed 	 0 	 \displaystyle \mathbf {\tau } =const	shear flow 
+speed 	 0 	 \displaystyle P(t,T)=e^{-\int _{t}^{T}f(t,s)ds}	Heath–Jarrow–Morton framework 
+speed 	 0 	 \displaystyle JaroSim(s_{1},s_{2})=\left\{{\begin{array}{l l}{\frac {1}{3}}\left({\frac {m}{|s_{1}|}}+{\frac {m}{|s_{2}|}}+{\frac {m-t}{m}}\right)&amp;{\text{if }}m&gt;0\\0&amp;{\text{otherwise}}\end{array}}\right.	Jaro similarity 
+speed 	 0 	 \displaystyle \eta ={\frac {work\ done}{heat\ absorbed}}={\frac {Q1-Q2}{Q1}}	Engine efficiency 
+speed 	 0 	 \displaystyle \rho (p)=const	Incompressible flow 
+speed 	 0 	 \displaystyle RI={\frac {v_{systole}-v_{diastole}}{v_{systole}}}	Arterial resistivity index 
+speed 	 0 	 \displaystyle \%{\mbox{ difference}}=\left({\frac {r_{solute}-r_{solvent}}{r_{solvent}}}\right)\times 100\%\leq 15\%	Hume-Rothery rules 
+speed 	 0 	 \displaystyle \rho _{b}={\frac {M_{s}}{V_{t}}}	bulk density 
+speed 	 0 	 \displaystyle net.assets\div net.premium.written	solvency ratio 
+speed 	 0 	 \displaystyle \mathbf {W} isthefull-loadcopperloss	short circuit test 
+speed 	 0 	 \displaystyle 1.043\times {\sqrt {n_{wsy\geq 3}}}\times {\frac {30}{n_{st}}}+3.1291	SMOG grade 
+speed 	 0 	 \displaystyle {\begin{aligned}k_{1}&amp;=f\left(t_{n},y_{n}\right)\\k_{2}&amp;=f\left(t_{n}+c_{2}h,y_{n}+h\left(a_{21}k_{1}\right)\right)\\k_{3}&amp;=f\left(t_{n}+c_{3}h,y_{n}+h\left(a_{31}k_{1}+a_{32}k_{2}\right)\right)\\&amp;\vdots \\k_{s}&amp;=f\left(t_{n}+c_{s}h,y_{n}+h\left(a_{s1}k_{1}+a_{s2}k_{2}+\cdots +a_{s,s-1}k_{s-1}\right)\right)\\y_{n+1}&amp;=y_{n}+h\sum _{i=1}^{s}b_{i}k_{i}\end{aligned}}	explicit Runge–Kutta method 
+speed 	 0 	 \displaystyle \sum _{j=0}^{s}a_{j}y_{n+j}=h\sum _{j=0}^{s}b_{j}f\left(t_{n+j},y_{n+j}\right)	linear multistep method 
+speed 	 0 	 \displaystyle (x,y)=(x_{0},y_{0})+(x_{1}-x_{0},y_{1}-y_{0})s+(x_{2}-x_{0},y_{2}-y_{0})t	Piecewise linear continuation 
+speed 	 0 	 \displaystyle s,t\prod _{i\in \mathrm {Ob} (J)}F(i)\rightrightarrows \prod _{f\in \mathrm {Hom} (J)}F(\mathrm {cod} (f))	limit 
+speed 	 0 	 \displaystyle \forall s,t\in \mathbb {R} C^{-1}|s-t|-K\leq d(\phi (t),\phi (s))\leq C|s-t|+K	quasi-isometry 
+speed 	 0 	 \displaystyle {\frac {n_{w}}{n_{st}}}\times 10\times {\frac {n_{wsy\geq 2}}{n_{w}}}	Wheeler and Smith readability measure 
+speed 	 0 	 \displaystyle F(s)=\int _{0}^{\infty }f(t)e^{-st}\,dt	Laplace transform 
+speed 	 0 	 \displaystyle \mathbf {x} _{t+1}=\mathbf {x} _{t}+sE_{t}	Cuckoo search 
+speed 	 0 	 \displaystyle {\frac {n_{w}}{n_{st}}}+{\frac {100\times n_{wsy\geq 7}}{n_{w}}}	LIX score 
+speed 	 0 	 \displaystyle \mathrm {CI} ={\frac {mass}{height^{3}}}	Ponderal index 
+speed 	 0 	 \displaystyle {\frac {n_{c}}{n_{w}}}\times {\frac {n_{w}}{n_{st}}}	Fucks' Stilcharakteristik 
+speed 	 0 	 \displaystyle Fisresultantfinenessmodulus	Fineness modulus 
+speed 	 0 	 \displaystyle E[B_{H}(t)B_{H}(s)]={\tfrac {1}{2}}(|t|^{2H}+|s|^{2H}-|t-s|^{2H})	Fractional Brownian motion 
+speed 	 0 	 \displaystyle \mathbb {P} (X_{t}\in A|{\mathcal {F}}_{s})=\mathbb {P} (X_{t}\in A|X_{s})	Markov process 
+speed 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+speed 	 0 	 \displaystyle 0.39\times {\frac {n_{w}}{n_{st}}}+11.8\times {\frac {n_{sy}}{n_{w}}}-15.59	Flesch–Kincaid grade level 
+speed 	 0 	 \displaystyle u(t)representstheinputsignal	Separation principle 
+speed 	 0 	 \displaystyle \lambda _{s}(n)=n\cdot 2^{{\frac {1}{t!}}\alpha (n)^{t}(1+o(1))}	Baum–Sweet sequence 
+speed 	 0 	 \displaystyle \%R={high_{Ndays}-close_{today} \over high_{Ndays}-low_{Ndays}}\times -100	Williams %R 
+speed 	 0 	 \displaystyle {\frac {\partial \mathbf {j} _{s}}{\partial t}}={\frac {n_{s}e^{2}}{m}}\mathbf {E} ,\qquad \mathbf {\nabla } \times \mathbf {j} _{s}=-{\frac {n_{s}e^{2}}{m}}\mathbf {B} 	London equations 
+speed 	 0 	 \displaystyle \nu :\mathbf {P} ^{1}\to \mathbf {P} ^{n}:[s:t]\to [s^{n}:s^{n-1}t:s^{n-2}t^{2}:\ldots :t^{n}]	rational normal curve 
+speed 	 0 	 \displaystyle ds^{2}=dt^{2}-a^{2}(t)d\chi ^{2}=dt^{2}-a^{2}(t)\left(dx^{2}+k{\frac {(xdx)^{2}}{1-kx^{2}}}\right)	Friedmann–Lemaître–Robertson–Walker metric 
+speed 	 0 	 \displaystyle {\begin{aligned}(r+s)+t&amp;=r+(s+t)\\r+s&amp;=s+r\\r+0&amp;=r\\r+(-r)&amp;=0\\(rs)t&amp;=r(st)\\1r=r1&amp;=r\\r(s+t)&amp;=rs+rt\\(r+s)t&amp;=rt+st\end{aligned}}	unital ring 
+speed 	 0 	 \displaystyle {\mu _{1}-d_{1} \over \mu _{2}-d_{2}}={Best_{1}(F)-d_{1} \over Best_{2}(F)-d_{2}}	Kalai–Smorodinsky bargaining solution 
+speed 	 0 	 \displaystyle F_{electrostatic}={\frac {1}{2}}{\frac {\partial C}{\partial z}}\Delta V^{2}	electrostatic force microscope 
+speed 	 0 	 \displaystyle JaroWinklerDist(s_{1},s_{2})=1-JaroWinklerSim(s_{1},s_{2})	Jaro–Winkler distance 
+speed 	 0 	 \displaystyle \sigma _{total}={{\bigl (}\sigma _{sample}^{2}+\sigma _{calib}^{2}{\bigr )}}^{\frac {1}{2}}	Calibration of radiocarbon dates 
+speed 	 0 	 \displaystyle v={\frac {s}{t}}	v = d/t 
+speed 	 0 	 \displaystyle m={\frac {y_{end}-y_{start}}{x_{end}-x_{start}}}	Cooling flow 
+speed 	 0 	 \displaystyle \eta _{th}is[[thermalefficiency]]	Diesel cycle 
+speed 	 0 	 \displaystyle {\frac {\left(100-{\frac {100\times n_{wsy\leq 2}}{n_{w}}}\right)+\left(3\times {\frac {100\times n_{wsy\geq 3}}{n_{w}}}\right)}{100\times {\frac {n_{st}}{n_{w}}}}}	Linsear Write 
+speed 	 0 	 \displaystyle RF=\sum _{n=1}^{100}Abs_{i}\cdot F_{i}/(pathlength\cdot density)	global warming potential 
+speed 	 0 	 \displaystyle {\vec {s}}={\frac {d\,{\vec {\jmath }}}{dt}}={\frac {d^{2}{\vec {a}}}{dt^{2}}}={\frac {d^{3}{\vec {v}}}{dt^{3}}}={\frac {d^{4}{\vec {r}}}{dt^{4}}}	snap 
+speed 	 0 	 \displaystyle VP_{n}=C_{c}+C_{f}+V+S=GrossOutput	Value product 
+speed 	 0 	 \displaystyle X=\{X_{1},\ldots ,X_{n}\}isasetofvariables	tangent bundle 
+speed 	 0 	 \displaystyle \mathbb {E} [f(X_{t+s}-X_{t})g(J_{t+s})|{\mathcal {F}}_{t}]=\mathbb {E} _{J_{t},0}[f(X_{s})g(J_{s})]	Markov additive process 
+speed 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+speed 	 0 	 \displaystyle \omega isfrequencyofstrainoscillation	Dynamic mechanical analysis 
+speed 	 0 	 \displaystyle 206.835-\left(1.015\times {\frac {n_{w}}{n_{st}}}\right)-\left(84.6-{\frac {n_{sy}}{n_{w}}}\right)	Flesch reading ease score 
+speed 	 0 	 \displaystyle ds^{2}=-(1+2\Psi )dt^{2}+a^{2}(t)(1-2\Phi )\delta _{ab}dx^{a}dx^{b}	Newtonian gauge 
+speed 	 0 	 \displaystyle V_{i}isthemembranepotentialofithcompartment	Compartmental modelling of dendrites 
+speed 	 0 	 \displaystyle W_{v}(s+1)=W_{v}(s)+\theta (u,v,s)\cdot \alpha (s)\cdot (D(t)-W_{v}(s))	shellsort 
+speed 	 0 	 \displaystyle 0.4\times \left({\frac {n_{w}}{n_{st}}}+100\times {\frac {n_{wsy\geq 3}}{n_{w}}}\right)	Fog index 
+speed 	 0 	 \displaystyle {\vec {x}}={\vec {p}}+s{\vec {u}}+t{\vec {v}}	Q15839526 
+speed 	 0 	 \displaystyle TRevPAR=TotalRevenue/RoomsAvailable	TRevPAR 
+speed 	 0 	 \displaystyle ds^{2}=-f(r)dt^{2}+{dr^{2} \over f(r)}+r^{2}(d\theta ^{2}+\sin ^{2}\theta \,d\phi ^{2})	de Sitter–Schwarzschild metric 
+speed 	 0 	 \displaystyle JaroWinklerSim(s_{1},s_{2})=\left\{{\begin{array}{l l}JaroSim(s_{1},s_{2})+l\cdot p\cdot \left(1-JaroSim(s_{1},s_{2})\right)&amp;{\text{if }}JaroSim(s_{1},s_{2})&gt;b_{t}\\JaroSim(s_{1},s_{2})&amp;{\text{otherwise}}\end{array}}\right.	Jaro–Winkler similarity 
+speed 	 0 	 \displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess	Procept 
+speed 	 0 	 \displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}	blood flow 
+speed 	 0 	 \displaystyle out=(i\times s+o)^{p}	ASC CDL 
+speed 	 0 	 \displaystyle x(t)=f(t)+\sum _{i=m}^{n}k(t,s,x(s))	Summation equation 
+speed 	 0 	 \displaystyle t=s/c_{m}	Network performance 
+speed 	 0 	 \displaystyle \alpha (s)\equiv \sup \left\{\,|P(A\cap B)-P(A)P(B)|-\infty &lt;t&lt;\infty ,A\in X_{-\infty }^{t},B\in X_{t+s}^{\infty }\,\right\}	mixing 
+speed 	 0 	 \displaystyle \mathrm {d} \langle s,t\rangle =\langle \nabla s,t\rangle +\langle s,\nabla t\rangle 	Hermitian connection 
+speed 	 0 	 \displaystyle 5.88\times {\frac {n_{c}}{n_{w}}}+29.6\times {\frac {n_{st}}{n_{w}}}-15.8	Coleman–Liau index 
+speed 	 0 	 \displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t	Model rocket motor classification 
+speed 	 0 	 \displaystyle H(3,q^{2})\ s=q^{2},t=q	Generalized quadrangle 
+speed 	 0 	 \displaystyle {\begin{aligned}\mathrm {d} s^{2}&amp;=\left(L+{\frac {1}{|{\vec {r}}|}}\right)\mathrm {d} {\vec {r}}^{2}+{\frac {1}{L+{\frac {1}{|{\vec {r}}|}}}}(\mathrm {d} t+\omega )^{2}\\\mathrm {d} \omega &amp;=\star {\frac {1}{|{\vec {r}}|}}\\\theta &amp;\sim \theta +4\pi \mathbb {Z} \end{aligned}}	Taub–NUT space 
+speed 	 0 	 \displaystyle ds^{2}=-dt^{2}+\delta _{ij}dx^{i}dx^{j}	light cone coordinates 
+speed 	 0 	 \displaystyle {\begin{aligned}k_{1}&amp;=f(t_{n},y_{n})\\k_{2}&amp;=f(t_{n}+c_{2}h,y_{n}+h(a_{21}k_{1}))\\k_{3}&amp;=f\left(t_{n}+c_{3}h,y_{n}+h\left(a_{31}k_{1}+a_{32}k_{2}\right)\right)\\&amp;\vdots \\k_{s}&amp;=f\left(t_{n}+c_{s}h,y_{n}+h\left(a_{s1}k_{1}+a_{s2}k_{2}+\cdots +a_{s,s-1}k_{s-1}\right)\right)\\y_{n+1}&amp;=y_{n}+h\sum _{i=1}^{s}b_{i}k_{i}\\y_{n+1}^{*}&amp;=y_{n}+h\sum _{i=1}^{s}b_{i}^{*}k_{i}\\e_{n+1}&amp;=y_{n+1}-y_{n+1}^{*}\end{aligned}}	embedded Runge-Kutta method 
+speed 	 0 	 \displaystyle \left|\sum _{i,j}a_{ij}s_{i}t_{j}\right|\leq 1	Grothendieck inequality 
+speed 	 0 	 \displaystyle \mathrm {d} s^{2}=\mathrm {d} t^{2}-{\frac {(R')^{2}}{1+2E}}\mathrm {d} r^{2}-R^{2}\,\mathrm {d} \Omega ^{2}	Lemaître–Tolman metric 
+speed 	 0 	 \displaystyle v=s/t	speed 
+speed 	 0 	 \displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}	characteristic energy 
+speed 	 0 	 \displaystyle {\mathcal {L}}\{f\}(s)={\mathcal {L}}\{f(t)\}(s)=F(s)	inverse Laplace transform 
+speed 	 0 	 \displaystyle zcr={\frac {1}{T-1}}\sum _{t=1}^{T-1}\mathbb {1} _{\mathbb {R} _{&lt;0}}(s_{t}s_{t-1})	Zero-crossing rate 
+speed 	 0 	 \displaystyle (t,\mathbf {x} )\mapsto (t+s,{\mathsf {R}}\mathbf {x} +\mathbf {v} t+\mathbf {y} )	Galilean transformation 
+speed 	 0 	 \displaystyle {\begin{aligned}&amp;S\subseteq X^{\mathbb {Z} }\\&amp;\sigma (S)=S\\&amp;\forall s\in S^{\mathbb {N} }\forall t\in X^{\mathbb {Z} }\colon \left((\forall j\in \mathbb {Z} \colon \lim _{i\to \infty }s_{i,j}=t_{j})\implies t\in S\right)\end{aligned}}	shift space 
+speed 	 0 	 \displaystyle f(t)=\int _{a}^{t}K(t,s)\,x(s)\,ds	Volterra integral equation 
+speed 	 0 	 \displaystyle {\frac {n_{wsy\geq 7}}{n_{st}}}	Readability Index 
+speed 	 0 	 \displaystyle s*_{l}r(t)=r*_{l}s(t)=\int _{0}^{\infty }s\left({\frac {t}{a}}\right)r(a)\,{\frac {da}{a}}	Logarithmic convolution 
+speed 	 0 	 \displaystyle {\frac {1}{N}}\sum _{t}\mathbf {1} _{sign(A_{t}-A_{t-1})==sign(F_{t}-F_{t-1})}	Mean Directional Accuracy 
+speed 	 0 	 \displaystyle \int _{0}^{\infty }f(t)e^{-st}\,dt\;|\;s\;\in \mathbb {C} 	S-plane 
+speed 	 0 	 \displaystyle (n_{Cl^{-}})_{u}={t_{u} \over t_{s}}\times (n_{Cl^{-}})_{s}	Chloridometer 
+speed 	 0 	 \displaystyle {\begin{aligned}(r+s)+t&amp;=r+(s+t)\\r+s&amp;=s+r\\r+0&amp;=r\\r+(-r)&amp;=0\\(rs)t&amp;=r(st)\\r(s+t)&amp;=rs+rt\\(r+s)t&amp;=rt+st\end{aligned}}	ring 
+speed 	 0 	 \displaystyle L=N\,l,where''N''isthenumberofmonomers	Ideal chain 
+speed 	 0 	 \displaystyle ds^{2}=-(dt^{2})+dx^{2}+dy^{2}+dz^{2}	Wick rotation 
+speed 	 0 	 \displaystyle P(t,T)=\mathbb {E} ^{Q}\left[\left.\exp {\left(-\int _{t}^{T}r_{s}\,ds\right)}\right|{\mathcal {F}}_{t}\right]	delayed neutron 
+speed 	 0 	 \displaystyle \omega =2\pi fwherefisfrequencyofstrainoscillation	Dynamic modulus 
+speed 	 0 	 \displaystyle t={\frac {\lambda }{c-v}}={\frac {c}{(c-v)f_{s}}}={\frac {1}{(1-\beta )f_{s}}}	Relativistic Doppler effect 
+speed 	 0 	 \displaystyle 0.5\times {\frac {n_{w}}{n_{st}}}+4.71\times {\frac {n_{c}}{n_{w}}}-21.34	Automated Readability Index 
+speed 	 0 	 \displaystyle T(p)=\Box pforany[[propositionalvariable]]p	Modal companion 
+speed 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+speed 	 0 	 \displaystyle t={\frac {cPd^{2}s}{D}}	Tractive effort 
+speed 	 0 	 \displaystyle {\frac {Energy\ consumed}{Built\ area}}	efficient energy use 
+speed 	 0 	 \displaystyle {\begin{aligned}k_{i}&amp;=f\left(t_{n}+c_{i}h,y_{n}+h\sum _{j=1}^{s}a_{ij}k_{j}\right),\quad i=1,\ldots ,s\\y_{n+1}&amp;=y_{n}+h\sum _{i=1}^{s}b_{i}k_{i}\end{aligned}}	implicit Runge–Kutta method 
+speed 	 0 	 \displaystyle p_{1}r_{1}+p_{2}r_{2}=const	cartesian oval 
+speed 	 0 	 \displaystyle N_{s}=\min(N_{t},N_{r})\!	Spatial multiplexing 
+speed 	 0 	 \displaystyle {\begin{aligned}&amp;F\colon {\rm {Open}}(X)^{\rm {op}}\to {\rm {Set}}\\&amp;U=\bigcup _{i\in I}U_{i}\land s,t\in F(U)\land (\forall i\in I\colon s\upharpoonright U_{i}=t\upharpoonright U_{i})\implies s=t\\&amp;U=\bigcup _{i\in I}U_{i}\land \forall i\in I\colon s_{i}\in F(U_{i})\land \forall i,j\in I\colon s_{i}\upharpoonright U_{i}\cap U_{j}=s_{j}\upharpoonright U_{i}\cap U_{j}\implies \exists s\in F(U)\forall i\in I\colon s_{i}=s\upharpoonright U_{i}\end{aligned}}	sheaf 
+speed 	 0 	 \displaystyle YouTube.com/llstylish	Geometric dimensioning and tolerancing 
+sphere 	 0 	 \displaystyle x^{2}+y^{2}+z^{2}=r^{2}	sphere 
+sphere 	 0 	 \displaystyle \left\{r,\theta ,\varphi \right\}=\left\{{\sqrt {x^{2}+y^{2}+z^{2}}},\arccos \left({\dfrac {z}{\sqrt {x^{2}+y^{2}+z^{2}}}}\right)=\mathrm {arctg} \left({\dfrac {\sqrt {x^{2}+y^{2}}}{z}}\right),\mathrm {arctg} \left({\dfrac {y}{x}}\right)\right\}	spherical coordinate system 
+sphere 	 0 	 \displaystyle u'+x'i+y'j+z'k=(a+bi+cj+dk)(u+xi+yj+zk)(p+qi+rj+sk),	rotation group SO(4) 
+sphere 	 0 	 \displaystyle \left(\left|x\right|^{r}+\left|y\right|^{r}\right)^{t/r}+\left|z\right|^{t}\leq 1	superellipsoid 
+sphere 	 0 	 \displaystyle r_{1}^{2}=x^{2}+y^{2}+z^{2}	trilateration 
+sphere 	 0 	 \displaystyle x=r\cos(p\phi ),y=r\sin {(p\phi )},z=-\sin {(q\phi )}	torus knot 
+sphere 	 0 	 \displaystyle \left(R-{\sqrt {x^{2}+y^{2}}}\right)^{2}+z^{2}=r^{2}	torus 
+sphere 	 0 	 \displaystyle {\begin{aligned}x&amp;={\frac {r\mu \nu }{bc}}\\y&amp;={\frac {r}{b}}{\sqrt {\frac {(\mu ^{2}-b^{2})(\nu ^{2}-b^{2})}{b^{2}-c^{2}}}}\\z&amp;={\frac {r}{c}}{\sqrt {\frac {(\mu ^{2}-c^{2})(\nu ^{2}-c^{2})}{c^{2}-b^{2}}}}\end{aligned}}	conical coordinates 
+sphere 	 0 	 \displaystyle x{\frac {\partial f}{\partial x}}(p,q,r)+y{\frac {\partial f}{\partial y}}(p,q,r)+z{\frac {\partial f}{\partial z}}(p,q,r)=0	dual curve 
+stress 	 0 	 \displaystyle A_{ABDE}+A_{ACFG}=A_{BCLM}	Pappus' area theorem 
+stress 	 0 	 \displaystyle FMV\,=\,{VBAB*TAB_{factor}}	Stochastic Eulerian Lagrangian method 
+stress 	 0 	 \displaystyle T_{A}=3.468F{{\lambda }^{2}}10^{G/10}	noise temperature 
+stress 	 0 	 \displaystyle F(t)=Ae^{-t/\tau }	FIDSAM 
+stress 	 0 	 \displaystyle \tau _{\mathrm {s} }={\frac {\mathrm {d} F_{\mathrm {t} }}{\mathrm {d} A}}	shear stress 
+stress 	 0 	 \displaystyle AF={\frac {E}{V}}	Antenna factor 
+stress 	 0 	 \displaystyle A=CF	Rank factorization 
+stress 	 0 	 \displaystyle MMF_{AlNiCo}=H_{C-AlNiCo}\cdot L_{AlNiCo}	electropermanent magnet 
+stress 	 0 	 \displaystyle F\,=\,eN_{A}	Faraday constant 
+stress 	 0 	 \displaystyle F=-{\frac {A_{\text{H}}}{12\pi D^{3}}}	Gecko feet 
+stress 	 0 	 \displaystyle (A^{2}+B^{2}+C^{2}+D^{2}+E^{2}+F^{2}+G^{2}+H^{2})(a^{2}+b^{2}+c^{2}+d^{2}+e^{2}+f^{2}+g^{2}+h^{2})=(Aa-Bb-Cc-Dd-Ee-Ff-Gg-Hh)^{2}+(Ab+Ba+Cd-Dc+Ef-Fe-Gh+Hg)^{2}+(Ac-Bd+Ca+Db+Eg+Fh-Ge-Hf)^{2}+(Ad+Bc-Cb+Da+Eh-Fg+Gf-He)^{2}+(Ae-Bf-Cg-Dh+Ea+Fb+Gc+Hd)^{2}+(Af+Be-Ch+Dg-Eb+Fa-Gd+Hc)^{2}+(Ag+Bh+Ce-Df-Ec+Fd+Ga-Hb)^{2}+(Ah-Bg+Cf+De-Ed-Fc+Gb+Ha)^{2}	Degen's eight-square identity 
+stress 	 0 	 \displaystyle F(x)=A\mathrm {e} ^{-\alpha x}\cos {\beta (x-x_{0})}	attenuation coefficient 
+stress 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+stress 	 0 	 \displaystyle \lVert A\rVert _{F}={\sqrt {{\text{Tr}}(AA^{*})}}	Frobenius norm 
+stress 	 0 	 \displaystyle -\int _{S}\Phi J\cdot dS=\int _{\Omega }J_{q}\cdot Fd^{3}r-\int _{S}\varepsilon {\frac {\partial A_{0}}{\partial t}}F\cdot dS	Electrokinematics theorem 
+stress 	 0 	 \displaystyle F_{\mathrm {D} }={\frac {1}{2}}C_{\mathrm {D} }\rho v^{2}A	drag coefficient 
+stress 	 0 	 \displaystyle F={{B^{2}A} \over {2\mu _{0}}}	magnet 
+stress 	 0 	 \displaystyle {\begin{aligned}J&amp;=x^{T}(t_{1})F(t_{1})x(t_{1})+\int \limits _{t_{0}}^{t_{1}}\left(x^{T}Qx+u^{T}Ru+2x^{T}Nu\right)\\{\dot {x}}&amp;=Ax+Bu\end{aligned}}	linear-quadratic regulator 
+stress 	 0 	 \displaystyle RF=\sum _{n=1}^{100}Abs_{i}\cdot F_{i}/(pathlength\cdot density)	global warming potential 
+stress 	 0 	 \displaystyle MA={\frac {LF}{EF}}	mechanical advantage 
+stress 	 0 	 \displaystyle A^{2}(b^{2}+c^{2}-a^{2})+B^{2}(a^{2}+c^{2}-b^{2})+C^{2}(a^{2}+b^{2}-c^{2})\geq 16Ff	Pedoe's inequality 
+stress 	 0 	 \displaystyle Y=A*F(K,L)\,	Hicks-neutral technical change 
+stress 	 0 	 \displaystyle c_{\mathrm {l} }={\frac {F_{\mathrm {l} }}{qA\cos {\alpha }}}	lift coefficient 
+stress 	 0 	 \displaystyle MA={\frac {F_{B}}{F_{A}}}={\frac {a}{b}}	wheel and axle 
+stress 	 0 	 \displaystyle {\mbox{M}}={\frac {1}{n}}\sum _{t=1}^{n}\left|{\frac {A_{t}-F_{t}}{A_{t}}}\right|	mean absolute percentage error 
+stress 	 0 	 \displaystyle D_{A}*F_{A}+[\Phi ,D_{A}\Phi ]=0	Yang–Mills–Higgs equations 
+stress 	 0 	 \displaystyle {\begin{cases}Au_{xx}+2Bu_{xy}+Cu_{yy}+Du_{x}+Eu_{y}+F=0\\B^{2}-AC=0\end{cases}}	parabolic partial differential equation 
+stress 	 0 	 \displaystyle Callx=ATM+0.5RRx+Flyx	Volatility smile 
+stress 	 0 	 \displaystyle F=CAnI/l	electromagnet 
+stress 	 0 	 \displaystyle Au_{xx}+2Bu_{xy}+Cu_{yy}+Du_{x}+Eu_{y}+Fu+G=0,	elliptic differential equation 
+stress 	 0 	 \displaystyle p={\frac {F}{A}}	Diamond anvil cell 
+stress 	 0 	 \displaystyle Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F=0	conic section 
+stress 	 0 	 \displaystyle \pi ^{\!*}F=dA	circle bundle 
+stress 	 0 	 \displaystyle P=F_{A}v_{A}=F_{B}v_{B},\!	wedge 
+stress 	 0 	 \displaystyle \sigma ={\frac {dF}{dA}}	stress 
+stress 	 0 	 \displaystyle {\vec {F}}_{bolt}=P_{max}\cdot A_{internal}	Bolt thrust 
+stress 	 0 	 \displaystyle {\displaystyle MTTF={\frac {A}{j^{n}}}e^{\left({\frac {Q}{kT}}\right)}}	Black's equation 
+stress 	 0 	 \displaystyle \mu \left(F^{-1}(A)\right)=\mu (A)	Krylov–Bogolyubov theorem 
+stress 	 0 	 \displaystyle F(X)\rightarrow \prod _{\alpha \in A}F(X_{\alpha }){{{} \atop \longrightarrow } \atop {\longrightarrow  \atop {}}}\prod _{\alpha ,\beta \in A}F(X_{\alpha }\times _{X}X_{\beta })	Grothendieck topology 
+stress 	 0 	 \displaystyle \sigma ={\frac {\mathrm {d} F_{\mathrm {n} }}{\mathrm {d} A}}	normal stress 
+stress 	 0 	 \displaystyle J(F,T,W)=A_{\mathrm {G} }T^{2}e^{-(W-\Delta W) \over kT}	Schottky effect 
+stress 	 0 	 \displaystyle F_{D}\,=\,{\tfrac {1}{2}}\,\rho \,v^{2}\,C_{D}\,A	drag equation 
+stress 	 0 	 \displaystyle D_{A}^{*}D_{A}\phi =\nabla _{A}^{*}\nabla _{A}\phi +{\frac {1}{4}}\operatorname {Sc} [g]\phi +{\frac {1}{2}}\langle F^{+}[A],\phi \rangle 	Lichnerowicz formula 
+stress 	 0 	 \displaystyle {\frac {1}{N}}\sum _{t}\mathbf {1} _{sign(A_{t}-A_{t-1})==sign(F_{t}-F_{t-1})}	Mean Directional Accuracy 
+stress 	 0 	 \displaystyle \mu (A)=\sup\{\mu (F)|F\subseteq A,F{\mbox{ compact and measurable}}\}	regular measure 
+stress 	 0 	 \displaystyle F_{A}=*D_{A}\Phi 	Bogomolny equations 
+stress 	 0 	 \displaystyle F_{drag}=qA_{s}C_{D}	parasitic drag 
+tangential acceleration 	 0 	 \displaystyle \omega ={\frac {d\phi }{dt}}={\frac {v_{\perp }}{r}}	radial velocity 
+tangential acceleration 	 0 	 \displaystyle {\frac {\lambda }{1+\lambda }}\nabla \cdot (\mathbf {\Sigma } _{i}\nabla v)=\chi (C_{m}{\frac {\partial v}{\partial t}}+I_{\text{ion}})	Monodomain model 
+tangential acceleration 	 0 	 \displaystyle RI={\frac {v_{systole}-v_{diastole}}{v_{systole}}}	Arterial resistivity index 
+tangential acceleration 	 0 	 \displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})	Time of flight detector 
+tangential acceleration 	 0 	 \displaystyle \%{\mbox{ difference}}=\left({\frac {r_{solute}-r_{solvent}}{r_{solvent}}}\right)\times 100\%\leq 15\%	Hume-Rothery rules 
+tangential acceleration 	 0 	 \displaystyle r'(t)=r(t)-vt	Galilean invariance 
+tangential acceleration 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+tangential acceleration 	 0 	 \displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},	Boussinesq approximation 
+tangential acceleration 	 0 	 \displaystyle W_{v}(s+1)=W_{v}(s)+\theta (u,v,s)\cdot \alpha (s)\cdot (D(t)-W_{v}(s))	shellsort 
+tangential acceleration 	 0 	 \displaystyle {\vec {x}}={\vec {p}}+s{\vec {u}}+t{\vec {v}}	Q15839526 
+tangential acceleration 	 0 	 \displaystyle {\begin{array}{l}v_{n+1}=v_{n}+g\left(t_{n},x_{n}\right)\Delta t\\x_{n+1}=x_{n}+f\left(t_{n},v_{n+1}\right)\Delta t\end{array}}	Semi-implicit Euler method 
+tangential acceleration 	 0 	 \displaystyle TRevPAR=TotalRevenue/RoomsAvailable	TRevPAR 
+tangential acceleration 	 0 	 \displaystyle v=s/t	speed 
+tangential acceleration 	 0 	 \displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}	characteristic energy 
+tangential acceleration 	 0 	 \displaystyle v(t)=-gt+v_{0}	free fall 
+tangential acceleration 	 0 	 \displaystyle k_{t}={\frac {t_{v}}{T_{N}}}={\frac {t_{N}-t_{NV}}{T_{N}}}	Q187089 
+tangential acceleration 	 0 	 \displaystyle t={\frac {\lambda }{c-v}}={\frac {c}{(c-v)f_{s}}}={\frac {1}{(1-\beta )f_{s}}}	Relativistic Doppler effect 
+tangential acceleration 	 0 	 \displaystyle t'=\gamma \left(t-{\frac {vx}{c^{2}}}\right),x'=\gamma \left(x-vt\right)	Lorentz transformation 
+tangential acceleration 	 0 	 \displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.	Rayleigh–Bénard convection 
+tangential acceleration 	 0 	 \displaystyle \rho _{0}{\frac {\partial ^{2}\mathbf {u} }{\partial t^{2}}}=\left(\lambda +\mu \right)\mathbf {grad} \left(\mathrm {div} \;\mathbf {u} \right)+\mu \Delta \mathbf {u} +\mathbf {f} _{v}	Q2413370 
+tangential acceleration 	 0 	 \displaystyle v={\frac {s}{t}}	v = d/t 
+tangential acceleration 	 0 	 \displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}	blood flow 
+tangential acceleration 	 0 	 \displaystyle {\frac {\partial (\rho Y_{i})}{\partial t}}+\nabla \cdot (\rho {\vec {v}}Y_{i})=-\nabla \cdot {\vec {J}}_{i}+R_{i}+S_{i}	chemical model 
+tangential acceleration 	 0 	 \displaystyle \mathrm {D} ={\frac {\partial }{\partial t}}+\nabla _{v}	material derivative 
+tangential acceleration 	 0 	 \displaystyle \operatorname {ec} (G)=t_{w}(G)\prod _{v\in V}{\bigl (}\deg(v)-1{\bigr )}	BEST theorem 
+tangential acceleration 	 0 	 \displaystyle \sum _{n=0}^{\infty }\phi _{n}(\alpha ,\beta )t^{n}=\exp \left[\sum _{n=1}^{\infty }{\frac {t^{n}}{n}}\left(u_{n}(\alpha )+v_{n}(\beta )-1\right)\right]	Spitzer's formula 
+tangential acceleration 	 0 	 \displaystyle {\vec {s}}={\frac {d\,{\vec {\jmath }}}{dt}}={\frac {d^{2}{\vec {a}}}{dt^{2}}}={\frac {d^{3}{\vec {v}}}{dt^{3}}}={\frac {d^{4}{\vec {r}}}{dt^{4}}}	snap 
+tangential acceleration 	 0 	 \displaystyle E={\frac {1}{2}}\rho Av^{3}t	Stokes wave 
+tangential acceleration 	 0 	 \displaystyle {\bar {\boldsymbol {v}}}(x,y,z,t)=v_{x}(x,y,z,t){\hat {\boldsymbol {i}}}+v_{y}(x,y,z,t){\hat {\boldsymbol {j}}}	two-dimensional flow 
+tangential acceleration 	 0 	 \displaystyle kvitjul	Q102454959 
+tangential acceleration 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+tangential acceleration 	 0 	 \displaystyle X=\{X_{1},\ldots ,X_{n}\}isasetofvariables	tangent bundle 
+tangential acceleration 	 0 	 \displaystyle T(p)=\Box pforany[[propositionalvariable]]p	Modal companion 
+tangential acceleration 	 0 	 \displaystyle v={V/\Delta t \over {A}}	Air-to-cloth ratio 
+tangential acceleration 	 0 	 \displaystyle \alpha ={\frac {dv_{\perp }}{dt}}	tangential acceleration 
+tangential acceleration 	 0 	 \displaystyle v_{i}={\operatorname {d} [M\cdot ]/\operatorname {d} t}=2k_{d}f[I]	Radical polymerization 
+tangential acceleration 	 0 	 \displaystyle \mathbf {v} =v{\hat {\mathbf {u} }}_{t}	Orbital state vectors 
+tangential acceleration 	 0 	 \displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)	Continuous-wave radar 
+tangential acceleration 	 0 	 \displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t	Model rocket motor classification 
+tangential acceleration 	 0 	 \displaystyle {\frac {\partial c}{\partial t}}=\nabla \cdot (D\nabla c)-\nabla \cdot ({\vec {v}}c)+R	convection–diffusion equation 
+tangential acceleration 	 0 	 \displaystyle \mathrm {EG} ={\frac {w_{A}-w_{B}}{v_{tot}}}	efficiency gap 
+torque 	 0 	 \displaystyle m(\varphi )=\int _{0}^{\varphi }M(\varphi )\,d\varphi =a(1-e^{2})\int _{0}^{\varphi }\left(1-e^{2}\sin ^{2}\varphi \right)^{-{\frac {3}{2}}}\,d\varphi 	meridian arc 
+torque 	 0 	 \displaystyle {\omega }={eB \over Mc}	Exponentially modified Gaussian distribution 
+torque 	 0 	 \displaystyle MPGe={\frac {E_{G}}{E_{M}*E_{E}}}={\frac {33,705}{E_{M}}}	Miles per gallon gasoline equivalent 
+torque 	 0 	 \displaystyle {\hat {f}}(t)=\sum _{i=1}^{M}A_{i}e^{\sigma _{i}t}\cos(2\pi f_{i}t+\phi _{i})	Prony's method 
+torque 	 0 	 \displaystyle {\frac {dN}{dt}}={\frac {I}{eV}}-{\frac {N}{\tau _{n}}}-\sum _{\mu =1}^{\mu =M}G_{\mu }P_{\mu }	laser diode rate equations 
+torque 	 0 	 \displaystyle M=E-e\cdot \sin E	Urania Propitia 
+torque 	 0 	 \displaystyle {\boldsymbol {M}}=\left(M,*,e\right)	monoid 
+torque 	 0 	 \displaystyle ABSI={WC \over {BMI^{2 \over 3}\times Height^{1 \over 2}}}	Body Shape Index 
+torque 	 0 	 \displaystyle d_{n}=M_{M_{p}}=2^{2^{p}-1}-1,p\ and\ 2^{p}-primes	double Mersenne number 
+torque 	 0 	 \displaystyle M={f_{o} \over f_{e}}	magnification 
+torque 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+torque 	 0 	 \displaystyle {\frac {T}{T_{i}}}={\sqrt {\frac {M_{i}}{m_{e}}}}	Peierls transition 
+torque 	 0 	 \displaystyle E=-{\frac {N_{A}Mz^{+}z^{-}e^{2}}{4\pi \epsilon _{0}r_{0}}}\left(1-{\frac {\rho }{r_{0}}}\right)	Born–Mayer equation 
+torque 	 0 	 \displaystyle \Delta v=v_{e}\ln \left({\frac {M+P}{P}}\right)	spacecraft propulsion 
+torque 	 0 	 \displaystyle {\displaystyle MTTF={\frac {A}{j^{n}}}e^{\left({\frac {Q}{kT}}\right)}}	Black's equation 
+uniform motion 	 0 	 \displaystyle {\frac {\lambda }{1+\lambda }}\nabla \cdot (\mathbf {\Sigma } _{i}\nabla v)=\chi (C_{m}{\frac {\partial v}{\partial t}}+I_{\text{ion}})	Monodomain model 
+uniform motion 	 0 	 \displaystyle \omega ={\frac {d\phi }{dt}}={\frac {v_{\perp }}{r}}	radial velocity 
+uniform motion 	 0 	 \displaystyle RI={\frac {v_{systole}-v_{diastole}}{v_{systole}}}	Arterial resistivity index 
+uniform motion 	 0 	 \displaystyle \delta t=L\left({\frac {1}{v_{1}}}-{\frac {1}{v_{2}}}\right)\approx {\frac {Lc}{2p^{2}}}(m_{1}^{2}-m_{2}^{2})	Time of flight detector 
+uniform motion 	 0 	 \displaystyle \%{\mbox{ difference}}=\left({\frac {r_{solute}-r_{solvent}}{r_{solvent}}}\right)\times 100\%\leq 15\%	Hume-Rothery rules 
+uniform motion 	 0 	 \displaystyle \rho _{0}{\frac {\partial ^{2}\mathbf {u} }{\partial t^{2}}}=\left(\lambda +\mu \right)\mathbf {grad} \left(\mathrm {div} \;\mathbf {u} \right)+\mu \Delta \mathbf {u} +\mathbf {f} _{v}	Q2413370 
+uniform motion 	 0 	 \displaystyle kvitjul	Q102454959 
+uniform motion 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+uniform motion 	 0 	 \displaystyle v={V/\Delta t \over {A}}	Air-to-cloth ratio 
+uniform motion 	 0 	 \displaystyle \alpha ={\frac {dv_{\perp }}{dt}}	tangential acceleration 
+uniform motion 	 0 	 \displaystyle {\frac {\partial c}{\partial t}}=\nabla \cdot (D\nabla c)-\nabla \cdot ({\vec {v}}c)+R	convection–diffusion equation 
+uniform motion 	 0 	 \displaystyle r'(t)=r(t)-vt	Galilean invariance 
+uniform motion 	 0 	 \displaystyle k_{t}={\frac {t_{v}}{T_{N}}}={\frac {t_{N}-t_{NV}}{T_{N}}}	Q187089 
+uniform motion 	 0 	 \displaystyle v={\frac {s}{t}}	v = d/t 
+uniform motion 	 0 	 \displaystyle X=\{X_{1},\ldots ,X_{n}\}isasetofvariables	tangent bundle 
+uniform motion 	 0 	 \displaystyle v_{i}={\operatorname {d} [M\cdot ]/\operatorname {d} t}=2k_{d}f[I]	Radical polymerization 
+uniform motion 	 0 	 \displaystyle \mathbf {v} =v{\hat {\mathbf {u} }}_{t}	Orbital state vectors 
+uniform motion 	 0 	 \displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)	Continuous-wave radar 
+uniform motion 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+uniform motion 	 0 	 \displaystyle \sum _{n=0}^{\infty }\phi _{n}(\alpha ,\beta )t^{n}=\exp \left[\sum _{n=1}^{\infty }{\frac {t^{n}}{n}}\left(u_{n}(\alpha )+v_{n}(\beta )-1\right)\right]	Spitzer's formula 
+uniform motion 	 0 	 \displaystyle {\vec {s}}={\frac {d\,{\vec {\jmath }}}{dt}}={\frac {d^{2}{\vec {a}}}{dt^{2}}}={\frac {d^{3}{\vec {v}}}{dt^{3}}}={\frac {d^{4}{\vec {r}}}{dt^{4}}}	snap 
+uniform motion 	 0 	 \displaystyle PI={\frac {v_{systole}-v_{diastole}}{v_{mean}}}	blood flow 
+uniform motion 	 0 	 \displaystyle E={\frac {1}{2}}\rho Av^{3}t	Stokes wave 
+uniform motion 	 0 	 \displaystyle \rho _{0}\left({\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}\right)=-\nabla p+\eta \Delta {\vec {v}}+\rho (T){\vec {g}},	Boussinesq approximation 
+uniform motion 	 0 	 \displaystyle W_{v}(s+1)=W_{v}(s)+\theta (u,v,s)\cdot \alpha (s)\cdot (D(t)-W_{v}(s))	shellsort 
+uniform motion 	 0 	 \displaystyle {\vec {x}}={\vec {p}}+s{\vec {u}}+t{\vec {v}}	Q15839526 
+uniform motion 	 0 	 \displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t	Model rocket motor classification 
+uniform motion 	 0 	 \displaystyle {\begin{array}{l}v_{n+1}=v_{n}+g\left(t_{n},x_{n}\right)\Delta t\\x_{n+1}=x_{n}+f\left(t_{n},v_{n+1}\right)\Delta t\end{array}}	Semi-implicit Euler method 
+uniform motion 	 0 	 \displaystyle TRevPAR=TotalRevenue/RoomsAvailable	TRevPAR 
+uniform motion 	 0 	 \displaystyle {\bar {\boldsymbol {v}}}(x,y,z,t)=v_{x}(x,y,z,t){\hat {\boldsymbol {i}}}+v_{y}(x,y,z,t){\hat {\boldsymbol {j}}}	two-dimensional flow 
+uniform motion 	 0 	 \displaystyle v=s/t	speed 
+uniform motion 	 0 	 \displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}	characteristic energy 
+uniform motion 	 0 	 \displaystyle v(t)=-gt+v_{0}	free fall 
+uniform motion 	 0 	 \displaystyle t'=\gamma \left(t-{\frac {vx}{c^{2}}}\right),x'=\gamma \left(x-vt\right)	Lorentz transformation 
+uniform motion 	 0 	 \displaystyle T(p)=\Box pforany[[propositionalvariable]]p	Modal companion 
+uniform motion 	 0 	 \displaystyle {\frac {\partial (\rho Y_{i})}{\partial t}}+\nabla \cdot (\rho {\vec {v}}Y_{i})=-\nabla \cdot {\vec {J}}_{i}+R_{i}+S_{i}	chemical model 
+uniform motion 	 0 	 \displaystyle \mathrm {D} ={\frac {\partial }{\partial t}}+\nabla _{v}	material derivative 
+uniform motion 	 0 	 \displaystyle \operatorname {ec} (G)=t_{w}(G)\prod _{v\in V}{\bigl (}\deg(v)-1{\bigr )}	BEST theorem 
+uniform motion 	 0 	 \displaystyle t={\frac {\lambda }{c-v}}={\frac {c}{(c-v)f_{s}}}={\frac {1}{(1-\beta )f_{s}}}	Relativistic Doppler effect 
+uniform motion 	 0 	 \displaystyle \mathrm {EG} ={\frac {w_{A}-w_{B}}{v_{tot}}}	efficiency gap 
+uniform motion 	 0 	 \displaystyle {\frac {\partial {\vec {v}}}{\partial t}}+({\vec {v}}\cdot \nabla ){\vec {v}}=-{\frac {1}{\rho _{0}}}\nabla p+\nu \Delta {\vec {v}}-\beta T{\vec {g}},{\frac {\partial T}{\partial t}}+{\vec {v}}\cdot \nabla T=\chi \Delta T,\operatorname {div} {\vec {v}}=0.	Rayleigh–Bénard convection 
+velocity 	 0 	 \displaystyle {\frac {\partial u}{\partial t}}-D{\frac {\partial ^{2}u}{\partial x^{2}}}=ru(1-u)	Fisher's equation 
+velocity 	 0 	 \displaystyle JaroSim(s_{1},s_{2})=\left\{{\begin{array}{l l}{\frac {1}{3}}\left({\frac {m}{|s_{1}|}}+{\frac {m}{|s_{2}|}}+{\frac {m-t}{m}}\right)&amp;{\text{if }}m&gt;0\\0&amp;{\text{otherwise}}\end{array}}\right.	Jaro similarity 
+velocity 	 0 	 \displaystyle \eta ={\frac {work\ done}{heat\ absorbed}}={\frac {Q1-Q2}{Q1}}	Engine efficiency 
+velocity 	 0 	 \displaystyle {\vec {x}}={\vec {p}}+s({\vec {q}}-{\vec {p}})+t({\vec {r}}-{\vec {p}})	Q15906199 
+velocity 	 0 	 \displaystyle \varepsilon is[[Strain(materialsscience)|strain]]	Ramberg–Osgood relationship 
+velocity 	 0 	 \displaystyle r=-{\frac {1}{a}}{\frac {d[\mathrm {A} ]}{dt}}=-{\frac {1}{b}}{\frac {d[\mathrm {B} ]}{dt}}={\frac {1}{p}}{\frac {d[\mathrm {P} ]}{dt}}={\frac {1}{q}}{\frac {d[\mathrm {Q} ]}{dt}}	reaction rate 
+velocity 	 0 	 \displaystyle \omega ={\frac {d\phi }{dt}}={\frac {v_{\perp }}{r}}	radial velocity 
+velocity 	 0 	 \displaystyle ds^{2}=\left(1-{r_{g} \over r}\right)dt^{2}-{dr^{2} \over 1-{r_{g} \over r}}-r^{2}\left(d\theta ^{2}+\sin ^{2}\theta d\phi ^{2}\right)	Lemaître coordinates 
+velocity 	 0 	 \displaystyle dr_{t}=(\theta _{t}-\alpha _{t})\,dt+{\sqrt {r_{t}}}\,\sigma _{t}\,dW_{t}	Chen model 
+velocity 	 0 	 \displaystyle N_{e}(t)=N_{0}\exp(rt)	exponential coalescence model 
+velocity 	 0 	 \displaystyle FMV\,=\,{VBAB*TAB_{factor}}	Stochastic Eulerian Lagrangian method 
+velocity 	 0 	 \displaystyle \%{\mbox{ difference}}=\left({\frac {r_{solute}-r_{solvent}}{r_{solvent}}}\right)\times 100\%\leq 15\%	Hume-Rothery rules 
+velocity 	 0 	 \displaystyle net.assets\div net.premium.written	solvency ratio 
+velocity 	 0 	 \displaystyle \mathbf {W} isthefull-loadcopperloss	short circuit test 
+velocity 	 0 	 \displaystyle Fisresultantfinenessmodulus	Fineness modulus 
+velocity 	 0 	 \displaystyle \Delta P=\alpha \left({\frac {1}{r_{t}}}+{\frac {1}{r_{b}}}\right)	Laplace formula 
+velocity 	 0 	 \displaystyle \Delta Weight_{front}=a{\frac {h}{w}}m	load transfer 
+velocity 	 0 	 \displaystyle L(f)=\lim _{N\to \infty }\sum _{i=1}^{N}\left|{\vec {r}}(t_{i})-{\vec {r}}(t_{i-1})\right|	arc length 
+velocity 	 0 	 \displaystyle N_{t+1}=N_{t}e^{r\left(1-{\frac {N_{t}}{k}}\right)}	Ricker model 
+velocity 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+velocity 	 0 	 \displaystyle \mathbf {B} (\mathbf {r} ,t)={\frac {\mu _{0}}{4\pi }}\int \left[{\frac {\mathbf {J} (\mathbf {r} ',t_{r})}{|\mathbf {r} -\mathbf {r} '|^{3}}}+{\frac {1}{|\mathbf {r} -\mathbf {r} '|^{2}c}}{\frac {\partial \mathbf {J} (\mathbf {r} ',t_{r})}{\partial t}}\right]\times (\mathbf {r} -\mathbf {r} ')\,\mathrm {d} ^{3}\mathbf {r} '	Jefimenko's equations 
+velocity 	 0 	 \displaystyle d(km)=130({\sqrt {hr(km)}}+{\sqrt {ht(km)}})	Kolchuga passive sensor 
+velocity 	 0 	 \displaystyle \phi _{b}=r\times \cos(t)+0.0065;\theta _{b}=r\times \sin(t)+0.0060	BD09 
+velocity 	 0 	 \displaystyle \left(\left|x\right|^{r}+\left|y\right|^{r}\right)^{t/r}+\left|z\right|^{t}\leq 1	superellipsoid 
+velocity 	 0 	 \displaystyle r'(t)=r(t)-vt	Galilean invariance 
+velocity 	 0 	 \displaystyle u(t)representstheinputsignal	Separation principle 
+velocity 	 0 	 \displaystyle W_{[a,a+r]}=\int _{a}^{a+r}w(t)\,dt	white noise 
+velocity 	 0 	 \displaystyle {\vec {s}}={\frac {d\,{\vec {\jmath }}}{dt}}={\frac {d^{2}{\vec {a}}}{dt^{2}}}={\frac {d^{3}{\vec {v}}}{dt^{3}}}={\frac {d^{4}{\vec {r}}}{dt^{4}}}	snap 
+velocity 	 0 	 \displaystyle -\int _{S}\Phi J\cdot dS=\int _{\Omega }J_{q}\cdot Fd^{3}r-\int _{S}\varepsilon {\frac {\partial A_{0}}{\partial t}}F\cdot dS	Electrokinematics theorem 
+velocity 	 0 	 \displaystyle \mathbf {E} (\mathbf {r} ,t)={\frac {1}{4\pi \epsilon _{0}}}\int \left[\left({\frac {\rho (\mathbf {r} ',t_{r})}{|\mathbf {r} -\mathbf {r} '|^{3}}}+{\frac {1}{|\mathbf {r} -\mathbf {r} '|^{2}c}}{\frac {\partial \rho (\mathbf {r} ',t_{r})}{\partial t}}\right)(\mathbf {r} -\mathbf {r} ')-{\frac {1}{|\mathbf {r} -\mathbf {r} '|c^{2}}}{\frac {\partial \mathbf {J} (\mathbf {r} ',t_{r})}{\partial t}}\right]\mathrm {d} ^{3}\mathbf {r} '	Jefimenko's equations 
+velocity 	 0 	 \displaystyle P(t)=P_{0}e^{rt}	Malthusian growth model 
+velocity 	 0 	 \displaystyle m={\frac {y_{end}-y_{start}}{x_{end}-x_{start}}}	Cooling flow 
+velocity 	 0 	 \displaystyle \eta _{th}is[[thermalefficiency]]	Diesel cycle 
+velocity 	 0 	 \displaystyle FV=PV(1+rt)	future value 
+velocity 	 0 	 \displaystyle i_{t}=\pi _{t}+r_{t}^{*}+a_{\pi }(\pi _{t}-\pi _{t}^{*})+a_{y}(y_{t}-{\bar {y}}_{t})	New Keynesian economics 
+velocity 	 0 	 \displaystyle VP_{n}=C_{c}+C_{f}+V+S=GrossOutput	Value product 
+velocity 	 0 	 \displaystyle X=\{X_{1},\ldots ,X_{n}\}isasetofvariables	tangent bundle 
+velocity 	 0 	 \displaystyle {\begin{aligned}(r+s)+t&amp;=r+(s+t)\\r+s&amp;=s+r\\r+0&amp;=r\\r+(-r)&amp;=0\\(rs)t&amp;=r(st)\\1r=r1&amp;=r\\r(s+t)&amp;=rs+rt\\(r+s)t&amp;=rt+st\end{aligned}}	unital ring 
+velocity 	 0 	 \displaystyle F_{electrostatic}={\frac {1}{2}}{\frac {\partial C}{\partial z}}\Delta V^{2}	electrostatic force microscope 
+velocity 	 0 	 \displaystyle JaroWinklerDist(s_{1},s_{2})=1-JaroWinklerSim(s_{1},s_{2})	Jaro–Winkler distance 
+velocity 	 0 	 \displaystyle \omega isfrequencyofstrainoscillation	Dynamic mechanical analysis 
+velocity 	 0 	 \displaystyle f_{r}=f_{t}\left({\frac {1+v/{c'}}{1-v/c'}}\right)	Continuous-wave radar 
+velocity 	 0 	 \displaystyle w_{\ell }=1-{\frac {\ell }{L+1}}&lt;!--nodefinitionforw,lorL--&gt;	Newey–West estimator 
+velocity 	 0 	 \displaystyle \mathrm {LEC} ={\frac {\sum _{t=1}^{n}{\frac {I_{t}+M_{t}+F_{t}}{\left({1+r}\right)^{t}}}}{\sum _{t=1}^{n}{\frac {E_{t}}{\left({1+r}\right)^{t}}}}}	Levelized cost of energy 
+velocity 	 0 	 \displaystyle clearance\ ratio\ of\ X={\frac {C_{x}}{C_{in}}}	renal clearance ratio 
+velocity 	 0 	 \displaystyle dS_{t}=(r_{t}-d_{t})S_{t}\,dt+\sigma _{t}S_{t}\,dW_{t}	Local volatility 
+velocity 	 0 	 \displaystyle 3+4referstotheprocessofaddingaswellastheoutcomeoftheprocess	Procept 
+velocity 	 0 	 \displaystyle d={\sqrt {\int _{-\infty }^{t}(t-r)^{2}f(r)\,dr}}	Post-modern portfolio theory 
+velocity 	 0 	 \displaystyle m={\frac {(1+CurrencyDrainRatio)}{(CurrencyDrainRatio+DesiredReserveRatio)}}	money multiplier 
+velocity 	 0 	 \displaystyle q_{tid}=63\rho n^{5}r^{4}e^{2}/(38\mu Q)	tidal heating 
+velocity 	 0 	 \displaystyle JaroWinklerSim(s_{1},s_{2})=\left\{{\begin{array}{l l}JaroSim(s_{1},s_{2})+l\cdot p\cdot \left(1-JaroSim(s_{1},s_{2})\right)&amp;{\text{if }}JaroSim(s_{1},s_{2})&gt;b_{t}\\JaroSim(s_{1},s_{2})&amp;{\text{otherwise}}\end{array}}\right.	Jaro–Winkler similarity 
+velocity 	 0 	 \displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t	Model rocket motor classification 
+velocity 	 0 	 \displaystyle M(t,0)\simeq (-t)^{\beta },fort\uparrow 0	Widom scaling 
+velocity 	 0 	 \displaystyle V_{i}isthemembranepotentialofithcompartment	Compartmental modelling of dendrites 
+velocity 	 0 	 \displaystyle RfD(mg/kg/day)={NOEL(mg/kg/day) \over Uf_{inter}*Uf_{intra}*Uf_{other}}	Reference dose 
+velocity 	 0 	 \displaystyle ds^{2}=-f(r)dt^{2}+{dr^{2} \over f(r)}+r^{2}(d\theta ^{2}+\sin ^{2}\theta \,d\phi ^{2})	de Sitter–Schwarzschild metric 
+velocity 	 0 	 \displaystyle {\begin{aligned}\mathrm {d} s^{2}&amp;=\left(L+{\frac {1}{|{\vec {r}}|}}\right)\mathrm {d} {\vec {r}}^{2}+{\frac {1}{L+{\frac {1}{|{\vec {r}}|}}}}(\mathrm {d} t+\omega )^{2}\\\mathrm {d} \omega &amp;=\star {\frac {1}{|{\vec {r}}|}}\\\theta &amp;\sim \theta +4\pi \mathbb {Z} \end{aligned}}	Taub–NUT space 
+velocity 	 0 	 \displaystyle tr\Omega ^{r}(Q_{1}\otimes \cdots \otimes Q_{n})	Transvectant 
+velocity 	 0 	 \displaystyle t\mapsto f(t)+(p-r(t)){f'(t) \over r'(t)}	bilinear filtering 
+velocity 	 0 	 \displaystyle {\mathit {El}}={\frac {t_{\mathrm {r} }\nu }{r^{2}}}	elasticity number 
+velocity 	 0 	 \displaystyle Z_{1}\,\!theimpedanceofthegenerator	T pad 
+velocity 	 0 	 \displaystyle zcr={\frac {1}{T-1}}\sum _{t=1}^{T-1}\mathbb {1} _{\mathbb {R} _{&lt;0}}(s_{t}s_{t-1})	Zero-crossing rate 
+velocity 	 0 	 \displaystyle T(p)=\Box pforany[[propositionalvariable]]p	Modal companion 
+velocity 	 0 	 \displaystyle MR={\frac {SpringDisplacement}{WheelDisplacement}}	Motion ratio 
+velocity 	 0 	 \displaystyle {\vec {F}}_{bolt}=P_{max}\cdot A_{internal}	Bolt thrust 
+velocity 	 0 	 \displaystyle k_{O}Segregationcoefficient	Zone melting 
+velocity 	 0 	 \displaystyle \mathrm {d} s^{2}=\mathrm {d} t^{2}-{\frac {(R')^{2}}{1+2E}}\mathrm {d} r^{2}-R^{2}\,\mathrm {d} \Omega ^{2}	Lemaître–Tolman metric 
+velocity 	 0 	 \displaystyle \epsilon ={\tfrac {1}{2}}v^{2}-\mu /r=constant={\tfrac {1}{2}}C_{3}	characteristic energy 
+velocity 	 0 	 \displaystyle {\frac {Energy\ consumed}{Built\ area}}	efficient energy use 
+velocity 	 0 	 \displaystyle p_{1}r_{1}+p_{2}r_{2}=const	cartesian oval 
+velocity 	 0 	 \displaystyle s*_{l}r(t)=r*_{l}s(t)=\int _{0}^{\infty }s\left({\frac {t}{a}}\right)r(a)\,{\frac {da}{a}}	Logarithmic convolution 
+velocity 	 0 	 \displaystyle r=-{\frac {dC_{\mathrm {A} }}{dt}}=k_{2}C_{\mathrm {AS} }=k_{2}\theta C_{\mathrm {S} }	Reactions on surfaces 
+velocity 	 0 	 \displaystyle A=arctan(r/h)	Double-well potential 
+velocity 	 0 	 \displaystyle {\begin{aligned}(r+s)+t&amp;=r+(s+t)\\r+s&amp;=s+r\\r+0&amp;=r\\r+(-r)&amp;=0\\(rs)t&amp;=r(st)\\r(s+t)&amp;=rs+rt\\(r+s)t&amp;=rt+st\end{aligned}}	ring 
+velocity 	 0 	 \displaystyle L=N\,l,where''N''isthenumberofmonomers	Ideal chain 
+velocity 	 0 	 \displaystyle d\ln(r)=[\theta _{t}+{\frac {\sigma '_{t}}{\sigma _{t}}}\ln(r)]dt+\sigma _{t}\,dW_{t}	Black–Derman–Toy model 
+velocity 	 0 	 \displaystyle {\begin{aligned}x(t)&amp;=r(1+k)\cos t-r\cos \left((1+k)t\right)\\y(t)&amp;=r(1+k)\sin t-r\sin \left((1+k)t\right)\end{aligned}}	epicycloid 
+velocity 	 0 	 \displaystyle x_{t}=x_{0}(1+r)^{t}	exponential growth 
+velocity 	 0 	 \displaystyle N_{s}=\min(N_{t},N_{r})\!	Spatial multiplexing 
+velocity 	 0 	 \displaystyle P(t,T)=\mathbb {E} ^{Q}\left[\left.\exp {\left(-\int _{t}^{T}r_{s}\,ds\right)}\right|{\mathcal {F}}_{t}\right]	delayed neutron 
+velocity 	 0 	 \displaystyle \omega =2\pi fwherefisfrequencyofstrainoscillation	Dynamic modulus 
+work 	 0 	 \displaystyle {\vec {F}}_{g}=-{\frac {Gm_{1}m_{2}}{r^{2}}}{\hat {r}}	gravity 
+work 	 0 	 \displaystyle FMV\,=\,{VBAB*TAB_{factor}}	Stochastic Eulerian Lagrangian method 
+work 	 0 	 \displaystyle r(x_{n})=r_{n}=F(x,g_{n}),{\text{where }}g_{n}\approx g_{n}(x_{n})	residual 
+work 	 0 	 \displaystyle T_{raise}={\frac {Fd_{m}}{2}}\left({\frac {l+\pi \mu d_{m}}{\pi d_{m}-\mu l}}\right)={\frac {Fd_{m}}{2}}\tan {\left(\phi +\lambda \right)}	G Scorpii 
+work 	 0 	 \displaystyle Fisresultantfinenessmodulus	Fineness modulus 
+work 	 0 	 \displaystyle -\int _{S}\Phi J\cdot dS=\int _{\Omega }J_{q}\cdot Fd^{3}r-\int _{S}\varepsilon {\frac {\partial A_{0}}{\partial t}}F\cdot dS	Electrokinematics theorem 
+work 	 0 	 \displaystyle \langle T\rangle =-{\frac {1}{2}}\sum _{i}\langle {\vec {F}}_{i}\cdot {\vec {r}}_{i}\rangle 	virial theorem 
+work 	 0 	 \displaystyle F_{electrostatic}={\frac {1}{2}}{\frac {\partial C}{\partial z}}\Delta V^{2}	electrostatic force microscope 
+work 	 0 	 \displaystyle {\vec {F}}_{e}={\frac {q_{1}q_{2}}{4\pi \epsilon _{0}r^{2}}}{\hat {r}}	electrostatic force 
+work 	 0 	 \displaystyle FV=PV(1+rt)	future value 
+work 	 0 	 \displaystyle \mathrm {LEC} ={\frac {\sum _{t=1}^{n}{\frac {I_{t}+M_{t}+F_{t}}{\left({1+r}\right)^{t}}}}{\sum _{t=1}^{n}{\frac {E_{t}}{\left({1+r}\right)^{t}}}}}	Levelized cost of energy 
+work 	 0 	 \displaystyle F^{a}{}_{b}r^{b}=\lambda \,r^{a}	Classification of electromagnetic fields 
+work 	 0 	 \displaystyle F_{drag}=qA_{s}C_{D}	parasitic drag 
+work 	 0 	 \displaystyle {\vec {F}}=-{\frac {mv^{2}{\hat {r}}}{r}}	centripetal force 
+work 	 0 	 \displaystyle {Single-\ loss\ expectancy\ (SLE)}={Asset\ value\ (AV)\ }\times {\ Exposure\ factor\ (EF)}	single loss expectancy 
+work 	 0 	 \displaystyle POF={\frac {\max _{D\in Divisions}{(welfare(D))}}{\max _{D\in FairDivisions}{(welfare(D))}}}	Price of fairness 
+work 	 0 	 \displaystyle F_{\mathrm {R} }=6\pi \cdot r\cdot \eta \cdot v	Law of Stokes 
+work 	 0 	 \displaystyle F=a+r\Psi ^{2}+s\Psi ^{4}+H\Psi +	Landau theory 
+work 	 0 	 \displaystyle P_{T}=\int \limits _{0}^{t}F_{thrust}(t^{\prime })dt^{\prime }=F_{ave}t	Model rocket motor classification 
+work 	 0 	 \displaystyle r_{i}=R_{F}+\beta _{i}(R_{M}-R_{F})+\alpha _{i}+\epsilon _{i}	Treynor–Black model 
+work 	 0 	 \displaystyle {\vec {F}}_{bolt}=P_{max}\cdot A_{internal}	Bolt thrust 
+work 	 0 	 \displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}}	gravitational constant 

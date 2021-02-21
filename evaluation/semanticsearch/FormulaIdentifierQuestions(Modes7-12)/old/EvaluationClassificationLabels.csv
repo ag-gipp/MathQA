@@ -1,0 +1,5 @@
+Category; Label; Meaning; Example
+relevant; concise; exact representation of desired Formula Concept; E=mc^2
+relevant; extended; extended version of Formula Concept with further identifiers; E^2=p^2 c^2+m^2 c^4
+relevant; related; related to desired Formula Concept; \Xi=E/(N_e m_e c^2)
+irrelevant; irrelevant; no relation to desired Formula Concept; E_{\rm dn}=E_{\rm ext} e^{-cm}

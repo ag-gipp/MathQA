@@ -1,0 +1,69 @@
+﻿ConceptQID;QueryConcept;MathQACalculation;MathQARelevant;WolframCalculation;WolframRelevant;GoogleBox;GoogleCalculation;GoogleRelevant
+Q11376;acceleration;yes;yes;yes;no;yes;no;yes
+Q186300;angular acceleration;yes;yes;yes;no;no;no;yes
+Q834020;angular frequency;yes;yes;yes;no;yes;no;yes
+Q161254;angular momentum;yes;yes;yes;yes;yes;no;yes
+Q161635;angular velocity;yes;yes;yes;yes;yes;no;yes
+Q2945123;center of mass;no;no;-;no;-;-;no
+Q2248131;centripetal acceleration;no;no;yes;yes;yes;no;yes
+Q172881;centripetal force;no;no;yes;yes;yes;no;yes
+Q843905;circumference;yes;yes;-;no;yes;yes;yes
+Q11382;conservation of energy;no;no;-;no;yes;no;yes
+Q2305665;conservation of momentum;no;no;-;no;yes;no;no
+Q1127660;damping;-;no;-;no;-;-;no
+Q272621;Dirac equation;yes;yes;-;yes;-;-;no
+Q16853908;Dirac equation in curved spacetime;-;no;-;yes;-;-;no
+Q891408;elastic energy;yes;yes;-;no;yes;no;yes
+Q849919;electromagnetic force;yes;yes;-;no;no;no;yes
+Q103438301;electrostatic force;-;no;-;no;no;no;yes
+Q103439852;energy-momentum relation;-;no;-;no;-;-;no
+Q166530;escape velocity;yes;yes;yes;yes;-;-;no
+Q875744;Euler-Lagrange equation;-;no;no;no;no;no;no
+Q11402;force;yes;yes;-;no;yes;no;yes
+Q1068463;four-momentum;no;no;-;no;no;no;yes
+Q1322540;four-velocity;yes;yes;-;no;-;-;no
+Q140028;free fall;yes;yes;yes;yes;-;-;no
+Q11652;frequency;yes;yes;-;no;yes;no;yes
+Q82580;friction;yes;yes;-;no;yes;no;yes
+Q219207;Galilean transformation;no;yes;no;yes;no;no;yes
+Q6806305;generalized momentum;-;no;-;no;no;no;yes
+Q30006;gravitational acceleration;yes;yes;yes;yes;yes;no;yes
+Q11412;gravitational force;-;no;yes;yes;-;-;no
+Q1544012;gravitational potential;yes;yes;-;no;yes;no;yes
+Q660488;Hamiltonian operator;-;no;-;no;-;-;no
+Q1060137;Hamilton-Jacobi equation;-;no;no;no;-;-;no
+Q170282;Hooke's law;-;no;no;yes;yes;no;yes
+Q497332;jerk;-;no;-;no;yes;no;yes
+Q46276;kinetic energy;yes;yes;yes;yes;no;no;yes
+Q103687426;Lagrangian operator;-;no;-;no;-;-;no
+Q599404;Lorentz factor;yes;yes;yes;yes;yes;no;yes
+Q172137;Lorentz force;yes;yes;yes;yes;yes;no;yes
+Q217255;Lorentz transformation;yes;yes;no;yes;no;no;no
+Q35875;mass–energy equivalence;-;no;yes;yes;yes;no;yes
+Q6421317;mechanical impedance;yes;yes;-;no;no;no;yes
+Q165618;moment of inertia;-;no;yes;yes;yes;no;yes
+Q41273;momentum;yes;yes;yes;yes;yes;no;yes
+Q2397319;Newton's second law of motion;-;no;no;yes;yes;no;yes
+Q3235565;Newton's third law of motion;-;no;-;no;-;-;no
+Q170475;oscillation;yes;yes;yes;yes;no;no;yes
+Q20702;pendulum;no;yes;yes;yes;yes;no;yes
+Q25342;power;-;no;yes;yes;yes;no;yes
+Q240105;radial velocity;yes;yes;-;no;no;no;no
+Q11663629;rest energy;-;no;-;no;no;no;yes
+Q96941619;rest mass;-;no;-;no;no;no;no
+Q676622;Rossby number;yes;yes;-;no;no;no;yes
+Q3711325;speed;yes;yes;yes;yes;yes;no;yes
+Q2111;speed of light;-;no;yes;no;no;no;no
+Q12507;sphere;yes;yes;no;yes;no;no;no
+Q3299367;spherical pendulum;yes;yes;no;yes;no;no;yes
+Q824561;Stokes' law;-;no;yes;yes;yes;no;yes
+Q206175;stress;-;no;yes;yes;no;no;yes
+Q2822927;tangential acceleration;-;no;yes;no;no;no;no
+Q103715245;tangential velocity;-;no;-;no;yes;no;yes
+Q48103;torque;yes;yes;yes;yes;yes;no;yes
+Q376742;uniform motion;-;no;yes;yes;no;no;yes
+Q11465;velocity;yes;yes;yes;yes;yes;no;yes
+Q192510;wavenumber;yes;yes;yes;no;yes;no;yes
+Q42213;work;-;no;yes;yes;no;no;yes
+;;80%;52%;81%;48%;58%;2%;68%
+;;MathQACalculation;MathQARelevant;WolframCalculation;WolframRelevant;GoogleBox;GoogleCalculation;GoogleRelevant

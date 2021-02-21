@@ -1,0 +1,6 @@
+﻿Query Concept Name;MathQA Formula;Wolfram Alpha Formula;Google Formula
+acceleration;a = \frac{dv}{dt};v = a t;\bar a = \frac{delta v}{ \delta t}
+angular acceleration;\alpha = \frac{d\omega}{dt};\omega = \alpha t;\alpha = \delta \omega \delta t
+angular frequency;\omega = 2 \pi f;\nu = \frac{\omega}{2 \pi};\omega = \frac{2 \pi}{t}
+angular momentum;L = r \times p;L = I \omega, \omega = 2 \pi n;L = m v r
+angular velocity;\omega = \frac{d\varphi}{dt} u;\omega = \alpha t;\omega = \frac{\delta \theta}{\delta t}

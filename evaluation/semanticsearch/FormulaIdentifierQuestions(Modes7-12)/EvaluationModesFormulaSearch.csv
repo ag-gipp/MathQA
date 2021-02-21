@@ -1,0 +1,7 @@
+Mode , Source    , Query   , Match    
+7, arXiv     , names   , single   
+7, arXiv     , names   , multiple 
+8, Wikipedia , names   , single   
+8, Wikipedia , names   , multiple 
+10, arXiv     , symbols , single   
+11, Wikipedia , symbols , single   
