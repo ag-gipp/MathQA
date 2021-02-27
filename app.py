@@ -15,6 +15,9 @@ from sympy.parsing.latex import parse_latex
 import getidentifiers
 import latexformlaidentifiers
 
+# identifier symbol retrieval
+from semanticsearch.IdentifierSemantics import get_identifier_symbol
+
 # semantic search using arXiv or Wikipedia index
 from semanticsearch.SemanticSearch_arXivWikipedia_mathqa import get_identifier_semantics_catalog,search_formulae_by_identifiers
 # semantic search using Wikidata SPARQL query
@@ -38,17 +41,16 @@ from identifier_properties import retrieve_identifiers
 
 import traceback
 
-# OPTION HERE!
-# query mode number
-#mode_number = 1
-# wikip,symbs,single if mode_number == 1
-# wikip,names,single if mode_number == 2
-# wikip,symbs,multiple if mode_number == 3
-# wikip,names,multiple if mode_number == 4
-# arxiv,symbs,single if mode_number == 5
-# arxiv,names,single if mode_number == 6
-# arxiv,symbs,multiple if mode_number == 7
-# arxiv,names,multiple if mode_number == 8
+# get input from question (identifier symbols / relationships)
+def get_input(question,exclude):
+    input = []
+    candidates = question.split()
+    for word in candidates:
+        if "?" in word:
+            word = word.strip("?")
+        if not word in exclude:
+            input.append(word)
+    return input
 
 show_single_identifier_names = True
 
@@ -186,6 +188,7 @@ def get_formula():
         Return response
     """
 
+    # parse question
     try:
         question = request.form['formula']
 
@@ -196,30 +199,33 @@ def get_formula():
 
         global formula
 
+        # identifier symbol question
+        if "symbol" in question:
+            exclude = ["what", "is", "the", "symbol", "for", "?"]
+            input = get_input(question,exclude)
+
+            formula = get_identifier_symbol(identifier_name=input)
+            relationship_question = True
+
         # relationship question (semantic search)
-        if "relationship" in question:
+        elif "relationship" in question:
 
             exclude = ["what","is","the","relationship","between","and","?"]
-            input = []
-            candidates = question.split()
-            for word in candidates:
-                if "?" in word:
-                    word = word.strip("?")
-                if not word in exclude:
-                    input.append(word)
+            input = get_input(question,exclude)
 
             # check if input is identifier names or symbols
             # symbols if all characters
-            symbols = True
-            for element in input:
-                if len(element) > 1:
-                    symbols = False
+            #
+            #symbols = True
+            #for element in input:
+            #    if len(element) > 1:
+            #        symbols = False
             # names if at least one is word
-            if symbols:
-                mode_number = 1
-            else:
-                mode_number = 2
-
+            #if symbols:
+            #    mode_number = 1
+            #else:
+            #    mode_number = 2
+            #
             # results = search_formulae_by_identifier_names\
             #     (identifier_names=identifier_names,catalog="NTCIR-12_arXiv_astro-ph"\
             #      ,inverse=True,multiple=False)
@@ -233,6 +239,7 @@ def get_formula():
             formula = reques.answer()
             relationship_question = False
 
+        # generate response
         global processedformula
         processedformula = latexformlaidentifiers.prepformula(formula)
         # print(processedformula)

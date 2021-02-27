@@ -4,7 +4,7 @@ import math
 
 path = r"C:\Users\phili\Dropbox\PhD\Paper\upcoming\SemanticFormulaSearch\5d6b8d07b6030d2987d20b7b\evaluation\FormulaIdentifierRelationships(Modes1-6)"
 
-arXiv_file = "EvaluationIdentifierNamesToSymbolsOrSymbolsToNames_arXiv(DD).csv"
+arXiv_file = "EvaluationIdentifierNamesToSymbolsOrSymbolsToNames_arXiv(1).csv"
 Wikipedia_file = "EvaluationIdentifierNamesToSymbolsOrSymbolsToNames_Wikipedia.csv"
 
 def get_score(file_path):
