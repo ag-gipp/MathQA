@@ -113,9 +113,10 @@ def search_formulae_by_identifiers_Wikidata(identifier_names):
     sparql_results = get_sparql_query_results_identifier_names(identifier_names)
 
     first_hit = sparql_results[0]['results']['bindings'][0]
-    qid = first_hit['item']['value'].split("/")[-1]
+    #qid = first_hit['item']['value'].split("/")[-1]
+    name = sparql_results[0]['results']['bindings'][0]['itemLabel']['value']
     mathml = first_hit['formula']['value']
     formula = (mathml.split('alttext="{'))[1].split('}">')[0]
     identifiers = first_hit['partsLabel']['value']
 
-    return {formula: [identifiers]}
+    return {formula: [identifiers]},name
