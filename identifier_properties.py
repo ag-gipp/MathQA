@@ -6,25 +6,43 @@ import json
 #PYWIKIBOT
 #---------
 
-def retrieve_identifiers(FormulaName):
+def retrieve_identifiers(FormulaName,formulaQID):
 
     #retrieve Wikidata page item
     identifiers = dict()
     try:
-        site = pywikibot.Site("en", "wikipedia")
-        page = pywikibot.Page(site, FormulaName)
-        item = pywikibot.ItemPage.fromPage(page)
+        if formulaQID is None:
+            site = pywikibot.Site("en", "wikipedia")
+            page = pywikibot.Page(site, FormulaName)
+            item = pywikibot.ItemPage.fromPage(page)
+        else:
+            site = pywikibot.Site("wikidata", "wikidata")
+            repo = site.data_repository()
+            item = pywikibot.ItemPage(repo, formulaQID)
+
         #formulaQID = str(item).replace("[[wikidata:", '').replace("]]", '')
         #formula_string = item.claims['P2534'][0].getTarget()
 
         #retrieve identifiers
-        identifier_list = item.claims['P527']
+        try:
+            identifier_list = item.claims['P527'] # P527: 'has part'
+        except:
+            identifier_list = item.claims['P4935'] # P435: 'calculated from'
+        # catch values
         identifier_symbol = ""
         identifier_name = ""
         identifier_value = ""
         for identifier in identifier_list:
 
-            identifier_symbol = str(identifier.qualifiers['P2534'][0].target)
+            def query_part_target(identifier,property_list):
+                for property in property_list:
+                    try:
+                        return identifier.qualifiers[property][0].target
+                    except:
+                        pass
+                return ""
+
+            identifier_symbol = query_part_target(identifier,['P2534','P416','P7973','P2534']) #list of possible identifier properties
             identifier_name = str(identifier.getTarget().text['labels']['en'])
 
             identifiers[identifier_symbol] = {}
@@ -43,7 +61,7 @@ def retrieve_identifiers(FormulaName):
 #SPARQL
 #------
 
-def retrieve_identifier_name(formulaQID, identifierSymbol):
+def retrieve_identifier_name(formulaQID,identifierSymbol):
 
     try:
         sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
@@ -68,7 +86,7 @@ def retrieve_identifier_name(formulaQID, identifierSymbol):
     except:
         return ""
     
-def retrieve_identifier_value(formulaQID, identifierSymbol):
+def retrieve_identifier_value(formulaQID,identifierSymbol):
 
     try:
         sparql = SPARQLWrapper("https://query.wikidata.org/sparql")

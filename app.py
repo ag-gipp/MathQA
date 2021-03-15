@@ -35,9 +35,9 @@ from getformula import FormulaRequestHandler
 from getformula import HindiRequestHandler
 from latexformlaidentifiers import Formulacalculation
 
+from identifier_properties import retrieve_identifiers
 # from identifier_properties import retrieve_identifier_name
 # from identifier_properties import retrieve_identifier_value
-from identifier_properties import retrieve_identifiers
 
 import traceback
 
@@ -77,7 +77,7 @@ def makeidentifier(symbol, values):
     return symvalue
 
 
-def makeresponse(formul,subject,relationship_question):
+def makeresponse(formul,subject,qid):
     """
         Make response for the API
     """
@@ -97,26 +97,26 @@ def makeresponse(formul,subject,relationship_question):
             # item = identifier
             for item in listidentifiers:
                 try:
-                    if relationship_question:
-
-                        if show_single_identifier_names:
-                            # single identifier name
-                            inv_sem_idx = get_identifier_semantics_catalog(inverse=False,multiple=False)
-                            name = " (" + inv_sem_idx[str(item)[0]] + ")"
-
-                        if not show_single_identifier_names:
-                            # multiple identifier names
-                            inv_sem_idx = get_identifier_semantics_catalog(inverse=False, multiple=True)
-                            name = " (" + str(inv_sem_idx[str(item)[0]]) + ")"
-                            # only the first symbol is the identifier (the others may be sub- oder superscripts)
-
-                    else:
-                        name = " (" + retrieve_identifiers(subject)[str(item)]['name'] + ")"
+                    # if relationship_question:
+                    #
+                    #     if show_single_identifier_names:
+                    #         # single identifier name
+                    #         inv_sem_idx = get_identifier_semantics_catalog(inverse=False,multiple=False)
+                    #         name = " (" + inv_sem_idx[str(item)[0]] + ")"
+                    #
+                    #     if not show_single_identifier_names:
+                    #         # multiple identifier names
+                    #         inv_sem_idx = get_identifier_semantics_catalog(inverse=False, multiple=True)
+                    #         name = " (" + str(inv_sem_idx[str(item)[0]]) + ")"
+                    #         # only the first symbol is the identifier (the others may be sub- oder superscripts)
+                    #
+                    # else:
+                    name = " (" + retrieve_identifiers(subject,qid)[str(item)]['name'] + ")"
 
                 except:
                     name = ""
                 try:
-                    valuelist.append(retrieve_identifiers(subject)[str(item)]['value'])
+                    valuelist.append(retrieve_identifiers(subject,qid)[str(item)]['value'])
                 except:
                     valuelist.append("Enter value")
 
@@ -168,7 +168,7 @@ def my_form_post():
             processedformula = latexformlaidentifiers.prepformula(formula)
 
             if formula is not None:
-                return makeresponse(processedformula)
+                return makeresponse(processedformula,None,None)
 
 
     # except:
@@ -200,12 +200,13 @@ def get_formula():
         global formula
 
         # identifier symbol question
+        symbol_query = False
         if "symbol" in question:
             exclude = ["what", "is", "the", "symbol", "for", "?"]
             input = get_input(question,exclude)
 
             formula = get_identifier_symbol(identifier_name=input)
-            relationship_question = True
+            symbol_query = True
 
         # relationship question (semantic search)
         elif "relationship" in question:
@@ -231,7 +232,7 @@ def get_formula():
             #      ,inverse=True,multiple=False)
             #results = search_formulae_by_identifiers(input=input,
             #                                                mode_number=mode_number)
-            results,concept = search_formulae_by_identifiers_Wikidata(identifier_names=input)
+            results,concept,qid = search_formulae_by_identifiers_Wikidata(identifier_names=input)
 
             formula = list(results.items())[0][0].split(" (")[0]
             relationship_question = True
@@ -248,7 +249,7 @@ def get_formula():
                 subject = concept#""#identifier_names[0]
             else:
                 subject = reques.request[0]._attributes['tree']._attributes['subject']._attributes['value']
-            return makeresponse(processedformula,subject,relationship_question)
+            return makeresponse(processedformula,subject,qid)
         else:
             response = jsonify(formula)
             response.status_code = 202
@@ -297,7 +298,7 @@ def get_hindiformula():
         processedformula = latexformlaidentifiers.prepformula(formula)
         print(processedformula)
         if not (formula.startswith("System")):
-            return makeresponse(processedformula, reques)
+            return makeresponse(processedformula,None,None)
         else:
             response = jsonify(formula)
             response.status_code = 202
