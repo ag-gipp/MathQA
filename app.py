@@ -97,6 +97,9 @@ def makeresponse(formul,subject,qid):
             # item = identifier
             for item in listidentifiers:
                 try:
+                    # symbol question
+                    if qid is None:
+                        name = " (" + subject + ")"
                     # if relationship_question:
                     #
                     #     if show_single_identifier_names:
@@ -110,8 +113,8 @@ def makeresponse(formul,subject,qid):
                     #         name = " (" + str(inv_sem_idx[str(item)[0]]) + ")"
                     #         # only the first symbol is the identifier (the others may be sub- oder superscripts)
                     #
-                    # else:
-                    name = " (" + retrieve_identifiers(subject,qid)[str(item)]['name'] + ")"
+                    else:
+                        name = " (" + retrieve_identifiers(subject,qid)[str(item)]['name'] + ")"
 
                 except:
                     name = ""
@@ -199,8 +202,11 @@ def get_formula():
 
         global formula
 
-        # identifier symbol question
+        # default values
         symbol_query = False
+        relationship_question = False
+
+        # identifier symbol question
         if "symbol" in question:
             exclude = ["what", "is", "the", "symbol", "for", "?"]
             input = get_input(question,exclude)
@@ -238,7 +244,6 @@ def get_formula():
             relationship_question = True
         else:
             formula = reques.answer()
-            relationship_question = False
 
         # generate response
         global processedformula
@@ -247,6 +252,8 @@ def get_formula():
         if not (formula.startswith("System")):
             if relationship_question:
                 subject = concept#""#identifier_names[0]
+            elif symbol_query:
+                return makeresponse(formula,subject=input,qid=None)
             else:
                 subject = reques.request[0]._attributes['tree']._attributes['subject']._attributes['value']
             return makeresponse(processedformula,subject,qid)
