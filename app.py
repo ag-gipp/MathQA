@@ -193,7 +193,7 @@ def get_formula():
 
     # parse question
     try:
-        question = request.form['formula']
+        question = request.form['formula'].lower()
 
         meas = {'accuracy': 0.5, 'relevance': 0.5}
         q = RequestHandler(Request(language="en", id=1, tree=Sentence(question), measures=meas))
@@ -215,9 +215,9 @@ def get_formula():
             symbol_query = True
 
         # relationship question (semantic search)
-        elif "relationship" in question:
+        elif "relationship" in question or "relation" in question:
 
-            exclude = ["what","is","the","relationship","between","and","?"]
+            exclude = ["what","is","the","relationship","relation","between","and","?"]
             input = get_input(question,exclude)
 
             # check if input is identifier names or symbols
@@ -238,7 +238,7 @@ def get_formula():
             #      ,inverse=True,multiple=False)
             #results = search_formulae_by_identifiers(input=input,
             #                                                mode_number=mode_number)
-            results,concept,qid = search_formulae_by_identifiers_Wikidata(identifier_names=input)
+            results,concept,qid = search_formulae_by_identifiers_Wikidata(identifiers=input)
 
             formula = list(results.items())[0][0].split(" (")[0]
             relationship_question = True

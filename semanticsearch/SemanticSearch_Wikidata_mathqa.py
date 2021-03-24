@@ -108,15 +108,26 @@ def get_sparql_query_results_identifier_symbols(identifier_symbols_list):
 
     return get_sparql_results(sparql_query_symbols)
 
-def search_formulae_by_identifiers_Wikidata(identifier_names):
+def search_formulae_by_identifiers_Wikidata(identifiers):
 
-    sparql_results = get_sparql_query_results_identifier_names(identifier_names)
+    # Decide if identifier names or symbols
+    symbols = all([len(i)==1 for i in identifiers])
+    if symbols:
+        sparql_results = get_sparql_query_results_identifier_symbols(
+            identifier_symbols_list=identifiers)
+        first_hit = sparql_results['results']['bindings'][0]
+    else:
+        sparql_results = get_sparql_query_results_identifier_names(
+            identifier_names_list=identifiers)
+        first_hit = sparql_results[0]['results']['bindings'][0]
 
-    first_hit = sparql_results[0]['results']['bindings'][0]
     qid = first_hit['item']['value'].split("/")[-1]
-    name = sparql_results[0]['results']['bindings'][0]['itemLabel']['value']
+    name = first_hit['itemLabel']['value']
     mathml = first_hit['formula']['value']
     formula = (mathml.split('alttext="{'))[1].split('}">')[0]
-    identifiers = first_hit['partsLabel']['value']
+    try:
+        identifiers = first_hit['partsLabel']['value']
+    except:
+        pass
 
     return {formula: [identifiers]},name,qid
