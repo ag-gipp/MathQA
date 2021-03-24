@@ -193,7 +193,9 @@ def get_formula():
 
     # parse question
     try:
-        question = request.form['formula'].lower()
+        question = request.form['formula']
+        # lowercase first letter of question
+        question = question[:1].lower() + question[1:]
 
         meas = {'accuracy': 0.5, 'relevance': 0.5}
         q = RequestHandler(Request(language="en", id=1, tree=Sentence(question), measures=meas))
