@@ -6,19 +6,19 @@ import json
 #PYWIKIBOT
 #---------
 
-def retrieve_identifiers(FormulaName,formulaQID):
+def retrieve_identifier_properties(FormulaName):
 
     #retrieve Wikidata page item
     identifiers = dict()
     try:
-        if formulaQID is None:
-            site = pywikibot.Site("en", "wikipedia")
-            page = pywikibot.Page(site, FormulaName)
-            item = pywikibot.ItemPage.fromPage(page)
-        else:
-            site = pywikibot.Site("wikidata", "wikidata")
-            repo = site.data_repository()
-            item = pywikibot.ItemPage(repo, formulaQID)
+        #if formulaQID is None:
+        site = pywikibot.Site("en", "wikipedia")
+        page = pywikibot.Page(site, FormulaName)
+        item = pywikibot.ItemPage.fromPage(page)
+        # else:
+        #     site = pywikibot.Site("wikidata", "wikidata")
+        #     repo = site.data_repository()
+        #     item = pywikibot.ItemPage(repo, formulaQID)
 
         #formulaQID = str(item).replace("[[wikidata:", '').replace("]]", '')
         #formula_string = item.claims['P2534'][0].getTarget()
@@ -32,8 +32,9 @@ def retrieve_identifiers(FormulaName,formulaQID):
         identifier_symbol = ""
         identifier_name = ""
         identifier_value = ""
+        print("Successfully retrieved identifier properties from Wikidata")
         for identifier in identifier_list:
-
+            print("Processing identifier " + str(identifier))
             def query_part_target(identifier,property_list):
                 for property in property_list:
                     try:
@@ -43,18 +44,22 @@ def retrieve_identifiers(FormulaName,formulaQID):
                 return ""
 
             identifier_symbol = query_part_target(identifier,['P2534','P416','P7973','P2534']) #list of possible identifier properties
+            print("Identifier symbol: " + identifier_symbol)
             identifier_name = str(identifier.getTarget().text['labels']['en'])
+            print("Identifier name: " + identifier_name)
 
             identifiers[identifier_symbol] = {}
             identifiers[identifier_symbol]['name'] = identifier_name
             try:
                 identifier_value = str(identifier.getTarget().claims['P1181'][0].getTarget().amount)
+                print("Identifier value: " + identifier_value)
                 identifiers[identifier_symbol]['value'] = identifier_value
             except:
                 pass
         return identifiers
 
     except:
+        print("Could not retrieve identifier properties")
         return dict()
 
 #------

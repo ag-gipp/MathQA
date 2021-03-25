@@ -121,7 +121,7 @@ def search_formulae_by_identifiers_Wikidata(identifiers):
             identifier_names_list=identifiers)
         first_hit = sparql_results[0]['results']['bindings'][0]
 
-    qid = first_hit['item']['value'].split("/")[-1]
+    #qid = first_hit['item']['value'].split("/")[-1]
     name = first_hit['itemLabel']['value']
     mathml = first_hit['formula']['value']
     formula = (mathml.split('alttext="{'))[1].split('}">')[0]
@@ -130,4 +130,22 @@ def search_formulae_by_identifiers_Wikidata(identifiers):
     except:
         pass
 
-    return {formula: [identifiers]},name,qid
+    return {formula: [identifiers]},name
+
+def search_formulae_by_concept_name_Wikidata(name):
+
+    sparql_query_string = """SELECT distinct ?item ?itemLabel ?itemDescription ?formula WHERE{  
+        ?item ?label "%s"@en.
+        ?item wdt:P2534 ?formula.
+        ?article schema:about ?item.
+        ?article schema:inLanguage "en".
+        ?article schema:isPartOf <https://en.wikipedia.org/>. 
+        SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }    
+        }""" % name
+
+    sparql_results = get_sparql_results(sparql_query_string)
+    first_hit = sparql_results['results']['bindings'][0]
+    mathml = first_hit['formula']['value']
+    formula = (mathml.split('alttext="{'))[1].split('}">')[0]
+
+    return formula

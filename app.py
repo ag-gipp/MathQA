@@ -21,7 +21,7 @@ from semanticsearch.IdentifierSemantics import get_identifier_symbol
 # semantic search using arXiv or Wikipedia index
 from semanticsearch.SemanticSearch_arXivWikipedia_mathqa import get_identifier_semantics_catalog,search_formulae_by_identifiers
 # semantic search using Wikidata SPARQL query
-from semanticsearch.SemanticSearch_Wikidata_mathqa import search_formulae_by_identifiers_Wikidata
+from semanticsearch.SemanticSearch_Wikidata_mathqa import search_formulae_by_identifiers_Wikidata,search_formulae_by_concept_name_Wikidata
 
 parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.sys.path.insert(0, parentdir)
@@ -31,11 +31,12 @@ os.environ['PYWIKIBOT2_NO_USER_CONFIG'] = '1'
 # os.environ['PYWIKIBOT2_DIR'] = os.path.dirname(os.path.abspath(__file__)) + '/pywikibot'
 from ppp_datamodel.communication import Request
 from ppp_questionparsing_grammatical import RequestHandler
+from getformula import get_formula
 from getformula import FormulaRequestHandler
 from getformula import HindiRequestHandler
 from latexformlaidentifiers import Formulacalculation
 
-from identifier_properties import retrieve_identifiers
+from identifier_properties import retrieve_identifier_properties
 # from identifier_properties import retrieve_identifier_name
 # from identifier_properties import retrieve_identifier_value
 
@@ -77,7 +78,7 @@ def makeidentifier(symbol, values):
     return symvalue
 
 
-def makeresponse(formul,subject,qid):
+def makeresponse(formul,subject,mode):
     """
         Make response for the API
     """
@@ -85,20 +86,20 @@ def makeresponse(formul,subject,qid):
         # TODO: unbreak for english
         #subject = req.subject
         reques = Formulacalculation(formul)
-        global identifiers
         identifiers = reques.answer()
 
         # todo: build identifier value output
-        if identifiers:
+        if identifiers is not None:
             listidentifiers = list(identifiers)
 
             newlist = []
             valuelist = []
             # item = identifier
+            identifier_properties = retrieve_identifier_properties(subject)
             for item in listidentifiers:
                 try:
                     # symbol question
-                    if qid is None:
+                    if mode == 'symbol_question':
                         name = " (" + subject + ")"
                     # if relationship_question:
                     #
@@ -114,12 +115,12 @@ def makeresponse(formul,subject,qid):
                     #         # only the first symbol is the identifier (the others may be sub- oder superscripts)
                     #
                     else:
-                        name = " (" + retrieve_identifiers(subject,qid)[str(item)]['name'] + ")"
+                        name = " (" + identifier_properties[str(item)]['name'] + ")"
 
                 except:
                     name = ""
                 try:
-                    valuelist.append(retrieve_identifiers(subject,qid)[str(item)]['value'])
+                    valuelist.append(identifier_properties[str(item)]['value'])
                 except:
                     valuelist.append("Enter value")
 
@@ -197,27 +198,22 @@ def get_formula():
         # lowercase first letter of question
         question = question[:1].lower() + question[1:]
 
-        meas = {'accuracy': 0.5, 'relevance': 0.5}
-        q = RequestHandler(Request(language="en", id=1, tree=Sentence(question), measures=meas))
-        query = q.answer()
-        reques = FormulaRequestHandler(query)
-
-        global formula
-
-        # default values
-        symbol_query = False
-        relationship_question = False
+        # Determine question type
 
         # identifier symbol question
         if "symbol" in question:
-            exclude = ["what", "is", "the", "symbol", "for", "?"]
-            input = get_input(question,exclude)
+            mode = 'symbol_question'
+            print("Symbol question")
 
-            formula = get_identifier_symbol(identifier_name=input)
-            symbol_query = True
+            exclude = ["what", "is", "the", "symbol", "for", "?"]
+            subject = get_input(question,exclude)
+
+            formula = get_identifier_symbol(identifier_name=subject)
 
         # relationship question (semantic search)
         elif "relationship" in question or "relation" in question:
+            mode = 'relationship_question'
+            print("Relationship question")
 
             exclude = ["what","is","the","relationship","relation","between","and","?"]
             input = get_input(question,exclude)
@@ -240,25 +236,43 @@ def get_formula():
             #      ,inverse=True,multiple=False)
             #results = search_formulae_by_identifiers(input=input,
             #                                                mode_number=mode_number)
-            results,concept,qid = search_formulae_by_identifiers_Wikidata(identifiers=input)
+            results,subject = search_formulae_by_identifiers_Wikidata(identifiers=input)
 
             formula = list(results.items())[0][0].split(" (")[0]
-            relationship_question = True
+
+        # Formula question
+        elif "formula" in question:
+            mode = 'formula_question'
+            print("Formula question")
+
+            exclude = ["what", "is", "the", "formula", "for", "?"]
+            for word in exclude:
+                question = question.replace(word,"")
+            # strip whitespace at beginning and end
+            subject = question[1:].strip()
+
+            formula = search_formulae_by_concept_name_Wikidata(subject)
+
+        # General or geometry question
         else:
+            mode = 'general_geometry'
+            print("General or geometry question")
+            meas = {'accuracy': 0.5, 'relevance': 0.5}
+            q = RequestHandler(Request(language="en", id=1, tree=Sentence(question), measures=meas))
+            try:
+                query = q.answer()
+            except:
+                print("Stanford CoreNLP was unable to parse the question")
+            reques = FormulaRequestHandler(query)
+
+            subject = reques.request[0]._attributes['tree']._attributes['subject']._attributes['value']
+
             formula = reques.answer()
+            formula = latexformlaidentifiers.prepformula(formula)
 
         # generate response
-        global processedformula
-        processedformula = latexformlaidentifiers.prepformula(formula)
-        # print(processedformula)
         if not (formula.startswith("System")):
-            if relationship_question:
-                subject = concept#""#identifier_names[0]
-            elif symbol_query:
-                return makeresponse(formula,subject=input,qid=None)
-            else:
-                subject = reques.request[0]._attributes['tree']._attributes['subject']._attributes['value']
-            return makeresponse(processedformula,subject,qid)
+            return makeresponse(formula,subject,mode)
         else:
             response = jsonify(formula)
             response.status_code = 202
