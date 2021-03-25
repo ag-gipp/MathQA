@@ -49,7 +49,7 @@ def get_input(question,exclude):
     for word in candidates:
         if "?" in word:
             word = word.strip("?")
-        if not word in exclude:
+        if not word in exclude and len(word) > 0:
             input.append(word)
     return input
 
