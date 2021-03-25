@@ -245,11 +245,12 @@ def get_formula():
             mode = 'formula_question'
             print("Formula question")
 
-            exclude = ["what", "is", "the", "formula", "for", "?"]
+            exclude = ["what ", "is ", "the ", "formula ", "for ", "?"]
             for word in exclude:
                 question = question.replace(word,"")
-            # strip whitespace at beginning and end
-            subject = question[1:].strip()
+            # strip whitespace (at beginning) and end
+            #subject = question[1:].strip()
+            subject = question.strip()
 
             formula = search_formulae_by_concept_name_Wikidata(subject)
 
