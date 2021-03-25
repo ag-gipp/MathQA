@@ -1,6 +1,7 @@
 import pywikibot
 from SPARQLWrapper import SPARQLWrapper, JSON
 import json
+from semanticsearch.SemanticSearch_Wikidata_mathqa import get_formula_qid
 
 #---------
 #PYWIKIBOT
@@ -11,14 +12,15 @@ def retrieve_identifier_properties(FormulaName):
     #retrieve Wikidata page item
     identifiers = dict()
     try:
-        #if formulaQID is None:
-        site = pywikibot.Site("en", "wikipedia")
-        page = pywikibot.Page(site, FormulaName)
-        item = pywikibot.ItemPage.fromPage(page)
-        # else:
-        #     site = pywikibot.Site("wikidata", "wikidata")
-        #     repo = site.data_repository()
-        #     item = pywikibot.ItemPage(repo, formulaQID)
+        try: #without qid
+            site = pywikibot.Site("en", "wikipedia")
+            page = pywikibot.Page(site, FormulaName)
+            item = pywikibot.ItemPage.fromPage(page)
+        except: #with qid
+            qid = get_formula_qid(FormulaName)
+            site = pywikibot.Site("wikidata", "wikidata")
+            repo = site.data_repository()
+            item = pywikibot.ItemPage(repo, qid)
 
         #formulaQID = str(item).replace("[[wikidata:", '').replace("]]", '')
         #formula_string = item.claims['P2534'][0].getTarget()

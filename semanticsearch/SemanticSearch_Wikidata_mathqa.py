@@ -14,6 +14,23 @@ def get_identifier_qid(identifier_name):
         qid = None
     return qid
 
+def get_formula_qid(formula_name):
+
+    sparql_query_string = """SELECT distinct ?item ?itemLabel ?itemDescription ?formula WHERE{  
+            ?item ?label "%s"@en.
+            ?item wdt:P2534 ?formula.
+            ?article schema:about ?item.
+            ?article schema:inLanguage "en".
+            ?article schema:isPartOf <https://en.wikipedia.org/>. 
+            SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }    
+            }""" % formula_name
+
+    sparql_results = get_sparql_results(sparql_query_string)
+    first_hit = sparql_results['results']['bindings'][0]
+    qid = first_hit['item']['value'].split("/")[-1]
+
+    return qid
+
 # get sparql query for Wikidata 'has part' or 'calculated from' properties
 def get_sparql_string_identifier_qids(part_lines):
     sparql_query = """# Find items with 'has part' or 'calculated from' QIDs
