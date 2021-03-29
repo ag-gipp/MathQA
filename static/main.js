@@ -65,6 +65,9 @@ function getResult() {
 		    		if(status == 200) {
 		    		    // OUT response
 		    		    // todo: resultList
+		    		    var qid = response[response.length-1]['qid'];
+		    		    // cut off qid from response
+		    		    response.length -= 1;
 				        var valueList = response[response.length-1]['values'];
 				        var resultList = response;
 				        resultList.length -= 1;
@@ -75,6 +78,11 @@ function getResult() {
 				        $('.userInputDiv').show();
 				        $('.InputErrorDiv').hide();
 			        	$('.submitBtn').show();
+			        	var source_text = 'Source: www.wikidata.org'
+			        	if (qid.length > 0) {
+			        	    source_text += '/wiki/' + qid;}
+			        	$('.sourceDiv').text(source_text);
+                        $('.sourceDiv').show();
 				        if(resultList.length == 1) {
 				        	var result = resultList;
 
@@ -177,6 +185,7 @@ function getResult() {
 			        	$('.InputErrorDiv').html(response);
 			        	$('.InputErrorDiv').show();
 			        	$('.submitBtn').hide();
+                        $('.sourceDiv').hide();
 			        	$('.userinputPanel').show();
 			        	$('.userInputDiv').hide();
 			        }
@@ -241,13 +250,13 @@ function languagechange() {
 	$('.resultPanel').hide();
 
 	if(lang == "en") {
-		$('.titleText').html("Mathaware Q&A System");
+		$('.titleText').html("Mathematical Question Answering System (MathQA)");
 		$('.langText').html("Language");
 		$('.searchBtnText').html("Search");
 		$('.submitBtnText').html("Submit");
 
 	} else if(lang =="hn"){
-		$('.titleText').html("Mathaware Q&A System");
+		$('.titleText').html("Mathematical Question Answering System (MathQA)");
 		$('.langText').html("भाषा");
 		$('.searchBtnText').html("खोज");
 		$('.submitBtnText').html("जमा करें");

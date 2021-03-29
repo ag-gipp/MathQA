@@ -17,6 +17,7 @@ import latexformlaidentifiers
 
 # identifier symbol retrieval
 from semanticsearch.IdentifierSemantics import get_identifier_symbol
+from semanticsearch.SemanticSearch_Wikidata_mathqa import get_formula_qid
 
 # semantic search using arXiv or Wikipedia index
 from semanticsearch.SemanticSearch_arXivWikipedia_mathqa import get_identifier_semantics_catalog,search_formulae_by_identifiers
@@ -92,7 +93,7 @@ def makeresponse(formul,subject,mode):
         if identifiers is not None:
             listidentifiers = list(identifiers)
 
-            newlist = []
+            responselist = []
             valuelist = []
             # item = identifier
             identifier_properties = retrieve_identifier_properties(subject)
@@ -124,13 +125,20 @@ def makeresponse(formul,subject,mode):
                 except:
                     valuelist.append("Enter value")
 
-                # newlist.append(str(item))
-                newlist.append(str(item) + name)
+                # responselist.append(str(item))
+                responselist.append(str(item) + name)
 
-            newlist.append(dict(formula=formul))
-            newlist.append(dict(values=valuelist))
-            #json_data = json.dumps(newlist)
-            response = jsonify(newlist)
+            # get qid
+            try:
+                qid = get_formula_qid(subject)
+            except:
+                qid = ""
+
+            responselist.append(dict(formula=formul))
+            responselist.append(dict(values=valuelist))
+            responselist.append(dict(qid=qid))
+            #json_data = json.dumps(responselist)
+            response = jsonify(responselist)
             # json_data2 = json.dumps(valuelist)
             # response.values = jsonify(valuelist)
             response.status_code = 200
@@ -364,7 +372,7 @@ def my_form_json():
             latexlhs = sympify(f1)
             l = sympify(f)
             # print(l)
-            symbolvalue = makeidentifier(identifiers, json1)
+            symbolvalue = makeidentifier(identifiers1, json1)
             value = l.evalf(subs=symbolvalue)
 
             return ("%s %s %.2e" % (latexlhs, seprator, value))
