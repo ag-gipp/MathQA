@@ -60,9 +60,8 @@ def getlhsrhs(formula, ext):
     """
         Break the formula into lhs and rhs
     """
-    global lhs
-    global rhs
     lhs, rhs = formula.split(ext, 1)
+    return lhs,rhs
 
 
 def makeidentifier(symbol, values):
@@ -349,36 +348,40 @@ def my_form_json():
     """
 
     try:
-        identifiers1 = request.data.decode('utf-8')
-
-        json1 = json.loads(identifiers1)
+        result = json.loads(request.data.decode('utf8'))
+        formula = result['formula']
+        del result['formula']
+        identifiers_dict = result
 
         # slice off identifier names for calculation
-        try:
-            for identifier in json1:
-                # old key
-                s = identifier
-                # new key
-                r = s.split(" (")[0]
-                json1[r] = json1.pop(s)
-        except:
-            pass
+        symbolvalue = {}
+        for identifier in identifiers_dict.items():
+            try:
+                symbol = identifier[0].split(" (")[0]
+                value = identifier[1]
+                symbolvalue[symbol] = value
+            except:
+                pass
 
+        # remove displaystyle
+        formula = formula.replace("\\displaystyle","")
+
+        # formula parsing and calculation
         seprator = getidentifiers.formuladivision(formula)
         if seprator is not None:
-            lhsrhs = getlhsrhs(processedformula, seprator)
+            lhs, rhs = getlhsrhs(formula, seprator)
             f = parse_latex(rhs)
             f1 = parse_latex(lhs)
             latexlhs = sympify(f1)
             l = sympify(f)
             # print(l)
-            symbolvalue = makeidentifier(identifiers1, json1)
+            #symbolvalue = makeidentifier(identifier, identifiers_dict)
             value = l.evalf(subs=symbolvalue)
 
             return ("%s %s %.2e" % (latexlhs, seprator, value))
         else:
             l = sympify(formula)
-            value = l.evalf(subs=json1)
+            value = l.evalf(subs=identifiers_dict)
 
             return ("%.2e" % value)
 

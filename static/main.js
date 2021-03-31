@@ -1,4 +1,5 @@
 var lang = "en";
+var formulaTeX;
 
 $( document ).ready(function() {
 	$('#Loader1').hide();
@@ -80,8 +81,12 @@ function getResult() {
 			        	$('.submitBtn').show();
 			        	var source_text = 'Source: www.wikidata.org'
 			        	if (qid.length > 0) {
-			        	    source_text += '/wiki/' + qid;}
-			        	$('.sourceDiv').text(source_text);
+			        	    source_text = 'Source: www.wikidata.org/wiki/' + qid;
+                            }
+                        else {
+                            source_text = '';
+                            }
+                        $('.sourceDiv').text(source_text);
                         $('.sourceDiv').show();
 				        if(resultList.length == 1) {
 				        	var result = resultList;
@@ -132,7 +137,7 @@ function getResult() {
 				        	$.each(resultList, function(i, data) {
 
 					            var result = data;
-
+                                    formulaTeX = data.formula;
 					        		if (i == (resultList.length - 1)) {
 
 					        			$('.formula').html(data.formula);
@@ -219,6 +224,7 @@ function getResultFromInputs() {
         	formJSON[this.name] = parseFloat(this.value, 10) || '';
         }
     });
+    formJSON['formula'] = formulaTeX;
 
     var saveData = $.ajax({
         type: 'POST',
