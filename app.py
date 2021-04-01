@@ -204,6 +204,7 @@ def get_formula():
         question = request.form['formula']
         # lowercase first letter of question
         question = question[:1].lower() + question[1:]
+        print("Question: " + question)
 
         # Determine question type
 
