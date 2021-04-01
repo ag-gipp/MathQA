@@ -1,7 +1,8 @@
 ## Math-aware QA system
 
-This system is able to answer mathematical questions asked in natural language by the user.
+This system is able to answer mathematical questions (general, geometry, relationships) asked in natural language by the user. Moreover, identifier symbol name and value display as well as calculation functionality is provided. Labeled formula data is retrieved from Wikidata: https://wikidata.org
 
+You find a deployed version hosted by Wikimedia at https://mathqa.wmflabs.org
 
 ## System setup
 ```
@@ -16,7 +17,7 @@ python app.py
 
 ## CoreNLP
 
-CoreNlp is resposible for extraction Triple (subject, predicate, object) from the questions.
+CoreNLP is resposible for the extraction of triples (subject, predicate, object) from the questions.
 
 1)  Downloading POS Tagger
 ```
@@ -37,26 +38,26 @@ ant jar
 cd ..
 ```
 
-4) Downloading English model for CoreNLP
+4) Downloading the English model for CoreNLP
 ```
 wget http://nlp.stanford.edu/software/stanford-english-corenlp-2016-01-10-models.jar
 ```
 
 ## Pywikibot
-Pywikibot is used to extract the formula from Wikidata
-https://tools.wmflabs.org/pywikibot/
+Pywikibot is used to extract the formula concept data from Wikidata:
+https://tools.wmflabs.org/pywikibot
 
 ## latex2sympy-master
-Used to convert variant of latex formula to sympy equivalent form.
+Used to convert variants of LaTeX formula strings to Sympy equivalent form.
 
 ANTLR is used to generate the parser:
 ```
 sudo apt-get install antlr4
 ```
 
-For latex2sympy download from https://github.com/augustt198/latex2sympy
+Download latex2sympy from https://github.com/augustt198/latex2sympy
 
-## sympy
+## Sympy
 ```
 apt-get install python3-sympy
 ```
@@ -72,19 +73,19 @@ pip3 install git+https://github.com/ProjetPP/PPP-libmodule-Python.git
 ```
 pip3 install xmltodict
 ```
-## flask
+## Flask
 ```
 pip3 install Flask
 ```
-## After installing all the libraries follow the steps to run the Math-aware QA system:
+## After installing all the libraries follow these steps to run the Math-aware QA system:
 1) run the CoreNLP Server
 ```
 Mathaware-Q-A-System/CoreNLP$ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 &
 SERVER_PID=$!
 ```
-2) run the flask server
+2) run the Flask server
 ```
 Mathaware-Q-A-System$ export FLASK_APP=app.py
 Mathaware-Q-A-System$ flask run
 ```
-Then you can see the the system in your browser by opening the localhost which is : http://127.0.0.1:5000/
+Then you can start the system in your browser by opening the localhost: http://localhost:5000
