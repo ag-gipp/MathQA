@@ -78,7 +78,7 @@ def makeidentifier(symbol, values):
     return symvalue
 
 
-def makeresponse(formul,subject,mode):
+def makeresponse(formul,subject,mode,datasource):
     """
         Make response for the API
     """
@@ -135,7 +135,8 @@ def makeresponse(formul,subject,mode):
 
             responselist.append(dict(formula=formul))
             responselist.append(dict(values=valuelist))
-            responselist.append(dict(qid=qid))
+            responselist.append(dict(qid=qid,datasource=datasource))
+            #responselist.append(dict(datasource=datasource))
             #json_data = json.dumps(responselist)
             response = jsonify(responselist)
             # json_data2 = json.dumps(valuelist)
@@ -244,9 +245,8 @@ def get_formula():
             #      ,inverse=True,multiple=False)
             #results = search_formulae_by_identifiers(input=input,
             #                                                mode_number=mode_number)
-            results,subject = search_formulae_by_identifiers_Wikidata(identifiers=input)
-
-            formula = list(results.items())[0][0].split(" (")[0]
+            formula,subject = search_formulae_by_identifiers_Wikidata(identifiers=input)
+            #formula = list(results.items())[0][0].split(" (")[0]
 
         # Formula question
         elif "formula" in question:
@@ -260,7 +260,7 @@ def get_formula():
             #subject = question[1:].strip()
             subject = question.strip()
 
-            formula = search_formulae_by_concept_name_Wikidata(subject)
+            formula,datasource = search_formulae_by_concept_name_Wikidata(subject)
 
         # General or geometry question
         else:
@@ -281,7 +281,11 @@ def get_formula():
 
         # generate response
         if not (formula.startswith("System")):
-            return makeresponse(formula,subject,mode)
+            try:
+                datasource = datasource
+            except:
+                datasource = 'Wikidata'
+            return makeresponse(formula,subject,mode,datasource)
         else:
             response = jsonify(formula)
             response.status_code = 202

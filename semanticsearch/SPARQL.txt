@@ -130,3 +130,14 @@ SELECT distinct ?item ?itemLabel ?itemDescription WHERE{
   ?article schema:isPartOf <https://en.wikipedia.org/>. 
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }    
 }
+
+# Find items with 'has part' QIDs (relationship question)
+SELECT ?item ?itemLabel ?formula ?parts ?partsLabel WHERE {
+  ?item wdt:P527 wd:Q11423. #mass
+  ?item wdt:P527 wd:Q11379. #energy
+  ?item wdt:P527 ?parts.
+  ?item wdt:P2534 ?formula.
+  SERVICE wikibase:label {
+  bd:serviceParam wikibase:language "en" .
+  }
+}

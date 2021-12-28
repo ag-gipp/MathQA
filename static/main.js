@@ -79,10 +79,17 @@ function getResult() {
 				        $('.userInputDiv').show();
 				        $('.InputErrorDiv').hide();
 			        	$('.submitBtn').show();
-			        	var source_text = 'Source: www.wikidata.org'
-			        	if (qid.length > 0) {
-			        	    source_text = 'Source: www.wikidata.org/wiki/' + qid;
+			        	var dataSource = response[response.length-1]['datasource']
+			        	var source_text = '';
+			        	if dataSource == "Cache" {
+                            source_text = 'Source: Cache (Wikidata item broken)';
                             }
+			        	if dataSource == "Wikidata" {
+			        	    var source_text = 'Source: www.wikidata.org';
+			        	    if (qid.length > 0) {
+			        	        source_text = 'Source: www.wikidata.org/wiki/' + qid;
+                                }
+			        	    }
                         else {
                             source_text = '';
                             }
