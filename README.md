@@ -167,11 +167,11 @@ get_inverse_semantic_index_formula_catalog({arXiv,Wikipedia})
 ```
 formula_index_statistics.py
 ```
-2) The (Score,Rank) tuples for the result tables are generated using
+3) The (Score,Rank) tuples for the result tables are generated using
 ```
 evaluate_inverse_formula_index.py
 ```
-3) Finally, the Discounted Cumulative Gain (DCG) scores can be calculated using
+4) Finally, the Discounted Cumulative Gain (DCG) scores can be calculated using
 ```
 score_inverse_formula_index.py
 ```
