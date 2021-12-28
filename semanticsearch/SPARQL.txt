@@ -141,3 +141,11 @@ SELECT ?item ?itemLabel ?formula ?parts ?partsLabel WHERE {
   bd:serviceParam wikibase:language "en" .
   }
 }
+
+select ?item ?itemLabel ?formula ?parts ?partsLabel where {
+  ?item wdt:P2534 ?formula .
+  ?item p:P7235 / pq:P9758 wd:Q11402 . #force
+  ?item p:P7235 / pq:P9758 wd:Q11376 . #acceleration
+  ?item p:P7235 / pq:P9758 ?parts.
+  service wikibase:label { bd:serviceParam wikibase:language "en" }
+}
