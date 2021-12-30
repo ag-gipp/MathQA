@@ -79,7 +79,7 @@ pip3 install Flask
 ```
 
 ## Run the system
-1) Run the CoreNLP Server
+1) Run the CoreNLP server
 ```
 Mathaware-Q-A-System/CoreNLP$ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 &
 SERVER_PID=$!
@@ -90,6 +90,12 @@ Mathaware-Q-A-System$ export FLASK_APP=app.py
 Mathaware-Q-A-System$ flask run
 ```
 Then you can start the system in your browser by opening the localhost: http://localhost:5000
+
+## Deploy the system to the Wikimedia Wmflabs server
+```
+docker build . -t aggipp/mathqa
+docker push aggipp/mathqa:latest
+```
 
 ## Evaluation of system's performance
 In the following we describe how to reproduce the evaluation results presented in the associated paper.
