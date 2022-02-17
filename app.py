@@ -180,8 +180,7 @@ def my_form_post():
             processedformula = latexformlaidentifiers.prepformula(formula)
 
             if formula is not None:
-                return makeresponse(processedformula,None,None)
-
+                return makeresponse(processedformula,None,None,'Wikidata')
 
     # except:
     #     response= jsonify("System is not able to find the result.")
@@ -334,7 +333,7 @@ def get_hindiformula():
         processedformula = latexformlaidentifiers.prepformula(formula)
         print(processedformula)
         if not (formula.startswith("System")):
-            return makeresponse(processedformula,None,None)
+            return makeresponse(processedformula,None,None,'Wikidata')
         else:
             response = jsonify(formula)
             response.status_code = 202
