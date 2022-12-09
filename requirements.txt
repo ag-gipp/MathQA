@@ -10,7 +10,7 @@ isodate==0.6.0
 itsdangerous==0.24
 Jinja2==2.10
 jsonrpclib-pelix==0.3.1
-MarkupSafe==1.1.1
+MarkupSafe==2.1.1
 mpmath==1.0.0
 nltk==3.7
 -e git+https://github.com/ag-gipp/PPP-datamodel-Python.git@0c7958fb4df75468fd3137240a5065925c239776#egg=ppp_datamodel
@@ -18,7 +18,8 @@ nltk==3.7
 -e git+https://github.com/ag-gipp/PPP-QuestionParsing-Grammatical.git@4c488f1bf57a0a4e29131a8e7a65ff94f192a5f5#egg=ppp_questionparsing_grammatical
 pyparsing==2.2.0
 python3-memcached==1.51
-pywikibot==3.0.20200703
+pywikibot==7.7.2
+wikitextparser==0.51.1
 rdflib===6.1.1
 six==1.11.0
 SPARQLWrapper==2.0.0
