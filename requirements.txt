@@ -9,7 +9,7 @@ Jinja2==2.10
 idna==2.6
 isodate==0.6.0
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==3.0
 jsonrpclib-pelix==0.3.1
 MarkupSafe==2.1.1
 mpmath==1.0.0
