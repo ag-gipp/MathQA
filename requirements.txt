@@ -2,7 +2,7 @@ setuptools~=57.5.0
 antlr4-python3-runtime==4.7.1
 certifi==2018.4.16
 chardet==3.0.4
-click==6.7
+click==7.1.2
 Flask==2.0.2
 Flask-Cors==3.0.3
 idna==2.6
