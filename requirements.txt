@@ -20,7 +20,7 @@ python3-memcached==1.51
 pywikibot==3.0.20200703
 rdflib==4.2.2
 six==1.11.0
-SPARQLWrapper==1.8.1
+SPARQLWrapper==2.0.0
 -e git+https://github.com/ag-gipp/sympy.git@4d96a55b938f08fbc23f06eaa0839914e7d3f85a#egg=sympy
 urllib3==1.22
 Werkzeug==0.14.1
