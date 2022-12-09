@@ -7,7 +7,7 @@ Flask==2.0.2
 Flask-Cors==3.0.3
 idna==2.6
 isodate==0.6.0
-itsdangerous==0.24
+itsdangerous==2.0
 Jinja2==3.1.2
 jsonrpclib-pelix==0.3.1
 MarkupSafe==2.1.1
