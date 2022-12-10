@@ -18,7 +18,7 @@ nltk==3.7
 -e git+https://github.com/ag-gipp/PPP-QuestionParsing-Grammatical.git@4c488f1bf57a0a4e29131a8e7a65ff94f192a5f5#egg=ppp_questionparsing_grammatical
 pyparsing==2.2.0
 python3-memcached==1.51
-pywikibot==7.7.2
+pywikibot==3.0.20200703
 wikitextparser==0.51.1
 rdflib===6.1.1
 six==1.11.0
@@ -26,6 +26,5 @@ SPARQLWrapper==2.0.0
 urllib3==1.22
 Werkzeug==2.2.2
 xmltodict==0.11.0
-requests==2.28.1
 Sympy==1.11.1
 #-e git+https://github.com/ag-gipp/sympy.git@4d96a55b938f08fbc23f06eaa0839914e7d3f85a#egg=sympy
