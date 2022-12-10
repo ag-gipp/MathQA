@@ -26,5 +26,6 @@ SPARQLWrapper==2.0.0
 urllib3==1.22
 Werkzeug==2.2.2
 xmltodict==0.11.0
+requests==2.28.1
 Sympy==1.11.1
 #-e git+https://github.com/ag-gipp/sympy.git@4d96a55b938f08fbc23f06eaa0839914e7d3f85a#egg=sympy
