@@ -1,6 +1,6 @@
-import ast
-import parser
-import re 
+#import ast
+#import parser
+#import re
 from sympy.parsing.latex import parse_latex
 from sympy.core.sympify import sympify
 from sympy import Number, NumberSymbol, Symbol
