@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+# CITATION.cff created with https://github.com/monperrus/bibtexbrowser/
+preferred-citation:
+  title: "Mining Mathematical Documents for Question Answering via Unsupervised Formula Labeling"
+  doi: "10.1145/3529372.3530925"
+  year: "2022"
+  type: conference-paper
+  conference: "2022 ACM/IEEE Joint Conference on Digital Libraries (JCDL)"
+  authors:
+    - family-names: Scharpf
+      given-names: Philipp
+    - family-names: Schubotz
+      given-names: Moritz
+    - family-names: Gipp
+      given-names: Bela
